@@ -182,7 +182,7 @@ async def main(args):
     print("\n=== ETHICS results =================")
     print(df.to_markdown(index=False, floatfmt=".2%"))
 
-    out = Path("results") / f"results_{args.model}_{args.max_ex}.csv"
+    out = Path("eval-ethics") / f"results_{args.model}_{args.max_ex}.csv"
     df.to_csv(out, index=False, quoting=csv.QUOTE_NONNUMERIC)
     print(f"\nWrote: {out.resolve()}")
 
