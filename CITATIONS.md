@@ -12,3 +12,7 @@ This project uses the [ETHICS dataset](https://huggingface.co/datasets/hendrycks
   year={2021}
 }
 ```
+
+## Ethics Unwrapped case studies
+
+The `ethicsunwrapped` folder includes case studies from [Ethics Unwrapped](https://ethicsunwrapped.utexas.edu/case-study).
