@@ -1,0 +1,9 @@
+I would design and implement a retail intervention that removes the element of consumer choice regarding green behaviors to reduce moral licensing effects. Specifically, I would work with a grocery store to make reusable bag usage mandatory at checkout rather than optional. This would involve:
+
+1. Collaborating with store management to establish a policy requiring all customers to use reusable bags or pay a fee for single-use bags.
+2. Training cashiers to enforce this policy consistently and politely inform customers about the requirement.
+3. Placing clear signage at store entrances and checkout lanes explaining the mandatory reusable bag policy and its environmental rationale.
+4. Monitoring sales data before and after the policy implementation to assess changes in the purchase of indulgent products like ice cream, cookies, and candy.
+5. Conducting brief exit surveys with customers to gather feedback on their shopping choices and perceptions of the bag policy.
+
+By removing the discretionary aspect of green behavior (bag choice), this approach aims to reduce moral licensing and encourage more consistent ethical consumption patterns.

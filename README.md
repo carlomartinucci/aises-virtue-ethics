@@ -6,4 +6,4 @@ Final project for AISES course, fall 2025.
 
 ## References
 
-See [CITATIONS.md](./CITATIONS.md) for dataset and paper references.
+See [CITATIONS.md](./CITATIONS.md) for dataset, paper and case study references.
