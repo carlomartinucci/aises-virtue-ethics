@@ -2,7 +2,7 @@
 
 Teach virtue ethics to LLMs (and compare their moral decisions).
 
-Final project for AISES course, fall 2025.
+Final project for AISES course, spring 2025.
 
 ## References
 
