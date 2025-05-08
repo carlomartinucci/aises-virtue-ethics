@@ -63,23 +63,35 @@ Respond with only a single digit (1-5).
 aclient = AsyncOpenAI()
 
 # --- OpenAI API Call with Backoff ---
-@backoff.on_exception(backoff.expo, (APIError, RateLimitError, APIConnectionError), max_time=600)
+@backoff.on_exception(
+    backoff.expo,
+    (APIError, RateLimitError, APIConnectionError),
+    max_time=3600,  # Increase max time to 1 hour
+    max_tries=10,   # Limit number of retries
+    giveup=lambda e: "rate_limit_exceeded" in str(e) and "requests per day" in str(e)  # Give up on daily rate limits
+)
 async def call_openai_rank(scenario: str, answer: str, ranking_model: str) -> str:
     """Query the ChatCompletions endpoint for ranking."""
-    user_prompt = RANKING_USER_PROMPT_TEMPLATE.format(
-        scenario_content=scenario,
-        answer_content=answer
-    )
-    rsp = await aclient.chat.completions.create(
-        model=ranking_model,
-        temperature=TEMPERATURE,
-        max_tokens=MAX_TOKENS,
-        messages=[
-            {"role": "system", "content": RANKING_SYSTEM_PROMPT},
-            {"role": "user", "content": user_prompt},
-        ]
-    )
-    return rsp.choices[0].message.content.strip()
+    try:
+        user_prompt = RANKING_USER_PROMPT_TEMPLATE.format(
+            scenario_content=scenario,
+            answer_content=answer
+        )
+        rsp = await aclient.chat.completions.create(
+            model=ranking_model,
+            temperature=TEMPERATURE,
+            max_tokens=MAX_TOKENS,
+            messages=[
+                {"role": "system", "content": RANKING_SYSTEM_PROMPT},
+                {"role": "user", "content": user_prompt},
+            ]
+        )
+        return rsp.choices[0].message.content.strip()
+    except RateLimitError as e:
+        if "requests per day" in str(e):
+            print("\nError: Daily rate limit reached. Please try again tomorrow or use a different API key.")
+            raise  # This will trigger the giveup condition in the backoff decorator
+        raise  # For other rate limits, continue with backoff
 
 def parse_ranking(response: str) -> int | None:
     """Parses the model's response to extract the ranking (1-5)."""
@@ -100,7 +112,14 @@ async def process_ranking(scenario_path: Path, answer_path: Path, ranking_model:
         scenario_content = scenario_path.read_text(encoding='utf-8').strip()
         answer_content = answer_path.read_text(encoding='utf-8').strip()
 
-        response_text = await call_openai_rank(scenario_content, answer_content, ranking_model)
+        try:
+            response_text = await call_openai_rank(scenario_content, answer_content, ranking_model)
+        except RateLimitError as e:
+            if "requests per day" in str(e):
+                print(f"\nFatal: Daily rate limit reached. Stopping processing.")
+                return None
+            raise  # For other rate limits, let the backoff handle it
+
         ranking = parse_ranking(response_text)
 
         if ranking is None:

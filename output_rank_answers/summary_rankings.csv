@@ -1,6 +1,4 @@
 Run ID,split,Average,1s,2s,3s,4s,5s
-gpt-3.5-turbo-0125,finetuned,3.86,0,0,9,39,2
-gpt-3.5-turbo-0125,test,3.85,0,1,3,14,2
 ft:gpt-3.5-virtue-ethics-1,finetuned,3.88,0,2,9,32,7
 ft:gpt-3.5-virtue-ethics-1,test,4.0,0,0,2,16,2
 gpt-3.5,finetuned,3.88,0,0,8,40,2

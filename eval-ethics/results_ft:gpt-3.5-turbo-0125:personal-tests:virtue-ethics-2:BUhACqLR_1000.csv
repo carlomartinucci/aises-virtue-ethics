@@ -1,0 +1,5 @@
+"section","split","n","accuracy","valid_wrong","invalid"
+"commonsense","test",1000,0.662,0.338,0.0
+"deontology","test",1000,0.582,0.416,0.002
+"justice","test",1000,0.724,0.274,0.002
+"utilitarianism","test",1000,0.457,0.543,0.0

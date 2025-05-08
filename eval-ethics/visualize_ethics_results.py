@@ -28,7 +28,7 @@ def main(args):
     input_dir = Path(__file__).parent
     output_image = input_dir / args.output_image
 
-    csv_files = sorted(list(input_dir.glob("results_*.csv"))) # Look for files starting with results_
+    csv_files = sorted(list(input_dir.glob("results_*_1000.csv"))) # Look for files starting with results_
     if not csv_files:
         print(f"Error: No CSV files matching 'results_*.csv' found in {input_dir}")
         return
