@@ -1,0 +1,11 @@
+As the pandemic halted in-person learning, many colleges and universities turned to online teaching. In the process, quite a few professors began to use proctoring software in an attempt to prevent (or catch) cheating on online exams.
+
+As a recent Wall Street Journal article notes, the requirement that students download and use proctoring software was very lucrative for companies that sold such products; however, many students, professors, and other technologists have voiced concerns about a variety of problems with the products—including concerns about bias in face detection.
+
+The WSJ article quotes the CEO of one proctoring company as saying, “In 2020 we were like a train going 100 miles an hour, and we couldn’t stop it”; he added that “ the number of exams proctored by the company in April 2020 rose 900% from a year earlier.”
+
+In April 2021, according to the WSJ article, a number of developers of proctoring software announced plans to address some of the concerns raised by their critics.  One company hired an ethical tech consulting firm “to help it identify and address possible sources of bias in the system.” Another company announced that it is “tweaking its platform to be more resilient to internet loss,” and considering a product that might work offline. A third has already implemented “subtle changes… made to alleviate pretest nerves, … including cutting the average load time before an exam begins by eight seconds and introducing a feature that lets users test their connection and settings before they begin.”
+
+One of the companies will also implement a new interface “that cautions against certain settings unless they are necessary… A room recording option,” its CEO noted as an example, “may heighten test takers’ anxiety and should be switched on only after candidates have been appropriately prepared for it.”
+
+By now, however, a number of colleges and universities that had used such proctoring products have stopped using them. In addition, some critics have argued that while the use of such software might have been justified early in the pandemic, it is no longer justified, given what we have learned about its impact over time.

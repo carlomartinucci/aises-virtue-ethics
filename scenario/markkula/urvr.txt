@@ -1,0 +1,5 @@
+URVR is a VR file-sharing app that utilizes the 360 camera (or panorama function) on users’ phones to capture more than just a snapshot. It captures entire moments, and allows users to share them with their friends, family, or other people around the world. Livestream features are also available.
+
+Using a VR head-mounted display, recipients can step into the captured moments and live them out together. The company’s marketing materials highlight experiences such as those of grandparents being able to experience a grandchild’s first steps or first birthday in fully immersive 3D video.
+
+The company’s license agreement states that its users’ privacy is paramount, and that therefore all of the 360 degree videos and images are deleted within 24 hours, and not stored on any servers after this period, unless the user specifies a longer window of time. As another means of ensuring users’ privacy, URVR does not filter the content that users share.

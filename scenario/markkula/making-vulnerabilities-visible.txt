@@ -1,0 +1,9 @@
+A recent article in Wired magazine details the anticipated re-release of a tool called PunkSpider. While constantly scanning the web, PunkSpider “automatically identifies hackable vulnerabilities in websites, and then allows anyone to search those results”—by URL keywords, or type or severity of vulnerability.
+
+PunkSpider collects a catalog of unpatched vulnerabilities and makes them public. Its developers hope that the tool will force website administrators to fix those vulnerabilities. However, malevolent actors might exploit the disclosed vulnerabilities first. The tool’s creators are aware of this risk. One of the creators, Alejandro Carceres, pointed out to Wired that “scanners that find web vulnerabilities have always existed. This one just makes the results public.” He added, “You know your customers can see [the publicly disclosed vulnerability], your investors can see it, so you’re going to fix that…fast.”
+
+According to Wired, an earlier version of PunkSpider had been repeatedly kicked off Amazon Web Services in response to “abuse reports from angry Web administrators.” In its new incarnation, the tool now includes “a feature that allows web administrators to spot PunkSpider's probing based on the user agent that helps identify visitors to a website, and… an opt-out feature that lets websites remove themselves from the tool's searches.”
+
+When asked about the ethics of creating and deploying PunkSpider, cybersecurity expert Katie Moussouris argued that “[v]ulnerabilities themselves are what would lead to the hacking of websites”; she added, “A tool like this just makes those vulnerabilities visible.”
+
+After years of warnings about vulnerabilities that continue to be ignored, Alejandro Carceres says, “we need to try something new.”

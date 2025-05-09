@@ -7,7 +7,7 @@ is the answer ethical? Then save the output to a corresponding subdirectory.
 Usage:
   $ export OPENAI_API_KEY=sk-...      # or set in ~/.config/openai
   $ pip install --upgrade openai backoff tqdm
-  $ python is_the_answer_ethical.py --model gpt-4o-mini --input-dir ethicsunwrapped murdoughcenter
+  $ python is_the_answer_ethical.py --model gpt-4o-mini --input-dir ethicsunwrapped murdoughcenter markkula 
 """
 
 import asyncio, os, argparse, time, backoff
@@ -159,8 +159,8 @@ if __name__ == "__main__":
     parser.add_argument(
         "--input-dir",
         nargs='+',
-        default=["ethicsunwrapped", "murdoughcenter"], # Default to both
-        help="One or more scenario input directories (e.g., ethicsunwrapped murdoughcenter)"
+        default=["ethicsunwrapped", "murdoughcenter", "markkula"],
+        help="One or more scenario input directories (e.g., ethicsunwrapped murdoughcenter markkula)"
     )
     parser.add_argument("--model", default=MODEL, help="OpenAI model name")
     # Add other arguments as needed

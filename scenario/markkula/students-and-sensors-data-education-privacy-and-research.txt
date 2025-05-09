@@ -1,0 +1,27 @@
+Increasingly, universities are collecting and analyzing student data for a variety of purposes. At the University of Arizona, for example, a researcher analyzed the swipes of student ID cards at locations across campus, “to see what they reveal about students' routines and relationships, and what that means for their likelihood of returning to campus after their freshman year.”
+
+On the university’s website, a press release highlighted the predictive accuracy of the resulting model, and went into detail on the experiment and what the data showed:
+
+Working in partnership with UA Information Technology, [the researcher] gathered and analyzed data on freshman CatCard usage over a three-year period. She then used that data to create large networks mapping which students interacted with one another and how often.
+
+For example, if Student A, on multiple occasions, uses her CatCard at the same location at roughly the same time as Student B, it would suggest a social interaction between the two.
+
+[The researcher] also looked at how students' interactions changed over time…
+
+"There are several quantitative measures you can extract from these networks, like the size of their social circle, and we can analyze changes in these networks to see if their social circle is shrinking or growing, and if the strength of their connections is increasing or decreasing over time," she said.
+
+The researcher noted that the data she had used had been anonymized before she was given access to it—however, she added that if/when her research might inform the ongoing efforts to improve student retention, the student’s personal details would be “shared” with the students' academic advisers. She added that she hopes “to eventually be able to incorporate UA Wi-Fi data from the 8,000 Wi-Fi hubs on campus to get an even more accurate picture of students' movement and behavior.”
+
+The press release also quoted a UA assistant provost for institutional research who explained that while the swipes of student ID cards were not used in the current student retention analytics, about 800 other data points were. "As early as the first day of classes, even for freshmen,” she said, “these predictive analytics are creating highly accurate indicators that inform what we do to support students in our programs and practice.”
+
+The press release spurred a variety of conversations on social media and several articles in mass media. One of those, published by Arizona Public Media and titled “Student ID Card Research Raises Privacy Concerns,” quoted a different University of Arizona professor who noted, "I have a digital privacy class, and I talked to my students yesterday about this. Other than my super-tech-savvy students who just think they're always having data collected about them because they're inside the system, [they] were completely unaware that any of their CatCard data would have been collected.”
+
+About two months later, EDUCAUSE Review published an article titled “Setting the Table: Responsible Use of Student Data in Higher Education.” The article detailed the conclusions of a gathering of “academic and industrial scientists, senior university administrators, government officials, and representatives from major educational philanthropies,” which had taken place in 2016 in an effort “to consider an ethical framework for the responsible use of student data in higher education.” One of the principles highlighted in the article was transparency. The convened experts declared that
+
+Clarity of process and evaluation is a hallmark of humane education systems and must be maintained even while those systems grow more complex. Students are entitled to (1) clear representations of the nature and extent of the information that describes them and that is held in trust by their institution and relevant third-party organizations; (2) an explication of how they are being assessed; and (3) the ability to request that assessments be reviewed through a clearly articulated governance process.
+
+However, the article did not call for an opportunity for students to opt out of certain data collection. In fact, another one of the principles it listed was that “[l]earning organizations have an obligation to study student data in order to make their own educational environments more effective and to contribute to the growth of general knowledge.”
+
+In contrast, when asked by Arizona Public Media reporters about student data privacy concerns, Arizona University’s assistant provost for institutional research suggested that, should the use of student ID card tracking eventually become part of student retention efforts, such a move would be preceded by a “campus conversation” and students “should be given the choice to opt out of being tracked if they wish.”
+
+How should we think about the use of student data by colleges and universities in efforts to improve student retention or academic success?

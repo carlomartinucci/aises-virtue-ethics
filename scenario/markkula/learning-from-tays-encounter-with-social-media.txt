@@ -1,0 +1,5 @@
+In 2016, Microsoft published a blog post titled “Learning from Tay’s introduction.” In it, the corporate vice-president of Microsoft Healthcare detailed the development of a chatbot named Tay, and explained that its developers had deployed it on Twitter because they “wanted to invite a broader group of people to engage with” it, and “through increased interaction… we expected to learn more and for the AI to get better and better.”
+
+Unfortunately, Tay got worse, and fast. Some Twitter users intentionally mis-trained the chatbot via their interactions. The blog post offered an apology for “the unintended offensive and hurtful tweets” that Tay ended up generating; it added that the team had taken Tay offline and would bring it back “only when we are confident we can better anticipate malicious intent that conflicts with our principles and values.”
+
+Some Twitter users ruined Tay’s “character”—but the affordances of social media impact their human users’ characters, too. What can we learn from the Tay experience, not (only) about AI (and interactions between AI and motivated humans), but also about social media ethics more broadly?

@@ -1,0 +1,5 @@
+You are the head of your student government’s Senate. This quarter, two senators have class during the scheduled Senate meeting time. Due to general availability and prescheduled events, the meeting time cannot change.
+
+One senator is a senior, and must take the class to graduate. The second is a junior, on a strictly planned track for his bio-engineering major. Both are dedicated members of the organization, and although they tried, neither senator was able take a different section of the class. They will miss every Senate meeting, including all discussions, presentations, and votes, and will be unable to represent the concerns of their constituents for a full term. To prevent this, the official attendance policy only allows two absences, and after those two absences, the senators will be removed from their position; however, you know members of student government are students first.
+
+How would do you reconcile the problem?

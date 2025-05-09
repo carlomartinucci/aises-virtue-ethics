@@ -1,0 +1,9 @@
+Given the scenario, I would first review the latest research and academic studies on AI-detection tools to understand the current landscape and limitations of these tools. I would then consult with experts in the field of AI and natural language processing to gain insights into the challenges faced by existing AI-detection tools, especially in accurately identifying text produced by non-native English speakers.
+
+Next, I would collaborate with educators, academic integrity officers, and students to gather feedback on their experiences with AI-detection tools, including instances of false positives and false negatives. This feedback would help in understanding the real-world impact of these tools on students and institutions.
+
+Based on the information gathered, I would work towards developing guidelines and best practices for the responsible use of AI-detection tools in educational settings. These guidelines would aim to minimize the risk of unfair accusations and penalties for students, especially those who are non-native English speakers.
+
+Additionally, I would advocate for transparency and accountability in the use of AI-detection tools, encouraging educational institutions to use these tools as one of several measures to uphold academic integrity, rather than relying solely on automated detection for making decisions about student work.
+
+Lastly, I would recommend ongoing monitoring and evaluation of AI-detection tools, with a focus on improving their accuracy and reliability, while also ensuring that they do not disproportionately impact certain groups of students.

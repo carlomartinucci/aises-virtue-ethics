@@ -1,0 +1,9 @@
+In the wake of recent school shootings that terrified both campus communities and the broader public, some schools and universities are implementing technical measures in the hope of reducing such incidents. Companies are pitching various services for use in educational settings; those services include facial recognition technology and social media monitoring tools that use sentiment analysis to try to identify (and forward to school administrators) student posts on social media that might portend violent actions.
+
+A New York Times article notes that “[m]ore than 100 public school districts and universities … have hired social media monitoring companies over the past five years.” According to the article, the costs for such services range from a few thousand dollars to tens of thousands per year, and the programs are sometimes implemented by school districts without prior notification to students, parents, or school boards.
+
+The social media posts that are monitored and analyzed are public. The monitoring tools use algorithms to analyze the posts.
+
+A Wired magazine article tilted “Schools Are Mining Students’ Social Media Posts for Signs of Trouble” cites Amanda Lenhart, a scholar who notes that research has shown “that it’s difficult for adults peering into those online communities from the outside to easily interpret the meaning of content there.” She adds that in the case of the new tools being offered to schools and universities, the problem “could be exacerbated by an algorithm that can’t possibly understand the context of what it was seeing.”
+
+Others have also expressed concerns about the effectiveness of the monitoring programs and about the impact they might have on the relationship between students and administrators. Educational organizations, however, are under pressure to show their communities that they are doing all they can to keep their students safe.

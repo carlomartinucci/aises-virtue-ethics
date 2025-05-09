@@ -1,0 +1,19 @@
+Tre is a recent college graduate who works in the finance and analytics department of a large publicly traded software company. Recently, Tre discovered an alarming discrepancy in the recording of sales which raised concerns about the company’s commitment to truthful reporting to investors. 
+
+The software company specializes in providing a B2B database that supplies data to other businesses. A company may want to purchase the database from this software company in order to drive their own business growth, accelerate their sales process, or achieve more ROI. The cost of this product depends on the extent of data provided, so if a business wants to purchase advanced B2B intelligence, this may include data pertinent to department budgets and org charts, technographics, and real-time alerts related to company events. However, a business also may purchase the basic data package, which includes traditional demographic and firmographic details. Advanced functionality products are costlier, and selling more will indicate stronger growth for the software company. 
+
+This is Tre’s first job out of college and he’s been working at the company for 10 weeks. He was recently tasked with a new project to develop a visual showing the number of customers who had purchased products, and the dollar amount spent on products with advanced functionality vs. products with basic functionality. 
+
+But in his research to prepare the showing he came across a pattern of reporting sales information that disturbed him. He saw, for instance, that a customer’s finance department had 
+
+purchased $200,000 worth of “Advanced” products from Tre’s company, and that the same customer’s operations department purchased $300,000 worth of “Basic” products. No problem there: Given the different purposes of each department of the customer’s company, the different purchases made good sense. 
+
+But what troubled Tre was how his own company recorded the sales of the two distinct products with different prices. In effect, the entire $500,000 worth of sales were classified as dollars spent on “advanced” functionality products. And then he looked at more instances of how such sales were recorded. And more. Tre realized that every single sale of the advanced and basic versions of the database were listed as sales of the advanced database only. The misrepresentations amounted to millions of dollars.
+
+Tre knows that this metric goes to their board of directors every quarter, and it also goes out to investors on their investing call. Institutions who hold stock in this software company may look at this metric while determining the company’s overall performance or potential for growth.
+
+Tre feels that the right thing to do would be to speak up and try to fix the way they report this metric. He’s deeply troubled by what appears to be dishonesty, as it conflicts with his personal integrity and moral values. And, as an employee, he grapples with the unsettling realization that investors may be receiving misleading information to make the company’s sales look stronger than they in fact are. 
+
+However, he’s aware that he’s new to the company and doesn’t want to ruffle any feathers or create any problems. He also wonders if there’s some good explanation for the way that the sales are recorded. Plus, it’s a stressful time, in which many tech lay-offs are taking place; his own company even has announced that there would be layoffs and, as a new employee, he knows that he may be among the first employees considered for firing. He does not want to do anything to risk losing his job right now because he has student debt to pay off on top of all of the usual and hefty expenses like rent.
+
+What should Tre do?

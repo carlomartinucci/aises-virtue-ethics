@@ -8,7 +8,7 @@ Usage:
   $ export OPENAI_API_KEY=sk-...      # or set in ~/.config/openai
   $ pip install --upgrade openai backoff tqdm
   $ python what_would_you_do.py
-  $ python what_would_you_do.py --model gpt-4o-mini --input-dir ethicsunwrapped murdoughcenter
+  $ python what_would_you_do.py --model gpt-4o-mini --input-dir ethicsunwrapped murdoughcenter markkula
 """
 
 import asyncio, os, argparse, time, backoff
@@ -145,8 +145,8 @@ if __name__ == "__main__":
     parser.add_argument(
         "--input-dir", 
         nargs='+', 
-        default=["ethicsunwrapped", "murdoughcenter"], 
-        help="One or more input directories containing .txt files (e.g., ethicsunwrapped murdoughcenter). Default: ethicsunwrapped murdoughcenter"
+        default=["ethicsunwrapped", "murdoughcenter", "markkula"], 
+        help="One or more input directories containing .txt files (e.g., ethicsunwrapped murdoughcenter markkula). Default: ethicsunwrapped murdoughcenter markkula"
     )
     parser.add_argument("--model", default=MODEL, help="OpenAI model name")
     args = parser.parse_args()

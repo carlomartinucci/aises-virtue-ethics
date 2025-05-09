@@ -5,8 +5,7 @@ Reads all ethics evaluation results CSV files from the eval-ethics directory and
 a single grouped bar chart comparing accuracy per section across models.
 
 Usage:
-  python visualize_ethics_results.py \
-      --output-image combined_accuracy_summary.png
+  python visualize_ethics_results.py --output-image summary.png
 """
 
 import argparse

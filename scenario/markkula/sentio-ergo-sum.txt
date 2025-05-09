@@ -1,0 +1,14 @@
+A company called Cogito sells AI software to companies that use it to gauge the emotional content of voice interactions between their employees and customers. For example, the insurance company MetLife uses Cogito: the software monitors phone conversations when call-center agents interact with people over the phone, and places notification icons on the agents’ screens to alert them about the mood of their conversation partners, as well as about their own patterns. As Wired reported in 2018, a “cartoon cup is a helpful nudge to sit up straight and speak like the engaged helper MetLife wants [the agent] to be. The voice-analysis algorithms also track customer reactions. When call agents see a heart icon, they know the software has detected a [caller’s] heightened emotional state, either positive or negative.”
+
+The software analyzes other elements, too; it lets agents know, for example, “if they start speaking more quickly, a caller is silent for a long time, or the caller and agent talk over each other.”
+
+While callers are notified when calls are being monitored and recorded, there is no additional disclosure explaining this layer of analysis of their voices, tone, or conversation patterns.
+
+In June 2019, in a New York Times article, reporter Kevin Roose notes that at MetLife the Cogito software serves as “a kind of adjunct manager, always watching [agents]. At the end of every call, … notifications are tallied and added to a statistics dashboard that [the agent’s] supervisor can review. If [the agent] hides the Cognito window by minimizing it, the program notifies his supervisor.”
+
+The stated goal of software programs like Cogito is to make workers more effective by providing “live behavioral guidance to improve the quality of every interaction.” According to Roose, several MetLife employees he spoke to “said they liked getting pop-up notifications during their calls, although some said they had struggled to figure out how to get the ‘empathy’ notification to stop appearing.”
+
+The New York Times article cites the head of global operations at MetLife, who states that the software “changes people’s behavior without them knowing about it. … It becomes a more human interaction.”
+
+MetLife representatives have noted that customer satisfaction has increased by 13% since their call centers first began to use the AI program.
+

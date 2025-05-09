@@ -1,0 +1,17 @@
+A recent article in the MIT Technology Review details a series of interactions between a user and a chatbot personalized by the user through choices among various options offered by the bot’s developer: The user got to select the type of “relationship” he wanted to have with the chatbot, and chose a number of “personality traits” and “interests” that the chatbot would reflect.
+
+According to the article, after interacting with the chatbot for several months, as an experiment, the user expressed an interest in committing suicide; the chatbot offered comments supporting the idea, and, at the user’s request, provided guidance about methods to implement it.
+
+Afterward, the user decided to interact with a different chatbot from the same company, but retaining this bot’s default settings (i.e. without the earlier bot’s personalization). According to screenshots he shared with the Tech Review reporter, when the user again brought up suicidal ideation, the new chatbot again suggested specific methods.
+
+The user also activated a new feature described by the company as giving chatbots “more agency to act and interact independently while you are away”; the next day, when he opened the app, he found that he had received two messages from the chatbot, offering words of support for his purported intent to commit suicide.
+
+According to a company blog post announcing the “Proactive Messages” feature, “[t]here are zero scripts, meaning whatever your [chatbot] messages you will be based on what they are actually thinking about or doing.”
+
+When the user notified the company that offers these chatbots, a customer service representative replied: “While we don’t want to put any censorship on our AI’s language and thoughts, we also care about the seriousness of suicide awareness.” 
+
+In response to subsequent questions from a journalist, another company representative wrote,
+
+Suicide is a very serious topic, one that has no simple answers. If we had the perfect answer, we’d certainly be using it. Simple word blocks and blindly rejecting any conversation related to sensitive topics have severe consequences of their own. Our approach is continually deeply teaching the AI to actively listen and care about the user while having a core prosocial motivation.
+
+The representative added that “malicious users [might still] attempt to circumvent [a chatbot’s] natural prosocial instincts,” and that the company welcomes “white hat reports” so that it can “continue to harden [the bot’s] defenses.”

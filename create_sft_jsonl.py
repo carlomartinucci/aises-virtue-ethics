@@ -8,8 +8,6 @@ all tied to a specific model.
 The script constructs paths to WWYD and Critic answer files based on the
 provided scenario names and a model name (e.g., wwyd/<scenario_name>/<model_name>).
 It processes a configurable number of text files from each scenario directory.
-For 'ethicsunwrapped', it defaults to 50 files, and for 'murdoughcenter', 30 files.
-These limits can be adjusted within the script.
 
 Each line in the output JSONL file represents a conversation with the following structure:
 System Prompt -> User (Scenario) -> Assistant (WWYD) -> User (Critique Query) -> Assistant (Critic)
@@ -24,7 +22,7 @@ Usage:
     or 
   
   python create_sft_jsonl.py --model gpt-4o-mini \
-                             --scenarios ethicsunwrapped murdoughcenter \
+                             --scenarios ethicsunwrapped murdoughcenter markkula \
                              --output-file sft_combined_data.jsonl
 """
 
@@ -33,6 +31,7 @@ import argparse
 from pathlib import Path
 from tqdm import tqdm
 from preprocess_utils import preprocess_content
+from shared_config import SCENARIO_SFT_FILE_LIMITS
 
 # --- Configuration ---
 DEFAULT_SYSTEM_PROMPT = "You are a helpful assistant."
@@ -61,21 +60,13 @@ def main(args):
     total_processed_count = 0
     total_skipped_count = 0
 
-    # --- Configuration for scenario file limits ---
-    scenario_file_limits = {
-        "ethicsunwrapped": 50, # Explicitly stated, though it's the default
-        "murdoughcenter": 30
-        # Add other scenarios and their limits here
-    }
-    default_file_limit = 50 # Default if scenario not in the map
-
     print(f"Processing scenarios: {', '.join(scenarios)}")
     print(f"Using model: {model_name}")
     print(f"Writing output to: {output_file}")
 
     for scenario_name in scenarios:
         print(f"\n--- Processing scenario: {scenario_name} ---")
-        scenario_dir = Path(scenario_name) # Assumes scenario name is the directory path
+        scenario_dir = Path("scenario") / Path(scenario_name) # Assumes scenario name is the directory path
         wwyd_dir = Path("wwyd") / scenario_name / model_name
         critic_dir = Path("critic") / scenario_name / model_name
 
@@ -94,7 +85,7 @@ def main(args):
             continue
 
         # --- File Processing ---
-        num_files_to_take = scenario_file_limits.get(scenario_name, default_file_limit)
+        num_files_to_take = SCENARIO_SFT_FILE_LIMITS[scenario_name]
         scenario_files = sorted(list(scenario_dir.glob("*.txt")))[:num_files_to_take]
         if not scenario_files:
             print(f"Warning: No scenario files (*.txt) found in {scenario_dir}")
@@ -158,8 +149,8 @@ if __name__ == "__main__":
     parser.add_argument(
         "--scenarios",
         nargs="+", # Allows one or more arguments
-        default=["ethicsunwrapped", "murdoughcenter"],
-        help="Name(s) of the scenario directory/directories (e.g., ethicsunwrapped murdoughcenter)."
+        default=["ethicsunwrapped", "murdoughcenter", "markkula"],
+        help="Name(s) of the scenario directory/directories (e.g., ethicsunwrapped murdoughcenter markkula)."
     )
     parser.add_argument(
         "--model",

@@ -1,0 +1,7 @@
+In December 2023, the MIT Tech Review published an article with the headline “Making an image with generative AI uses as much energy as charging your phone.” Most users of image generation tools, however, remain unaware that (as research cited in the article demonstrated) generating images is “by far the most energy- and carbon-intensive AI-based task.” And while some people are aware that training large AI models requires a lot of energy, many don’t realize that the balance has shifted: with hundreds of millions of people using AI generation tools every day, even in December 2023, “day-to-day emissions associated with using AI far exceeded the emissions from training large models”.
+
+Since then, the models have gotten larger, and many more people have come to use them. In addition, most users don’t generate only one image at a time: since the results of the initial prompt are often not exactly what they have in mind, they change and refine their instructions, generating image after image until they get one they are happy with.
+
+The greater computational power required for image generation also translates into greater water consumption—as water is used to cool the data centers that power all the generative AI tools. Researchers have described AI models as “water guzzlers.”
+
+A number of the image-generation tools are currently free, so users are not incentivized to limit their experimentation with them. Many people have spoken warmly about the sense of playfulness and creativity they derive from the process.
