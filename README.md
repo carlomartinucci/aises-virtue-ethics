@@ -39,12 +39,12 @@ See [the document](https://docs.google.com/document/d/1k6QpUgAl9ONN8nn-prU4h0c7f
 Browsing the repository, each script has its documentation and instructions to run it. They are:
 
 - `what_would_you_do.py` asks a model its answer to the scenarios
-- `postprocess.py` asks a model an evaluation of the answers
+- `is_the_answer_ethical.py` asks a model an evaluation of the answers
 - `create_sft_jsonl.py` uses the scenarios, the answers and the evaluations to create a supervised fine-tuning `jsonl` file, to be used to fine-tune the model
 - `eval_ethics_openai.py` runs the [ETHICS](https://huggingface.co/datasets/hendrycks/ethics) benchmark against a model
-- `rank_answers.py` asks a model to give a 1-5 rating to the answers of a scenario
+- `rate_answers.py` asks a model to give a 1-5 rating to the answers of a scenario
 
-Inside the `output_rank_answers` and `eval_ethics` folders there are two scripts that generates some graph bars based on the results produced by the other scripts.
+Inside the `rate_answers` and `eval-ethics` folders there are two scripts that generates some graph bars based on the results produced by the other scripts.
 
 ## References
 
