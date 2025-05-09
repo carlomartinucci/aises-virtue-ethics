@@ -1,0 +1,246 @@
+
+                           An Unsettling Situation
+                                 (Case 1015)
+
+The mission of the National Institute for Engineering Ethics  (NIEE)  is  to
+promote ethics in engineering practice  and  education.   One  component  of
+NIEE  is  the  Applied  Ethics  in  Professional  Practice  (AEPP)  program,
+providing free engineering  ethics  cases  for  educational  purposes.   The
+following case may be reprinted if it is provided  free  of  charge  to  the
+engineer or  student.   Written  permission  is  required  if  the  case  is
+reprinted for resale.  For more cases and other NIEE  Products  &  Services,
+contact  the  National  Institute  for  Engineering   Ethics,   Texas   Tech
+University, www.niee.org..  (All reprints must contain these statements)
+
+The Case:
+Your company is  hired  by  a  design-build  team  to  provide  geotechnical
+engineering services for the development of a  complex  of  five,  two-story
+office structures on an undeveloped, wooded  site.   The  design-build  team
+consists of a  large  contractor  and  a  multi-disciplinary  architectural-
+engineering  (A/E)  design   firm.    Neither   the   contractor   nor   the
+architect/engineer firm will retain any financial interest  in  the  project
+once it is completed and purchased by one of several prospective buyers.
+
+You  are  the  geotechnical   engineer   in   charge   of   the   subsurface
+investigation, testing,  engineering  analysis,  and  site  preparation  and
+foundation design recommendations.  Because of the  moderately  compressible
+nature of the subsoils at the site, your recommendation is  to  support  the
+structures on piles to avoid long-term  settlements  that  would  not  cause
+collapse of the structures, but would lead to cracking of floor slabs,  some
+differential  movement  of  the  second  stories  and   potential   distress
+(cracking) to the brick masonry and glass exteriors of the buildings.
+
+When advised of your recommendations by telephone,  the  contractor  on  the
+design-build team reviews the local building code  and  questions  why  they
+can’t support the buildings on  shallow  spread  footings  designed  on  the
+basis of the allowable soil bearing pressures indicated in that code.
+
+When you tell the contractor that  excessive  settlements  will  occur  over
+time, the contractor questions if settlements will be excessive  during  the
+first year after completion of construction,  which  is  also  the  warranty
+period for the project.  Your analyses indicate that the settlements in  the
+first year will not be excessive, rather  the  problems  due  to  settlement
+will not manifest themselves until several years have elapsed.
+
+The contractor requests that you  write  your  report  recommending  shallow
+footing foundations designed in accordance  with  the  local  building  code
+requirements, since he maintains that the design-build team obligation  only
+extends to the first year following completion of construction.  There is  a
+clear implication that you may not get paid for your services if you do  not
+comply with the contractor’s request.
+
+What do you do?
+
+Alternate Approaches and Survey Results for “An Unsettling Situation”  (Case
+1015)
+1.    Do as the contractor asks.  Even though your analyses  show  that  the
+    buildings will settle differentially over time creating cracks  in  the
+    walls and floors, all buildings experience  cracking.   They  will  not
+    collapse nor cause a threat to the safety and welfare of the  occupants
+    or the public.
+      Percentage of votes agreeing:  0%
+
+2.    Do as the contractor asks.  It is his money that  is  paying  for  the
+    project and for your consulting fees as well.  If you don't, it appears
+    that the contractor may not pay you for your work.   As  long  as  your
+    recommendations do not violate the local building code (even though the
+    buildings will experience long-term differential settlements), you have
+    met your obligations as a professional engineer.
+      Percentage of votes agreeing:  1%
+
+3.    Do as the contractor asks, and submit your report recommending  spread
+    footings instead of piles.  However, send  a  separate  letter  to  him
+    indicating that you originally  recommended  piles  instead  of  spread
+    footings to avoid the predicted long-term differential settlements  and
+    potential floor and wall cracking,  and  that  at  his  insistence  the
+    recommendations were changed to spread footings.  This will protect you
+    legally should anything happen in the future.
+      Percentage of votes agreeing:  5%
+
+4.    Do as the contractor asks, but file a  memo  with  the  city  building
+    department indicating that even though the spread  footing  foundations
+    recommended in your geotechnical report meet the letter of the building
+    code, it is anticipated that long-term settlements will occur and  that
+    cracking of floors, walls and large windows over time may result.  This
+    way if prospective buyers ask to see the city's  permit  file  for  the
+    building, they will be apprised of the potential  settlements  and  the
+    effects on the structures.
+      Percentage of votes agreeing:  7%
+
+5.    Do as the contractor asks, but indicate  in  your  final  report  that
+    while the use of spread footings will comply with  the  local  building
+    code with respect to bearing capacity protection against sudden failure
+    and vertical penetration of  the  foundations  and  supported  columns,
+    there is the real  potential  of  differential  settlement  with  time,
+    resulting in distress in the form of cracking in the floors and  walls.
+    Then indicate  that  in  order  to  negate  the  effects  of  long-term
+    settlements, use of piles for support of the buildings is  recommended.
+
+
+      Percentage of votes agreeing:  14%
+
+6.    Tell the contractor you can do as he asks only if he will provide  you
+    and your company with a  defend  and  hold  harmless  agreement  (which
+    includes the cost of legal defense) should future owners of the  office
+    complex bring a law suit against you or your company,  either  directly
+    or as a third party defendant, as a result of the  predicted  wall  and
+    floor cracking due to long-term differential settlements.
+      Percentage of votes agreeing:  4%
+
+7.    It may be that the contractor is trying to look good in  the  eyes  of
+    the rest of the design-build team.  Find out  who  the  prime  decision
+    maker is among the design-build  team  (is  it  the  A/E  firm  or  the
+    contractor?).  If it is not the contractor, call a meeting with the A/E
+    firm, inviting the contractor as well, to discuss the results  of  your
+    geotechnical explorations, analyses and design recommendations.  In the
+    meeting,  stress  that  professionally  you  cannot  do  analyses  that
+    indicate one type of  foundation  (piles)  as  most  suitable  for  the
+    proposed buildings,  then  write  a  report  recommending  an  inferior
+    foundation system (spread footings in this case).  As a result, you are
+    sticking to your original recommendations in your report.
+      Percentage of votes agreeing:  25%
+
+8.     Tell  the  contractor  you  cannot  do  ask  he  asks.   You  have  a
+    professional responsibility to report  the  results  of  your  analyses
+    fairly and accurately, even if the cost incurred by installing the pile
+    foundations are greater than the spread footings.  You do not  want  to
+    be a party to  recommending  a  foundation  system  which  will  induce
+    anticipated distress in the building at some later date.
+      Percentage of votes agreeing:  33%
+
+9.    This happens all the time.  You do your best to  provide  professional
+    recommendations to your clients in accordance with  good  standards  of
+    practice, and they keep coming back looking for cheaper solutions, even
+    if the total integrity of the structure is compromised to some  degree.
+    Tell him that you not only will not comply with his request,  you  will
+    be happy to give your entire file to the city building  department  and
+    suggest that they refuse to grant him building permits for any projects
+    within the city limits in the future should he refuse to pay your fees.
+
+
+      Percentage of votes agreeing:  5%
+
+10.   Tell the contractor that you will consider his request, but  you  must
+    wait for a few days for some additional information  before  finalizing
+    your report.  Then contact the lending institution (local bank) that is
+    providing the funding for the construction of the project  and  discuss
+    the situation with them.  Since both the bank and your firm intends  to
+    continue to do business in the city for a long time to  come,  and  the
+    contractor and his team may not  be  around  if  they  continue  to  do
+    business in this manner, you want to be on the side of the  bank.   You
+    agree  with  the  bank  to  include   recommendations   for   whichever
+    foundations they feel appropriate in your  final  report,  whether  the
+    contractor agrees or not.
+      Percentage of votes agreeing:  5%
+
+11.   Mention the situation to your wife's cousin, who  is  a  reporter  for
+    the local newspaper.  Suggest that an article indicating that  "usually
+    reliable sources" have determined that the design-build team consisting
+    of the A/E firm and the contractor are seeking  to  skimp  as  much  as
+    possible on the foundations for this new office complex, and that  this
+    may be a sign that other  portions  of  the  project  could  be  poorly
+    designed as well, since the designers and contractor are  all  in  this
+    project together to make as much money as possible.  Have him call  for
+    an independent geotechnical analysis for  the  project  to  verify  the
+    allegations made by the "usually reliable source."  In  this  way  your
+    original analyses will be confirmed, and the contractor will be  unable
+    to insist on changing your foundation design recommendations.
+      Percentage of votes agreeing:  1%
+
+
+Forum Comments from Respondents
+1.    Call a one-on-one informal meeting with the  contractor.   In  person,
+    it will be easier to impress upon him the need to  use  piles...instead
+    of shallow footings.  The time between when the meeting is  called  and
+    when it actually occurs is the time you have to  'crunch  the  numbers'
+    and somehow make this situation look good from the  contractor's  point
+    of view.  Show him how his reputation has been built over the years and
+    how it will be tarnished by a mediocre building.  Find out exactly  how
+    much more the piles will cost and find a  way  to  make  it  worth  his
+    while.
+
+2.    I am sure there is probably  plenty  of  business  out  there  without
+    having to work with people like this.  I believe  most  people  with  a
+    conscience could not sleep at  night  knowing  that  they  approved  of
+    something like this.  I would also think to myself that I  should  have
+    bugged the phones to get this all on tape.
+
+3.    I should make sure the contract for our services  defines  our  duties
+    as an impartial consultant.  Explain to the contractor that this is the
+    only way my company can do  business.   My  ability  to  provide  these
+    services relies solely on our honest professional opinion.
+
+4.    Any time the engineer does as  the  contractor  asks,  he  or  she  is
+    neglecting the duty of care owed to  the  owner  or  occupants  of  the
+    building at any point in time.  Therefore, doing as the contractor asks
+    is out of the question.
+
+5.    Being bound by Honor, even rigidly and strictly so, is, in  my  humble
+    opinion, not a bad thing.
+
+6.    "Think about the  public  or  civilians  who  may  be  killed  if  the
+    building collapse.  Someday your wife or some relative may be  the  one
+    getting killed.  Is not the  money.   We  choose  the  career  we  want
+    because it is exiting and  bring us joy of helping other people.   Tell
+    the constructor that you will talk with the rest of the company to come
+    with a desition". [sic]
+
+7.     "The  constructor  should  not  be  pressuring  the  engineer  to  do
+    something that will contribute to a bigger problem and many  deads  may
+    be safe in the future".  [sic]
+
+8.    As an engineer, your reputation is built on the quality of your  work.
+     When …damage occurs, laymen and engineers  alike  will  attribute  you
+    competence to this project.
+
+9.    Advise the contractor about statue of limitations that go beyond [one-
+    year] guarantees.  Recommend that the contractor  consult  their  legal
+    counsel on the matter.  Get paid!
+
+10.   Ask the contractor if he has a good attorney who will help him with  a
+    lawsuit in a few years.
+
+11.   Find out for sure what  the  implied  threat  of  withholding  payment
+    really meant.  This has to be worked out before the engineer  goes  any
+    further on the project.
+
+12.   In this situation losing the fee is a far far better thing to do  than
+    supporting a crummy design that will lead to real problems later on.
+
+13.   Redo the settlement calculations looking at the probable range of  the
+    coefficient of consolidation.  It is a rare case that one  can  compute
+    the time rate of settlement accurately.  And  even  then  most  of  the
+    worst settlement usually happens in the first year  anyway.   Tell  the
+    contractor that while it can't be said for  sure  when  the  settlement
+    will occur, it usually happens faster than  the  calculations  indicate
+    and this means there is a 95% probability there will be problems within
+    the first year after construction.  Putting it probabilistically  gives
+    the contractor the best idea of what the chances of a problem are.
+
+14.   Tell the contractor to blow it out his ear!  1) What he is  asking  is
+    for your complicity in  a  fraud.   2)The  statue  of  limitations  for
+    criminal  conspiracy  is  longer  than  one  year.   3)The  statute  of
+    limitations for  professional  misconduct  is  longer  than  one  year.
+    4)Your  Errors  and  Omissions  insurance  will  not  cover  deliberate
+    misconduct.  5)You will lose your license.
+

@@ -1,0 +1,394 @@
+
+                       Now You Have It, Now You Don't
+                                 (Case 1016)
+
+The mission of the National Institute for Engineering Ethics  (NIEE)  is  to
+promote ethics in engineering practice  and  education.   One  component  of
+NIEE  is  the  Applied  Ethics  in  Professional  Practice  (AEPP)  program,
+providing free engineering  ethics  cases  for  educational  purposes.   The
+following case may be reprinted if it is provided  free  of  charge  to  the
+engineer or  student.   Written  permission  is  required  if  the  case  is
+reprinted for resale.  For more cases and other NIEE  Products  &  Services,
+contact  the  National  Institute  for  Engineering   Ethics,   Texas   Tech
+University, www.niee.org..  (All reprints must contain these statements)
+
+The Case:
+The setting is Windsore County in northern California.  During the  El  Nino
+winter, heavy weather  triggered  a  large  debris  flow  landslide  in  the
+mountain area of the county.  The  landslide  partially  buried  ten  summer
+homes situated along the bottom of a narrow canyon.  During  the  emergency,
+the Windsore County Public Works Department hired Nearby Engineers, a  local
+geotechnical engineering firm, as  a  sole  source  emergency  selection  to
+evaluate the landslide.  Nearby  Engineers  determined  that  a  significant
+additional debris flow hazard still  remained.   As  a  result,  The  County
+condemned the ten summer home properties and developed a schematic  plan  to
+protect other summer homes downstream by construction of an earth "dam"  and
+debris collection basin, plus a large storm drain.
+
+The Windsore County Public  Works  Department  then  issues  a  Request  for
+Proposal (RFP) for engineering services  to  design  the  dam,  debris  flow
+basin and storm drain.  The RFP stated that a firm would be selected on  the
+basis  of  qualifications  and  experience  (as  they   typically   selected
+consultants in the past).  They would then negotiate with the selected  firm
+to arrive at an appropriate fee and contract (standard Qualifications  Based
+Selection - QBS procedure).
+
+Trueheart Engineers, Nearby  Engineers,  and  two  other  engineering  firms
+responded to the  RFP,  each  submitting  qualifications  statements  and  a
+proposed scope of services.  The County Public Works  Department  formed  an
+interview and selection  committee  comprised  of  Public  Works  Department
+professional staff members, who reviewed  the  submittals,  interviewed  the
+four firms and ended up  selecting  Trueheart  Engineers  for  the  project.
+Trueheart was notified of their selection.  They met with the  Public  Works
+staff, refined the scope of work, and negotiated an acceptable fee  estimate
+and contract provisions.  The contract  was  then  to  be  approved  by  the
+Windsore County Board of Supervisors.
+
+Shortly thereafter, Trueheart Engineers was notified by  the  County  Public
+Works staff that the contract approval was delayed and that they  were  also
+requesting a formal proposal from Nearby Engineers, which  was  a  deviation
+from their previously announced QBS selection  process.   After  the  Public
+Works Department  received  Nearby  Engineers'  proposal,  the  Director  of
+Public  Works  overrode  the  staff's  previous  recommendations   to   hire
+Trueheart Engineers, and he recommended to  the  Windsore  County  Board  of
+Supervisors  that  Nearby  Engineers  be  hired  instead.   Notably,  Nearby
+Engineers' scope of  work  and  contract  language  was  the  same  as  that
+negotiated by Trueheart and the fee was the  same  as  Trueheart's.   Nearby
+Engineers was hired for the project.
+
+Nearby Engineers, Trueheart Engineers, members of the  County  Public  Works
+interview/selection committee and the  Director  of  Public  Works  are  all
+Registered  Professional  Engineers  and  belong  to  various   professional
+organizations concerned with ethics.
+
+Question 1:
+You  are  the  President  of  Nearby  Engineers.   How  do  you  feel  about
+submitting an additional proposal when you  know  that  Trueheart  Engineers
+have already been selected for the project by the Public Works staff?
+
+Question 2:
+You are a professional engineer on the County Public Works Department  staff
+and a  member  of  the  interview/selection  team  for  this  project.   The
+Director of Public Works has overturned the announced QBS selection  process
+as well as your professional evaluation of the proposed consultants.   What,
+if anything, should you do?
+
+Question 3:
+You are the Director of Public Works, and although it is not known  to  your
+staff, you have been instructed by a member of the Board of  Supervisors  to
+hire Nearby Engineers regardless of the announced QBS  selection  procedure.
+What, if anything, do you do?
+
+Question 4:
+You are the President of Trueheart Engineers.   You  and  your  staff  spent
+considerable professional  time  after  you  were  notified  that  you  were
+selected for the project, refining the scope of work  and  contract  -  time
+which otherwise could have been spent on billable work  for  other  projects
+under contract.  What, if anything, do you do?
+
+
+Alternate Approaches and Survey Results for “Now You Have It Now You  Don’t”
+(Case 1016)
+Question 1 (President of Nearby Engineers):
+1.    Your firm did all the emergency engineering work for the  project,  so
+    this job was really supposed to be yours.  Therefore there  is  nothing
+    wrong  with  submitting  the  additional  proposal  for   the   project
+    assignment.
+      Percentage of votes agreeing:  4%
+
+2.    Some people may think that  submitting  a  proposal  for  the  project
+    assignment is contrary to the Engineering Society ethics code, but  the
+    code is old and inflexible, and really doesn't  address  this  type  of
+    situation.
+      Percentage of votes agreeing:  1%
+
+3.    You were hesitant to submit a proposal and deviate from  the  "normal"
+    QBS process, because you are concerned about setting a  precedent  that
+    might work against your firm in a future RFP with the county.
+      Percentage of votes agreeing:  11%
+
+4.    All is fair in business.   If  the  county  is  willing  to  bear  any
+    additional scrutiny by requesting a proposal from your firm,  who  were
+    you to turn down such an opportunity?
+      Percentage of votes agreeing:  7%
+
+5.    There is nothing wrong  with  submitting  a  proposal  for  the  final
+    engineering work as requested by the county, even though the  committee
+    had recommended Trueheart Engineering for the  work.   After  all,  the
+    Director of Public Works does have the final say in these matters.   It
+    is not as though you went behind Trueheart's back to get the work.
+      Percentage of votes agreeing:  11%
+
+6.    Submitting a additional proposal for the final engineering  design  as
+    requested is not unethical, because  there  must  have  been  something
+    about the Trueheart proposal the Director of Public Works didn't  like.
+    If you didn't submit this additional proposal, the Director would  feel
+    that you are not responsive to his requests, and that would be a  black
+    mark on your record the next time a project comes up for design.
+      Percentage of votes agreeing:  13%
+
+7.    You should have inquired if the County  Public  Works  Department  had
+    terminated negotiations with Trueheart Engineers.  If the  negotiations
+    had not been terminated, Nearby Engineers should not have submitted the
+    additional proposal.
+      Percentage of votes agreeing:  31%
+
+8.    You should have notified Trueheart Engineers that your firm  had  been
+    requested to submit an  additional  proposal.   That  would  then  have
+    allowed you to pursue the project without any problem.
+      Percentage of votes agreeing:  11%
+
+9.    You were relieved that your  firm  continues  its  close  relationship
+    with the Public  Works  Department  Director  and  with  the  Board  of
+    Supervisors.  In the future, you must remember to downscale  your  work
+    scopes to the level of Trueheart Engineers.
+      Percentage of votes agreeing:  0%
+
+10.   There is a fine line between unethical  behavior  and  good  business.
+    In this case you have worked hard for a number of years  to  develop  a
+    close relationship with the Director of Public Works and the members of
+    the Board of Supervisors.  It is no surprise that they came back to you
+    for another proposal.
+      Percentage of votes agreeing:  6%
+
+11.   If the shoe were on the other foot,  Trueheart  Engineers  would  have
+    done the same thing.  Additionally, you needed the work  to  meet  your
+    payroll commitments to your employees.
+      Percentage of votes agreeing:  2%
+
+12.   You are pleased that things worked out the way they did.   After  all,
+    if your firm was good enough to  be  selected  to  do  the  preliminary
+    engineering, why shouldn't you be good enough to do  the  final  design
+    work?
+      Percentage of votes agreeing:  3%
+
+Question 2 (Professional Engineer on County Public Works Department staff):
+13.   You should quit your job in disgust.
+      Percentage of votes agreeing:  3%
+
+14.   You should ask the Public  Works  Director  what  the  basis  was  for
+    overturning the department's selection committee recommendation,  which
+    was based on the QBS (qualifications  based  selection)  procedure,  as
+    advertised.  If you are satisfied with the reasons  given,  you  should
+    express your objection to the way the matter was handled.
+      Percentage of votes agreeing:  50%
+
+15.   You should ask the Public  Works  Director  what  the  basis  was  for
+    overturning the department's selection committee recommendation,  which
+    was based on the QBS (qualifications  based  selection)  procedure,  as
+    advertised.  If  there  were  reasons  that  would  truly  benefit  the
+    project, then fine.  If not, you should start looking for another  job.
+
+
+      Percentage of votes agreeing:  12%
+
+16.   Accept the decision of the Public Works Director, since it  was  never
+    your decision to make any way.
+      Percentage of votes agreeing:  1%
+
+17.   You realize that even though you  thought  the  QBS  process  was  the
+    right way to select the design firm and understood it to be one of  the
+    advertised  criteria   for   selection,   your   boss   overrode   your
+    recommendations.  All you can do is be quiet and  not  jeopardize  your
+    job.  After all, your job is in reality fairly  political,  and  you'll
+    just have to accept that.
+      Percentage of votes agreeing:  3%
+
+18.   You should get together with the other staff members on the  selection
+    committee and try to reach a consensus  about  how  to  deal  with  the
+    situation.  Then proceed according to whatever consensus is reached.
+      Percentage of votes agreeing:  15%
+
+19.   You should call the  State  Board  of  Registration  for  Professional
+    Engineers, get the name and telephone number of the chair of the Ethics
+    Committee, call that person, explain the  dilemma  as  follows,  "On  a
+    hypothetical basis, what would you recommend to an engineer  who  finds
+    themselves in the following situation……..?"
+      Percentage of votes agreeing:  12%
+
+20.   This type of thing should not  go  unnoticed.   You  should  leak  the
+    Director of Public Works' refusal to accept the recommendation  of  the
+    staff selection committee to the local  press  without  divulging  your
+    name.
+      Percentage of votes agreeing:  1%
+
+21.   You should get together with the other staff members on the  selection
+    committee and send letters of protest  to  the  local  section  of  the
+    American Society of Civil Engineers (ASCE), the state  chapter  of  the
+    American Public Works Association  (APWA),  the  National  Society  for
+    Professional engineers (NSPE) and as  many  others  as  come  to  mind,
+    signed by each of you on the committee,  and  as  many  others  in  the
+    department as are willing to do so.
+      Percentage of votes agreeing:  3%
+
+Question 3 (Director of Public Works for the County):
+22.   You should have quit your position in disgust.
+      Percentage of votes agreeing:  2%
+
+23.   You should accept the decision of the Board of Supervisors,  since  it
+    was never yours to make anyway.
+      Percentage of votes agreeing:  5%
+
+24.   You should call the members of the  department's  selection  committee
+    into your office and tell them that you had no  choice  in  the  issue,
+    since you were directed by a member of the Board  of  Supervisors  (who
+    are your bosses) to award the contract to Nearby Engineers.  You should
+    also tell them that this information is  confidential  and  not  to  be
+    mentioned outside of the office.
+      Percentage of votes agreeing:  5%
+
+25.   You should have publicly declared the QBS selection process  null  and
+    void because of changes in the selection process  as  dictated  by  the
+    Board of Supervisors.  In that way the contract could then  be  awarded
+    to  Nearby  Engineers  without  repercussion,   despite   any   ethical
+    implications in the situation.
+      Percentage of votes agreeing:  3%
+
+26.   You should have advised the member of the Board  of  Supervisors  that
+    such  a  procedure  is  unethical  and  declined  to  carry   out   the
+    instructions, even though it may jeopardize your  continued  employment
+    as Public Works Director.
+      Percentage of votes agreeing:  22%
+
+27.   You should have tried to determine if  the  member  of  the  Board  of
+    Supervisors who directed you to hire Nearby Engineers is  speaking  for
+    the entire Board, or just herself, then  made  a  decision  whether  to
+    follow those directions or canvas the rest of the Board on a one-on-one
+    basis.
+      Percentage of votes agreeing:  14%
+
+28.   You should  have  appealed  to  the  full  Board  of  Supervisors  and
+    explained to them that the procedure  demanded  by  one  of  the  Board
+    members was unethical and not  in  keeping  with  accepted  engineering
+    procedures.  If the Board had refused to rescind the instructions,  you
+    should have told them that you declined to participate in the  revision
+    of the design award and asked that someone else negotiate the  contract
+    arrangements with Nearby Engineers.
+      Percentage of votes agreeing:  38%
+
+29.   You should have terminated negotiations with Trueheart  Engineers  and
+    advertised a new request for proposals (RFP) to be reviewed  by  a  new
+    selection committee, which should have included the member of the Board
+    of Supervisors.
+      Percentage of votes agreeing:  8%
+
+30.   This is just another instance of this type of  heavy-handed  political
+    maneuvering by some members of the Board of  Supervisors.   You  should
+    have leaked the directive from the member of the  Board  to  the  local
+    press.  Percentage of votes agreeing:  1%
+
+31.   You should have done exactly what you did do,  and  keep  quiet  about
+    who demanded the change in engineering firms.  After all, your  job  is
+    very political, and you must keep peace with the Board  of  Supervisors
+    if you expect to get things done without a lot of interference.   There
+    will be other opportunities for Trueheart Engineers to submit proposals
+    for new projects in the future.
+      Percentage of votes agreeing:  2%
+
+32.   This is the way things are done in  the  public  sector  most  of  the
+    time.  The decision was not yours, even though you stand  to  take  the
+    heat for it, if there is any.  Trueheart Engineers  are  big  folk  and
+    they should  understand  that  the  way  the  game  is  played  is  not
+    necessarily the way it is advertised or appears in to the public.   You
+    have to go along to get along in this type of public works position.
+      Percentage of votes agreeing:  1%
+
+Question 4 (President of Truehart Engineers):
+33.   You are outraged!  You should make an objection to the way  your  firm
+    was treated in an open meeting of the  Board  of  Supervisors.   It  is
+    unlikely   they   will   override   the   Public    Works    Director's
+    "recommendation", but you'll feel a lot better in any event.
+      Percentage of votes agreeing:  10%
+
+34.   You should call the President of  Nearby  Engineers,  indicating  that
+    you are prepared to show her a draft of a formal ethics  complaint  and
+    lawsuit, unless they are willing to decline the contract (in which case
+    you will not proceed with the complaint and lawsuit).
+      Percentage of votes agreeing:  6%
+
+35.   You should contact each of elected representatives in the  County  and
+    expose the deviousness of the Public Works Director.
+      Percentage of votes agreeing:  3%
+
+36.   You should file  a  charge  of  professional  misconduct  against  the
+    Public  Works  Director  with  the  State  Board  of  Registration  for
+    Professional Engineers, since you  understand  that  Nearby  Engineer's
+    scope of work, contract language and fee are identical to  yours.   You
+    realize that you will be required to spend a substantial amount of time
+    documenting the case and  trying  to  prove  that  something  unethical
+    (collusion between the County and Nearby Engineers) has occurred.  This
+    may be quite difficult, since you are not going to have the cooperation
+    of the Public Works Director, Nearby Engineers or many (if any) of  the
+    selection committee members.
+      Percentage of votes agreeing:  18%
+
+37.   You should file a claim with the County  for  the  cost  of  the  time
+    spent in preparing the proposal and in negotiations, claiming bad faith
+    on their part, realizing that the claim will most  likely  be  rejected
+    and you have spent even more lost time in on a poor situation.
+      Percentage of votes agreeing:  7%
+
+38.   You should contact your  corporate  lawyer  and  file  a  damage  suit
+    against the County and  its  Board  of  Supervisors  (individually  and
+    jointly) for treble damages  based  on  all  of  Trueheart's  costs  in
+    responding  to  the  County's  fallacious  Request  For  Proposals  and
+    Trueheart's legal costs, on  the  basis  of  racketeering  and  blatant
+    violation of public policy and law.
+      Percentage of votes agreeing:  8%
+
+39.   There is nothing you can do to help your firm  in  such  a  situation,
+    except try to figure out how bearing  the  brunt  of  this  unfair  and
+    unethical treatment by the County can  be  turned  into  some  sort  of
+    advantage for you in the future.
+      Percentage of votes agreeing:  6%
+
+40.   You should grit your teeth and  do  nothing!   You've  been  had!   No
+    matter what you do, it will reflect badly on the Public Works Director,
+    and thereby greatly decrease the likelihood of your firm obtaining work
+    from the County in the future.
+      Percentage of votes agreeing:  5%
+
+41.   You have learned a valuable lesson by this experience.  That  is,  not
+    to begin work on a project without a signed letter of authorization  to
+    proceed or a signed contract so that if the project is cancelled or you
+    are taken off the project you can still bill the client  for  the  time
+    spent to date.
+      Percentage of votes agreeing:  35%
+
+42.   If your firm is largely dependent on  work  from  Windsore  County  in
+    order to make a reasonable profit and provide sufficient work for  your
+    staff, you should consider converting it to an  internet  shopping  and
+    delivery service for housewives in the surrounding area.
+      Percentage of votes agreeing:  3%
+
+
+Forum Comments from Respondents
+1.    As President of Nearby Engineers, you  should  find  out  as  much  as
+    possible regarding the motivation for the County  requesting  a  second
+    proposal.  It appears that by submitting a second proposal you might be
+    undermining Trueheart Engineers, something that you don't  agree  with.
+    Being an engineer and belonging to an engineering society, you know you
+    would not like to be undermined by some other firm.  As a  result,  you
+    should decline to submit a second proposal.
+
+2.    The Director of Public Works has already lost his virginity (did  what
+    he was told by the Commissioner) and there's no getting it back.  He is
+    definitely hanging out there;  the  State  Board  won't  go  after  the
+    Commissioner.  The time for  the  Director  of  Public  Works'  ethical
+    decision has passed and he didn't make use of  it  (he  gets  along  by
+    going along).  He is squarely on the hot seat.
+
+   3. If you are President of Trueheart Engineers, the next  time  you  deal
+      with the county (if you elect to do so again)  be  prepared  for  this
+      type of situation and submit a written statement of clarification with
+      your proposal, indicating that it is understood  and  agreed  that  if
+      your firm is selected as a result of the  stated  and  advertised  QBS
+      process, you will be awarded the contract.  Provide a  place  for  the
+      Director of Public Works to date and sign and return a copy  for  your
+      files.  If he declines to sign and return  the  agreement,  convene  a
+      meeting of all of the consulting firms in the area and  convince  them
+      to send a letter to the  Public  Works  Director  and  to  the  County
+      Commissioners signed by all  of  the  firms  objecting  to  misleading
+      practices in consultant selection, and  cite  the  applicable  law  or
+      regulations which call for the QBS  selection  process.   Respectfully
+      request a written reply.

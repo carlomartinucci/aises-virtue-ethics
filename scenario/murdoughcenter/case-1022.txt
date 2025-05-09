@@ -1,0 +1,193 @@
+
+
+                           The Second Time Around
+
+                                 (Case 1022)
+
+
+The mission of the National Institute for Engineering Ethics  (NIEE)  is  to
+promote ethics in engineering practice  and  education.   One  component  of
+NIEE  is  the  Applied  Ethics  in  Professional  Practice  (AEPP)  program,
+providing free engineering  ethics  cases  for  educational  purposes.   The
+following case may be reprinted if it is provided  free  of  charge  to  the
+engineer or  student.   Written  permission  is  required  if  the  case  is
+reprinted for resale.  For more cases and other NIEE  Products  &  Services,
+contact  the  National  Institute  for  Engineering   Ethics,   Texas   Tech
+University, www.niee.org..  (All reprints must contain these statements)
+
+The Case:
+You are a design engineer for an old-line consulting firm in a  medium-sized
+city in the Southwest, and have been with the firm for several  years.   One
+of the firm’s specialties is assisting contractors with the  development  of
+construction methods, and designing falsework, formwork and  steel  erection
+systems for various projects after the contract  has  been  awarded  to  the
+contractor, or during the contract bidding period to aid the  contractor  in
+developing  construction  method  concepts  and  associated  costs  for  bid
+purposes.
+
+A few years ago, you were retained by Hartwell Construction  Co.  to  assist
+them in developing a unique and cost-effective  engineering  solution  to  a
+difficult heavy construction problem.  The solution you devised worked  very
+well during  construction,  and  Hartwell  Construction  made  an  excellent
+profit on the project.  Your firm was paid a fee of $25,000  based  on  your
+time and materials costs, in accordance with your agreement with Hartwell.
+
+Currently, a very similar project  is  out  for  bids  in  the  local  area.
+Zeller Construction Inc., a company for whom you have not worked before,  is
+aware of the work you did for Hartwell and would like to have you help  them
+with a solution to a construction problem virtually  identical  to  the  one
+you worked on previously for Hartwell.  In fact, Zeller says  the  situation
+is so similar that you could simply change  the  title  block  on  your  old
+drawings to fit the new project.
+
+You hear through the grapevine that Hartwell Construction is  also  planning
+to bid on the project, but they have not contacted you for  your  assistance
+so far.
+
+Question 1:
+If you accept the assignment from Zeller, how do you decide  what  your  fee
+should be?
+
+Question 2:
+If you are contacted by Hartwell  to  participate  with  them,  how  do  you
+decide what the fee should be?
+
+Question 3:
+Does your decision change if you find out that Hartwell has decided  not  to
+bid on the project?
+
+
+Alternate Approaches and Survey Results for “The Second Time  Around”  (Case
+1022)
+
+
+Question 1:
+
+1.    Since the construction problem is virtually identical to the  one  you
+    solved for Hartwell, change the title block on the drawings to  reflect
+    the new project, as Zeller suggested, send them to  Zeller  and  charge
+    them a lump sum fee of $10,000.
+      Percentage of votes agreeing:  2%
+
+2.    Since the construction problem is virtually identical to the  one  you
+    solved for Hartwell, change the title block on the drawings to  reflect
+    the new project, as Zeller suggested, send them to  Zeller  and  charge
+    them a lump sum fee of $15,000.
+      Percentage of votes agreeing:  2%
+
+3.    Since the construction problem is virtually identical to the  one  you
+    solved for Hartwell, change the title block on the drawings to  reflect
+    the new project, as Zeller suggested, send them to  Zeller  and  charge
+    them a lump sum fee of $25,000.
+      Percentage of votes agreeing: 19%
+
+4.    While no construction problem is identical to  one  encountered  on  a
+    different project, you put enough effort  into  the  original  solution
+    that there can’t be a whole lot of additional effort involved  in  this
+    assignment.  Tell Zeller you will work for them for a  lump  sum  price
+    (which includes your best estimate of the additional time involved  for
+    this project plus a fixed figure for use of the methods  developed  for
+    the original project) of $15,000.
+      Percentage of votes agreeing: 20%
+
+5.    No construction problem is actually identical to that  encountered  on
+    a different project.  Offer to review your original calculations  based
+    on the details of the new project and provide job-specific drawings and
+    calculations to Zeller  for  a  fee  based  on  the  time  involved  in
+    adjusting/updating the drawings and calculations.
+      Percentage of votes agreeing: 57%
+
+Question 2:
+6.    Since the construction problem is virtually identical to the  one  you
+    solved before for Hartwell, change the title block on the  drawings  to
+    reflect the new project, send them to Hartwell and charge them  a  lump
+    sum fee of $10,000.
+      Percentage of votes agreeing:  4%
+
+7.    Since the construction problem is virtually identical to the  one  you
+    solved before for Hartwell, change the title block on the  drawings  to
+    reflect the new project, send them to Hartwell and charge them  a  lump
+    sum fee of $15,000.
+      Percentage of votes agreeing:  3%
+
+8.    Since the construction problem is virtually identical to the  one  you
+    solved before for Hartwell, change the title block on the  drawings  to
+    reflect the new project, send them to Hartwell and charge them  a  lump
+    sum fee of $25,000.  Percentage of votes agreeing: 11%
+
+9.    While no construction problem is identical to  one  encountered  on  a
+    different project, you put enough effort  into  the  original  solution
+    that there can’t be a whole lot of additional effort involved  in  this
+    assignment.  Tell Hartwell you will work for them for a lump sum  price
+    (which includes your best estimate of the additional time involved  for
+    this project plus a fixed figure for use of the methods  developed  for
+    the original project) of $15,000.
+      Percentage of votes agreeing: 22%
+
+10.   No construction problem is actually identical to that  encountered  on
+    a different project.    Offer  to  review  your  original  calculations
+    based on the details  of  the  new  project  and  provide  job-specific
+    drawings and calculations to Hartwell for  a  fee  based  on  the  time
+    involved in adjusting/updating the drawings and calculations.
+      Percentage of votes agreeing: 60%
+
+Question 3:
+11.   Yes, if you have decided to charge a lump sum to Zeller, increase  it.
+
+
+      Percentage of votes agreeing: 11%
+
+12.   No, stay  with  your  decision  for  your  work  with  Zeller  as  you
+    indicated under Question 1, above.
+      Percentage of votes agreeing: 89%
+
+
+Forum Comments from Respondents
+
+1.    First come, first served in business.  I  am  a  contracted  employee,
+    and nothing is ever the same, especially when it comes to dealing  with
+    construction.
+
+2.    For Question 1: Zeller is looking for the cheap engineering  solution.
+     From past history, most situations in the engineering and construction
+    arena are not “so similar”.  Maybe your quote (budget estimate?) should
+    be on a T&M (Time and Materials) basis.  If the project is  similar  to
+    the previous one, the engineering fee should end  up  being  less.   If
+    not, you are compensated fairly for the design.   Under  no  conditions
+    should Lump Sum be considered until you  fully  understand  the  entire
+    scope of the project.  Varying loads and how  they  are  applied  could
+    result in a completely new design.  New details  may  be  required  and
+    take time to develop.
+
+3.    For Question 2:  You  could  give  Hartwell  the  same  quote  (budget
+    estimate?) given to Zeller.  At this point the contractors are  looking
+    at you as a subcontractor who has no allegiance to either of  them  and
+    quoting both should not be considered unethical provided the  same  fee
+    arrangements are quoted to both.  You are not  working  for  either  of
+    them yet and there is no other firm quoting fees to  provide  the  same
+    services.  Nonetheless, this approach might  backfire  because  one  or
+    both of them might not think of you as a “team  player”.   Either  way,
+    the quote to Zeller should not change if Hartwell decides  not  to  bid
+    the project.
+
+4.    You should consider applying for a US and an international patent  for
+    the original design you developed for Hartwell and offer  to  make  the
+    design available to Zeller at a fee you expect will cover the costs  of
+    applying for and acquiring the patents.
+
+5.    Additional information about the original contract between  your  firm
+    and Hartwell would be helpful.  If Hartwell retained ownership  of  the
+    design as part of your contract with  them,  then  you  should  decline
+    working for Zeller Construction.  On  the  other  hand,  if  your  firm
+    retained ownership of the original documents,  then  you  are  free  to
+    enter into an agreement with Zeller, since the obligation  to  Hartwell
+    was fulfilled on the first project.  As a matter of courtesy,  however,
+    you should notify Hartwell that you are planning to be a  subconsultant
+    to Zeller.
+
+6.    The fee charge Zeller should be based on the  value  of  the  services
+    you will be providing, and not on a time and materials basis.  The  fee
+    should be in the range of the fee charged to Hartwell for the  original
+    work.
+
+

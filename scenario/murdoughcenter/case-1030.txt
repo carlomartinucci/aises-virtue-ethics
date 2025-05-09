@@ -1,0 +1,408 @@
+
+                           Don’t Ask, Don’t Tell…
+                                 (Case 1030)
+
+
+The mission of the National Institute for Engineering Ethics  (NIEE)  is  to
+promote ethics in engineering practice  and  education.   One  component  of
+NIEE  is  the  Applied  Ethics  in  Professional  Practice  (AEPP)  program,
+providing free engineering  ethics  cases  for  educational  purposes.   The
+following case may be reprinted if it is provided  free  of  charge  to  the
+engineer or  student.   Written  permission  is  required  if  the  case  is
+reprinted for resale.  For more cases and other NIEE  Products  &  Services,
+contact  the  National  Institute  for  Engineering   Ethics,   Texas   Tech
+University, www.niee.org..  (All reprints must contain these statements)
+
+The Case:
+Reilly M. Karful, a wastewater process engineer with Slud, Gefl,  Owsdown  &
+Hill (SGOH), has spent the last few weeks  designing  an  equalization  tank
+for the wastewater treatment  plant  for  the  town  of  Whiteside.   It  so
+happens that the existing  extended  aeration  treatment  plant  is  located
+inside  one  room  of  a  pre-engineered  metal  building,  except  for  the
+headworks, which consist of a screen.  The design that Reilly  is  proposing
+includes installing a new tank inside the treatment room and relocating  the
+screen on top of the tank.
+
+During a design review, the reviewer, Yvonne Moore-Karful (distant  relation
+to Reilly) of the architectural firm Plansem & Drawsem, notices that  sewage
+plant headworks are covered by National Fire Protection  Association  (NFPA)
+Code Section 820, which requires certain areas to be Class I, Division 1  or
+Class  I,  Division  2;  i.e.,  “explosion  proof.”   Concerned  about   the
+potential problem, Yvonne calls to let Reilly know that  moving  the  screen
+into the  treatment  room  would  require  the  room  to  be  classified  as
+explosion proof, and she follows up this call with a memo and her  notations
+on the design drawings.  Reilly decides  to  double-check  this  information
+and he reviews NFPA 820 himself.  The code indeed  appears  to  require  the
+headworks and the existing treatment room to be explosion proof because  the
+plant does not have primary settling tanks.
+
+Reilly informs the  project  manager  at  SGOH,  Dante  McWaves,  about  the
+matter, and gives him a copy of Yvonne’s memo.  With Reilly in  his  office,
+Dante phones the client, Bull Parker, the town  commissioner,  to  make  him
+aware of Reilly’s concerns.  Bull happens to be cleaning  his  shotgun  when
+he gets Dante’s call.  News of cost increases and  delays  does  not  please
+Bull, and he pointedly reminds Dante that the  project  is  behind-schedule,
+that Whiteside needs this addition to  the  wastewater  treatment  plant  to
+avoid non-compliance with State regulations, and that  Whiteside  is  not  a
+wealthy town.  As he trips the action on the  shotgun,  as  if  to  place  a
+shell in the chamber (Dante hears this over the  phone),  Bull  tells  Dante
+that he’ll have the County Fire Code Official,  Bobby  Burns,  get  back  to
+Dante.
+
+Reilly notices the color drain from Dante’s face and that his hands  visibly
+shake as he hangs up the phone.  Within  minutes,  the  fire  code  official
+calls and informs Dante that the existing room is already  explosion  proof.
+What luck!  The problem is solved and Dante, still  pale  yet  with  obvious
+relief, informs Reilly that he doesn’t want to bother  Bull  with  any  more
+problems.  Dante then clearly and unequivocally  directs  Reilly  to  finish
+the project.
+
+But Reilly is concerned.  While  Bobby  Burns’  statement  satisfies  Dante,
+Reilly suspects the fire code official could be wrong.   Though  Reilly  has
+limited experience with fire codes,  he  has  noticed  that  the  electrical
+sockets, light  switches,  lighting  fixtures,  and  junction  boxes  appear
+normal and don’t give the appearance of being explosion proof.   While  part
+of him wants to pursue the matter,  he  also  realizes  that  exploring  his
+doubts about the existing room being explosion proof will not  only  further
+stress out  Dante,  but  could  result  in  additional  project  delays,  in
+Whiteside having to fund an  expensive  retrofit  to  bring  their  existing
+facility up to code, and in further annoying Bull.
+
+What, if anything, should Reilly do?
+
+
+Alternate Approaches and Survey Results for “Don’t Ask, Don’t  Tell…”  (Case
+1030):
+ 1. Get on  with  it.   Reilly  should  accept  the  fire  code  official’s
+    statement, as well as Dante’s directive, and get on  with  the  project
+    without delay.
+      Percentage of votes agreeing: 0%
+
+ 2. Cover your backside.  Reilly should accept  the  fire  code  official’s
+    statement, as well as Dante’s directive, and get on with  the  project,
+    after first taking the time to carefully document  his  concerns  about
+    the entire situation in a detailed memo to file.
+      Percentage of votes agreeing: 7%
+
+ 3. Use the opportunity to learn.  Since Reilly is admittedly inexperienced
+    with explosion-proof switches and fixtures, he should “quietly” do some
+    homework on the internet and with electrical contractors  or  suppliers
+    to determine how to identify whether  the  fixtures  in  the  treatment
+    plant room are explosion-proof, and he should go out to  the  site  and
+    make the appropriate inspection.  If something is indeed amiss,  Reilly
+    should estimate the cost for explosion-proofing the treatment room, and
+    compare this with the costs  of  alternative  designs  which  will  not
+    require explosion-proofing.  He should not charge this  effort  to  the
+    project, but do it on his own time,  and  once  he  feels  he  has  the
+    solution, he should outline a recommended course of action  and  notify
+    Dante of his findings.
+      Percentage of votes agreeing: 18%
+
+ 4. This is too big to handle alone.  Realizing that Bull  has  effectively
+    intimidated Dante, Reilly should, without Dante’s  knowledge,  approach
+    SGOH’s managing principal, Mr. Owsdown, and share  his  concerns  about
+    the fire code official’s seemingly “convenient”  statement,  and  about
+    Dante’s acquiescence  in  the  matter.   Reilly  should  await  further
+    instruction while Mr. Owsdown deals with Dante.
+      Percentage of votes agreeing: 4%
+
+ 5. Comply with the code of ethics.  In the interest of the  public  health
+    and safety, Reilly should pursue his concerns until he feels the matter
+    is satisfactorily addressed.  At the least, this would consist of doing
+    some  homework  and  having  a  qualified   independent   third   party
+    knowledgeable of the NFPA requirements – perhaps Yvonne –  inspect  the
+    treatment room with him.  If something is indeed amiss,  Reilly  should
+    engineer appropriate solutions.  Further, Reilly should bill  all  this
+    work to the project, even though it will  surely  result  in  a  budget
+    overrun for Dante, but that is a small matter compared  to  the  public
+    safety and welfare.
+      Percentage of votes agreeing: 15%
+
+ 6. There are many ways to solve a problem.  Reilly should call a friend at
+    the local newspaper and – with the agreement that he be identified only
+    as a “reliable source”  –  share  his  concerns  about  the  fire  code
+    official’s seemingly “convenient” statement, and  about  Bull  Parker’s
+    intimidation tactics.  He knows that his  newspaper  friend  will  make
+    appropriate inquiry, and this will  pressure  Bull  and  Bobby  to  act
+    responsibly without Reilly having to get wrapped up in  SGOH’s  company
+    politics.
+      Percentage of votes agreeing: 1%
+
+ 7. Implement company loss prevention training.  After giving Dante time to
+    pull himself together, Reilly  should  approach  Dante  and  share  his
+    concerns  about  the  fire  code  official’s   seemingly   “convenient”
+    statement.  Further, he should suggest a  game  plan  that  shifts  the
+    liability off of their firm, such as  requesting  that  the  fire  code
+    official provide written confirmation of the explosion-proof nature  of
+    the treatment room.  This gets Reilly’s and Dante’s  firm  legally  off
+    the hook if an explosion occurs.
+      Percentage of votes agreeing: 10%
+
+ 8. Run towards  the  roar.   After  giving  Dante  time  to  pull  himself
+    together, Reilly should approach Dante and share his concerns about the
+    fire code official’s seemingly  “convenient”  statement.   Further,  he
+    should suggest that both he and Dante  visit  Bull  Parker  to  explain
+    their concerns, as well as the ramifications of negligence and the fact
+    that an engineer may not ignore codes in a design.  While  risky,  this
+    puts the issue back in the client’s court.
+      Percentage of votes agreeing: 15%
+
+ 9. Go to the source.  After giving Dante time to  pull  himself  together,
+    Reilly should approach Dante and share his concerns about the fire code
+    official’s  seemingly  “convenient”  statement.   Further,  he   should
+    suggest that both he and Dante visit the fire code official and arrange
+    for a meeting and inspection of the existing treatment  plant  room  to
+    look into their concerns.  Perhaps the fire  code  official  has  never
+    been in the room, or has mistaken it for another,  properly  explosion-
+    proofed room.
+      Percentage of votes agreeing: 29%
+
+10. Check it to them.  Reilly  should  inform  Dante  that  he  refuses  to
+    continue with the project, and  resign  from  the  firm  if  necessary.
+    While this will be costly to  him,  it  is  surely  better  than  being
+    involved when the sludge hits the fan!
+      Percentage of votes agreeing: 1%
+
+Forum Comments from Respondents
+ 1. I suggest solution #3 (use the opportunity to learn) with the following
+    changes.  If something is  obviously  amiss,  a  little  homework  will
+    reveal that to Reilly.  Then he has some real facts to take a stand on.
+     If Dante, Bull, or the fire official still refuse to  accept  the  new
+    plans to bring the facility up to code, Reilly can bring the  issue  to
+    Mr. Owsdown or other officials and insist on an independent inspection.
+     If after doing his homework, it is still not clear to  Reilly  whether
+    the facility is explosion proof,  it  should  be  acceptable,  probably
+    mandatory for a routine  inspection  by  the  fire  official  or  other
+    qualified inspector to OK the renovation in writing.   At  that  point,
+    there should be no need to doubt the integrity of the fire official, or
+    to insist on additional independent inspections.
+
+ 2. Although there is intimidation involved,  ensuring  that  the  room  is
+    secure in the event of a fire is  more  important  than  coming  in  on
+    budget and on time.  Even if it costs Reilly  his  job,  he  must  take
+    action whether he likes it or not to verify the safety  of  those  that
+    will be in that area.
+
+ 3. Doing your homework and double-checking is the way to go.  This  is  an
+    opportunity for Reilly to  do  his  homework  on  the  explosion  proof
+    aspects of the code and this will give him experience for  the  future.
+    He ought to also double check with the fire official  after  explaining
+    his concern with Dante.  This, I feel, is not disloyal to  the  client,
+    employer or the public.  Since they do indeed need to comply with code,
+    Reilly will be looking out for the best interests of both  the  company
+    and client, while also following the code of ethics.
+
+ 4. If going to the source doesn't prove successful in fixing the  problem,
+    then Reilly should continue up the chain of command until  the  problem
+    gets due attention.  If  this  is  all  to  no  avail,  then  a  little
+    attention from the local media would surely  do  the  trick.   Although
+    Reilly puts his job in serious jeopardy if the media route  is  chosen,
+    he can rest assured that he did everything within his power to maintain
+    the safety of plant employees.
+
+ 5. Before visiting Bull, Reilly needs to do some research  as  to  whether
+    the room meets the "explosion-proofed  room"  standards.   Further,  he
+    should explore some possible solutions to the problem so  that  he  can
+    suggest a viable approach.
+
+ 6. Reilly should take the time to  place  this  situation  into  the  five
+    ethical standards and think it through:  The Golden Rule Standard,  The
+    Professional  Ethic,  Immanuel  Kant's  Categorical   Imperative,   The
+    Utilitarian Rule, and The "60 Minutes" Test.  From his  conclusions  to
+    these five ethical standards, Reilly  should  then  make  his  decision
+    about what should and needs to be done.
+
+ 7. Go to the source.  If Dante refuses to go to the  fire  code  official,
+    then Reilly should inform Dante that he refuses to  continue  with  the
+    project, and resign from the firm if necessary.
+
+ 8. After choosing solution #2 (cover your backside), I would also take the
+    approach on solution #3 (use the opportunity to learn) and  go  to  the
+    internet and learn about fire-proof rooms and do further inspection  to
+    see whether the room complies with  the  information  gathered  by  the
+    research.  If it does not, I would  document  the  condition  and  take
+    necessary actions.
+
+ 9. I don't feel like I am ready to handle these types of things  yet  (Ed.
+    note: this  response  is  from  a  graduate  engineer  with  3.5  years
+    experience).
+
+10. To comply with the code of ethics, means must be made to secure safety.
+      Research  and  professional  insight  should  be   introduced   while
+    simultaneously asking for a letter of proof from the fire code official
+    to  cover  themselves!   When  the  information  is  gathered  and  the
+    situation is clearly understood, then throw the ball into Bull's court!
+
+11. Going to the source is a great approach, but I would include Yvonne  in
+    the meeting.  She was the design reviewer who made the original comment
+    about the explosion proof room.  If the  local  inspector  is  able  to
+    convince her, then the problem is solved and the project  can  proceed.
+    If she is not convinced, then Reilly is obligated to pursue a  solution
+    that the reviewer will accept.
+
+12. If I were Reilly, I would pursue solution #8 (run  towards  the  roar).
+    This option calls for a meeting  with  Reilly,  Dante  and  Bull  (i.e.
+    engineer, project manager and client).  The purpose of the  meeting  is
+    to allow input from all parties and inform the  client  (Bull)  of  the
+    ramifications to ignoring the code. In my  opinion  this  is  the  best
+    option suggested because it addresses the problem in accordance to  the
+    Code of Ethics.
+
+13. The course of action should be solution #5 (comply  with  the  code  of
+    ethics).  This option is the best choice for several  reasons.   First,
+    public safety is to be recognized as the top priority of  any  project.
+    Fire codes are written as a direct result of tragedy.  They are lessons
+    learned  the  hard  way.   There  are  both  legal   and   humanitarian
+    motivations to building “up to code”. The safety of the public is  best
+    considered by meeting with Bull  and  addressing  the  issue  head  on.
+    Secondly, although Bull may be an intimidator he is still  the  client.
+    Reilly has a duty to the client to keep him informed of what  is  going
+    on and to guide him towards the right engineering solution.  The option
+    of running toward the roar is the only option that takes the  situation
+    back to the client in a professional manner.  This option is  supported
+    by canons 1 & 4 of the ASCE Code of Ethics.  Further, Canon  1  of  the
+    Code of Ethics instructs engineers  to  view  the  safety,  health  and
+    welfare of the public as their primary goal.  By meeting with  Bull  to
+    “clear the air,”  Reilly  would  in  fact  be  serving  the  public  by
+    educating Bull of the problem and the need to handle it correctly.   By
+    addressing the issue directly  with  Bull,  Reilly  would  assure  that
+    whether Bull continues to use  SGOH,  he  is  at  least  aware  of  the
+    consequences of his decisions.  Canon 4 of  the  ASCE  Code  of  Ethics
+    states that engineers should act as faithful  agents  or  trustees  for
+    their employer or client.  In this case Reilly and Dante need  to  take
+    the roles of both engineers and lawyers.  As  engineers  they  need  to
+    inform their client of the technical aspects of the undertaking and  to
+    advise their client of the technically correct course of action.   They
+    can accomplish this by informing Bull of their findings and/or concerns
+    and suggesting a workable solution.  They can  give  Bull  examples  of
+    similar situations, and their outcomes, where the  decisions  were  not
+    made correctly.  Reilly and Dante have  a  responsibility  to  convince
+    Bull that although the decision may be hard and will certainly lead  to
+    cost overruns, it is the best decision for safety and financial reasons
+    (doing it right once is always  cheaper  than  doing  it  twice).    As
+    “lawyers,” Reilly and Dante need to protect their  client  by  strongly
+    advising him to choose the legally correct course of action.  They need
+    to educate Bull of the legal reasons why he should heed the precautions
+    of re-inspecting the room and re-designing it  in  accordance  to  fire
+    code.  Reilly and Dante need to convince  Bull  that  not  only  is  he
+    making the right choice for the town but he is also protecting his  own
+    reputation.  In conclusion, although I feel that the “run  towards  the
+    roar” option is the best choice for this situation, I do feel  that  it
+    falls a little short of perfect.  For example, there  is  nothing  said
+    about what will be done if Bull doesn’t come around  and  continues  to
+    insist on proceeding with the project as is.   There is also no mention
+    of when to inform the principal (Mr. Owsdown) of the situation.   Dante
+    and Reilly work for Mr. Owsdown and he should be informed  as  soon  as
+    possible and prior to the meeting with Bull as  he  may  have  valuable
+    suggestions based on his experience for how to deal with the situation.
+     I believe that if Reilly and Dante do a competent  job  of  explaining
+    the situation, Bull will make the right choice.  But, if Bull does  not
+    accept the situation, Reilly and  his  firm  should  pull  out  of  the
+    program and document  why  in  a  letter  sent  to  both  Bull  and  an
+    engineering firm that would take over the work.
+
+14. While Reilly should educate himself, once he discovers that the room is
+    not explosion proof, all cost to  redesign  /  re-engineer  a  solution
+    should be billable.
+
+15. I think these actions are a  little  premature  but  a  combination  of
+    aspects from solutions #8 (run towards the roar)  and  #9  (go  to  the
+    source) would be the most efficient and ethical. Reilly should call the
+    fire code official back and ask the exact  requirements  for  explosion
+    proof rooms. Then after personal inspection, if there is  any  question
+    that the room is not satisfactory Reilly should arrange a meeting  with
+    the fire code official.  Further, Reilly should ask the  fire  official
+    to sign off that the room is indeed explosion proof. This  way,  Reilly
+    has covered himself and his firm.
+
+16. Reilly should begin by documenting everything as it occurred.  Then, he
+    should approach Dante and  visit  the  fire  code  official  with  him.
+    Reilly should also enlist a third party to inspect the  room,  such  as
+    Yvonne.  Once these things were done, Reilly should accompany Dante  to
+    visit Mr. Owsdown to make him aware of the situation.  At  this  point,
+    Reilly should ask for Mr. Owdown’s support and  suggestions.   Finally,
+    Reilly should approach Bull with all the facts  gathered  and  offer  a
+    solution that meets code.  If Bull  still  ignores  the  facts,  Reilly
+    might consider "leaking" the story to the media to put some pressure on
+    Bull.  If it comes down to Reilly being forced  to  complete  a  faulty
+    design, he should resign.  Regardless of  the  documentation,  Reilly’s
+    name would be associated with the structure, and he should not wish  to
+    have any part in the disaster  that  might  ensue  from  an  improperly
+    designed building.
+
+Comments from Board of Review Members
+17. Reilly recognizes that he is not the official who certifies  fire  code
+    issues, but remains concerned about the situation nonetheless.  As  the
+    engineer of record for the project, he  might  send  a  letter  to  the
+    county fire official explaining his concerns and formally requesting  a
+    signed letter certifying that the building meets the Class I,  Division
+    I requirements.  Reilly would  keep  this  letter  for  his  files  and
+    forward a copy to the owner.
+
+18. Reilly rightly guards his professional  reputation  and  realizes  that
+    this project must succeed both  in  terms  of  scheduled  delivery  and
+    quality of design.  Consequently, Reilly  might  contact  another  fire
+    inspector and request an independent evaluation of the building's  fire
+    protection.  If  the  independent  appraisal  finds  the  building  not
+    satisfactory, Reilly would need to inform the  city  that  repairs  are
+    required.
+
+19. Reilly should make a memorandum for record of the  telephone  call  and
+    provide copies by certified mail to the fire  official,  city  and  all
+    other parties involved in the project.  If no one  disputes  the  memo,
+    Reilly is legally covered in the event of a future problem.
+
+20. Reilly should put his head together with Dante and  settle  on  a  game
+    plan that shifts the liability back to the County (after all, it’s  the
+    County’s project).  Dante needs to have the fire code  official,  Bobby
+    Burns, provide a written confirmation of the explosion-proof nature  of
+    the treatment room.  If Bobby Burns is not willing to  provide  such  a
+    written confirmation, then Dante should write him a letter,  certified,
+    return receipt requested, summarizing the conversation  and  concluding
+    with a statement to the effect of, “If any of the foregoing is  not  in
+    accord with your recollection of our conversation, it is important that
+    you provide me with a written clarification of our  discussion.”   This
+    helps manage the liability aspects of the problem.
+
+21. Reilly should make an appointment with Yvonne to inspect the  treatment
+    room.  If Yvonne is an expert on NFPA codes, she should be able to tell
+    if additional concern is warranted.  Reilly is admittedly not an expert
+    on NFPA codes and he should be able to obtain guidance from Yvonne.
+
+22. Reilly should prepare a  brief  internal  memo  to  Dante  stating  his
+    concerns regarding the potential  code  violation  and  the  associated
+    safety issues as they apply to the  people  currently  and  potentially
+    working in the reconfigured treatment plant.   He  should  ask  for  an
+    opportunity to discuss his concerns in detail with Dante. Additionally,
+    if the matter of who the responsible, licensed,  Professional  Engineer
+    for this design has not been made clear, Reilly  should  ask  Dante  to
+    clarify the firm’s policy  regarding  professional  responsibility  for
+    this project. On the assumption that Reilly will be asked to  sign  and
+    seal the documents, then he should state his need to check  the  actual
+    condition of the facility with regard to code compliance and to  assure
+    that the reconfigured facility will meet the fire code.   If  the  firm
+    decides to ignore the issue and proceed without addressing the apparent
+    present and future  code  violations,  Reilly  should  “polish-up”  his
+    resume and look for a more professionally oriented employer.
+
+23. Many, if not most, codes of ethics provide that the health, safety  and
+    welfare of the public is  paramount.   This,  therefore,  requires  the
+    engineer to take all reasonable steps to protect the health, safety and
+    welfare of the public.  The facilities (equipment, switches, etc.)  not
+    meeting the building code requirements for  explosion  proof  certainly
+    places the public’s health and safety  in  question.    Reilly  has  an
+    ethical obligation to take action.  He should  first  advise  the  fire
+    code official that he has observed that the electrical system does  not
+    meet the fire code.  If the fire official declines to take any  action,
+    then Reilly should advise his  supervisor,  Dante  McWaves,  about  his
+    concern. If Dante McWaves declines to  take  any  action,  then  Reilly
+    should write a memorandum to Dante McWaves, with a copy to Bull  Parker
+    (the town commissioner) and the fire code official, advising about  the
+    violation of the building code and requesting that he be authorized  to
+    make the appropriate revisions even though  additional  cost  and  time
+    will be involved.  If Dante McWaves declines to give the authorization,
+    or declines to respond, Reilly should request being  removed  from  the
+    project.  This may very well cost Reilly his employment, but the health
+    and safety  of  the  public  is  paramount,  even  at  the  expense  of
+    employment.
+

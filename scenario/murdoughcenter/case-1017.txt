@@ -1,0 +1,199 @@
+
+                       Paying Attention to the Details
+                                 (Case 1017)
+
+The mission of the National Institute for Engineering Ethics  (NIEE)  is  to
+promote ethics in engineering practice  and  education.   One  component  of
+NIEE  is  the  Applied  Ethics  in  Professional  Practice  (AEPP)  program,
+providing free engineering  ethics  cases  for  educational  purposes.   The
+following case may be reprinted if it is provided  free  of  charge  to  the
+engineer or  student.   Written  permission  is  required  if  the  case  is
+reprinted for resale.  For more cases and other NIEE  Products  &  Services,
+contact  the  National  Institute  for  Engineering   Ethics,   Texas   Tech
+University, www.niee.org..  (All reprints must contain these statements)
+
+The Case:
+Bert Bowser is a real "go-getter" engineer.   He  is  known  throughout  the
+engineering community for his ability to get a job done on time  and  within
+budget.  He has a Masters degree in civil engineering, has been in  practice
+for 15 years and is a registered  professional  engineer  in  the  state  in
+which he works.  In  fact,  Bert's  reputation  recently  convinced  a  much
+larger engineering firm (Far Horizons Engineering) to offer him  a  sizeable
+promotion to  go  to  work  for  them.   After  considerable  thought,  Bert
+accepted the offer and changed jobs.  The parting between Bert and  the  old
+firm  (County  Line  Design)  was  amiable  since  Bert's  former  employers
+understood the unique opportunity being offered to Bert,  even  though  they
+preferred he stay with them.
+
+Bert began his new job with gusto and quickly became  deeply  involved  with
+his assigned projects.  He  was  amazed  at  the  work  volume  in  his  new
+company.  After working in the new job for about a month,  Bert  reviewed  a
+set of 'in-house' prepared drawings.  As he reviewed the  detail  sheets  he
+noticed something very familiar.  He realized that  these  details  were  an
+exact copy of a set that he and two other  engineers  labored  over  in  his
+previous job at County Line Design.
+
+Bert is aware that the technology used for structural  connections  was  the
+industry standard, but  the  manner  of  presentation  was  distinctive  and
+clearly the work of his former  company.   Bert  called  Far  Horizons  head
+draftsperson and asked who drew the detail sheets.  The drafter stated  that
+he wasn't sure who first drew the details, but the originals  probably  came
+either from in-house work or from a sub-contractor who  had  been  paid  for
+the effort.  As for this particular set of drawings, the detail sheets  were
+simply inserted from the company's database of CADD drawing details and  the
+name of the project added in the title blocks of each sheet, along with  Far
+Horizons name and logo.
+
+Bert remembered that his old firm, County Line Design,  had once been a sub-
+contractor for his present employer.  However, he is sure that his  previous
+firm had not given permission for "carte blanche' use  of  pieces  of  those
+previous drawings for other unrelated projects.
+
+What, if anything, should Bert do at this point?
+
+
+Alternate Approaches  and  Survey  Results  for  “Paying  Attention  to  the
+Details” (Case 1017)
+1.    He should feel  proud  that  Far  Horizons  thought  so  much  of  his
+    previous work that they have incorporated the design details into their
+    own standard contract sheets.
+      Percentage of votes agreeing:  0%
+
+2.    Bert Bowser should realize that he has an outstanding  job,  and  just
+    forget about the possible infringement on some other firm's work.
+      Percentage of votes agreeing:  0%
+
+3.    What's the problem?  Bert is being  too  sensitive  and  naïve.   Good
+    details are copied all the time  from  one  firm  to  another,  as  are
+    sections of construction specifications.
+      Percentage of votes agreeing:  4%
+
+4.    Since the information shown on  the  detail  sheets  is  all  standard
+    practice, getting  upset  because  the  format  is  the  same  as  that
+    developed while Bert was at  County  Line  Design  is  meaningless  and
+    counterproductive.
+      Percentage of votes agreeing:  3%
+
+5.    There is no problem here.  If Bert were to put together a new  set  of
+    detail sheets for use as Far Horizons standards, he would end  up  with
+    the same thing they already have and are using.
+      Percentage of votes agreeing:  0%
+
+6.    This is nothing to be concerned about.  Far Horizons paid County  Line
+    for the detail sheets as part of their subcontract with County Line  on
+    a former project.  There is no ethical dilemma here.
+      Percentage of votes agreeing:  1%
+
+7.    He should point out to his  present  company  that  using  the  detail
+    sheets as part of their own 'boiler plate' negates any legal  liability
+    County Line Design had if there are errors in the  details.   This  now
+    becomes the legal responsibility of his present company.
+      Percentage of votes agreeing:  6%
+
+8.    He should immediately make a telephone call  to  his  former  boss  at
+    County Line Design to tell her what he has  discovered,  and  let  them
+    take whatever action they deem advisable.
+      Percentage of votes agreeing:  0%
+
+9.    He should go to County Line Design, tell them what he  has  uncovered,
+    and ask for his former job back.
+      Percentage of votes agreeing:  0%
+
+10.   He should discuss the issue with  his  present  boss,  agree  to  keep
+    silent about the use of these detail sheets as Far  Horizons  standards
+    (after all, Far Horizons paid for their development in connection  with
+    a former project), and negotiate a raise now and  a  promotion  in  the
+    future.
+      Percentage of votes agreeing:  0%
+
+11.   He should discuss this discovery with his new boss  at  Far  Horizons,
+    expressing his concerns about the origin and ownership of these  detail
+    sheets, and that using them as Far Horizons standards may  be  illegal,
+    depending on the terms of the contract under which they were  developed
+    regarding ownership of documents.  He should ask for an explanation  of
+    the firm's view of  his  concerns  and  how  Far  Horizons  intends  to
+    approach handling the matter.  He should also follow up on his  request
+    to confirm that the matter has been addressed by Far Horizons.
+      Percentage of votes agreeing:  52%
+
+12.   Bert should recommend to his boss at Far Horizons that he go  back  to
+    County Line to negotiate a written agreement which permits Far Horizons
+    to use the detail sheets as part  of  their  standard  design  contract
+    package.
+      Percentage of votes agreeing:  6%
+
+13.   If Bert's new boss is not a principal in the firm, he  should  give  a
+    'bare bones' description of the perceived problem  to  his  boss,  then
+    request that a principal in the firm  be  brought  in  to  discuss  the
+    matter as well.  Perhaps the level of  communication  between  the  Far
+    Horizons principal  and  her  counterpart  at  County  Line  Design  is
+    sufficiently amicable, they may be  able  to  work  out  a  cooperative
+    agreement over the telephone for use  of  the  detail  sheets.   In  so
+    doing, it will be necessary for Far Horizons to admit  they  have  been
+    unknowingly using the County Line details for a number of projects.
+      Percentage of votes agreeing:  14%
+
+14.   Bert should push to have the matter clarified and cleared  up  between
+    the two companies so that County Line Design does not come across these
+    detail sheets later on and think that Bert stole  the  sheets  when  he
+    switched jobs!
+      Percentage of votes agreeing:  10%
+
+15.   What an underhanded move by Far Horizons!  Were they such an  inferior
+    engineering company before Bert arrived that they have to reply on work
+    done by another firm for use as Far Horizons standards?  He should keep
+    his mouth shut (no one likes a tattle-tale, and consulting  engineering
+    is a small community), but start looking for a  position  with  another
+    company, perhaps out of the area so this problem does continue to haunt
+    him.
+      Percentage of votes agreeing:  0%
+
+16.   Bert should send a copy of the detail sheets to  the  State  Board  of
+    Registration for Professional Engineers and suggest they look into  the
+    matter as a possible breach of professional ethics.
+      Percentage of votes agreeing: 3%
+
+17.   Bert should seek the advice of a private lawyer.
+      Percentage of votes agreeing:  1%
+
+
+Forum Comments from Respondents
+1.    Thank you for bringing this up.  Actually this happens  all  over  the
+    country, particularly with  structural  standard  details.   Civil  and
+    highway  engineering  clients  are  more  localized  and  favor   local
+    details…they will even give you those details!!  However, it  does  not
+    greatly concern me if folks copy our details.  Most of the details  are
+    the same details that were used for decades previously.  I have  looked
+    at old plans and old books, and details change only to the degree  that
+    equipment or materials change.
+
+2.    Bert should go to his new boss and inform her of  the  situation,  and
+    that if he is correct about the source of the drawings he  will  go  to
+    his previous employer with the information.  His previous employer will
+    likely take legal action  for  fraudulent  use  of  their  intellectual
+    property and bring this to the state Board of  Registration  for  their
+    consideration.
+
+3.    Like it or not, I suspect that in a way this sort  of  plagiarism  has
+    been going on for thousands of years.  Craftsmen  copied  the  work  of
+    other craftsmen when they had a good idea and the ones whose  work  was
+    copied took solace in the fact that "plagiarism is the highest form  of
+    compliment", I suppose.  Today it's first to market that matters in the
+    marketplace and the real innovators are usually there first.
+
+4.    The real issue here is ownership of  the  detail  documents.   If  the
+    previous  contract  between  Far  Horizons  and  County  Line  included
+    specific language indicating  that  ownership  of  the  work  documents
+    (e.g., design details) developed by Far Horizons in the conduct of  the
+    contract remained the property of Far Horizons,  then  County  Line  is
+    clearly involved, no matter how unwitting, in an illegal action and  it
+    is imperative that a reasonable  solution  between  the  two  firms  be
+    reached in an amicable manner.  If, however, there was no statement  of
+    proprietary rights in the contract regarding  the  documents  developed
+    for the previous project, it is  unlikely  that  the  cost  and  effort
+    involved in proving the design details were the exclusive  intellectual
+    property of Far Horizons would be worth the small financial  return  to
+    be realized, if any, by pursuing  the  issue  through  legal  channels.
+    Again, all the more reason to come to some sort of  amicable  agreement
+    between the two firms regarding the use of the details.
+

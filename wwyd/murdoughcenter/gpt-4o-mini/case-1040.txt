@@ -1,0 +1,15 @@
+Ethan should take the following specific actions:
+
+1. **Document the Concerns**: Ethan should immediately document his observations regarding the inferior electronics hardware substitutions made by Marc. This documentation should include specific details about the original specifications, the changes made, and the potential impacts on project quality and performance.
+
+2. **Request a Meeting with Marc**: Ethan should schedule a formal meeting with Marc to discuss the substitutions. In this meeting, he should present his documented concerns clearly and assertively, emphasizing the importance of adhering to the original design specifications for the integrity of the project.
+
+3. **Propose a Review Process**: During the meeting, Ethan should propose establishing a review process for any future field changes that could impact design quality. This could involve setting up a joint review committee that includes representatives from both Tecxtrans and Specialty Transit to evaluate significant changes before they are implemented.
+
+4. **Communicate with EDOT**: If Marc is uncooperative or dismissive of Ethan's concerns, Ethan should consider reaching out to EDOT to inform them of the changes being made and express his commitment to maintaining the project's quality. He should frame this communication as a proactive measure to ensure that the project meets the required standards.
+
+5. **Seek Legal Counsel**: Given the potential legal implications of the changes and the ambiguity in the partnership agreement regarding design conflicts, Ethan should consult with legal counsel to understand his obligations and rights in this situation. This will help him navigate the complexities of the D/B arrangement while protecting his professional integrity.
+
+6. **Evaluate the Partnership**: Finally, Ethan should assess the long-term viability of the partnership with Specialty Transit. If Marc continues to prioritize cost over quality and disregards Ethan's professional input, Ethan may need to consider whether this partnership aligns with Tecxtrans' values and standards for project delivery.
+
+By taking these actions, Ethan can address the immediate concerns regarding project quality while also establishing a framework for better collaboration and communication moving forward.

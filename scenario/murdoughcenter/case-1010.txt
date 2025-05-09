@@ -1,0 +1,382 @@
+
+                              What's the Angle?
+                                 (Case 1010)
+
+The mission of the National Institute for Engineering Ethics  (NIEE)  is  to
+promote ethics in engineering practice  and  education.   One  component  of
+NIEE  is  the  Applied  Ethics  in  Professional  Practice  (AEPP)  program,
+providing free engineering  ethics  cases  for  educational  purposes.   The
+following case may be reprinted if it is provided  free  of  charge  to  the
+engineer or  student.   Written  permission  is  required  if  the  case  is
+reprinted for resale.  For more cases and other NIEE  Products  &  Services,
+contact  the  National  Institute  for  Engineering   Ethics,   Texas   Tech
+University, www.niee.org..  (All reprints must contain these statements)
+
+The Case:
+Julie Adams is the sole proprietor of a small,  but  successful,  structural
+engineering firm in a large, older city in the Midwest.  Her success is  the
+result of a  lot  of  hard  work  for  more  than  ten  years,  as  well  as
+establishing excellent relations with her clients.   One  of  the  specialty
+areas that has evolved in her practice has  been  the  renovation  of  major
+historic commercial buildings, many in the downtown  financial  district  of
+the city.
+
+Julie has been asked to do a structural survey of the  Inverness  Block,  an
+old, well-recognized, seven-story granite-faced building  in  the  financial
+district close to several other buildings which her  firm  has  investigated
+for renovations in the past.  One of her largest clients, Charles A.  Smith,
+is in the final stages of negotiations to sell  the  Inverness  Block  to  a
+group of foreign investors represented by Sam Goldworthy, a local  attorney.
+ This sale is very important  to  Smith  because  it  is  the  last  of  his
+properties to be put on the market, and represents  the  liquid  capital  he
+needs to retire to a 30-acre estate he has acquired on Grand Cayman  Island,
+where there is a most advantageous tax structure.
+
+In order to wrap up some of the final  details  and  firm  up  the  purchase
+price (which at present is quite generous), Sam Goldworthy has  requested  a
+structural survey of specific  building  elements,  including  the  outdated
+window casements, among  others.   Mr.  Smith  agrees  to  have  the  survey
+completed, and negotiates a fair price with Julie  Adams  to  do  the  work.
+They sign an  agreement  which  contains  Smith’s  usual  clause  that  “all
+information discovered by the engineer shall  become  the  property  of  the
+client (Smith) and shall not be released  to  others  without  the  client’s
+express written consent.”
+
+Since Julie is personally tied up with overseeing several structural  design
+projects and she understands that the results of  the  proposed  survey  are
+crucial to completing the purchase negotiations for the building before  the
+established  deadline,  she  assigns  Brock  Williams,  one  of   her   most
+experienced  structural  engineers,  to  proceed  with  the  survey  of  the
+Inverness Block.  Brock proceeds immediately, covers all  of  the  workscope
+items required, except for inspection of  the  window  casements,  which  he
+saves until last.
+
+When he gets to the window casements, they appear to be in excellent  shape.
+  However,  since  there  is  so  much  money  involved  in   the   purchase
+negotiations, he decides to dismantle three units at  random  for  a  better
+determination.  With permission from Mr. Smith, Brock  carefully  dismantles
+one of the units and uses a flashlight to look into the wall cavity  to  see
+how the windows are attached.  A steel strap for anchoring  the  windows  is
+clearly visible in the uncovered space.
+
+As he is about to replace the dismantled window  unit,  Brock  notices  that
+the three-inch exterior granite veneer is attached to the building  by  clip
+angles welded to the steel building frame, typical of an  early  example  of
+stone-cladding on steel-frame construction.  In the beam of the  flashlight,
+the clip angle within reach appears to be rusted.  Curious as to the  extent
+of this apparent corrosion, Brock reaches into the space,  grasps  the  clip
+angle and, to his horror, finds that it breaks off in his hand  without  any
+significant pressure.  Looking closer at the fracture,  he  determines  that
+the clip is rusted virtually through the entire cross section.
+
+Immediately the implication of his discovery dawns on Brock, since  if  this
+condition is typical throughout the building,  the  cost  of  repairs  could
+approach the  value  of  the  building  itself.   As  he  muses  about  this
+unwelcome discovery, he glances down to the street level and  busy  sidewalk
+below, and  involuntarily  shudders,  imagining  the  potential  damage  and
+injury which could be caused if one or more of  the  granite  veneer  blocks
+were to become dislodged and fall.  Realizing that this  rusted  clip  angle
+may only be an isolated instance, he quickly dismantles  the  remaining  two
+window units, only to discover the  same  situation  with  the  clip  angles
+within reach.  Based on this evidence, it appears that the exterior  granite
+veneer  blocks  are  merely  stacked  on  one  another,  with  very   little
+attachment to the building frame.
+
+Working late that night, Brock finishes his  written  report  covering  only
+the specific items required in the contract scope of work.  The first  thing
+in the morning, he hands the report to Julie Adams, and orally  advises  her
+of  his  findings  regarding  the  rusted  clip  angles,  which   were   not
+specifically part of their scope of work.  She in turn makes an  appointment
+with Charles Smith and delivers the report to him in person that  afternoon.
+ At the same time, she advises Smith of the clip angle situation.
+
+Smith thanks Julie for giving him the information, compliments her on  doing
+a thorough job, as usual, and says that the written report  will  be  passed
+on to Goldworthy, as  requested.   He  then  indicates  that  he  has  other
+important matters to attend to and quickly ends the  meeting.   On  the  way
+back to the office, Julie goes over  her  conversation  with  Smith  in  her
+mind, and is bothered by the  sudden  termination  of  the  meeting.   As  a
+result, she calls Smith on the telephone as soon as she  gets  back  to  her
+office, indicating that the condition of the  exterior  cladding  is  a  far
+more important issue than any of the items covered in the written report.
+
+Charles Smith tells her that he appreciates her concern,  but  the  purchase
+deal is too far along to do anything about it.  Since the buyers  and  their
+representative have had access to the  building  for  several  months,  they
+could  have  investigated  and  determined  the  condition  of  the  granite
+cladding themselves.  In fact, they may  already  know  about  it  and  have
+accounted for it in their financial offer of  purchase.   If  not,  it  will
+turn up on one of the required periodic building checks in  the  future,  if
+it is really a substantial problem.  In addition, he says that the  deal  is
+now ready to close the following afternoon, and her  cooperation  in  seeing
+things his way will result in additional  work  on  other  projects  in  the
+future.  Besides, if she will feel more comfortable,  he  will  give  her  a
+confidential letter confirming that  she  had  fully  informed  him  of  the
+cladding situation.
+
+Not knowing what else to say, she murmurs her assent.
+
+That night, Julie presents the situation to her husband  for  his  comments.
+After hearing the story, he indicates  that  these  things  happen  all  the
+time, and it is the responsibility of the buyer to be satisfied with  regard
+to the condition of the building.  Besides, having Smith complete  the  deal
+successfully has serious implications  about  the  future  of  her  business
+relationship with him, and  therefore  serious  implications  regarding  the
+future success of her company.  After  all,  there  are  the  fifteen  other
+people working for Julie, as well as their families, to  think  of.   Making
+an issue of the situation, or even worse going public,  would  only  destroy
+that relationship with Smith, and could jeopardize her  business.   Besides,
+in the heat of the moment she accepted the information given her  by  Brock,
+but since she did not observe the clip angles personally, can  she  be  sure
+that Brock’s conclusions were accurate?
+
+What should Julie do, if anything?
+
+Alternate Approaches and Survey Results for “What’s the Angle?” (Case 1010)
+1.    Do nothing more.   The  report  has  been  written  and  delivered  in
+    accordance with the contracted scope of work,  which  did  not  include
+    inspection of the granite veneer clip angles.  In addition, the client,
+    Mr. Smith, has been notified  of  the  condition  of  the  clip  angles
+    observed, and it is his responsibility to deal with that information as
+    he feels appropriate.  Also, the contract  specifically  required  that
+    “all information discovered by the engineer shall become  the  property
+    of the client and shall not be released to others without the  client’s
+    express written consent.”
+      Percentage of votes agreeing:  4%
+
+2.    Do nothing more.  There is no evidence  that  the  rusted  clip  angle
+    situation is widespread.  It is reasonable  to  deduce  that  the  clip
+    angles closest to the window casements would be the ones  most  exposed
+    to moisture entering the wall cavity because the window  casements  are
+    old, and while structurally sound,  most  likely  leak  a  fair  amount
+    around the outside.  Julie might recommend that the window casements be
+    caulked from the outside, if Smith feels it to be appropriate.
+      Percentage of votes agreeing:  0%
+
+3.    Do nothing more.  Mr. Smith has indicated that the  purchase  deal  is
+    too far along to do anything about it at this late date.  Additionally,
+    the new owners are equally responsible since they  had  access  to  the
+    building  for  several  months  and  may  even  know  of  the   problem
+    themselves.  Not everything is disclosed between buyer  and  seller  in
+    these sorts of negotiations.  If not,  one  of  the  periodic  building
+    checks will pick up the clip angle  defect  in  the  future.   The  new
+    owners will be in a much  better  position  to  handle  the  corrective
+    action at that time, since they will not be rushed by  a  deadline  and
+    will not have to do a haphazard repair job.
+      Percentage of votes agreeing:  1%
+
+4.    Do nothing more.  Mr. Smith has  said  that  he  will  write  Julie  a
+    confidential letter to her indicating that  she  notified  him  of  the
+    situation, and if, by chance, anything should happen in the future, the
+    letter will prove she acted in a professional manner by informing Smith
+    of  the  situation.   Julie  certainly  cannot   be   responsible   for
+    contracting for the repair work and certifying that every granite block
+    in the building has been repaired.  She runs an engineering  firm,  and
+    is not a building repair contractor nor does she own the property.   In
+    addition, Smith indicated that he has additional business  for  Julie’s
+    firm in the future, and  it  would  be  a  poor  business  decision  to
+    jeopardize the well-being of her staff by incurring Smith’s ire.
+      Percentage of votes agreeing:  6%
+
+5.    Amend the report to clearly state the elements of work that  her  firm
+    was  retained  to  complete,  and  add  a  list  of  items  that   were
+    specifically excluded from their services (probably six to eight  items
+    long) so that it is clear when the probable accident happens  that  the
+    cladding anchors/clips were not meant to be examined  as  part  of  her
+    firm's scope of services.
+      Percentage of votes agreeing:  4%
+
+6.    Write a separate report to  Smith  describing  the  condition  of  the
+    observed  clip  angles,  recommending  that  the  building  be   closed
+    immediately and the adjacent sidewalks and portions  of  streets  which
+    could be effected by falling granite veneer  blocks  be  cordoned  off.
+    Indicate that as the structural engineer, she has an  ethical  duty  to
+    protect the health, safety and welfare of the public.  This is a matter
+    of responsibility to the public, which takes precedence  over  contract
+    clauses requiring confidentiality.
+      Percentage of votes agreeing:  23%
+
+7.    Approach Smith again and  recommend  that  she  be  retained  to  make
+    additional clip angle observations throughout the building to determine
+    the extent of the problem.  If it is localized adjacent to  the  window
+    casements, or only near a few window casements (perhaps on the side  of
+    the building most exposed to wind and rain), it will  not  be  a  major
+    issue to rectify, even though it may delay  closing  the  purchase  and
+    sales agreement for a period of time.  It is quite possible that  Brock
+    Williams may have over-emphasized his perception of the problem due  to
+    the time constraint to complete the inspection project,  and  the  fact
+    that he only made observations at three locations.
+      Percentage of votes agreeing:  23%
+
+8.    The public safety issue,  if  there  is  one  in  this  case,  is  the
+    responsibility of the owner (Smith), unless Julie is certain  there  is
+    imminent danger to the public.  Therefore, informing the owner  is  all
+    that is necessary.
+      Percentage of votes agreeing:  1%
+
+9.    Make an after-hours telephone call to Goldworthy's office and leave  a
+    voice message suggesting that he defer closing the deal  until  he  has
+    his own independent structural assessment made, if  he  hasn't  already
+    had one done.
+      Percentage of votes agreeing:  1%
+
+10.   Immediately  consult  with  her  attorney  to  ascertain  her  'legal'
+    position concerning the release of information to  persons  other  than
+    her client, in violation of the provisions of  her  contract  with  Mr.
+    Smith.  She could be committing a breach of  her  contract  with  Smith
+    which could lead to an expensive law suit.
+      Percentage of votes agreeing:  11%
+
+11.   Tell Smith that it may be necessary to confer with the local  building
+    officials, and he should consider doing this sooner than later, if  for
+    no other reason than to inform them of what  has  transpired  and  what
+    steps (if any) are being taken to determine the extent of the perceived
+    problem.  While panic is not warranted at this point, due diligence is.
+
+
+      Percentage of votes agreeing:  11%
+
+12.   Inform the city building  official  personally  of  Brock's  findings.
+    The most important goal is getting the building  repaired  immediately.
+    Further, Julie Adams's self-interest is to  preserve  and  enhance  her
+    hard-earned reputation, which will crumble if the granite blocks  fall.
+
+
+      Percentage of votes agreeing:  2%
+
+13.   Tell Smith that if he does not inform the city  building  official  of
+    the condition of the exterior veneer clips as observed by Brock  within
+    24 hours, she will do so herself.
+      Percentage of votes agreeing:  10%
+
+14.   Do as Smith requested and submit the report  without  mention  of  the
+    observed condition of the exterior veneer clips.  However,  she  should
+    also make an anonymous telephone call to the  Channel  9  investigative
+    team to alert them to the building problem.
+      Percentage of votes agreeing:  0%
+
+15.   After sale of the Inverness Block  is  completed,  Julie  should  meet
+    with the city building official and suggest, based on her  observations
+    in the downtown area over some period of time,  that  they  should  pay
+    particular attention to stone veneer buildings without mentioning  this
+    specific case.  She should indicate that her observations were  limited
+    in extent, but sufficient  to  be  concerning.   This  way  the  public
+    authorities can 'discover' and take credit for catching and resolving a
+    dangerous situation.
+      Percentage of votes agreeing:  3%
+
+
+Forum Comments from Respondents
+1.    All too often, engineers have a tendency to jump to  conclusions  that
+    are based on meager evidence.  It  is  always  wise  to  determine  the
+    extent of the problem as far as possible before choosing  a  course  of
+    action.  Nonetheless, in a situation such as this where  there  appears
+    to be a real potential of injury, as well as  property  damage,  it  is
+    also wise to proceed without delay to gather the necessary  information
+    in order to make a wise and principled decision.
+
+2.    In addition to the ethical obligation of the engineer to  protect  the
+    health, safety and welfare of the public, in many states there  is  the
+    legal duty to inform appropriate authorities of  situations  discovered
+    which may cause injury to the public.
+
+3.    Julie should request permission to look at some more of the clips,  on
+    her own time if necessary.  If Smith refuses to let  her  look  at  the
+    clips she has to go public right then and there.  If she finds that  it
+    is a serious problem, she must make sure that the matter  is  known  to
+    the buyers and they are aware that it must be fixed.
+
+4.    Julie should offer to do the additional clip assessment work  free  or
+    at a reduced cost.  Cost should not  be  allowed  to  contribute  to  a
+    potentially significant public hazard.
+
+5.    The decision on what to do about the  findings  is  Mr.  Smith's.   It
+    would be best for him if he knew the full extent of the problem.  If it
+    is a problem only around the windows,  or  only  on  one  side  of  the
+    building, the buyer may be OK with taking care of it.  If the façade is
+    going to collapse next week, I'm sure that Mr. Smith  doesn't  want  to
+    just let it go.  Including this in the report  helps  him  realize  his
+    responsibility in the situation.  Offering to help is a  professionally
+    and ethically sound course or action for Julie.
+
+6.    Julie should not have signed the contract in the first  place  without
+    stating that she would not compromise her ethical duties.
+
+7.    Smith’s arguments about insufficient time to do  anything  because  of
+    the purchase agreement deadline are prevalent in many  instances  where
+    property transfer is involved.  In reality, a change in the established
+    deadline can always be negotiated by the parties.   It  is  far  better
+    that the seller notify  the  buyer  of  such  a  last-minute  potential
+    problem and negotiate an appropriate method of  handling  it,  than  to
+    keep it undisclosed, only to find that s/he is sued  by  the  buyer  at
+    later date for not disclosing the issue.  Whether the  allegation  will
+    hold up in court or not doesn’t matter.  The  cost  to  the  seller  of
+    adequate legal defense against the complaint, as well as the  time  and
+    energy involved in defending the case, can be  substantial,  especially
+    if injury or a loss of life is involved.
+
+8.    Engineers who believe that a letter from the client, or  the  client’s
+    lawyer, will protect them from a future law suit and judgment are naive
+    at best.  While a specific indemnification agreement wherein the client
+    holds the engineer harmless in all instances may be some protection, if
+    it is a question of the legality of the  engineer’s  actions,  such  an
+    agreement may not be adequate.  It is always better  to  do  the  right
+    thing (and hopefully, for the right reason).
+
+9.    Promises by the client for future work appear to be prevalent in  many
+    instances.   Nonetheless,  such  promises  are  only  as  good  as  the
+    integrity of the person making them.  The engineer ought  to  seriously
+    consider whether it is in the firm’s best interest to  continue  to  do
+    work for such a client if it appears that these promises are made  only
+    to persuade the engineer to “bend the rules” here and there.  Sooner or
+    later, greater problems with the client are most certain to arise,  and
+    it will be all the more difficult for the engineer to avoid involvement
+    in unethical or illegal situations due to previous,  progressive  “rule
+    bending”.  No promise of future work,  no  matter  how  attractive,  is
+    worth the loss  of  the  engineer’s  integrity.   Also,  it  should  be
+    remembered that Mr. Smith wants to leave town forever to retire to  his
+    Grand Cayman Island estate, and therefore will likely not  continue  to
+    do business in this city or area, if anywhere.
+
+10.   Although Julie has a  contractual  obligation  of  confidentiality,  a
+    case could be stated that the  responsibility  to  the  safety  of  the
+    public would override and release her from the contractual obligation.
+
+11.   Acceptance of the confidential letter from Smith  could  be  construed
+    as a cover up and would make Julie an accomplice in any  actions  taken
+    at a later date.  She also has to consider her  responsibility  to  her
+    employees in the event that she were sued for malpractice.
+
+12.   Julie cannot go behind her  client's  back  and  report  her  findings
+    about the build [sic].  She signed a contract of confedenciality [sic].
+    It may hamper her work relations with Mr. Smith.  She also has to  take
+    in  to  consideration  the  employees  and  their   families.    Client
+    confedinciality [sic] is part  of  the  engineer's  "Codes  of  ethics"
+    [sic].
+
+13.   Julie should have Brock  complete  the  entire  report  including  the
+    findings regarding the clip angles  and  transmit  it  to  the  client,
+    Smith, with a cover letter indicating that  because  of  the  potential
+    threat to public safety and life, a copy of the report will be sent  to
+    the local building official.  She should also include  an  invoice  for
+    her firm's services.
+
+14.   The issue of disclosure of a defective building condition is a  matter
+    of real estate law.  If smith is breaking the law by not disclosing the
+    potentially dangerous condition, the real estate transaction  could  be
+    nullified, even if the problem is discovered at a later date.  In  such
+    a case, the new buyer would  have  no  problem  receiving  compensatory
+    damages as well.  Julie should inform Smith of such a possible scenario
+    and note that if such a criminal or civil action is filed, Julie's firm
+    would no longer be bound by their confidentiality agreement  and  would
+    be obligate under the law to provide all information requested.
+
+15.   Julie should inform the city building official  that  her  client  has
+    important and relevant information involving the safety of  the  public
+    and explain that  she  cannot  reveal  the  information  because  of  a
+    confidentiality clause in her contract with the client.
+
+16.   Julie should keep an eye on her husband since he has a  well-developed
+    ability to rationalize and may have other moral shortcomings  that  may
+    affect her more personally.
+

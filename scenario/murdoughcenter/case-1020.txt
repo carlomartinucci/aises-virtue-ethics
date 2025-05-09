@@ -1,0 +1,349 @@
+
+
+                          An Offer You Can't Refuse
+
+                                 (Case 1020)
+
+The mission of the National Institute for Engineering Ethics  (NIEE)  is  to
+promote ethics in engineering practice  and  education.   One  component  of
+NIEE  is  the  Applied  Ethics  in  Professional  Practice  (AEPP)  program,
+providing free engineering  ethics  cases  for  educational  purposes.   The
+following case may be reprinted if it is provided  free  of  charge  to  the
+engineer or  student.   Written  permission  is  required  if  the  case  is
+reprinted for resale.  For more cases and other NIEE  Products  &  Services,
+contact  the  National  Institute  for  Engineering   Ethics,   Texas   Tech
+University, www.niee.org..  (All reprints must contain these statements)
+
+The Case:
+Your firm has been  retained  by  NW  Developers,  Ltd.  (a  large  regional
+shopping center developer) to do field explorations and laboratory  testing,
+and make geotechnical  design  recommendations  for  an  extensive  shopping
+center mall adjacent to a busy interstate freeway in the Pacific  Northwest.
+   More   specifically,   you   are   responsible   for   site   development
+recommendations (including extensive cuts, fill  placement  and  compaction)
+and recommendations for foundation support for the proposed mall  buildings.
+ The developer has entered into a separate contract with Noall  Engineering,
+a civil engineering firm  with  whom  you  have  done  business  previously.
+Noall's responsibility is to design the  proposed  parking  lots,  roadways,
+and  surface  water  drainage  system.   While  you  interact  with  Noall's
+engineers to some extent during your  work,  there  is  no  direct  contract
+between the two firms.  Rather, both firms are under  contract  directly  to
+the developer.  In this way, the  developer  exerts  greater  financial  and
+cost control over the project.
+
+Your analyses indicate  that  the  buildings  may  be  supported  on  spread
+footing foundations with ground-floor slabs supported on grade, as  long  as
+the on-site material is placed and compacted properly.
+
+While you are completing this work, it becomes obvious that  the  city  will
+not allow the traffic volume the  new  mall  will  generate  to  be  carried
+entirely on the existing adjacent streets.  As a result, due  to  the  close
+proximity of the interstate freeway, the developer asks your firm  to  do  a
+geotechnical study and make recommendations for support of a  proposed  off-
+ramp from the interstate freeway directly onto the shopping mall property  -
+a plan which has been approved by the state  Department  of  Transportation.
+It is called a "fly-over ramp" since  it  consists  of  a  bridge  structure
+which will cross over a busy  thoroughfare  in  order  to  access  the  mall
+property from the freeway.
+
+Your firm completes the field work and  analyses  for  the  fly-over  bridge
+structure and recommends that concrete-filled steel pipe piles be  installed
+for  the  heavy  bridge  column  loads.   You  provide  the  developer  with
+specifications for the materials and installation of these  pipe  piles  for
+inclusion in the construction contract documents.
+
+The project is bid in two pieces and awarded to  two  separate  contractors.
+One is responsible for doing the earthwork and compaction  for  the  general
+site grading.  The other, Hirise  Construction,  is  a  bridge  construction
+contractor for  the  fly-over  bridge  ramp.   Your  firm  is  hired  by  NW
+Developers to  provide  field  observations  and  testing  during  the  site
+grading phase of the project, even though Noall made a focused  effort  with
+the developer to have their field construction technicians on the site  (the
+construction period took several months and the  fee  for  the  construction
+observation services was substantial).
+
+While the site grading contract was underway, Hirise began construction  for
+the  fly-over  bridge  foundation  using  Deepdown  Pile  Driving  as  their
+subcontractor for the pile  installations.   Deepdown  purchased  the  steel
+pipe for the  piles  through  a  Canadian  distributor,  who  supplied  pipe
+fabricated in a far-eastern country.  Noall Engineers convinced  the  owner,
+NW  Developers,  that  their  field  technicians  had  years  of  experience
+observing and inspecting pile driving  operations,  and  as  a  result  were
+hired by NW Developers to inspect the pile installations.
+
+During the  initial  day  or  two  of  pile  driving,  Deepdown  experienced
+problems in the field which appeared to  baffle  Noall's  field  technician.
+Your field engineer observing the site grading work offered to provide  some
+assistance to Noall's personnel.   NW Developers thanked you for the  offer,
+but   stated   emphatically   that   the   pile   inspection   was   Noall's
+responsibility, and  your  firm  was  not  to  interact  with  Noall  unless
+specifically requested by NW Developers.   The  project  continued  and  you
+were not requested to assist Noall's personnel.
+
+After completion of the fly-over bridge,  Hirise  Construction  submitted  a
+claim to NW Developers on behalf  of  their  subcontractor,  Deepdown  Pile,
+saying that the pile design  recommendations  prepared  by  your  firm  were
+faulty, and they experienced  numerous  difficulties  during  pile  driving,
+including splits in the spiral pipe welding and buckled splices  where  pipe
+sections were welded together in the field before  driving.   As  a  result,
+they ran out of pipe and had to purchase more at a far  greater  unit  price
+than
+they had agreed in their contract with  Hirise.   Their  extra  compensation
+claim was for $125,000 ($125k) and Hirise tacked on an additional  $15k  for
+their costs in handling the claim with the developer, for a total  claim  of
+$140k to the developer.
+
+Even though your engineer was  not  allowed  to  observe  the  pile  driving
+operations in the field, you were called in by the developer  and  Noall  to
+review the situation.  You discover that 1) Deepdown Pile had  ordered  only
+enough pipe to complete the job on the  assumption  that  no  additional  or
+replacement pipe sections would be  required  during  construction;  2)  the
+length of pipe ordered by Deepdown was based on the depth to the top of  the
+underlying denser soil bearing layer, without allowance for  penetration  of
+the piles into this layer to achieve the  necessary  resistance  to  support
+the column loads; 3) the last several sets of piles driven were made  of  up
+short sections welded together in the field, with as  many  as  seven  field
+butt welds in a 65-foot pile length; 4) photographs of sections of the  pipe
+used clearly showed that the spiral welding was faulty,  and  instead  of  a
+full thickness of pipe wall across the  welds,  the  spiral  weld  was  just
+barely holding adjacent sections of  the  pipe  wall  together  because  the
+spiral was out of round; and 5) Noall's field inspector said nothing to  the
+contractor about these problems during construction and did not  reject  any
+of the pipe material.
+
+The Developer states that they know nothing about this type  of  thing,  and
+that it is something that needs to  be  handled  by  Noall  and  your  firm,
+insinuating that the $140k claim (or whatever is agreed to) should  be  paid
+by someone other than themselves.
+
+Shortly thereafter, you are notified by Noall  that  the  developer  has  in
+fact agreed to contribute $50k to settle the claim and Noall is  willing  to
+contribute $35k to make the problem go away.  They are looking to your  firm
+to come up with the remaining $55k to settle the claim.  You  indicate  that
+the pile design recommendations were correct, your firm was not  allowed  to
+be present during the pile driving to solve problems as they  arose  in  the
+field, and that the evidence indicated that the pipe used in the  piles  was
+inferior.   As  a  result,  your  firm  feels  no  financial  obligation  to
+participate in the claim settlement.  You are willing, however,  to  act  in
+behalf  of  the  developer  and  Noall  in  presenting  and  discussing  the
+technical evidence uncovered.
+
+A couple of weeks later you receive a telephone call from  Noall's  attorney
+who tells you that a mediation hearing is scheduled  and  that  you  are  to
+appear.  The objective of the mediation  is  to  settle  the  claim  without
+going to court.  You have  been  in  a  mediation  hearing  previously,  and
+observed that the facts and merits of the case were only incidental  to  the
+effort by the mediator to have everyone contribute something financially  to
+get the matter settled.  The bargaining was done by the mediator  with  each
+of the parties involved in the claim  individually  in  separate  rooms,  so
+that one party was not sure what the position of any other party  was.   You
+had ended up contributing money to  the  settlement,  even  though  you  had
+strong evidence that the problem was no fault of your firm.
+
+After you tell Noall's attorney that you are happy to attend  the  mediation
+to present technical facts, but  not  to  participate  as  a  party  to  the
+settlement, John Dour, the president of Noall, calls you on  the  telephone.
+During the conversation, he states emphatically that you must appear at  the
+mediation proceedings and be a party  to  the  settlement  because  of  your
+firm's involvement in the project.  He also states  in  no  uncertain  terms
+(and rather loudly) that if you do not appear  at  the  mediation,  he  will
+personally see to it that the State  Board  of  Registration  for  Engineers
+revokes your Professional Engineer's  license.   Also  made  clear  is  that
+Noall Engineers will never do business with your firm again.
+
+After you put down the telephone and notice the smoke still  coming  out  of
+the receiver, you face the question: what, if anything, do you do?
+
+Alternate Approaches  and  Survey  Results  for  “An  Invitation  You  Can’t
+Refuse” (Case 1020)
+1.    Threaten legal  action  against  Noall,  and  possibly  Deepdown  Pile
+    Driving.  Their shoddy work deserves punishment!
+      Percentage of votes agreeing:  2%
+
+2.    Losing your professional engineer’s license is a serious  matter!   Do
+    as Noall’s president, Dour, wants you to do.  Go to the  mediation  and
+    bring your firm’s checkbook.   Nothing  is  worth  not  being  able  to
+    practice your profession!
+      Percentage of votes agreeing:  1%
+
+3.    Play ball.   Your  reputation  and  future  prospects  will  certainly
+    absorb the money your firm will pay as a result of mediation.  Consider
+    it a learning experience (“the cost of doing business”).
+      Percentage of votes agreeing:  2%
+
+4.    Agree to participate in the mediation, but then try  to  convince  all
+    of the participants that you are not responsible  and  should  not  pay
+    anything toward the settlement.
+      Percentage of votes agreeing:  4%
+
+5.    Mediation is far less expensive than litigation (going to court),  and
+    is not binding.  Therefore you should agree  to  mediation,  making  it
+    clear that your firm enters the discussions with the strong  belief  of
+    no responsibility.  Your firm can be a good listener and  at  the  end,
+    not agree to participate  in  any  financial  settlement.   Of  course,
+    pressure will be applied to you to have your  firm  contribute  to  the
+    settlement, but you should not give in – assuming the  facts  developed
+    through the mediation process do not  change  your  firm’s  opinion  of
+    responsibilities.
+      Percentage of votes agreeing:  31%
+
+6.    The Code of Ethics for Engineers published by the National Society  of
+    Professional Engineers (NSPE) and the code published  by  the  American
+    Society of Civil Engineers (ASCE), as well as the code produced by  the
+    American Consulting Engineers Council (ACEC) all indicate that  ethical
+    practice requires an engineer to act in professional matters  for  each
+    employer or client as faithful agents or  trustees.   Therefore,  since
+    Noall has been a client, do as they want, even though it will cost your
+    firm on the order of $55k.
+      Percentage of votes agreeing:  0%
+
+7.    The NSPE Code of  Ethics  (Section  III.1.a)  says,  “Engineers  shall
+    admit and accept their own errors when proven wrong  and  refrain  from
+    distorting or altering  the  facts  in  an  attempt  to  justify  their
+    decisions.”  Since Noall’s personnel were wrong in  not  rejecting  the
+    faulty pipe for the piles, and did not reject the piles  as  fabricated
+    in the field prior to driving, it is they who are violating the Code of
+    Ethics.  You should refuse to attend or participate financially in  the
+    mediation.
+      Percentage of votes agreeing:  18%
+
+8.    Tell Dour that for all the  reasons  you  discovered,  your  firm  has
+    absolutely  no  responsibility  in  this  issue,  and  you   will   not
+    participate  in  any  mediation  proceedings  in  which  there  is  any
+    expectation of your firm contributing money to  the  settlement.   Also
+    tell him that if he persists in threatening you with revocation of your
+    professional license, you in turn will bring the entire  matter  up  to
+    the State Board of Registration for Professional Engineers, and testify
+    regarding his unprofessional extortion tactics.
+      Percentage of votes agreeing:  27%
+
+9.    Welcome the opportunity to “never do business”  with  Noall  Engineers
+    again.  They obviously do not respect the consultants they  deal  with.
+    Also tell Dour that if he contacts the State Board of Registration  for
+    Professional Engineers to have your license revoked, you  will  contact
+    the Board and present the strong evidence showing  that  his  firm  was
+    negligent in managing the job, and you will consider taking the case to
+    court claiming professional harassment.  (Perhaps he can also see smoke
+    coming from his telephone receiver!)
+      Percentage of votes agreeing:  15%
+
+
+
+
+Forum Comments from Respondents
+
+1.    Accept the offer to participate  in  mediation  because  I  knew  that
+    Noall was inexperienced in inspecting the job in the field and did  not
+    bring specific errors of the inspection process to  NW  Developers.   I
+    will gladly pay some of the  settlement;  however  the  amount  of  the
+    payment should be less than Noall’s, due to the fact that it was  their
+    negligence which allowed Deepdown Pile to perform in an  unsatisfactory
+    manner.
+
+2.    By participating in the mediation meeting, only  presenting  technical
+    evidence, and not agreeing to a financial settlement,  the  possibility
+    of any wrongdoing on your part may be explored further.  Also,  it  may
+    become evident that Noall Engineers is liable and have  no  grounds  to
+    seek a settlement or complain  to  the  state  Board  of  Registration.
+    However, choosing to remain silent may help Dour’s case against you  in
+    court, and the legal fees and detrimental effects on  your  career  may
+    exceed any potential mediation settlement.
+
+3.    The cost of going to court and dealing with attorneys will be more  in
+    the end that the cost of just paying the $55,000.  This geotech company
+    should have gotten the contract in writing specifically  listing  their
+    responsibilities.  Since it is clear that they haven’t, they better eat
+    the cost and not deal with the attorneys,  and  be  extremely  cautious
+    around Noall Engineering  in  the  future.   [ed.  note:  there  is  no
+    indication that there was not a written contract – there was.  Based on
+    normal profit margins, it would take new contracts for other clients in
+    excess of $550,000 just to break even, so giving away $55,000 is not  a
+    minor issue.]
+
+      [ed. note  for  comments  1-3:  mediation  is  not  litigation  (court
+    proceedings); Dour is not suing you, he is trying to  convince  you  to
+    bring a bag of money to a settlement hearing.]
+
+4.    You should be willing to contribute a small amount to  the  settlement
+    (maybe $20 – $25k) but stand firm on the stance that your firm  is  not
+    responsible and should not carry the brunt of the payment.  [ed.  note:
+    if your firm is not  responsible,  why  contribute  any  money  to  the
+    settlement?  It will take new contracts for other clients in excess  of
+    $250,000 just to break even without a profit gain.]
+
+5.    This one I would FIGHT!  Changes made in the  field,  like  improperly
+    welding short sections together under another company’s inspector,  are
+    not your company’s responsibility.  You were told “not to interact with
+    Noall unless specifically requested by NW Developers.”  You should take
+    all  your  documentation  to  the  state  Board  of  Registration   for
+    Engineers.  Tell them you have been threatened by  another  engineering
+    firm, convene the facts in the case and let the chips fall  where  they
+    may.  I am on the State Board of Registration in  my  state  and  Noall
+    would be in hot water with me for threatening another engineering firm,
+    when it appears that Noall was a big part of the problem.  Stand up and
+    fight!
+
+
+Epilogue
+
+As it turns out, you reiterated you position that you had no  responsibility
+for the screw-ups in the field, and decided not to appear at  the  mediation
+meeting, but told Noall’s attorney that you would be available by  telephone
+if technical questions arose needing your input.  They  didn’t  call.   Your
+engineering staff was  quite  disturbed,  fearing  that  your  action  would
+alienate Noall and there would be no more work from them in the future  (not
+that there had been any appreciable work with them in the past).
+
+Some time later you learned that in lieu of  a  monetary  contribution  from
+your firm, NW Developers assigned your written contract for the design  (but
+not the  inspection)  of  the  piles  to  the  contractor  as  part  of  the
+settlement. The contractor felt they could in turn sue you  directly  (since
+they now had been legally assigned your contract and you were  no  longer  a
+third party in your legal relation to them).  When they got  back  to  their
+office after signing the settlement agreement with NW Developers  and  Noall
+Engineers, the contractor discovered that you had included a clause  in  the
+pile design contract with NW Developers limiting your liability  (the  total
+amount the client could sue you for) to $50,000 or your fee,  whichever  was
+less (a standard practice for quality engineering firms). You had  completed
+your scope of services under the contract and the fee paid to your  firm  by
+NW Developers for  completion  of  the  pile  design,  including  the  field
+explorations and laboratory testing, was on the order of $20,000.  In  order
+to try to recover that amount from you, the contractor would have  to  spend
+considerably more in legal fees and court costs, and run the very real  risk
+of having their complaint thrown out entirely.   They  did  not  pursue  the
+issue any further.
+
+Despite the trepidations of your staff, you  understood  that  in  many/most
+cases, meditation is intended to bring opposing parties together  to  effect
+a settlement of some sort, which may or may not be totally  satisfactory  to
+the individual parties involved, but is considered to  be  far  better  than
+expending the funds necessary to take the issue to court, and run  the  risk
+of losing even more  money.  Participation  of  the  individual  parties  is
+voluntary, and the mediation does not proceed unless a sufficient number  of
+key parties participate.  Such mediations usually are  limited  to  one  day
+(or perhaps two) with an outside mediator  hearing  each  party  tell  their
+side of the story, even if it is not totally factual or  substantiated.  The
+issue of who is right and who is wrong is of little consequence.
+
+After the initial presentations by the participants, they are split up  into
+separate rooms away from each other, and the mediator  uses  what  s/he  has
+heard to convince each of  them  individually  that  it  is  in  their  best
+interest to put a sum of money (recommended by the mediator)  into  the  pot
+to make the problem go away.  The mediator goes from one  party  to  another
+in marathon fashion, bargaining for amounts required to  satisfy  the  total
+claim,  using  whatever  legal,  quasi-legal,  psychological  or   emotional
+tactics they deem appropriate to convince the  participants  and  bring  the
+proceedings  to  a  speedy  resolution.   Once   that   is   achieved,   the
+participants sign the agreement and go away, if  not  totally  satisfied  at
+least feeling that  they  avoided  spending  unnecessary  large  amounts  on
+lawyers, which could never be recovered.
+
+Needless to say your firm did no work for Noall Engineers for several  years
+while Mr. Dour was still president.  But then, you had done little, if  any,
+work for them previously, ad were not working under a contract with them  on
+this project.  It was obvious they were making every attempt they  could  to
+take work (the pile installation inspection)  away  from  you  in  order  to
+increase their  own  fees,  and  reaped  an  appropriate  reward  for  their
+efforts.
+
+

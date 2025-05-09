@@ -1,0 +1,389 @@
+
+
+                    Design/Build – a TE/STI Relationship
+                                 (Case 1040)
+
+
+The mission of the National Institute for Engineering Ethics  (NIEE)  is  to
+promote ethics in engineering practice  and  education.   One  component  of
+NIEE  is  the  Applied  Ethics  in  Professional  Practice  (AEPP)  program,
+providing free engineering  ethics  cases  for  educational  purposes.   The
+following case may be reprinted if it is provided  free  of  charge  to  the
+engineer or  student.   Written  permission  is  required  if  the  case  is
+reprinted for resale.  For more cases and other NIEE  Products  &  Services,
+contact  the  National  Institute  for  Engineering   Ethics,   Texas   Tech
+University, www.niee.org..  (All reprints must contain these statements)
+
+The Case:
+Ethan Roberts, P.E. is the principal in charge  of  design  for  intelligent
+transportation systems, one  of  many  specialty  services  that  his  firm,
+Tecxtrans Engineers, offers in  the  transportation  market  sector.   These
+intelligent   transportation   systems   encompass   a   broad   range    of
+communications-based  information  and  electronics  technologies  aimed  at
+relieving congestion and improving traffic safety.
+Tecxtrans has historically offered services in the public  sector  and  only
+within the context of traditional design-bid-build (D/B/B) project  delivery
+agreements.   This  is  because  Federal  statutes  require   that   highway
+construction contracts be awarded competitively  to  the  lowest  responsive
+bidder.  In  such  cases,  Tecxtrans’  professional  services  are  procured
+through a  qualifications-based  selection  process;  whereas,  construction
+contracts are competitively bid.
+But in an effort to streamline delivery of a new intelligent  transportation
+system for the City of Franklin – a  large  metropolitan  community  in  the
+northeastern United States – the state department of  transportation,  EDOT,
+opted to use a design-build (D/B) contract.   Through  careful  negotiation,
+EDOT got  a  ruling  that  the  Franklin  project  could  be  viewed  as  an
+experimental project and  that  D/B  would  satisfy  existing  statutes  and
+regulations as long as the project was  awarded  using  competitive  bidding
+procedures.
+So it happened that Tecxtrans Engineers teamed up  with  Specialty  Transit,
+Inc., an out-of-state construction contractor, to pursue the  project  as  a
+partnership-type joint venture (TE/STI).
+The decision to pursue the project under a D/B  agreement  was  a  difficult
+one for Ethan.  On the one hand, Ethan felt that by getting into D/B he  was
+taking on undesirable risk.  Convinced that Tecxtrans held the inside  track
+in terms of qualifications, and owing to the  fact  that  EDOT  was  one  of
+Tecxtrans’ flagship clients, Ethan was sure his firm would  be  short-listed
+in a traditional D/B/B contract.  From this position of strength, he  didn’t
+relish  the  idea  of  worrying  about  construction  risks.   Additionally,
+Tecxtrans had no  D/B  experience,  so  Ethan’s  team  was  unaccustomed  to
+serving as a partner with the contractor.
+On the other hand, Ethan recognized the limitations of D/B/B, and could  see
+how D/B holds the potential to streamline project delivery.   In  fact,  the
+trend toward D/B for  private  contracts  had  been  growing  steadily,  and
+because of this, Ethan felt it would be in Tecxtrans’  interest  to  explore
+D/B  teaming  arrangements  in  the  public  sector,  simply   to   maintain
+marketplace competitiveness.  Who better to serve  clients  in  this  manner
+than a respected firm like Tecxtrans?  By this line of thinking,  Ethan  was
+practically obligated to pursue the D/B project delivery option.
+
+The  biggest  challenge  was  to  find   the   right   contractor   partner.
+Fortunately, Ethan had been sought out and approached by Specialty  Transit,
+Inc., a well-known and successful  transportation  contractor.   With  their
+long experience  in  D/B  contracting  in  other  regions  of  the  country,
+Specialty Transit was interested in the Franklin project for  at  least  two
+reasons: (1) this project represented a  move  into  a  new  region  of  the
+country strategic to Specialty Transit’s growth, and (2)  they  were  highly
+qualified   to   do   infrastructure   type-construction   associated   with
+intelligent transportation systems.  For Specialty Transit, the key  was  to
+find the right engineering firm, one who enjoyed  the  trust  of  the  owner
+(EDOT) and –  equally  important  –  a  firm  with  the  appropriate  design
+expertise.  By partnering with Tecxtrans, Specialty Transit felt they had  a
+“marriage made in heaven.”
+
+The project pre-proposal meeting was  the  wedding  that  brought  Tecxtrans
+Engineering  and  Specialty  Transit,  Inc.  together.   Yes,  the   teaming
+negotiations were dynamic –Ethan’s legal staff considered them  a  nightmare
+due  to  the  complex  contractual,  insurance  and  organizational  issues.
+However, Ethan was able to get quite a bit of mileage out of the  fact  that
+his firm was, without  question,  the  most  qualified  local  design  firm.
+Recognizing  that  Tecxtrans’  expertise  and  relationship  with  EDOT  was
+critical to any contractor’s  success,  Ethan  negotiated  a  50/50  profit-
+sharing arrangement with Specialty Transit’s project manager, Marc  Stanton.
+
+
+Marc was not  happy  about  this.   His  perspective  was  that  contractors
+generally make considerably more  profit  than  engineers  do  on  the  same
+project, and he had no desire to split  profits  evenly  with  an  engineer.
+Marc felt this was far too high a price to pay for gaining  Tecxtrans’  help
+in marketing.  But Ethan  held  firm,  and  largely  due  to  the  strategic
+importance of the project, the parties reached an agreement and  the  TE/STI
+partnership was formed.  Marc was the managing partner of the joint  venture
+and was responsible for Specialty Transit’s  work,  while  Ethan  served  as
+Tecxtrans’ principal.  The general understanding was  that  Tecxtrans  would
+be responsible for design and Specialty Transit  would  be  responsible  for
+construction; the issue of what to do in case of a design conflict  was  not
+explicitly addressed.
+
+The  design-build  procurement   approach   required   that   EDOT   provide
+prospective bidders with a set  of  functional  requirements  detailing  the
+various capabilities of the  completed  system.  EDOT  provided  a  detailed
+project description to the  bidders,  including  corridors  for  deployment,
+functional requirements for equipment, and hardware and  software  interface
+design.  A multi-step process was followed to  select  the  D/B  contractor,
+the ultimate objective being to provide EDOT with the best value  for  their
+investment.
+Quite frankly, it was here – in the bid phase – that Ethan started  to  have
+doubts about executing the D/B  arrangement.   For  example,  Ethan  noticed
+that various details in the EDOT-provided project information left  much  to
+the imagination.  Technically these were not errors or omissions,  but  were
+points open to interpretation that might turn out  to  be  substantial  cost
+and/or quality factors in the completed project.  In D/B/B,  Ethan,  as  the
+owner’s representative, would have discussed these issues  with  EDOT.   But
+in D/B, Ethan’s relationship with the owner and contractor  were  different.
+Not sure about how to proceed, Ethan sought out Marc’s counsel.
+Based on his long experience with D/B projects,  Marc  informed  Ethan  that
+the D/B customer (in this case, EDOT) has to realize that the engineer  will
+be aligned with the contractor and will share in the profits and  losses  of
+the  venture.  Therefore  the  engineer’s  fiduciary  duties  are   to   the
+contractor, not the customer.  Recognizing Ethan’s struggle with this  shift
+in roles, Marc reminded Ethan that if the engineer offers any advice to  the
+customer, it should be with the open understanding that such advice may  not
+be wholly objective.  In fact, when the engineer is in  a  D/B  relationship
+with the customer, it would be improper if not deceptive  for  the  engineer
+to mislead  the  customer  into  regarding  the  engineer  as  an  impartial
+advisor.
+Marc further explained that D/B is not much,  if  any,  different  from  the
+contractor’s usual relationship with the  customer.   That  is,  contractors
+often give valuable construction advice to their customers.  In most  cases,
+the recipient  of  the  advice  realizes  that  it  might  not  be  entirely
+objective. Some advice given by the contractor might  be  considered  to  be
+like a sales pitch and is accepted as such, as long as  it  does  not  cross
+the thin line  into  misrepresentation.   Further,  in  D/B  the  engineer’s
+financial  position  is  very  close  to  the  contractor’s  and  in  direct
+opposition to that of the customer.
+Acknowledging Marc’s  experience  in  the  matter,  and  the  truth  of  the
+situation with respect to D/B, Ethan  reluctantly  agreed  to  say  nothing.
+Ultimately the TE/STI partnership was awarded  the  Franklin  contract,  the
+notice-to-proceed was given, and work began.
+The project is now approaching 85 percent completion, and Ethan reflects  on
+the  cooperative  relationship  between  his  firm  and  Specialty  Transit.
+“Cooperation” somehow doesn’t adequately capture the effort –  it  has  been
+more like cohabitation, and it seems pretty clear  to  Ethan  that  Marc  is
+accustomed to wearing the pants in the relationship.   With  the  gentleness
+of a steamroller, Marc has aggressively pushed the design schedule  to  make
+project milestones.  Some lessons have been painful, but  Ethan  knows  this
+is not all bad.  Projects have budgets and deadlines, and Marc  has  reasons
+for displaying statements like “Hurry every time you think  about  it,”  and
+“It is better to seek forgiveness than permission,”  on  the  walls  of  his
+office.  Granted, Ethan has not conceded  design  responsibility,  but  only
+through  vigilance  and  conflict  has  Ethan’s  engineering  staff  avoided
+becoming unacceptably subservient.
+And so it continues.  Today, though, Ethan has encountered  a  more  serious
+issue.   While  reviewing  subcontractor  submittals  for  compliance   with
+specifications,  Ethan  notices  that  Marc  has  authorized  several  field
+changes that Ethan does not at all agree  with.  In  the  struggle  to  keep
+costs  within  the  guaranteed  maximum,  Marc  has  apparently  substituted
+electronics hardware that Ethan sees  as  being  inferior  –  tantamount  to
+degradation of  the  quality  of  materials  and  design.  Ethan  is  deeply
+disturbed because the substitution has occurred on  the  very  same  systems
+that he discussed with Marc during the bid phase – the ones that were  “open
+to interpretation.”  Clearly, Marc is interpreting as a  “contractor”  would
+– in his own favor.
+But therein lies the rub – for all intents and  purposes,  Ethan’s  firm  is
+the contractor now.  And based on previous interactions with Marc, Ethan  is
+painfully aware that design conflicts are not  expressly  addressed  in  the
+TE/STI  partnership  agreement.   Further,  the  engineer’s  usual  role  as
+adjudicator  of  disputes  between  the  owner  and  contractor   would   be
+inappropriate in the D/B setting.
+Ethan ponders the fact that in D/B the engineer has no incentive  to  report
+this type of construction  irregularity  to  the  customer.   But  Ethan  is
+concerned about maintaining the trust of EDOT and about his  own  reputation
+for designing a quality project.  Ethan knows he has to learn to operate  in
+the milieu of contracting as a business and not as an impartial  advisor  to
+the owner.  This may be a gray area but  there  definitely  are  two  sides.
+Ethan is torn between his professional obligation to serve EDOT and his  own
+financial interests – not to mention his legal obligations – to fulfill  his
+responsibilities as a partner in the joint venture.
+What should Ethan do?
+Alternate Approaches and Survey Results
+Note: This case is based in part on: “Design/Build:  What’s  it  all  about?
+Where do you fit in?” by Arthur O’Leary, Design Cost Data, July/August  2001
+<http://www.dcd.com/oleary/oleary_ja2001.html>
+Alternative Approaches
+   1. Celebrate success, happily.  Ethan needs to loosen up  and  count  the
+      revenue.  He got into this business to earn a profit, and if he  stays
+      out of Marc’s way, a handsome profit is what he will  make.   TE/STI’s
+      success is a blessing, not a sin.
+      Percentage of votes agreeing: 0%
+   2. Meditate on success, pragmatically. EDOT’s decision to go D/B was done
+      with their eyes wide open.  So who is Ethan to say that the value  the
+      TE/STI joint venture is delivering to EDOT in terms  of  schedule  and
+      budget savings does not overshadow any potential quality  concern?  No
+      one gets to have it both  ways.   Perhaps  EDOT  isn’t  getting  every
+      measure of quality that might emerge from D/B/B, but they are  getting
+      what they wanted and what they paid for.  There is no problem here.
+      Percentage of votes agreeing: 0%
+   3. Live with success, guiltily.  If Ethan does nothing,  it  seems  clear
+      that installation of the inferior electronic gear will, at a  minimum,
+      increase system maintenance.  So yes, Ethan is right to feel that EDOT
+      won’t get the project they could have had. And yes,  Ethan  stands  to
+      make more profit under the circumstances.  But it was EDOT, not Ethan,
+      who chose D/B and opened the door to such possibilities.  It  may  not
+      seem right, but Marc is only playing by the rules and Ethan  has  done
+      nothing wrong.  Best to let it alone.
+      Percentage of votes agreeing: 0%
+   4. Talk to Marc, openly.  The TE/STI joint venture  simply  cannot  serve
+      EDOT well if Ethan and Marc do not communicate.  Ethan should  have  a
+      heart-to-heart with Marc and  explain  his  thoughts,  questions,  and
+      concerns about the design change.  Further, Ethan should trust Marc to
+      respond professionally and do the right thing  in  view  of  the  best
+      available data, not the least of which is Ethan’s expert opinion.
+      Percentage of votes agreeing: 35%
+   5.  Challenge  Marc,  directly.   Conflict  is  the  stuff   of   healthy
+      relationships, and Ethan must “push back.”  Marc needs to be  reminded
+      that “design” comes before “build” in D/B. Since Ethan is  responsible
+      for the design aspect of the project, Ethan alone approves changes  to
+      components of the system.
+      Percentage of votes agreeing: 11%
+   6. Bring in the experts, quickly.  Situations like  this  should  not  be
+      handled in  isolation.   Ethan  and  Marc  should  retain  an  outside
+      engineering firm to perform a peer review of the systems  in  question
+      to determine their adequacy, and also offer a recommendation  on  what
+      should be done contractually relative to EDOT.
+      Percentage of votes agreeing: 11%
+   7. Negotiate with EDOT, aggressively.  Ethan must once again mobilize his
+      considerable negotiating skills to help Marc see past short term  gain
+      long enough to bring the quality issue to EDOT.   Together  they  must
+      help EDOT see the value of the higher  quality  electronics,  and  get
+      EDOT to pay for this.  Of course the risk is that EDOT may feel  Ethan
+      and Marc are conspiring to submit an  unjustified  change  order,  and
+      this will foul the relationship.  But the risks of  poor  quality  are
+      much greater.
+      Percentage of votes agreeing: 11%
+   8. Bear the burden, nobly.  If anyone is innocent in the ongoing conflict
+      that Marc and Ethan are experiencing, it is  EDOT.   EDOT’s  interests
+      (and by implication, the public’s interests) should be held paramount.
+       Knowing that Marc will not likely back down from  his  position,  but
+      feeling that it is critical to get the original  equipment  installed,
+      Ethan should agree to give up a portion of his share of the profits to
+      offset the cost of the better components.
+      Percentage of votes agreeing: 5%
+   9. Cost share with EDOT, equally.  These  kinds  of  quality  issues  are
+      intrinsic to contracting in general and to this transportation project
+      in particular.  Responsibility is really a matter of perspective.   If
+      Ethan or Marc or EDOT were  to  say,  “Not  my  problem,”  this  leads
+      nowhere.  But if each party were to view the situation  as  everyone’s
+      problem, they can take ownership and forge some type  of  cost-sharing
+      agreement.  Everyone will have to pay something, but everyone will get
+      something, too.
+      Percentage of votes agreeing: 19%
+  10. Conspire with EDOT, quietly.  It is not hard  to  see  that  when  the
+      project is over, Ethan and EDOT will still be in town, but  Marc  will
+      not.  It is clearly in both EDOT’s and  Ethan’s  interest  to  deliver
+      exceptional quality to this project.  Contractual  obligations  aside,
+      Ethan’s ultimate responsibility is to the public, so Ethan must go  to
+      EDOT to apprise them of the inferior system Marc intends  to  install.
+      Thus empowered, EDOT can direct a solution that both  protects  EDOT’s
+      (the public’s) interests and rewards Ethan for his loyalty.
+      Percentage of votes agreeing: 8%
+Forum Comments from Respondents
+   1. This is a  very  difficult  situation  for  Ethan.   In  essence,  the
+      struggle is whether each of the parties in the relationship trusts the
+      other. Does Ethan trust Marc to look out for his (Ethan's)  reputation
+      with the client rather than just the bottom line?  Do Ethan  and  Marc
+      trust EDOT to own up to the fact that if they want high quality,  they
+      will have to pay for high quality?  Does Marc trust Ethan  to  protect
+      his profit? Does EDOT trust Ethan and Marc  to  deliver  this  project
+      faster, cheaper and better?  Communication is the means by which these
+      questions can be answered, and the place to start  is  a  conversation
+      between Ethan and Marc.
+
+   2. Changes are being made which can lead to inferior systems, potentially
+      violating the  contract.   No  procedures  have  been  established  to
+      formally document or negotiate such changes.  Failing to address  this
+      issue  may  result  ultimately  in  changes  which  could   jeopardize
+      reliability and safety.  Further, Marc  is  clearly  behaving  towards
+      Ethan's firm aggressively, not as a partnership.  This can  only  lead
+      to larger problems as each partner's  vision  of  the  project  drifts
+      further apart.  This is clearly a communication  issue  that  must  be
+      resolved.  Once that is done, the specific issue at  hand,  which  may
+      violate the contract with EDOT, should be dealt with given  the  tools
+      for communication that are established.
+
+   3. As D/B processes emerge and evolve, all parties (Engineer, Contractor,
+      Owner) will need to embrace the realities of the  new  model.   Within
+      the new Engineer/Contractor relationship, neither party will  be  able
+      to claim an absolute authority regarding some  (most?)  decisions.  In
+      these  cases,  these  "partners"  must  be  open  to  evaluation   and
+      discussion of inevitable  problems  and  disagreements.  The  Engineer
+      cannot abdicate his responsibility in the name of profit, nor can  the
+      contractor choose to ignore the inevitable need to balance quality and
+      costs. Realistically these same choices are made by  both  parties  in
+      the D/B/B process, but perhaps in  a  different  sequence.   Likewise,
+      within the  new  Engineer-Contractor/Owner  relationship,  there  will
+      likely be numerous cases where clear  contractual  language  does  not
+      exist to resolve every issue. If there is not opportunity for the open
+      discussion of uncertainties and omissions, then neither party will  be
+      able to realize the potential of the D/B  process.  Again,  this  same
+      reality exists within the D/B/B process.
+
+Comments from Board of Review Members
+   1. If the substituted electronics hardware  might  result  in  a  health,
+      safety or welfare problem for the public, then I believe Ethan has the
+      responsibility to talk  with  EDOT  about  the  substitution.  Such  a
+      situation overrides the financial and  contractual  agreement  he  has
+      with Specialty Transit, Inc.  Poor Ethan. He could  lose  either  way.
+      His reputation is either tarnished with STI or  with  EDOT.  From  his
+      interactions with Marc, I doubt whether Ethan would want to work  with
+      STI  in  the  future,  but  he  should  want  to  keep  his   positive
+      relationship with EDOT. Ethan, don’t make a  bad  situation  worse  by
+      losing your firm’s good reputation with EDOT.
+
+   2. Other issues are at stake besides the interrelationship between system
+      quality and the public health, safety and welfare.  The  TE/STI  Joint
+      Venture, Ethan’s and  Marc’s  long-term  reputations,  future  project
+      opportunities, and short-term profits are also  valid  considerations.
+      As the project designer,  Ethan  should  investigate  the  performance
+      aspects of the various changes and make his  own  determination  about
+      which changes will be acceptable, which are not acceptable, and  which
+      are borderline.  Ethan must then negotiate with Marc in  the  interest
+      of all parties with a view to all aspects of the situation,  not  just
+      the ones that are closest to him.  It is critical that Ethan and  Marc
+      be together on this.  From a position of  unity,  they  must  initiate
+      conversation with EDOT to resolve the matter.
+
+   3. Ethan has first to come to grips with the realities of Design/Build.
+         • His responsibility is to provide a design that complies with all
+           applicable codes for the quoted price and  that  is  serviceable
+           for the intended use. The construction industry  is  held  to  a
+           standard of serviceability, i.e., make  it  work  based  on  the
+           scope of work and the contract terms and conditions.
+         • Designer preference for specific manufacturers and models has to
+           be tempered by objectively looking at  the  alternates,  putting
+           aside the requirement for the “best” (in  whose  judgment?)  and
+           making an informed judgment on the  viability  of  the  specific
+           alternative based on the above statement.
+
+
+      Ethan will have to present an argument  to  Marc  from  the  following
+standpoints:
+         • The equipment has a bad maintenance history.
+         • The equipment has  a  poor  warranty  history/reputation,  i.e.,
+           warranties  will  be  honored  but  only  after   much   hassle.
+           Warranties cost the  contractor  because  the  removal  of  such
+           equipment,  shipment  back  to   the   manufacturer,   and   re-
+           installation are not covered by the supplier’s  warranty.  These
+           last items have a cost associated with them that the  contractor
+           has to bear. How was this addressed in the cost sharing split in
+           the joint venture agreement?
+         • The reputation of the joint venture for future work,  with  this
+           client and others, will hinge on the client’s satisfaction  with
+           this project.
+
+
+      If Marc does not relent, Ethan can:
+         • Check with EDOT a few months after the project is completed  and
+           find out how satisfied they are with the project.
+         • Discontinue the partnership/joint venture based on the  response
+           from EDOT to the customer satisfaction inquiry.
+         • Meet with EDOT after this project is finished and explain why he
+           was not an advocate for them.
+         •  Apologize  to  EDOT  for  not  conducting   a   due   diligence
+           investigation into STI’s reputation.
+   4. Like it or not, Design/Build is here  to  stay.   Unfortunately,  this
+      method  of  project  delivery   tends   to   cloud   the   traditional
+      responsibilities  of  the  Engineer,  now  that  the  client,  through
+      contractual obligation, is the Contractor, rather than the Owner.  The
+      ethical responsibility to “act as a faithful agent or trustee” of each
+      client can easily be at odds with  the  fundamental  charge  to  “hold
+      paramount the safety, health, and welfare of  the  public”  (see  ASCE
+      Code of Ethics).  In this particular case, it  isn’t  obvious  whether
+      the substitution of the inferior electronic system represents a threat
+      to the safety of the public, or merely  a  decrease  in  quality  that
+      will, at worst, increase the project’s life cycle cost to  the  Owner.
+      If the poor quality components place the public at risk, then  Ethan’s
+      choice is clear – he must do everything in his power  to  ensure  that
+      the  proper  equipment  is  installed,  regardless  of  the  potential
+      consequences  to  Tecxtrans  or  the  TE/STI  partnership.    If   the
+      ramifications are only economic, then Ethan has more of a dilemma.  He
+      must weigh the cost of the higher quality components against the value
+      of his firm’s reputation.  In this scenario,  it  may  be  prudent  to
+      propose some solution to Marc that would allow the better equipment to
+      be installed, but with Tecxtrans shouldering the additional  financial
+      burden.  Regardless of the course followed, Ethan must have  his  team
+      of lawyers close the loophole in their contractual language  that  led
+      to this problem, so future D/B partnerships do  not  lead  to  similar
+      challenges.
+
+

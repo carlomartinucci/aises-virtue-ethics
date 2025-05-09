@@ -1,0 +1,225 @@
+
+                     The Leaning Tower: A Timely Dilemma
+                                 (Case 1001)
+
+The mission of the National Institute for Engineering Ethics  (NIEE)  is  to
+promote ethics in engineering practice  and  education.   One  component  of
+NIEE  is  the  Applied  Ethics  in  Professional  Practice  (AEPP)  program,
+providing free engineering  ethics  cases  for  educational  purposes.   The
+following case may be reprinted if it is provided  free  of  charge  to  the
+engineer or  student.   Written  permission  is  required  if  the  case  is
+reprinted for resale.  For more cases and other NIEE  Products  &  Services,
+contact  the  National  Institute  for  Engineering   Ethics,   Texas   Tech
+University, www.niee.org..  (All reprints must contain these statements)
+
+The Case:
+A medium-sized town in the Northeast derived the bulk of  the  local  income
+years ago from shoes manufactured in  an  extensive  mill  facility  on  the
+banks of the river running through the town.  The mill had  originally  been
+located on this site in order to use  water  power  as  the  primary  energy
+source for running the  mill  equipment  through  a  vast  array  of  belts,
+pulleys  and  reduction  gears.   However,  because  of  the  site  location
+adjacent to the river, the  soils  tended  to  be  loose  and/or  moderately
+compressible,  requiring  deep  foundations  for  heavier  portions  of  the
+structures.
+
+One of the most prominent mill structures was the original tower  which  was
+in excess of 15 stories in height, and over the years the  large  clocks  on
+all four sides of the tower became the standard reference for  correct  time
+in the local community, even after the mill became defunct and lay idle  for
+more than 35 years.  Recently however, the region has realized an  increased
+growth due to a demand for computer  software  development  for  industrial,
+medical and personal uses.  MegaBite Unlimited, a nationally known  computer
+software development firm, surveyed a number  of  sites  in  the  state  and
+decided that because of the semi-rural atmosphere of the  town,  the  above-
+average educational background of most of the residents and  the  attractive
+tax incentives offered by the local improvement  board,  they  would  design
+and build a new corporate facility in the town.
+
+The prime site for the new facility was the abandoned mill and clock  tower.
+ Since the mill buildings had been left without maintenance for such a  long
+period, it was decided to demolish them and build  an  efficiently  designed
+complex of structures which would  complement  the  colonial  decor  of  the
+area.  The local planning  commission  concurred  with  this  decision,  but
+insisted that the original 15-plus  story  clock  tower  be  retained  as  a
+symbol of the prosperity the town once enjoyed,  and  would  now  experience
+again.
+
+During the design  of  the  new  facility,  MegaBite  Unlimited’s  architect
+retained I. B. Stout, a structural engineer from a nearby city,  to  do  the
+structural engineering and design such systems as might be necessary  during
+demolition of the old structures in order to protect the  old  clock  tower,
+if necessary.  Stout’s review of  the  available  records  showed  that  the
+heavy clock tower was supported on a 48-foot square mat at a depth of  about
+18 feet below ground surface, and the mat in turn was  supported  on  wooden
+piles driven to some depth below the  water  table  to  pick  up  additional
+support in the underlying soils.  Based on this information, Stout  designed
+a shallow retaining system for support of the sides of the excavation  which
+would occur during demolition of the adjacent mill  buildings  approximately
+50 feet away.
+
+The plans and specifications for the demolition were completed,  along  with
+the  design  documents  for  the  proposed  new  facility,   advertised   to
+contractors for bid, and the job was let to Colonial  Construction  Company,
+a general construction contractor in business for more than 60 years in  the
+local  area.   Since  Colonial  had  the  necessary  heavy  equipment,  they
+proceeded with the demolition work  as  one  of  the  first  stages  of  the
+project.  About  the  time  that  the  demolition  excavation  had  come  to
+approximately 100 feet from the old clock tower,  one  of  the  construction
+crew noted that the tower seemed a bit out of plumb, but thought  little  of
+it, since the tower was so  old.   However,  as  the  excavation  progressed
+closer to the tower, it became apparent that the tower  was  tilting  at  an
+increasing rate, and toward the demolition excavation.
+Colonial stopped work over a weekend to consider what steps, if any,  should
+be taken with regard to the clock tower.  Upon  returning  to  the  site  on
+Monday morning, new survey measurements indicated that the tilt at  the  top
+of the tower had increased to six inches.  At that point Colonial called  W.
+E. Holdem, Inc., a specialty ground modification  subcontractor,  and  asked
+for their assistance in correcting the  situation  so  that  the  demolition
+could  be  completed  to  the  extent  originally  planned.   Realizing  the
+seriousness of the problem, Holdem in turn called  in  Jonathan  Turnbuckle,
+an engineering consultant in the Midwest who  had  an  excellent  reputation
+for coming up with  innovative,  cost-effective  solutions  to  construction
+problems requiring ground modification.  Holdem knew of  Turnbuckle  because
+they had worked together on a number  of  projects  over  the  past  several
+years in other areas of the country.
+
+Turnbuckle was quick to respond; visited the  site;  assessed  the  problem;
+devised a solution with a reasonable chance of success; conferred  with  the
+architect, I. B. Stout, the architect’s  geotechnical  engineer,  MegaBite’s
+representatives and  the  town’s  building  officials  and  the  mayor,  and
+explained the solution.  He also made  recommendations  for  standby  cranes
+and other safety precautions should it not  be  possible  to  implement  the
+proposed ground modification scheme in time to  save  the  clock  tower  and
+avert potential property damage and possible personal injury.
+
+The  entire  group  cooperated  in  expediting  the  standby  equipment  and
+procedures. Holdem mobilized on the site within two days and  initiated  the
+remediation procedure devised by  Turnbuckle,  successfully  continuing  the
+process and averting the collapse of the clock tower.  It took a  period  of
+about 70 days to continue the process  until  the  adjacent  demolition  was
+completed and the excavation backfilled, with  constant  monitoring  on  the
+site and analyses being required for at least the first 45  days.   No  one,
+including I. B. Stout whose original  design  had  allowed  the  problem  to
+occur, was sued.
+
+About three weeks or so after the remediation  procedure  was  initiated  by
+Holdem, Inc., Jonathan Turnbuckle realized that since the  solution  he  had
+devised was an engineering design, he should have permission to practice  in
+the state, if only for a temporary period.  He then  contacted  the  state’s
+Board of Registration for Engineers and Surveyors,  requesting  a  temporary
+engineering license.  He was told by the Board that although many states  do
+have a provision for such a temporary or  short-term  permit  for  engineers
+licensed in other states, this particular state had no  such  provision  and
+he would have to make a full,  formal  application  for  registration  as  a
+professional engineer in the state.
+
+Turnbuckle  obtained  the  necessary  forms,  filled  them  out   (including
+references to the professional  engineering  registrations  he  held  in  17
+other states), and turned them in to the Board  within  a  couple  of  days.
+Approximately  three  months  after  the  remedial  construction  had   been
+completed and the clock tower saved, he received notice  of  his  acceptance
+by the Board as a registered professional engineer  by  reciprocity.   Since
+the project was complete as far as Turnbuckle  and  Holdem  were  concerned,
+they each went on to other projects in other areas.
+
+Recently, Turnbuckle has received a registered letter from the  state  Board
+of Registration for Professional Engineers and Land Surveyors notifying  him
+that I. B. Stout, the structural engineer  for  the  MegaBite  project,  has
+filed a formal complaint against him for practicing as  an  engineer  during
+the time of the clock  tower  incident  without  a  license  in  the  state.
+Furthermore, Turnbuckle is advised that  Stout  is  prepared  to  carry  the
+matter to court, where Stout intends to sue  Turnbuckle  for  a  substantial
+sum of money, claiming that too many out-of-state engineers do  designs  for
+projects within the state without  being  licensed,  and  that  practice  is
+financially detrimental to Stout and the survival of his practice.
+
+Is Turnbuckle at fault for not having a professional engineer’s  license  in
+the  state  during  the  design  and  implementation  of  the  clock   tower
+remediation?  What should he do, or have done?
+
+Alternate Approaches and Survey Results for “The  Leaning  Tower,  A  Timely
+Dilemma” (Case 1001):
+1.    Realizing that he was not registered in the state,  Turnbuckle  should
+   have declined the request to devise a remedy for the  potential  imminent
+   collapse of the clock tower right away.
+      Percentage of votes agreeing:  6%
+
+2.    Before accepting the assignment, Turnbuckle should have contacted  the
+   Board of Registration for Engineers and Surveyors to request a  temporary
+   license.  Upon learning that the state  had  no  provisions  for  such  a
+   temporary license, and realizing that he would in fact  be  providing  an
+   engineering design without a license should he continue, he  should  have
+   declined the assignment.  Colonial Construction and W.  E.  Holdem  could
+   have found someone else who was a registered engineer  in  the  state  to
+   come up with a design to save the clock tower.  In any event, the  matter
+   would be out of Turnbuckle's hands, since he would be complying with  the
+   legal requirements of the state.
+      Percentage of votes agreeing:  30%
+
+   3. By placing the health, safety and welfare of the public (NSPE Code  of
+   Ethics for Engineers) above the strict legal requirements of the Board of
+   Registration, Turnbuckle should be supported for the action he took.   In
+   addition, he did make application for a temporary license in good  faith,
+   and should not be held responsible for the fact that  the  Board  had  no
+   official mechanism through which to grant him a license, even  though  he
+   was registered as a professional engineer in 17 other states.
+      Percentage of votes agreeing:  64%
+
+
+Forum Comments from Respondents
+1.     I  firmly  believe  that  all  current  registration  programs   need
+   reevaluating.  In my opinion, all  disciplines  should  have  a  national
+   registration, much like AIPG.  Once registered  through  a  state  board,
+   individuals should be allowed to practice in all states in  the  US.   At
+   present, state boards have too much power and  in  some  instances  abuse
+   that power for their own gain.  The actions taken against Turnbuckle  are
+   an example of protectionism.  I. B. Stout did not adequately plan out his
+   portion of the project and should have been investigated to determine  if
+   he was negligent in his appraisal of the situation.  In such  a  case  as
+   this, a national certification with reciprocity would have eliminated the
+   protectionism and in-fighting.
+
+2.    The owner and the architect should have brought I. B. Stout  into  the
+   process as soon as the problem was noted.  As a  consequence,  Turnbuckle
+   could have been brought in by Stout  as  an  advisor,  with  Stout  being
+   ultimately responsible for the design.
+
+3.    While solution #3 is ethically the correct  answer,  Turnbuckle  could
+   have worked closely as a consultant with a qualified engineer  registered
+   in the state, who would in turn provide the final design recommendations,
+   although the final design could therefore be somewhat different than that
+   proposed by Turnbuckle.  Turnbuckle's change in  role  from  designer  to
+   consultant is (1) not ethically necessary; (2) not necessary  to  provide
+   an adequate  design;  and  (3)  more  costly.   However,  it  does  allow
+   Turnbuckle's vast successful experience to be utilized, is legal, and  is
+   ethical.
+
+4.     If  Turnbuckle  was  required  to  sign  his  name  as  a  registered
+   professional engineer in the state, his contribution to  the  engineering
+   problem can be viewed as only consulting advice.  Therefore there  is  no
+   legal liability basis upon which to sue.
+
+5.    When Turnbuckle was first contacted by the contractor, he should  have
+   referred to the  chart  in  the  new  book  produced  by  NSPE  entitled,
+   "Engineering Licensure Laws: A State-by-State Summary and Analysis" (NSPE
+   Pub. No. 2015), which would have told him that  he  cannot  apply  for  a
+   temporary license in that state.  As a result, he  could  have  told  the
+   prospective client that other arrangements would have to be made  due  to
+   the registration laws in that state.
+
+
+Epilogue
+In fact, none of the design consultants  associated  with  the  project  was
+willing to become involved with the remediation of the problem, even  though
+it was shown that it was not physically possible to construct  the  original
+design.  Despite his timely response and  recommendations  which  averted  a
+real disaster, Turnbuckle was subsequently fined $500 by the State Board  of
+Registration.  In addition, he was required by law to  notify  each  of  the
+other 17 states in which he holds professional engineering licenses  of  the
+action  take  against  him.   Having  done  that,  only  two  state   boards
+acknowledged receipt of the information.  In the interim, I.  B.  Stout  has
+discontinued his pursuit of monetary relief  through  court  action  against
+Turnbuckle.
+
+

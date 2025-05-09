@@ -1,0 +1,260 @@
+
+         An Interesting Confliction: What’s Love Got to Do with It?
+                                 (Case 1037)
+
+The mission of the National Institute for Engineering Ethics  (NIEE)  is  to
+promote ethics in engineering practice  and  education.   One  component  of
+NIEE  is  the  Applied  Ethics  in  Professional  Practice  (AEPP)  program,
+providing free engineering  ethics  cases  for  educational  purposes.   The
+following case may be reprinted if it is provided  free  of  charge  to  the
+engineer or  student.   Written  permission  is  required  if  the  case  is
+reprinted for resale.  For more cases and other NIEE  Products  &  Services,
+contact  the  National  Institute  for  Engineering   Ethics,   Texas   Tech
+University, www.niee.org..  (All reprints must contain these statements)
+
+
+
+The Case:
+Fulton  Adams,  legal  counsel  for  the  insurance  company  which  insures
+Wastewater Treatment Systems, Inc. (the defendant), has  retained  you,  Joe
+Friday, P.E., as an engineering consultant in a  lawsuit  filed  by  Kinkora
+Developments (the plaintiff).  Your responsibility is to analyze the  claims
+made by Kinkora Developments concerning the alleged failure  of  the  sludge
+treatment facility at a sewage treatment plant for a very large  residential
+community.  The treatment system was designed and constructed by  Wastewater
+Treatment, and operated by Kinkora Developments.  It is understood  that  in
+addition to providing technical consultation regarding the sludge  treatment
+system and possible reasons  for  the  alleged  failure,  you  may  also  be
+requested to appear  in  court  as  an  expert  witness  on  behalf  of  the
+defendant.
+You indicate to Mr.  Adams  that  you  will  review  all  of  the  available
+information, make a site visit, and advise him as  to  whether  you  believe
+the plaintiff  has  a  reasonable  complaint,  or  whether  there  is  other
+evidence to explain the failure of the sludge treatment process.   With  his
+approval,  and  the  concurrence  of  Wastewater  Treatment,  you  spend   a
+considerable  amount  of  time   reviewing   the   design   parameters   and
+construction of the facility, including two  days  of  observations  at  the
+plant.
+On the basis of your work, you  advise  Adams  that  you  believe  there  is
+reasonable doubt that the system failure is due to the  design,  but  rather
+it appears that Kinkora Developments had no previous experience operating  a
+sewage  treatment  plant.   Furthermore,  Kinkora  had  hired  a  number  of
+inexperienced treatment plant  operators  who  systematically  neglected  to
+maintain the equipment in accordance with the recommendations  made  in  the
+Operations  and  Maintenance  (O&M)  Manual  prepared  for  the   plant   by
+Wastewater Treatment Systems.
+Despite  the  presentation  of  this  evidence  in  depositions  during  the
+discovery process, the plaintiff, represented  by  Ms.  Amanda  Cuthbert  of
+Xernon, Young and Zimmer, is considering taking the  claim  to  court.   You
+are soon informed that Clyde Cleghorn, P.E., an engineer with  one  of  your
+competitors, has been retained by Kinkora Developments as their  engineering
+consultant and expert witness.  You have run  into  Cleghorn  from  time  to
+time at various  engineering  society  meetings,  and  understand  that  his
+experience has been primarily dealing with small,  on-site  sewage  disposal
+systems for single family lots.  Other than that,  you  have  little  first-
+hand knowledge of his capabilities.
+During Mr. Cleghorn’s deposition (to which you are invited by  Fulton  Adams
+as an observer), Cleghorn makes a variety of statements  which  reveal  that
+he  has  little  understanding  of  sludge  treatment  systems   design   or
+operations.  During the occasional breaks  in  the  deposition  proceedings,
+you casually notice that Cleghorn tends to be  quite  solicitous  of  Amanda
+Cuthbert, the plaintiff’s attorney, more so  than  you  would  expect  in  a
+client/consultant relationship.
+Reviewing the statements and analyses made by  Cleghorn,  you  are  all  the
+more convinced that he has  missed  the  mark  completely  and  that  shoddy
+maintenance was the cause of the failure.  You inform Fulton Adams  of  your
+reinforced opinion, and he in turn indicates that the insurance company  for
+Kinkora has refused to provide any  further  financial  support  for  Amanda
+Cuthbert.  Nonetheless, the president of Kinkora  insists  on  pursuing  the
+matter in court, and there is conjecture that Amanda has agreed to  continue
+with the case on a contingency  basis;  that  is,  she  and  her  firm  will
+receive  approximately  40%  or  more  of  the  award  if  the  court  finds
+Wastewater Treatment Systems at fault.
+Dates for the trial are arranged by the  court,  starting  in  approximately
+six weeks.  In the interim, you attend an engineering society conference  at
+a resort some 400 miles  from  your  city.   Looking  through  the  list  of
+attendees, you note that most of the engineers have brought  their  spouses,
+and the attendance roster lists them as in the following example:
+               ▪ Robert and Mary Jones
+
+               ▪ Cynthia and Delbert Ryley
+Further down the roster you see, and are rather surprised by, the  following
+entry:
+               ▪ Clyde Cleghorn and Amanda Cuthbert
+
+The following evening, it so  happens  that,  while  visiting  one  of  your
+friends in another wing of  the  conference  hotel,  you  notice  Clyde  and
+Amanda entering a room together.  Keeping this in mind, after you return  to
+your city, you make some discreet inquiries and  find  out  that  Clyde  has
+been separated from his wife for several months, and  that  Amanda  Cuthbert
+has been divorced for three years.  In addition, one  of  the  engineers  in
+Clyde’s office verifies that Clyde moved in with Amanda about the  time  the
+Kinkora case started and they have been living together since then.
+What, if anything, do you do?
+
+Alternate Approaches and Survey Results  for  “An  Interesting  Confliction:
+What’s Love Got to Do with It?” (Case 1037)
+
+   1. Narrow your focus.  Stick  to  doing  your  best  job  on  engineering
+      matters and don’t involve  yourself  in  politics,  personalities,  or
+      other matters.  Give your expert opinion on the technical  matters  at
+      hand only.
+      Percentage of votes agreeing: 16%
+   2. Believe the best.   You  probably  violated  some  right  of  personal
+      privacy when you inquired about Cleghorn and Cuthbert’s  relationship.
+      Also, how do you know if the information that one of the engineers  in
+      Cleghorn’s office told you is true?  And even if Cleghorn and Cuthbert
+      are lovers, despite their personal relationship, Cleghorn could  still
+      be behaving as an unbiased professional with regard  to  the  lawsuit.
+
+
+      Percentage of votes agreeing: 6%
+   3. Don’t cast stones.  The recent emphasis in government,  business,  and
+      the press on corporate misconduct  and  presumed  lack  of  integrity,
+      especially regarding professionals, is demeaning  and  denigrating  to
+      the profession.  The world doesn’t  need  another  scandal.   Besides,
+      people –engineers in particular – are inherently good, and left alone,
+      they will make moral, ethical decisions and  behave  accordingly.   By
+      saying something, you would be suggesting that Cleghorn is not  acting
+      in an ethical manner.
+      Percentage of votes agreeing: 0%
+   4. Keep it professional.  Although the relationship between Cleghorn  and
+      Cuthbert may be against your religious  and  moral  principles,  their
+      personal morality is not at issue  in  this  situation.   Rather,  the
+      question is whether they are working together to enrich themselves  by
+      means of Amanda Cuthbert’s contingency arrangement with the plaintiff.
+       Your strategy should be to delve into Cleghorn’s technical background
+      to find weaknesses that can be  exploited  during  trial  and  try  to
+      discredit him as an expert witness.   Put  aside  the  personal  moral
+      issues for the time being.
+      Percentage of votes agreeing: 19%
+   5. Be a friend.  Call Cleghorn on the telephone at home and inform him of
+      your observations, mentioning both the convention roster  as  well  as
+      “confidential information” given to  you  by  unnamed,  but  otherwise
+      reliable, sources in the local engineering community.  In  a  friendly
+      way, point out that if he and Cuthbert are romantically involved, such
+      a relationship might raise questions about  Cleghorn’s  motivation  in
+      his testimony and this could be used against him to the  detriment  of
+      his client.  Suggest that the prudent thing is for Cleghorn to  excuse
+      himself as an expert witness in the case before it gets to court.
+      Percentage of votes agreeing: 11%
+   6. Call your lawyer.  Inform Fulton Adams (your client) of what you  have
+      discovered, and the sources of the information.  Suggest that this may
+      well be a conflict of interest and a violation of  the  NSPE  Code  of
+      Ethics for Engineers under the  Rules  of  Practice  and  Professional
+      Obligations.  Recommend that he (Fulton Adams) look into the matter.
+      Percentage of votes agreeing: 23%
+   7. Play to win.  Inform Fulton Adams  (your  client)  of  what  you  have
+      discovered  about  Cleghorn,  and  the  sources  of  the  information.
+      Suggest that this may well be a conflict of interest and  a  violation
+      of the NSPE Code of Ethics for Engineers under the Rules  of  Practice
+      and Professional Obligations.  If so, then Cleghorn’s  credibility  as
+      an unbiased engineering expert might be  seriously  in  question,  and
+      this is a wonderful opportunity to get rid of him as a witness for the
+      plaintiff, Kinkora,  thereby  providing  excellent  leverage  for  the
+      defendant, Wastewater Treatment Systems to win the case.   (You  never
+      did like Cleghorn, anyway).
+      Percentage of votes agreeing: 3%
+   8. Really play to win.  Inform Fulton Adams (your  client)  of  what  you
+      have discovered about Cleghorn, and the sources  of  the  information.
+      Acknowledge  that  although  Cleghorn’s  credibility  as  an  unbiased
+      engineering expert might be seriously in question,  suggest  to  Adams
+      that he set aside the ethics of the matter and  focus  on  the  bigger
+      picture.  You really don’t want Cleghorn to be excluded from the case,
+      because you know you can show that Cleghorn  doesn’t  know  what  he’s
+      talking about. If Kinkora has to replace Cleghorn (assuming they  have
+      the chance), they might get someone who knows something, or is willing
+      to testify to whatever they want. Better to stay with “the  devil  you
+      know.”
+      Percentage of votes agreeing: 8%
+   9. File a complaint against Cleghorn.  Compile the information  you  have
+      and file a complaint  against  Cleghorn  with  the  state’s  Board  of
+      Registration for  Professional  Engineers.   This  type  of  thing  is
+      demeaning  to  the  engineering  profession  and  should  be  stopped.
+      Getting Cleghorn’s license suspended or revoked is the best way to  do
+      it.
+      Percentage of votes agreeing: 6%
+  10. File a complaint against Cuthbert.  You have a  deep  abiding  passion
+      for the legal system, and it seems plain enough to you that Cuthbert’s
+      behavior is out of line.  Her affections have clouded her judgment and
+      led her to hire her unqualified lover to be her expert. You know  that
+      Cuthbert’s colleagues would  be  outraged  at  her  behavior  and  its
+      potential affect on the reputation of their 100+  yr.  old  firm.  You
+      should send the managing partner of Cuthbert’s firm a letter detailing
+      Cuthbert’s conduct and expressing how it  would  look  if  brought  to
+      public attention.
+      Percentage of votes agreeing: 2%
+Forum Comments from Respondents
+   1. A combination of alternative 5 (be a friend) and  alterative  6  (call
+      the lawyer) is appropriate for this case.
+
+   2. Is it ethical to invade on personal business? It may be best  to  call
+      the engineer, inform him of the information you have  seen,  and  tell
+      him that you will not use this information to discredit him in  court.
+      But you could  suggest  that  he  consider  stepping  down  as  expert
+      witness, because of the potential bad that could come of it.
+
+   3. Option 6 is the preferred choice.  Then assuming Cleghorn and Cuthbert
+      are outside the acceptable boundaries of the NSPE code of  ethics,  it
+      would be appropriate to choose to act as a friend (5) and inform them.
+       There is no point in discrediting a colleague whose qualifications we
+      are unsure of.  Hopefully the case  will  be  resolved  to  Wastewater
+      Treatment's satisfaction in court.
+
+Comments from Board of Review Members
+   1. This case presents an interesting situation calling more  for  dealing
+      with  Cleghorn's  competency  and  credibility   than   his   personal
+      relations.  If he were competent to testify, would  it  really  matter
+      whether he was sleeping with the attorney who puts him up as an expert
+      witness?  Similarly, if he is not competent, shouldn't the protagonist
+      focus his efforts on exposing Cleghorn's unsuitability as an expert?
+
+   2. Option No. 9 is the appropriate course of action, since  there  appear
+      to  be  enough  issues  to  warrant  a  complaint  to  the  Board   of
+      Registration for Professional Engineers. A complaint before the  Board
+      would allow Clyde Cleghorn, P.E. to respond  to  the  allegations  and
+      give him the opportunity to present his side.
+      It is interesting to note that this case makes explicit  reference  to
+      the NSPE Code  of  Ethics  for  Engineers.   With  that  in  mind,  in
+      reviewing the NSPE Code of Ethics,  it  would  be  helpful  for  Clyde
+      Cleghorn,  P.E.  to  address  Code  Section  I.5  (Engineers,  in  the
+      fulfillment of their professional duties, shall…avoid deceptive acts),
+      Code Section I.6 (Engineers, in the fulfillment of their  professional
+      duties, shall… conduct themselves honorably,  responsibly,  ethically,
+      and lawfully so as to enhance the honor, reputation, and usefulness of
+      the profession), Code Section III.5 (Engineers shall not be influenced
+      in their professional  duties  by  conflicting  interests),  and  Code
+      Section III. 6.a (Engineers shall not request, propose,  or  accept  a
+      commission on a contingent basis under circumstances  in  which  their
+      judgment may be compromised).  In relation to the facts of this  case,
+      these provisions of the NSPE Code of Ethics present  enough  potential
+      violations for the complaint.
+
+   3.  This  is  a  good  case  for  introspection  regarding  our  role  as
+      professionals. I think we should add another Alternative Approach:
+
+           x.    Re-examine the assignment (as spelled  out  in  the  first
+           paragraph): ...to analyze the claims made  ......concerning  the
+           alleged failure of the sludge treatment  facility,  and  provide
+           technical consultation regarding the sludge treament system  and
+           possible reasons for the alleged failure .... and, if requested,
+           appear in court as an expert witness. These are the professional
+           services Joe Friday has been retained to provide.
+
+      Remember that, as a professional, we have an obligation to respect the
+      privacy  of  others  and  the  stature  of  our  profession.  Offering
+      gratuitous  comments  or  statements  outside   the   scope   of   our
+      professional engagement would be unprofessional.
+
+   4. Adjudicating the morals of another engineer is  beyond  the  scope  of
+      enforcing the Code of Ethics. The difficulty in this case  is  proving
+      Cleghorn's intent, i.e., does he stand to benefit from  the  testimony
+      by getting a part of the contingency fee that Amanda would receive  if
+      she wins the case? The conflict of interest has to be proven  and  all
+      that is available now is conjecture. The engineer should inform Fulton
+      Adams of the situation and leave it up to him to pursue  the  conflict
+      of interest issue. The engineer (Joe Friday)  should  concentrate  his
+      efforts on building a case to discredit Cleghorn as an expert  witness
+      based on his experience and background and the lack of  experience  in
+      the type of problem involved in this case.
+

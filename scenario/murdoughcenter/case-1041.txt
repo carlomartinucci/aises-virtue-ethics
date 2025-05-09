@@ -1,0 +1,264 @@
+
+                 Engineering Ethics in Spain: The Risky Tank
+                                 (Case 1041)
+
+The mission of the National Institute for Engineering Ethics  (NIEE)  is  to
+promote ethics in engineering practice  and  education.   One  component  of
+NIEE  is  the  Applied  Ethics  in  Professional  Practice  (AEPP)  program,
+providing free engineering  ethics  cases  for  educational  purposes.   The
+following case may be reprinted if it is provided  free  of  charge  to  the
+engineer or  student.   Written  permission  is  required  if  the  case  is
+reprinted for resale.  For more cases and other NIEE  Products  &  Services,
+contact  the  National  Institute  for  Engineering   Ethics,   Texas   Tech
+University, www.niee.org..  (All reprints must contain these statements)
+
+
+Case Study By:
+Guillermo Palau-Salvador, Assistant Professor, Rural Engineering
+      Department, Hydraulic Division, Technical University of Valencia,
+      Spain.
+Ana de Luis, PhD Student, Agricultural Engineering School, Technical
+      University of Valencia, Spain.
+
+Editorial Comments By:
+William D. Lawson, P.E., Ph.D., Deputy Director, National Institute for
+      Engineering Ethics, Texas Tech University, Lubbock, TX.
+
+      Editor’s Note: When doing business internationally, it is important to
+      recognize both the universal ethical obligations of the engineer and
+      the specific laws and regulations that govern engineering practice.
+      The geographic context for this case study – a rural community in
+      Spain – reveals certain distinctions between engineering practice in
+      Spain versus the United States.  Some of these distinctions are
+      discussed at the end of the case.
+
+The Case:
+Carlos has recently finished his engineering degree and has been hired by  a
+firm, Tencasa, that currently focuses  on  structural  design  projects  but
+wants to expand its  range  of  services  to  include  hydraulics  projects.
+Carlos has a six-month contract and, after that,  the  company  will  decide
+whether they keep him as an employee of the firm.
+
+It is Carlos’  first  job  and  he  will  be  in  charge  of  Tencasa’s  new
+hydraulics division. After a month, Carlos has not yet been  in  the  field,
+but this situation changes.  Carlos’ boss tells him that they have  found  a
+project, but it has to be completed  in  less  than  a  month.  The  project
+consists of building a storage tank and several pipelines that connect  with
+the water supply system for the town of Lliria, near Valencia (Spain).
+
+The project seems straightforward, but Carlos spends  all  weekend  studying
+and reviewing the entire project  and  its  calculations.   Under  direction
+from his boss, on Monday morning Carlos picks up  three  Ecuadorian  workers
+and goes to the town to begin work on the project.
+
+During the first week the work is  clear-cut,  and  the  project  progresses
+quickly. Carlos spends a lot of  time  with  the  workers  —  having  lunch,
+working side by side with them, or simply talking. In time he realizes  that
+the three workers are illegal immigrants. One used  to  be  a  schoolteacher
+and the other two were musicians.  He also learns that the  workers  do  not
+have any type of worker’s compensation  or  other  medical  insurance.  They
+tell him that they earn three  or  four  times  the  wages  they  earned  in
+Ecuador and their families depend on  this  money.   Further,  they  realize
+they do not have any medical insurance and that  construction  work  carries
+some risk to their health.
+
+Carlos sympathizes with  the  workers  and  becomes  increasingly  concerned
+about safety on the construction site as well  as  the  potential  liability
+associated  with  a  government  investigation  related  to  hiring  illegal
+immigrants.  However, Carlos balances  this  concern  with  the  realization
+that the men need to earn money and support their  families.   Besides,  the
+workers are doing a good job.
+
+During the final week of the project, the main task  is  the  completion  of
+the storage tank.  This tank  is  a  concrete  structure,  which  should  be
+completed in five days. As the three Ecuadorian workers have  no  experience
+in working with concrete, Carlos is concerned about their ability to  safely
+and correctly complete the  project.   He  thinks  Tencasa  should  increase
+jobsite safety  measures  and/or  hire  appropriately-qualified  workers  to
+complete the tank construction.
+
+Carlos meets with his  boss  and  recommends  that  Tencasa  hire  qualified
+workers, implement additional jobsite  safety  measures,  and  legalize  the
+Ecuadorian workers (thereby making them  eligible  for  worker  compensation
+benefits). Carlos’ boss smiles upon hearing the proposals and  gives  Carlos
+an ultimatum: Carlos must finish  the  project  with  the  workers  he  has.
+Furthermore, Carlos must forget  the  Ecuadorians’  situation  because  they
+should be grateful they have a job, and if they are not grateful, there  are
+plenty of other workers who would happily take their place.
+
+Carlos does not know what to  do.   On  the  one  hand,  he  knows  that  an
+accident could happen during the tank construction and he feels  it  is  not
+fair to risk the health of the workers.  But on the  other  hand,  he  knows
+that the Ecuadorians want their jobs.  In addition, if  Carlos  successfully
+completes this job on time, he can get a permanent contract with the firm.
+
+What should Carlos do?
+
+
+Alternate Approaches and Survey Results for “Engineering Ethics in  Spain  –
+The Risky Tank” (Case 1041)
+
+   1. Go on with the work. The chances of having an accident are  very  low,
+      and the Ecuadorians agree with completing the job. Accepting the  risk
+      is their decision, even if the Ecuadorians have to work 24 hours  each
+      day in order to complete the project on schedule.  Percentage of votes
+      agreeing: 4%
+
+
+   2. Tell the authorities. Although the Ecuadorian workers want their jobs,
+      it is not fair to exploit employees by having them work at  their  own
+      risk without medical insurance. Carlos should tell the authorities and
+      report what is happening to others within  his  firm.   Percentage  of
+      votes agreeing: 21%
+
+
+   3. Withdraw from the position.  It is wrong to allow further exploitation
+      of the Ecuadorian workers!  Carlos should resign his position  and  go
+      to the media to openly denunciate this kind of abuse.   Percentage  of
+      votes agreeing: 7%
+
+
+   4.  Withdraw,  but  without  denunciation.   Carlos  does  not  want   to
+      contribute to worker exploitation, but he realizes that the Ecuadorian
+      workers are the most vulnerable.  Carlos should resign his position as
+      a matter of personal protest but say nothing  to  anyone  outside  the
+      company, allowing the Ecuadorians to continue work and send  money  to
+      their families.  Percentage of votes agreeing: 12%
+
+
+   5. Discuss with engineer friends. Carlos should tell his colleagues about
+      the situation and solicit their recommendations about what to do. With
+      this information, Carlos will better know what to do  in  the  future,
+      even if the advice does not remedy the current  situation  completely.
+      Percentage of votes agreeing: 14%
+
+
+   6. Implement  additional  safety  measures.  Carlos  and  the  Ecuadorian
+      workers agree to complete the construction  work.   But  in  order  to
+      increase jobsite safety, Carlos should require the Ecuadorians to take
+      an intensive training course over the weekend  (he  and  some  friends
+      will teach the course) that will show them how to more safely  do  the
+      work.  Percentage of votes agreeing: 21%
+
+
+   7. Personally complete the most dangerous  tasks.  It  is  Carlos’  first
+      construction project and he does not want anyone to be  injured.   So,
+      Carlos should personally complete the  most  difficult  tasks  himself
+      during the next few days.  This will stretch Carlos’ responsibilities,
+      but the tradeoff is justified.  Percentage of votes agreeing: 3%
+
+
+   8. There is no dilemma. Where  is  the  moral  dilemma?  All  agree  with
+      carrying on with the construction. The Ecuadorian  workers  know  what
+      they are doing and have assumed the risks in order to have high-paying
+      work.  Percentage of votes agreeing: 2%
+
+
+   9. Look to the future.  If Carlos finishes the project  on  schedule,  he
+      can use his influence and success to persuade Tencasa to obtain papers
+      for the (now experienced) Ecuadorian workers.  This project is nothing
+      less  than  an  opportunity  to  regularize  the   Ecuadorians’   work
+      situation.  Percentage of votes agreeing: 6%
+
+
+  10. Take matters in his own hands. Carlos knows that it  is  both  illegal
+      and unfair to have workers without papers, and he cannot  continue  to
+      allow this.  At the peril of losing his job, Carlos should by-pass his
+      boss and start the paperwork to legalize the  Ecuadorians’  situation.
+      Percentage of votes agreeing: 10%
+
+
+
+Some observations on engineering  practice  in  Spain  as  compared  to  the
+United States:
+
+One difference between engineering  practice  in  Spain  versus  the  United
+States is that in Spain, there is no limitation on engineering practice  due
+to the engineer’s age. Young engineers can  design,  build  or  supervise  a
+project if they have been hired for  that.  Hence,  in  very  big  companies
+which carry out large projects, it is normal to find a senior engineer  with
+several young assistants who carry out the whole  project,  while  in  small
+companies with small projects, young  engineers  are  in  charge  either  to
+design or to build the construction.
+
+In contrast, engineering licensure laws  in  the  United  States  would  not
+allow a young engineer so much freedom.  Rather, a  young  engineer  in  the
+United  States  (identified  as  an  “engineer  intern”   or   “engineer-in-
+training”) would be required to  perform  all  engineering  work  under  the
+direct supervision of a more experienced, licensed engineer.   With  respect
+to professional responsibility, the engineer who supervises the  work  would
+be legally responsible for the work; such a heavy responsibility  would  not
+be given to a recent  engineering  graduate.   These  types  of  internships
+typically persist for a minimum of four years, and only after obtaining  the
+professional engineer’s  license  would  an  individual  be  allowed  to  do
+projects on his/her own.
+
+Another difference between Spanish and United  States  engineering  practice
+is that in Spain there are three partners in  an  engineering  project:  the
+designer, the builder  and  the  supervisor,  and  all  of  them  should  be
+engineers. The designer designs the project, the builder constructs it,  and
+the supervisor ensures that the builder  does  everything  as  it  has  been
+specified. The  builder  and  the  supervisor  must  be  different  entities
+(persons), but  the  designer  can  serve  dual  roles;  that  is,  be  both
+designer/builder  or  designer/supervisor.   In  fact,   the   designer   is
+frequently the supervisor of his/her project.
+
+This is not typical for public  works  projects  in  the  United  States.   
+Because of the highly developed division of labor, it would be  unusual  for
+an engineer to both design and construct a project.  These are separate  job
+functions, and usually  the  engineer  would  only  do  the  design.   Other
+persons; that is, building contractors, would do the construction and  these
+persons would not necessarily be engineers.  And in many cases, a  different
+engineer might perform a quality control function on behalf of  the  project
+owner during the construction process, but even this role does not  strictly
+parallel the supervisor function found in Spanish engineering practice.
+
+Forum Comments from Respondents
+
+   1. It is difficult to imagine a  situation  where  Carlos  would  not  be
+      morally obligated to challenge his  company's  practice  (policy?)  of
+      hiring illegal immigrants.  Over the long term, such  a  practice  can
+      only lead to problems.  The place to start is to get  advice,  ideally
+      from experienced and trusted coworkers.  Ignoring the situation is not
+      a good approach.
+
+
+Comments from Board of Review Members
+
+   1. Things ARE done differently overseas, and it  is  appropriate  to  pay
+      attention to the internationalization of the profession  and  adapting
+      to overseas ways of doing business.  The  actual  ethical  dilemma  is
+      timeless -- a young engineer given the "take it or walk" ultimatum  by
+      his supervisor -- and the context is less important than  the  tension
+      created.  It can be observed that  "walking"  is  itself  a  means  of
+      applying pressure to Carlos’ supervisor, because to do so would  cause
+      the project to not finish on time.
+
+   2. This international case embodies a universal  situation;  namely,  the
+      dilemma of the appropriate treatment of staff  that  you  have  become
+      friends with,  in  addition  to  appropriate  business  practices  and
+      appropriate supervision of staff.  These constitute a good combination
+      of things to think about.
+
+   3. The fact that Spain has engineering practices different than those  in
+      the United is beside  the  point.   It  is  probable  that  there  are
+      engineering companies hiring illegal Mexicans who  are  doing  exactly
+      the same thing in the United States.
+
+   4. It is a common dilemma for a  new  engineer  to  cope  with  “accepted
+      practice” on a job site or the office work place even if  that  person
+      realizes the practice  is  wrong  or  inappropriate.   An  interesting
+      international component of this case  is  whether  the  employment  of
+      workers without “working papers” is illegal or only unethical  for  an
+      employer  in  Spain.   I  also  think  that  including   international
+      situations … not simply situations  as  viewed  by  Americans  working
+      outside the US… can make significant strides in helping all  engineers
+      view  issues  more  broadly.   Many  times,  individuals  (to  include
+      Americans) cannot appreciate the sensitivity or importance of an issue
+      from the perspective of those working in  different  legal,  cultural,
+      and economic  situations.   Of  course,  just  because  we  eventually
+      understand another’s position is  no  reason  for  us  to  find  their
+      opinion to be in our best interests.   However,  it  is  an  essential
+      first step in achieving win-win solutions.
+
+

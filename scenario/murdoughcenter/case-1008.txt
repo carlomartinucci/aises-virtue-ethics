@@ -1,0 +1,284 @@
+
+                To Flush or Not to Flush: That's the Question
+                                 (Case 1008)
+
+
+The mission of the National Institute for Engineering Ethics  (NIEE)  is  to
+promote ethics in engineering practice  and  education.   One  component  of
+NIEE  is  the  Applied  Ethics  in  Professional  Practice  (AEPP)  program,
+providing free engineering  ethics  cases  for  educational  purposes.   The
+following case may be reprinted if it is provided  free  of  charge  to  the
+engineer or  student.   Written  permission  is  required  if  the  case  is
+reprinted for resale.  For more cases and other NIEE  Products  &  Services,
+contact  the  National  Institute  for  Engineering   Ethics,   Texas   Tech
+University, www.niee.org..  (All reprints must contain these statements)
+
+The Case:
+You are a senior engineer and project manager  for  Enviroconcern,  Inc.,  a
+geo-environmental  group  specializing  in   groundwater   and   underground
+pollution  mitigation  in  a  large,  heavily  industrialized  area  on  the
+Atlantic seaboard.  Your firm has established  a  reputation  for  excellent
+and accurate work among  clients  and  regulatory  agencies,  including  the
+federal EPA and state health and ecology departments, as well.
+
+Several months ago, your firm was contacted by Ira Klene, the  president  of
+Industrial  Solvents,  Ltd.   His  company  was  named,  among  others,   as
+suspected of having moderate to severe groundwater pollution  concentrations
+beneath his  industrial  solvent  manufacturing  plant  and  adjacent  plant
+property by the state regulatory agency.  In order  to  avoid  severe  fines
+and potential lengthy litigation, Mr. Klene negotiated a contract with  your
+firm to investigate the alleged  problem,  determine  the  severity  of  the
+condition, and prepare a report of the site  investigation  and  conclusions
+for transmittal to the state regulatory agency,  in  compliance  with  their
+stated requirements.
+
+As a result, you were assigned to be the  project  manager  and  coordinated
+the installation of an array of groundwater monitoring wells, well  sampling
+and testing, analyses and preparation of the written  report.   During  your
+visits to the site, you noted that abutting  the  Industrial  Solvent  plant
+property on three sides and directly across the street  were  several  other
+firms  either  manufacturing  or  using  the  types  of  chemicals  used  by
+Industrial Solvents.
+
+Based on the results of the  field  monitoring  and  sampling,  Ira  Klene's
+initial claim that his company was only a minor contributor to the  problem,
+if at all, appeared to be substantiated.  Groundwater  elevation  monitoring
+in the observation wells indicated that the direction  of  groundwater  flow
+was from west (upgradient) to east (downgradient) underneath the  Industrial
+Solvents  site.   Testing  of  samples  taken  from  the  monitoring   wells
+indicated that the concentration of toxics in the  groundwater  were  higher
+at the west side of the site, and decreased in  the  wells  further  to  the
+east on the site.
+
+You finished putting your report together yesterday  in  preparation  for  a
+presentation  to  the  state  regulatory  agency  the  day  after  tomorrow,
+accompanied by Mr. Klene and his  in-house  corporate  legal  counsel.   The
+conclusion stated in your report is that the test results showed the  levels
+of toxics in the groundwater decrease across the site  from  west  to  east,
+therefore the major  portion  of  the  pollution  is  originating  with  the
+industrial chemical plants further to  the  west.   If  Industrial  Solvents
+Ltd. is contributing to the pollution under their site, it  can  only  be  a
+minor to insignificant amount.
+
+Early this morning you decided to visit the  Industrial  Solvents  site  one
+more time,  just  to  be  certain  that  you  had  not  missed  anything  of
+importance in your general description of the site  and  the  activities  in
+the plant.  Since the site is not far out of your way from your home to  the
+Enviroconcern offices, and you are by nature an early riser, you arrived  at
+the Industrial Solvents site about 6:45 a.m., about 45  minutes  before  the
+plant goes into operation on a weekday basis.  After looking  around  inside
+the plant, you wandered around to the parking lot to  the  west  behind  the
+building to glance at the monitoring well installations in that area.   When
+you got there, you recognized Ira Klene with a rubberized raincoat over  his
+suit, wearing boots and standing at one of the monitoring well caps  in  the
+middle of the parking lot with his back to you.
+
+Since he had not seen you,  you  stepped  behind  a  pickup  truck  lot  and
+continued to observe Mr. Klene's actions.  It soon became  obvious  that  he
+had a key to the monitoring well caps in one hand and a  hose  connected  to
+the water spigot on the back of the building in the other.  In the  next  25
+minutes he proceeded from well to well toward the  building,  unlocking  the
+well caps, inserting the hose and allowing water to flow into each well  for
+several minutes.  At first you could  not  believe  what  you  were  seeing.
+Poring water into  these  downgradient  wells  causes  a  reduction  in  the
+measured level of toxics in the groundwater  at  those  locations,  creating
+the appearance of decreasing toxic concentrations across the site from  west
+to east.
+
+Not knowing what to do or  say,  and  not  wanting  to  confront  Mr.  Klene
+directly at that moment, you crept back around the truck, waited  until  his
+back was turned, and rapidly went back into the building and out  the  front
+to where you had parked your car, and drove as quickly as possible  to  your
+office.
+
+As you sit at your desk you realize that all of the analytical data in  your
+final report is now suspect  and  unreliable.   Your  firm's  contract  with
+Industrial Solvents Ltd. contains a confidentiality clause requiring you  to
+discuss  the  findings  in  your  report  with  them  before  releasing  the
+information to anyone else.  The presentation for the state agency has  been
+confirmed for the day after tomorrow.
+
+You alternately stare at the wall  and  at  your  finished  report  for  the
+Industrial Solvents site on your  desk  in  front  of  you.   You  then  ask
+yourself the big question of the day: what do I do now?
+
+
+Alternate Approaches and Survey Results for  “To  Flush  or  Not  to  Flush:
+That’s the Question” (Case 1008)
+1.    Call Mr. Klene, indicate  that  you  had  stopped  by  the  site  this
+    morning and observed him pouring water into a number of the  monitoring
+    wells near to plant building.  Ask him what he was doing that for,  and
+    how long he had been doing it.  Perhaps it was a one-time occurrence.
+      Percentage of votes agreeing: 7%
+
+2.    Talk  with  your  corporate  management  and  explain  what  you  have
+    observed.  Let them decide what to do about the issue, if there  really
+    is an issue in their estimation.   After  all,  there  may  well  be  a
+    logical explanation to what you observed and you are not in a  position
+    to question the actions of your company's client.  Indicate that you do
+    not want to be directly involved in this  communication,  but  will  do
+    whatever your management decides.
+      Percentage of votes agreeing: 16%
+
+3.    Say nothing to the client or to your management.  Realize  that  since
+    you were not invited, you were  probably  legally  trespassing  on  the
+    property this morning, which was an error in judgment.  Your job was to
+    direct the field investigations, monitoring and laboratory results, and
+    to determine if a toxic problem existed based on  these  results.   You
+    cannot be responsible for watching the monitoring wells  on  a  24-hour
+    basis, nor are you in a position to confront the person who hired  your
+    firm in the first place.
+      Percentage of votes agreeing: 1%
+
+4.    Submit the report as it stands.  You know that  there  is  not  enough
+    money in the project budget to redo all of the sampling and testing, as
+    well as reanalyze the results.  Also, there is  no  way  Mr.  Klene  is
+    going to agree to increase the budget to redo the work.   With  all  of
+    the other groundwater pollutant contributors adjacent to the site, some
+    variation in the contribution resulting from  the  Industrial  Solvents
+    Ltd. operations is probably  insignificant  when  viewed  on  a  larger
+    scale.
+      Percentage of votes agreeing: 0%
+
+5.    Before submitting your report to Industrial Solvents for  review,  and
+    then on to the state agency, add a qualifying disclaimer to the end  of
+    your report indicating the conclusions made in the report are based  on
+    the results of chemical testing of the groundwater samples obtained  at
+    the site at the time, locations and depths indicated in the data.  Also
+    indicate that these  results  may  vary  at  locations  away  from  the
+    monitoring wells, and/or from time to time at the  specific  monitoring
+    well locations.  Therefore, no other warranty, express or  implied,  is
+    made or intended.
+      Percentage of votes agreeing: 4%
+
+6.    Write a short memo to your project file indicating what you  observed,
+    and that you have no basis for determining what,  if  any,  effect  Mr.
+    Klene's actions have made on the test results shown in your report, nor
+    is there any way to make such a determination without throwing out  all
+    of the accumulated data and starting the sampling and  testing  program
+    over from the beginning - an unwarranted action since the project scope
+    of work has been completed and the project budget  has  been  depleted.
+    This will stand you in good stead should there be any question  in  the
+    future.
+      Percentage of votes agreeing: 5%
+
+7.    Put in a confidential call to the state agency and indicate  that  you
+    have reason to believe the results of the testing data  in  the  report
+    they are about to receive may be suspect, but you cannot determine  the
+    extent.  Realize that if the word gets out to Mr. Klene that  you  have
+    done this, your company, and quite possibly  you  personally,  may  get
+    sued for violating the confidentiality clause  in  your  contract  with
+    Industrial Solvents Ltd.
+      Percentage of votes agreeing: 2%
+
+8.    Submit the report as it is  today  to  Industrial  Solvents  Ltd.  for
+    their information, in  accordance  with  the  terms  of  your  contract
+    agreement with them, and indicate that the final report is due  at  the
+    state agency the day after tomorrow.  Tell them that you have reason to
+    believe that the results may be erroneous, and that you are willing  to
+    discuss this issue, as well as  methods  of  rectifying  the  situation
+    (e.g., obtaining an agreement from the state agency to delay the report
+    and redoing the sampling and testing to either confirm  or  revise  the
+    original results, all at additional cost to the  client).   Since  they
+    are legally responsible for submitting the report to the state  agency,
+    it is their decision on how to proceed.
+      Percentage of votes agreeing: 15%
+
+9.    Have your management contact Industrial Solvent's  legal  counsel  and
+    indicate what has happened.  Tell them that the  sampling  and  testing
+    needs to be redone to confirm or revise  the  suspect  data,  and  that
+    actions such as those of Mr.  Klene  cannot  be  tolerated  during  the
+    repeat program.  Indicate that the locks  on  the  well  caps  will  be
+    changed, and if there is any evidence or indication of  tampering  with
+    the  wells  during  the  repeat  program,  your  company  will   report
+    Industrial Solvents Ltd. directly to the state agency, no  matter  what
+    the contract says.  Also tell  their  legal  counsel  that  the  repeat
+    program will be done under your  normal  fee  schedule  for  additional
+    work, and an amendment  to  the  contract  is  required  to  cover  the
+    additional anticipated cost.
+      Percentage of votes agreeing: 42%
+
+10.   Confer with your  management;  decide  to  tell  Mr.  Klene  what  was
+    observed and that the results presented in the report are suspect.   As
+    a result, your company refuses to  present  the  report  to  the  state
+    agency as Industrial Solvents' consultant, and furthermore will not  do
+    any more work for Industrial Solvents Ltd., realizing that you will  in
+    all likelihood never get paid for the work you did on the project,  and
+    may even get sued for breach of contract.
+      Percentage of votes agreeing: 8%
+
+
+Forum Comments from Respondents
+1.    It was  a  definite  error  in  judgement  to  arrive  unannounced  an
+    unaccompanied at the client's site; now you know more than  you  wanted
+    to.  Having screwed up, the best approach is to a) tell your  boss  and
+    b)  tell  Mr.  Klene's  legal  counsel.   Mr.  Klene  may   be   acting
+    independently and putting his company at risk.  The  company  may  even
+    thank you for your ill-advised initiative.
+
+2.    Tell Mr. Klene that you have found some  evidence  of  tampering  with
+    the wells and that new samples will have to be  analyzed,  as  well  as
+    having the locks changed on the well caps.
+
+3.    Consult with peers in other companies by  asking  them  if  they  have
+    ever been involved with falsifying test samples.
+
+4.    I would approach Mr. Klene's legal counsel in no more  an  adversarial
+    way than I needed to.  Specifically, I would  note  that  I  sympathize
+    with their basic position that others contributed to the problem, and I
+    would not be too heavy on Klene's actions being inappropriate  and  his
+    knowing they were -- perhaps I would not let on  immediately  how  much
+    had been observed.  Basically I would try to first get them to see than
+    honesty is the best policy without explicitly threatening them.
+
+5.    First, draft a letter and have it hand-delivered to Mr. Klene  letting
+    him know what you saw in detail and giving him  notice  that  you  will
+    send  it  to  the  state  agency  tomorrow  unless  he  "comes   klene"
+    immediately.  Having the letter notarized wouldn't be a bad  idea.   Do
+    not proceed with the meeting with the state unless Mr. Klene is willing
+    to admit what he did at the meeting.  His actions  were  criminal;  you
+    cannot afford to be involved.  The confidentiality clause  probably  is
+    void in the face of overt criminal acts, so don't worry too much  about
+    that.
+
+      Second, notify your firm's attorney  and  see  what  can  be  done  to
+    position the firm for cost recovery, 'cause Mr. Klene ain't  gonna  pay
+    for your services.  And third, notify your  firm's  insurance  carrier,
+    because they are going to be involved soon, too.   Keep  the  specifics
+    vague for the present with them, but put them on a notice of a probable
+    problem.
+
+6.    As a professional engineer, you are bound by the Code  of  Ethics  for
+    Engineers which clearly states that you are responsible for  protection
+    of the health, safety and welfare of the public.   As  a  result,  this
+    ethical  obligation  supercedes  the  confidentiality  clause  in  your
+    contract  with  Industrial  Solvents,  and  you   must   disclose   the
+    information to the state agency unless Mr. Klene is willing to pay  for
+    a new sampling and testing program.  This does not mean, however,  that
+    your firm will not  be  engaged  in  a  legal  battle  with  Industrial
+    Solvents for breach of contract  if  Mr.  Klene  refuses  to  redo  the
+    sampling program and pay for it.
+
+
+Epilogue
+You conferred with your management and decided not to  represent  Mr.  Klene
+and Industrial Solvents, Ltd. at  the  meeting  with  the  state  regulatory
+agency.  You notified Mr. Klene of your firm's decision and the  reason  for
+it, and resigned the contract without  submitting  a  written  report.   Mr.
+Klene immediately initiated a law suit  against  your  firm  for  breach  of
+contract (since you  did  not  finish  and  submit  the  report).   He  then
+appeared before the  state  regulatory  agency  himself  and  presented  the
+accumulated field data.
+
+After Mr. Klene's meeting with the state regulatory agency, a member of  his
+own staff called the agency and  blew  the  whistle  on  Klene.   The  state
+prosecuted  Industrial  Solvents  and  fined  the  company  several  hundred
+thousand dollars under civil law proceedings.  In addition,  they  sued  Mr.
+Klene in criminal proceedings, resulting in his conviction  and  release  on
+probation.
+
+However, the law suit initiated by Mr. Klene with your  firm  continued  for
+years, and was finally resolved by an out-of-court settlement in which  your
+firm paid $10,000, and never recovered any of  the  $25,000  consulting  fee
+for the original project.
+

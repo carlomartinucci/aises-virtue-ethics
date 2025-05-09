@@ -1,0 +1,348 @@
+
+
+                This Land is Your Land, It’s Right by My Land
+                                 (Case 1038)
+
+The mission of the National Institute for Engineering Ethics  (NIEE)  is  to
+promote ethics in engineering practice  and  education.   One  component  of
+NIEE  is  the  Applied  Ethics  in  Professional  Practice  (AEPP)  program,
+providing free engineering  ethics  cases  for  educational  purposes.   The
+following case may be reprinted if it is provided  free  of  charge  to  the
+engineer or  student.   Written  permission  is  required  if  the  case  is
+reprinted for resale.  For more cases and other NIEE  Products  &  Services,
+contact  the  National  Institute  for  Engineering   Ethics,   Texas   Tech
+University, www.niee.org..  (All reprints must contain these statements)
+
+The Case:
+Daulton Squyres is a licensed engineer and project  manager  for  ClearWater
+Developers.  Daulton faces a heady challenge – to get  a  high-profile,  90-
+lot subdivision in Murray Township platted, designed, and constructed on  an
+accelerated time schedule.  And, as is often the case,  Murray  Township  is
+not known for being overly accommodating to out-of-town developers.   Still,
+the economics of this project dictate that  things  move  quickly.   Daulton
+needs to retain the services of a qualified local consultant, but  owing  to
+the fact that ClearWater Developers has not previously  done  work  in  this
+particular part of the state, he is not sure where to turn.
+
+Engineers Elias Auften and Shellie Moore  are  in  a  joint  venture  in  an
+engineering and construction management practice which  provides  civil  and
+municipal engineering and construction management services for clients in  a
+number of townships in the state.   Based  on  solid  qualifications  and  a
+strong  reference  by  a  project  manager  friend  at  another  development
+company, Daulton retains Elias and Shellie’s joint  venture  to  design  and
+supervise construction of the subdivision in Murray Township.
+
+Elias provides the engineering  design  and  Shellie  provides  construction
+management services for the project.  Things move along  well,  and  Daulton
+realizes that choosing this local firm was the key to getting the job  done.
+ Locals trust locals – that’s all there is to it.  However, what  Elias  and
+Shellie characterize as a “slight  snag”  does  come  up.  During  a  design
+review, officials of Murray Township determine that a second  road  will  be
+needed to access the subdivision.   This  second  road  exits  into  Walbert
+Township,  which  is  adjacent  to  Murray  Township.   As   engineers   for
+ClearWater, the responsibility for choosing  the  actual  location  for  the
+road, and designing it, will fall to Elias and Shellie.
+
+The addition of the road introduces a degree of complexity to  the  project,
+mainly because it means another political  entity,  Walbert  Township,  must
+now get involved.  Daulton starts to sweat the schedule, especially when  he
+learns that Elias and Shellie’s joint  venture  happens  to  also  serve  as
+municipal engineer in Walbert Township.  By  virtue  of  Elias  and  Shellie
+working on the subdivision in Murray Township, but also serving as  engineer
+for Walbert Township, a potential conflict of interest exists.
+
+But Daulton knows he cannot cut corners here.  As  per  ethical  engineering
+practice, the joint venture  of  Elias  and  Shellie  discloses  to  Walbert
+Township  its  relationship  with  ClearWater  Developers  relative  to  the
+subdivision for Murray Township.  On this basis, Walbert Township  does  not
+object  to  Elias  and  Shellie  making  a  recommendation   regarding   the
+feasibility of the  construction  of  the  proposed  road.   Thereafter,  as
+municipal engineer for Walbert Township, Elias and Shellie’s  joint  venture
+recommends that Walbert Township approve construction of the proposed  road.
+
+
+This is excellent news for Daulton –he will make  his  schedule  after  all.
+The project moves forward, with Elias and Shellie modifying  the  design  to
+include the new road.  The addition of  the  road  requires  the  previously
+unanticipated acquisition of  property  in  Walbert  Township,  and  Daulton
+contacts ClearWater’s corporate  “land  man”  in  the  home  office,  Conner
+Williams, authorizing him to negotiate to purchase the property.
+
+A short while later, Daulton gets a call from Conner who asks  him  to  come
+look at a surveyor’s  plat  associated  with  the  “Walbert  Road”  property
+acquisition.  The problem is, to facilitate the new road,  it  appears  that
+ClearWater will have to purchase more land than they ever thought  would  be
+necessary.  According to Conner, an astute landowner in Walbert  is  holding
+out for “big bucks.”  He is unwilling to cooperate unless Clearwater  agrees
+to buy not only what they asked for but also some  nearby  out-parcels  that
+the landowner claims would not be worth much as  stand-alone  lots.   Conner
+knows the opposite is true – property values will go  up  dramatically  when
+the subdivision is built – and in his opinion, the landowner is engaging  in
+what can be viewed as legalized extortion.
+
+Given the significance of the project, and the lack of viable  alternatives,
+Daulton decides that ClearWater cannot  afford  further  delays  and  deftly
+authorizes that Conner purchase the property needed  for  the  second  road.
+But as he is about to leave the room, Daulton’s eye catches a detail he  had
+not noticed before.  In the particular area of  the  surveyor’s  plat  which
+shows the outlying parcels that ClearWater will have to purchase,  there  is
+a significant parcel of land that the plat  identifies  as  being  owned  by
+Elias and Shellie’s joint venture!  At no time did Elias  and  Shellie  ever
+mention  that  they  owned  this  property;  this  was  not  part  of  their
+disclosure to Walbert Township or to anyone else.
+
+Daulton is stunned.  By recommending construction of the  second  road  into
+Walbert Township – the location of which they personally chose –  Elias  and
+Shellie have just enriched themselves!   This  new  road  will  dramatically
+increase the value of  their  property,  just  as  it  will  for  the  other
+landowner.
+
+Daulton also realizes something else: his land  man  is  not  aware  of  the
+situation.  Being from out of town, Conner doesn’t know all of  the  project
+history and thus has not picked up on the significance of this  point.   The
+funny thing is, Daulton would never have learned about this if  that  greedy
+landowner hadn’t insisted that ClearWater purchase  the  outparcels  –  thus
+requiring that they and their adjacent properties be included on the plat!
+
+Taking the plat and accompanying field notes to his  office,  Daulton  tells
+Conner that he wants to mull  things  over  a  bit.   Back  in  his  office,
+Daulton confirms that indeed, Elias and Shellie’s joint  venture  owns  this
+undeveloped property in Walbert Township, and their property value  will  be
+positively affected by the construction of the new road.
+
+The implications make Daulton’s head  swim.   This  is  clearly  an  ethical
+problem for Elias and Shellie,  since  they  did  not  disclose  their  land
+interest when they had the perfect opportunity to do so.  Worse  than  that,
+even  if  their  “engineering”  recommendation  to  build   the   road   was
+technically  justifiable,  at  the  very  least,  they  will  appear  to  be
+motivated  by  desire  for  self  aggrandizement.    And   at   the   worst,
+politically, this could become a nightmare for  ClearWater  Developers.   If
+the press got hold of  this  news,  all  the  community  good  will  Daulton
+labored to build would be  lost  and  would  be  replaced  with  a  watchdog
+attitude that would hamper everything.  The project might never  get  built,
+and ClearWater’s investment would be lost.
+
+Slowly, Daulton begins to realize that if he were to reveal what  Elias  and
+Shellie are doing, ClearWater would surely suffer.  At the  same  time,  the
+thought crosses Daulton’s furrowed brow that his darkest fear  could  become
+his strongest defense.  No bad things would happen if no one  learned  about
+Elias and Shellie’s land interest.  They  certainly  don’t  intend  to  tell
+anyone, and Daulton has good reason to think that Elias and Shellie  believe
+their ploy remains undiscovered.  Further,  it  would  be  easy  enough  for
+Daulton  to  discreetly  have  the  plat  reconfigured  so  that  Elias  and
+Shellie’s name is deleted, practically ensuring that no one would  ever  put
+“two and two” together.  In this way, even if things were  discovered  later
+on, he could plead ignorance and direct the  blame  to  Elias  and  Shellie.
+After all, they created this problem, not him.
+
+What should Daulton do?
+
+Alternate Approaches and Survey Results
+Note:  This case is adapted, with  permission,  from  the  Opinions  of  the
+National Society of Professional Engineers (NSPE) Board  of  Ethical  Review
+(BER), Case 97-4, “Conflict of Interest - Reviewing Own Work  -  Failure  to
+Disclose Property of Ownership/Relationship of Developer.”  We modified  the
+facts and discussion for purposes of clarity and pedagogical  effectiveness,
+and all person, place and business names herein are  purely  fictional.   To
+view the original case and the actual  findings  of  the  NSPE  BER,  please
+access this case on-line at  the  website  of  the  National  Institute  for
+Engineering Ethics:  http://www.niee.org/cases/index.htm
+Alternate Approaches:
+   1. Let nature take its course.   Daulton has done nothing wrong,  and  it
+      would in fact be wrong for his  project  to  suffer  as  a  result  of
+      someone else’s misdeed.  So as to  not  hinder  the  project,  Daulton
+      should say nothing and to do nothing.   Perhaps  no  one  will  notice
+      Elias and Shellie’s nearby land interest.  If they don’t, that is good
+      for Daulton.  If by chance someone does  notice  Elias  and  Shellie’s
+      land interest, hopefully by that  time  the  project  will  have  been
+      built, Daulton can plead ignorance and dismay, and Elias  and  Shellie
+      can face the consequences of their actions.
+      Percentage of votes agreeing: 0%
+   2. Clean up the documents.  It would be nice if somehow Daulton could get
+      the project built without delay while at the same time bringing  Elias
+      and Shellie to justice.  But Daulton can’t afford any delay, and  even
+      if it means that he “indirectly” aids and abets Elias and  Shellie  in
+      their scheme, it is better that this issue never  sees  the  light  of
+      day.  Remember, this  is  not  Daulton’s  problem;  it  is  Elias  and
+      Shellie’s.  Daulton should direct that Elias  and  Shellie’s  name  be
+      removed from the plat – virtually assuring that  no  one  will  notice
+      their land interest – and go on with his business.
+      Percentage of votes agreeing: 0%
+   3. Check things out.  Daulton should retain a trusted engineer  colleague
+      in a nearby state to quietly provide him with a second opinion  as  to
+      whether Elias and Shellie’s recommendation for the road was justified.
+       The only valid concern here – if there is one – is whether Elias  and
+      Shellie are unjustly enriching themselves by means of  the  fact  that
+      they stand to personally gain from their  land  interest  if  the  new
+      Walbert road is built.  Arguably, this influence might have  corrupted
+      their judgment.  However, if their decision for the road stands on its
+      own technical merit, politics and personalities aside,  there  was  no
+      corruption of judgment and there is no ethical problem.
+      Percentage of votes agreeing: 8%
+   4. Call Elias and Shellie.  A standard ethics provision is that engineers
+      are to conduct themselves honorably so as to  enhance  the  honor  and
+      reputation of the profession.  At a  bare  minimum,  this  would  mean
+      giving Elias and Shellie the benefit of the doubt – things  might  not
+      be what they seem.  Daulton should invite Elias and  Shellie  to  meet
+      with him and Conner, show them what he  has  learned,  appraise  their
+      response, and take it from there.     Percentage  of  votes  agreeing:
+      33%
+
+   5. Propose a civic donation.  It is naïve to think that Elias and Shellie
+      are innocent – Daulton has the information that condemns  them!   But,
+      being  civically  minded,  Daulton  could  use  this  opportunity   to
+      “encourage” Elias and Shellie to become strong supporters of both  the
+      Murray and Walbert communities.  Having  ascertained  from  Conner  an
+      estimate as to how much money Elias and Shellie stand to gain from the
+      increase in their land value, Daulton should invite Elias and  Shellie
+      to a meeting where he shows them what he has learned and proposes that
+      they generously donate this amount of money to both the Murray and the
+      Walbert historic societies.  Such a donation is  the  only  reasonable
+      way to ensure good will and future success of all  parties  concerned.
+
+
+      Percentage of votes agreeing: 0%
+   6. Generate some revenue.  It is naïve to think that  Elias  and  Shellie
+      are innocent – Daulton has the information that condemns  them!   But,
+      Daulton is a businessman, so he could use this opportunity to generate
+      some revenue for the  company.   Having  ascertained  from  Conner  an
+      estimate as to how much money Elias and Shellie stand to gain from the
+      increase in their land value, Daulton should invite Elias and  Shellie
+      to a meeting where he shows them what he has learned and suggests that
+      they have made an error in their billings.  Daulton could then propose
+      that Elias and Shellie deduct twice this amount of  money  from  their
+      invoice for services rendered.  This type of accounting entry  is  the
+      only reasonable way to ensure good will  and  future  success  of  all
+      parties concerned.
+      Percentage of votes agreeing: 0%
+   7. Get some input.  Situations like this are why there are ethics experts
+      and why there are lawyers.  Daulton should make general inquiry to his
+      local professional society, seeking  their  perspectives  and  advice.
+      Further, Daulton should contact his company’s legal counsel, tell them
+      what he knows, and have them advise him as to how  proceed  so  as  to
+      best protect the interests of the company.   Daulton  should  document
+      everything for the file, and call the clients  to  apprise  them  that
+      there might be a delay.
+      Percentage of votes agreeing: 35%
+   8. Call Murray and Walbert Townships.  Perhaps the best way to proceed is
+      to let the locals take care of things.  Maybe they really  don’t  mind
+      if Elias and Shellie profit from the increase in land  value,  and  in
+      effect they would approve of things as they are. Daulton should inform
+      representatives of  Murray  and  Walbert  Townships  of  what  he  has
+      learned, point out what he believes are the ethical concerns, and  let
+      them take it from there.
+      Percentage of votes agreeing: 4%
+   9. Call the State P.E. Board.  Daulton knows that the state’s engineering
+      practice  act  requires  that  engineers  “…disclose  all  actual   or
+      potential conflicts of interest.”  This means that Elias  and  Shellie
+      have stepped cleanly into the  cross-hairs  of  an  ethics  violation.
+      Further, the state’s engineering practice act  requires  that  Daulton
+      report violations that he knows of.  This one’s a no-brainer.  Daulton
+      should “turn in” Elias and Shellie.
+      Percentage of votes agreeing: 19%
+  10. Call the Press.  It has to be kept in mind that ClearWater  Developers
+      has done nothing wrong, and it is Daulton’s job to make sure that  his
+      firm and the project do not suffer as a result of Elias and  Shellie’s
+      apparent malfeasance.  The best way to deal with this is to get public
+      opinion on ClearWater’s side, fully and from  the  beginning.   Proper
+      “spin” will help Daulton  and  everyone  else  negotiate  through  the
+      problem with minimal impact to the project.  Daulton should leak  what
+      he knows to a reporter for the local papers, and let the press take it
+      from there.
+      Percentage of votes agreeing: 0%
+
+Forum Comments from Respondents
+   1. As soon as Daulton has discussed this matter with Elias  and  Shellie,
+      he should discuss it with the two Townships so  that  all  potentially
+      affected parties are aware of the conflict.  After discussion with the
+      two townships, Daulton  should  remove  Elias  and  Shellie  from  the
+      project and replace them with a more ethical engineer.
+
+   2.  Firstly  Daulton  should  talk  with  the  company's  legal  counsel.
+      Depending on the advice they have  for  him,  then  it  would  be  the
+      correct course of action to inform the state PE board that members are
+      in violation.
+
+   3. Before jumping to conclusions, Daulton should  first  call  Elias  and
+      Shellie to find out  for  sure  what  the  reasons  are  behind  their
+      actions.  Once Daulton discusses the situation with Elias and Shellie,
+      further actions can be taken.
+
+   4. A combination of option 4 (call Elias and Shellie) and option 9  (call
+      the State P.E.  Board)  seems  appropriate.  In  the  event  that  the
+      conversation with Elias and Shellie proves that Elias and Shellie  are
+      profiting personally from the sale of property, then  the  P.E.  Board
+      should be contacted.
+
+   5. Daulton should first check whether or not the road is  necessary.   If
+      the road is not necessary, then it  shouldn’t  be  built  and  Daulton
+      should let Elias and Shellie know why.  If the road is necessary, then
+      Daulton should still let Elias and Shellie know what he knows  and  he
+      should let them make the next move.
+
+   6. Daulton must  act  in  his  company's  best  interest  in  this  case,
+      especially if the new road will be costing  his  company  more  money.
+      For this reason Daulton should place the  decision  in  his  company's
+      hands.
+
+   7. Option 4 (call Elias and Shellie) seems to be the most ethical choice.
+       It appears that the two  engineers  have  overstepped  their  bounds;
+      however, Daulton should confront them first and find out their  story.
+      He can then determine whether further action has to be taken.
+
+   8. As a professional courtesy it would  be  appropriate  for  Daulton  to
+      bring up the situation to Elias and  Shellie  first.   Daulton  should
+      also ask someone who is impartial to the  situation  to  look  at  the
+      plans to see what is technically best.
+
+   9. Guideline #5 of ASCE's Standards of Professional conduct  states  that
+      it is an employee's responsibility to protect  an  employer's  "assets
+      against loss, theft, and misuse." It also states in Section 4 #1  that
+      "questions of guidance . . . may be asked anonymously."  I feel  these
+      statements make alternative 7 (get some input) the most appropriate.
+
+  10. This is a difficult decision because Daulton does not know  the  exact
+      intent of Elias and  Shellie.   He  should  confront  both  Elias  and
+      Shellie to learn more about them and their motives  for  building  the
+      road.  Daulton also must contact his legal counsel because  it  is  in
+      his best interest to inform his company of a  possible  delay  due  to
+      legal issues.
+
+  11. Ethically this dilemma centers on a  huge  conflict  of  interest  for
+      Elias and Shellie, and Daulton needs to inform the owner of Clearwater
+      Developers about it.  This problem has the potential to jeopardize the
+      reputation of Daulton’s company, so the boss  should  know  about  the
+      situation to get more professional advice.
+
+  12. Daulton should initiate a sit-down meeting  with  Elias,  Shellie  and
+      Conner to find out what is really going on (as explained  in  approach
+      #4). Then, with this input, Daulton should take what  he  and  learned
+      and seek advice from his local professional society and the  company's
+      legal counsel (as explained in approach #7).
+
+  13. I think that clearly Elias and Shellie are in the wrong,  but  at  the
+      same time we have to consider the client's interest, and  how  turning
+      them in might delay the  project.  By  communicating  with  his  local
+      professional society, and his company's legal counsel,  Daulton  would
+      be able to make a more informed decision.
+
+Comments from Board of Review Members
+   1. The fact that Elias and Shellie own property in Walbert Township,  the
+      value of which will be positively affected by the new road they locate
+      and design, is an actual – not potential – conflict of interest.  This
+      puts Elias and Shellie in the untenable situation of having  to  serve
+      two masters: the  client  or  themselves.   Disclosure  of  this  land
+      interest would not be sufficient to allay  the  problem;  the  obvious
+      course of action would be for Elias and Shellie to  divest  themselves
+      of the property or decline to work on  the  project.   But  Elias  and
+      Shellie did not disclose  their  land  interest.   Instead  they  said
+      nothing, and their failure to disclose an actual conflict of  interest
+      is tantamount to deception.  As much  as  he  might  wish  to  do  so,
+      Daulton cannot simply sweep this under the rug.  Elias and Shellie are
+      clearly in violation of engineering law and the code of  ethics.   The
+      obvious place to start  is  communication  with  his  company's  legal
+      counsel.  From  there,  Daulton  should  contact  Murray  and  Walbert
+      Townships, and then perhaps convene a meeting with Elias and  Shellie.
+
+
+

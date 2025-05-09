@@ -1,0 +1,5 @@
+Run ID,split_type,Average,1s,2s,3s,4s,5s,count
+gpt-3.5-turbo-0125,sft_finetune_set,3.71,1,5,12,60,2,80
+gpt-3.5-turbo-0125,sft_test_set,3.91,0,1,4,24,3,32
+gpt-4o-mini,sft_finetune_set,4.12,0,3,1,59,17,80
+gpt-4o-mini,sft_test_set,4.31,0,1,0,19,12,32

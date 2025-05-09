@@ -1,0 +1,235 @@
+
+                          Water, Water Everywhere…
+                                 (Case 1014)
+
+The mission of the National Institute for Engineering Ethics  (NIEE)  is  to
+promote ethics in engineering practice  and  education.   One  component  of
+NIEE  is  the  Applied  Ethics  in  Professional  Practice  (AEPP)  program,
+providing free engineering  ethics  cases  for  educational  purposes.   The
+following case may be reprinted if it is provided  free  of  charge  to  the
+engineer or  student.   Written  permission  is  required  if  the  case  is
+reprinted for resale.  For more cases and other NIEE  Products  &  Services,
+contact  the  National  Institute  for  Engineering   Ethics,   Texas   Tech
+University, www.niee.org..  (All reprints must contain these statements)
+
+The Case:
+Roger Champion is a young engineer who received his  Master  of  Science  in
+Engineering degree two years  ago  and  is  now  working  for  a  consulting
+engineering firm that proudly states that it has clients in both the  public
+and private sectors. The firm believes that they are  capable  of  providing
+excellent service to both sectors  and  that  this  market-diverse  strategy
+enhances their services and engineering designs, as well as  providing  more
+protection for the firm against unforeseen changes in  the  economy.   As  a
+result, the firm has two operating vice presidents; one for  private  sector
+clients and one for public works clients.
+
+Roger has been assigned to perform  hydrologic  and  hydraulic  computations
+and analyses for a sizable project as part of a contract the firm  has  with
+the Downing  Flood  Control  District.   This  project  is  subdivided  into
+several significant phases, and he is working on  the  first  phase  at  the
+present time.  Roger’s responsibilities focus on the impacts of large  scale
+upstream  development  and  the  potential  resultant  adverse  effects   on
+existing  flood  control  problems  downstream.   More   specifically,   the
+information he is developing will eventually be used to evaluate a  citizen-
+developed  concept  for  a  regional  stormwater  detention  basin  and   an
+ancillary recreational  park  to  provide  mitigation  for  the  anticipated
+increases  in  runoff  from  the  upstream  development,  which  are  to  be
+determined from the several phases of the study.
+
+While he is working on this first phase of the project, Frank  Bullock,  the
+firm’s  vice  president  for  private  sector   business   development,   is
+approached by a number of companies to determine the status  of  the  study,
+what information has been developed and what the firm’s recommendations  are
+likely to be.  Because of the number and frequency of  these  requests,  and
+the obvious opportunity for establishing closer relations with previous  and
+prospective private clients, Frank approaches Roger and requests a draft  of
+the first phase report before it is finalized and submitted to  the  Downing
+Flood Control District.
+
+As soon as the draft is prepared, Roger  sends  a  copy  to  Frank  for  his
+review and comment.  Receiving suggestions and comments from  his  boss  and
+other reviewers in the firm a couple of weeks later,  but  not  from  Frank,
+Roger finalizes the report.  Prior to actually having the  report  delivered
+to the client, Roger approaches his boss,  Bill  Mason,  and  expresses  his
+uneasiness about having provided Frank Bullock with a draft of  the  report,
+since he is not sure what use Frank will make of it.  Roger  also  indicates
+to Bill that he recognizes that the information will be made public once  it
+is reviewed by the flood control district, however he is a bit disturbed  by
+the timing of these events.
+
+Bill thanks Roger for his concern about the propriety of the situation,  but
+assures Roger that it is nothing more than a matter  of  timing,  since  the
+information will be made public within a few weeks anyway.   In  fact,  this
+is not an unusual situation, and it is done all the time, not only  by  this
+firm,  but  by  others  under  similar  circumstances.   It  is  viewed   as
+cooperating with the public.
+
+What, if anything, should Roger do, now and in the future?
+
+
+Alternate Approaches and Survey Results for “Water, Water Everywhere”  (Case
+1014)
+1.    He should do nothing.  Roger is young, inexperienced and  unaccustomed
+     to consulting engineering practice.  He does not understand  that  this
+     is the way business is done in these circumstances.  It is an  accepted
+     practice  and  everyone  understands  it,  as  his  boss,  Bill   Mason
+     explained.
+      Percentage of votes agreeing:  4%
+
+2.    He should play dumb and ask Frank Bullock  for  his  comments  on  the
+     report, since he wanted to review the draft copy.  Ask him what use  he
+     is making of the draft report and if he has  anything  constructive  to
+     add to the report from an engineering standpoint.  Perhaps Frank really
+     did want to provide technical assistance.
+      Percentage of votes agreeing:  11%
+
+3.    He should explain his concerns over an after-work beer with  a  couple
+     of friends in other engineering firms in town to see if this really  is
+     a common and accepted practice.  If it is not  accepted  practice,  ask
+     for their advice about what he  should  do  in  this  circumstance,  if
+     anything.
+      Percentage of votes agreeing:  4%
+
+4.    He should call his contact at the client's office (the  Downing  Flood
+     Control District) and discuss the situation with them to  see  if  they
+     are concerned over the possibility of  the  information  in  the  draft
+     report being made available to a number of private companies before the
+     final report is submitted and accepted by  the  District,  and  becomes
+     public property.
+      Percentage of votes agreeing:  15%
+
+5.    He should write a letter to the president of his firm, with copies  to
+     both Frank Bullock and Bill Mason, simply outlining the chain of events
+     without accusations of any  kind.   Let  the  president  deal  with  it
+     (that's why he gets paid big bucks).
+      Percentage of votes agreeing:  8%
+
+6.    He should call a meeting within the  firm,  including  Frank  Bullock,
+     Bill Mason, the president of the  firm  and  the  firm's  attorney,  to
+     discuss whether it is ethical  or  unethical  for  the  company  to  be
+     disseminating the contents of the  draft  report  to  others  prior  to
+     submitting the final report to the Downing Flood Control District.
+      Percentage of votes agreeing:  18%
+
+7.    He should make an anonymous telephone call to the local radio  station
+     and/or  newspaper,  saying  that  "rumor  has  it"   that   preliminary
+     information about the impacts of the proposed large development on  the
+     magnitude and cost of anticipated downstream flood  control  facilities
+     is being made available to  some  interested  parties,  including  real
+     estate agents and developers.
+      Percentage of votes agreeing:  1%
+
+8.    He  should  call  the  National  Society  for  Professional  Engineers
+     (NSPE), talk with their in-house legal advisor and determine if this is
+     an acceptable practice or if any laws are  being  broken,  but  do  not
+     divulge the name of the firm.
+      Percentage of votes agreeing:  26%
+
+9.    He should call the state's Attorney  General  office  and  set  up  an
+     appointment with an attorney  for  the  state  to  discuss  the  entire
+     matter.
+      Percentage of votes agreeing:  1%
+
+10.   If there is incontrovertible evidence that Frank  Bullock  has  shared
+     or is sharing the information in the  preliminary  draft  with  old  or
+     prospective clients who stand to gain financially from the  disclosure,
+     Roger should file a  complaint  with  the  Board  of  Registration  for
+     Engineers in his state, since this would likely be a violation of their
+     code of ethics.
+      Percentage of votes agreeing:  10%
+
+11.   He should resign and move to Paraguay, or somewhere else.
+      Percentage of votes agreeing:  2%
+
+
+Forum Comments from Respondents
+1.    Before Roger can act on anything, he needs to know if there is  really
+     a problem or not.
+
+2.    He should make sure the company knows what  he  is  doing.   Don't  go
+     behind their backs.
+
+3.    Since he has already spoken to his own  boss,  he  should  go  to  the
+     firm's attorney quietly to describe his fears.  With no evidence of any
+     kind to back up his fears, he should not speak out publicly and perhaps
+     ruin someone's career on just suspicion.  Let the firm's attorney  take
+     it from there.
+
+4.    It is interesting that the two highest scoring  solutions  (options  3
+     and 8) in this class of senior mechanical engineering students focus on
+     finding out more about the appropriateness of the situation - - in  one
+     case from the experts and in the other from  peers.   It  seems  clear,
+     therefore, that making available the resources to help young  engineers
+     resolve such questions will have an important role in raising the level
+     of ethical performance.
+
+5.    Roger  actually  has  no  evidence  of  ethical  misconduct  by  Frank
+     Bullock.  There  are  potential  other  uses  of  a  draft  report  for
+     understanding the district and refining  marketing  strategies  without
+     handing it out to developers.
+
+6.    The time to raise the issue was when Frank Bullock asked for  a  draft
+     copy!  Nominally one would expect there to be some [internal] rules  on
+     separation of public  and  private  clients  which  would  prevent  the
+     information transfer.  If both clients were  private,  it  would  never
+     happen; the fact that one is "public" is a red herring -  it  is  still
+     insider information until the "public" entity actually makes it public.
+      The possibility of making money on prior knowledge of  the  report  is
+     definitely there.
+
+7.    Timing on release of recommendations from such a study is critical  to
+     all   potential   investors/developers   who   would   likely   benefit
+     substantially from such information if they had it before  competitors.
+     Hence, Roger's concern is legitimate.  There is the danger that  Frank,
+     and possibly Bill, will benefit personally (let alone  the  benefit  to
+     the company from grateful customers or potential customers)  by  having
+     the pre-released information.  This is unethical generally, and, in the
+     case of government contracts, illegal.
+
+8.    Roger does not know to what use Frank put the report nor does he  know
+     for sure that a violation of any ethical  practice  has  occurred.   If
+     Frank did give a "preview" copy  to  his  business  associates  and  it
+     contained information that could be defined as "insider information", a
+     violation of ethical principles has occurred.   With  public  companies
+     the SEC [Securities Exchange Commission] has rules directed to  release
+     of that  information  and,  I  believe,  criminal  prosecution  can  be
+     invoked.
+
+9.    This [acknowledged practice of distributing draft  report  information
+     to  the  public  without  permission  of  the  public  client]  is  not
+     cooperating with the public.  This is colluding with people  who  stand
+     to gain financially  by  getting  information  before  it  is  publicly
+     available.  At this point Roger's boss has revealed his lack of ethical
+     character.  The "it's done all the time" justification is a  huge  tip-
+     off that what's being done is knowingly wrong.
+
+10.   In the future, Roger should understand the use that will  be  made  of
+     his draft work before giving copies to people in or out of his  company
+     not directly associated with the project.
+
+11.   Frank would probably say that his action wasn't ethical, it  was  just
+     good business.  There is  a  fine  line  between  "good  business"  and
+     unethical behavior.  If Frank used the information to contact  some  of
+     his clients before the information was made public, then that  deed  is
+     the same as inside trading on the stock market.  I think it is WRONG.
+
+12.   In the future, Roger should tell Frank hat he cannot have  a  copy  of
+     the report until it becomes public because it  is  still  his  client's
+     [the Flood Control District's] property until that time.  The fact that
+     the firm works for different clients should not  mean  that  the  rules
+     change.  If Roger had passed the draft on  to  a  different  consulting
+     firm before  it  was  public,  that  would  be  unethical  because  the
+     information still belongs to the Flood Control  District  until  it  is
+     made public.
+
+13.   Many [engineering] contracts  have  confidentiality  clauses  in  them
+     that strictly forbid discussion of the  project  findings  and  results
+     with anyone outside of the firm [other than the client].  Even is there
+     were no contract clause forbidding outside discussion, Roger's firm  is
+     forgetting who their client is.  Roger must remind his peers and bosses
+     that the Flood Control District may very  well  want  some  significant
+     changes in the report, which he would have to make and could  adversely
+     impact the developers.  It would put the firm in a  real  bind  if  the
+     developers came back to the firm and pressured them on how  they  wrote
+     the report.
+

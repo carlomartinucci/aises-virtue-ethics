@@ -1,0 +1,333 @@
+
+                          Hearsay: What's It Worth?
+                                 (Case 1013)
+
+The mission of the National Institute for Engineering Ethics  (NIEE)  is  to
+promote ethics in engineering practice  and  education.   One  component  of
+NIEE  is  the  Applied  Ethics  in  Professional  Practice  (AEPP)  program,
+providing free engineering  ethics  cases  for  educational  purposes.   The
+following case may be reprinted if it is provided  free  of  charge  to  the
+engineer or  student.   Written  permission  is  required  if  the  case  is
+reprinted for resale.  For more cases and other NIEE  Products  &  Services,
+contact  the  National  Institute  for  Engineering   Ethics,   Texas   Tech
+University, www.niee.org..  (All reprints must contain these statements)
+
+The Case:
+You are  an  engineer  working  for  Enviro/Universal,  a  large  consulting
+engineering firm.  You have recently  completed  a  phase  one  (preliminary
+review based on available information)  environmental  site  assessment  for
+Americorp, one of the firm’s largest clients.  You  have  been  directed  to
+send drafts of the report to the client’s law firm, Dewey, Stickum  &  Howe,
+for review prior to issuing the final report.
+
+The property in question is a large shopping mall located in an  area  which
+used to be heavily industrialized and is now being converted to  residential
+and commercial uses.  The site being investigated is not being sold;  rather
+it is being used as collateral  for  a  refinancing  loan  being  sought  by
+Americorp from a local lending institution.
+
+In the course of conducting the  research  and  preparing  the  report,  you
+happen to have a conversation with an older  gentleman  at  a  nearby  lunch
+counter who tells you that the property is known among  long-term  residents
+of the neighborhood to be contaminated because of  the  previous  operations
+of a creosoting plant on the site many years ago.  The shopping mall,  built
+38 years ago, was sited directly over  the  old  creosoting  plant  “because
+that’s how they used to do it back then.”
+
+This casual conversation is the only indication of  contamination  you  have
+been able to uncover through your research on the site.  As  a  result,  you
+prepare  and  submit  a  draft  of  the  report  to  the  Dewey  law   firm,
+recommending that the site be the subject of  a  Phase  2  site  assessment,
+which will require drilling inside of the existing shopping mall  to  obtain
+samples of the soils and groundwater beneath the structure.   Within  a  day
+or two the attorney at the Dewey firm  returns  the  draft  report  to  you,
+deleting the  part  about  the  alleged  creosoting  contamination  and  the
+recommendation  for  additional  testing  in  a  Phase  2  assessment.   Not
+understanding  why  this  has  occurred,   you   telephone   Charlie   Howe,
+Americorp’s attorney , who tells you that:
+
+a.    The personal information  you  gathered  about  the  alleged  creosote
+   plant on the site was only  hearsay,  and  cannot  be  relied  upon.   In
+   addition, you were not  requested  to  conduct  such  personal  anecdotal
+   research.
+
+b.    The property is not being sold, therefore  Americorp  still  owns  it,
+   and they now know about the alleged contamination.
+
+c.    You have a contractual obligation to have the final report,  including
+   reasonable changes stipulated by Dewey, Stickum  &  Howe,  completed  and
+   delivered by noon today.
+
+d.    The refinancing is set to close later today, and if it does not  close
+   the financing will be lost and a new loan will have to be obtained  at  a
+   higher rate.  The loan being sought is  to  be  used  to  finance  a  new
+   project, which will fail to materialize  (possibly  irrevocably)  without
+   this financing.  There will be total damages in the millions  of  dollars
+   if the closing does not take place.
+
+e.    If you fail to provide the final report as requested by  the  client’s
+   attorneys, you will be sued personally for these damages and neither  you
+   nor your firm will ever do work for Americorp again.
+
+You relay this conversation to your manager, who indicates  that  since  you
+are providing the client, who is not selling the property,  with  the  final
+report, and since the client has all of the information you reported in  the
+draft report, it does not matter what the final report says.  He  tells  you
+to go ahead and issue the final report as revised by the Dewey  legal  firm,
+and strongly suggests that your own future with the firm  will  be  affected
+by whether you comply with this directive or not.
+
+What do you decide to do, and why?
+
+
+Alternate Approaches and Survey Results for  “Hearsay:   What’s  It  Worth?”
+(Case 1013)
+1.    Charlie Howe and your manager  are  correct.   Unsubstantiated  gossip
+    heard at a lunch counter does not belong in an engineering report.   If
+    no adverse effects were noticed at the site after  38  years,  probably
+    not much is going to come from it.  Make the deletions demanded by Howe
+    and get on with your career.
+      Percentage of votes agreeing: 7%
+
+2.    You decide to comply with Charlie Howe's  demands,  and  after  making
+    the requested deletions, sign the report and have it sent to Americorp.
+     You also keep in  your  personal  files  at  home  all  the  uncovered
+    information, whether documented or not, the original draft report,  the
+    returned draft modified by  the  Dewey  firm,  and  a  record  of  your
+    discussions with your manager and with Charlie Howe.
+      Percentage of votes agreeing: 10%
+
+3.    You like to eat, and  finding  another  job  is  not  all  that  easy,
+    especially if the word got out that you might be a "problem  employee".
+    Therefore you decide to comply with Charlie Howe's demands, but in  the
+    report you document your research sources for the  "preliminary  review
+    based on available documented information",  leaving  out  the  hearsay
+    opinion of the old gentlemen at the lunch counter.
+      Percentage of votes agreeing: 3%
+
+4.    Make the changes  demanded  by  Howe.   Include  a  statement  in  the
+    executive summary at the beginning of the final report that says,  "The
+    information  contained  herein  is  the  result  of  an   investigation
+    performed under direct contract with Americorp, in accordance with  the
+    limited scope of work defined in that contract.   This  information  is
+    for the exclusive use of Americorp and no one else may rely on it."  In
+    this way you are not certifying anything one way or the  other  to  the
+    lending institution.
+      Percentage of votes agreeing: 17%
+
+5.    Edit the draft report as Charlie Howe wishes, sign and send the  final
+    report to Americorp with a copy  to  Howe.   Also  in  the  transmittal
+    letter to Howe report the hearsay comments from the lunch  counter  and
+    recommend that you be retained to investigate further to see  if  there
+    might be any real basis to the allegation.  Pass this by  your  manager
+    for his verbal approval.  If he doesn't approve,  then  keep  your  own
+    notes of what you were directed to do in your personal files at home.
+      Percentage of votes agreeing: 20%
+
+6.    Tell your manager you are uncomfortable  issuing  such  a  potentially
+    misleading report, but will make the required deletions and  issue  the
+    report immediately.  After making the report  revisions,  you  have  it
+    delivered to your manager with  a  note  saying,  "I've  made  all  the
+    changes you asked me to.  Please review and sign the  report  and  I'll
+    make sure it gets to Americorp this afternoon."
+      Percentage of votes agreeing: 7%
+
+7.    Tell your manager you are uncomfortable  issuing  such  a  potentially
+    misleading report, but will make the required deletions and  issue  the
+    report immediately.  You  make  the  requested  changes  and  sign  the
+    report.  But before you have it delivered to Americorp, you have one of
+    the senior engineers in your group sit in (via speaker phone) on a call
+    to Charlie Howe in which you tell Charlie that, although you still have
+    reservations regarding the requested deletions as  you  discussed  with
+    him this morning, your manager has reviewed your concerns and OK'd  the
+    revisions.  You will have the revised  report  delivered  to  Americorp
+    with a copy to Charlie, today.
+      Percentage of votes agreeing: 8%
+
+8.    This type of thing happens all the time.  In this case even though  no
+    construction is planned for the site, (so none of the residue from  the
+    alleged old creosoting plant  will  be  exposed),  you  are  not  being
+    truthful in your report.  The bank putting up the refinancing loan  may
+    be liable if anything adverse does occur in the future, and  they  will
+    then surely come looking for you.  Tell Howe and you manager  that  you
+    are issuing the report as it was originally written, without making the
+    deletions.
+      Percentage of votes agreeing: 14%
+
+9.    This type of thing happens all the time.  You are hired by  a  company
+    to do an investigation, then end up  taking  marching  orders  from  an
+    attorney with whom you have no contractual agreement and whose  primary
+    goal is to insulate their client from any and all  potential  financial
+    losses.  It doesn't seem to matter if what  they  tell  you  to  do  is
+    ethical or not.  Refuse to do as Charlie Howe demands,  and  tell  your
+    manager that your integrity is not for sale.
+      Percentage of votes agreeing: 9%
+
+10.   This type of thing happens all the time, and it's about  time  someone
+    took a definitive stand to stop it.  Tell Charlie Howe and your manager
+    that what they want you to do is not honest, and you will  not  do  it.
+    Also tell your manager that you will spill the whole  sordid  story  to
+    the local newspaper if you experience any adverse reaction at work from
+    your decision.
+      Percentage of votes agreeing: 5%
+
+
+Forum Comments from Respondents
+1.    If the site is found to be contaminated later on, you  could  be  held
+    partially responsible for any damages.  Stand up for what is right now,
+    and not put off the responsibility until later.
+
+2.    Make the requested deletion, but insert a  statement  that  there  was
+    evidence of prior industrialization on the site.  Since it is only  for
+    collateral on a loan, it should make  no  difference  (unless  the  new
+    project is located on the same site).
+
+3.    In such a case it is important to let "hearsay" information be  known.
+     What is ultimately done about it will be in the hands of  the  company
+    and financiers.  Legally and ethically, the  paid  for  duty  has  been
+    discharged in an "above-the-board" manner.  While the  report  findings
+    are, indeed, what was actually found, the additional  "hearsay",  which
+    is  undocumented,  is  acknowledged.   It  is  now  possible  for  this
+    "hearsay" to be investigated as needed.
+
+4.     Some  additional  follow-up  on  the  hearsay  at  the  time  of  the
+    investigation would have been warranted.
+
+5.     The  information  obtained  at  the  lunch  counter  is  hearsay  and
+    therefore is not reliable.  The gentleman is not a professional and  is
+    in no position to help you with your job.  Hearsay, even though  it  is
+    unreliable, often has  some  truth  in  it.   However  conceivable  and
+    convincing the information is, it is not your  position  to  make  such
+    judgements.  It should be noted that you  may  have  reservations,  but
+    your superior is the one to make judgement decisions like that.
+
+6.    Submit the final  report  as  revised  with  the  hearsay  information
+    deleted.  However, add a recommendation that a Phase  2  assessment  be
+    performed due to the history of the area being heavily industrialized.
+
+7.    The proper thing to do would be to go to your  firm's  top  management
+    for a decision.   If  upper  management  decides  to  comply  with  the
+    lawyer's demand for revised wording in the report, without any  thought
+    for ethical integrity, then you might want  to  think  about  switching
+    companies.  You represent your company and your company represents you.
+     If you do not believe in the practices of your company and do nothing,
+    that speaks to your character.
+
+8.    Regardless of the client, I believe you must perform the task you  are
+    asked to do.  If you  lose  that  client  your  reputation  will  still
+    proceed [sic] you.
+
+9.    I would be uncomfortable with  the  fact  that  my  manager  would  be
+    hinting to me that my future employment  with  the  firm  would  be  in
+    jeopardy because I was having an ethical disagreement with  some  other
+    company's attorney.  I would hope my manager would want  his  employees
+    to be honest in all their dealings and support them in  these  type  of
+    situations instead of passing it  off  as  not  very  important.   This
+    relationship with the manager is the part that disturbs me the most.
+
+10.   I believe that the  engineer  should  tell  his  manager  that  he  is
+    uncomfortable issuing the  report  without  investigating  further  the
+    rumor of contamination.  He should mention that what they are doing  is
+    dishonest…..He should recommend they allow a  time  frame  for  further
+    investigation.  If his proposal is rejected, he should  then  make  the
+    requested changes to the report, including  the  following  disclaimer,
+    "The information contained herein is the  result  of  an  investigation
+    performed under direct contract with Americorp in accordance  with  the
+    limited scope of work defined in that contract.   This  information  is
+    for the exclusive use of Americorp and no one else  may  rely  on  it."
+    The engineer should not sign the final report.  He  should  submit  the
+    report to his manager.  His manager should review and sign the  report.
+    The engineer should keep careful personal and company  records  of  all
+    his findings.
+
+11.    It  is  absolutely  essential  that  the  unsubstantiated   date   be
+    substantiated one way or the other -- if necessary, at your own expense
+    and on your own  time.   Then  write  the  report  accordingly.   In  a
+    developed area, records exist for more than 38 years.  The truth can be
+    substantiated.
+
+12.   You might have your lawyer call Howe and discuss a  complaint  to  the
+    State Bar.  Alternate 8 hits  the  point  about  the  bank  potentially
+    having to take the responsibility for the property.   Would  they  make
+    the  loan  if  they  thought  there   was   possibility   of   creosote
+    contamination?  Probably not.  Therefore we are now  discussing  FRAUD.
+    It's not nice for engineers or lawyers to be involved in  such  things.
+    I really hate all these cases you have where  we  are  dealing  with  a
+    client who appears to be as crooked as  a  dog's  hind  leg.   I  guess
+    people are like that though.  Let's just not  drag  ourselves  down  to
+    their level.
+
+13.   First, you have a phase one report  based  on  available  information.
+    Interviews with lay people - users, tenants (or in this  case,  an  old
+    gentleman) are included in such reports.  The gentleman might (or might
+    not) know what he is talking about, but the engineer  must  acknowledge
+    the interview in the report, but put it in an appendix and  state  what
+    you think about it.  Second, the report is being used as collateral  on
+    a loan.  Ever dealt with the FDIC after a bank  has  failed?   They  go
+    after everybody who they think  "tended  to  mislead  the  government,"
+    including the client, the lawyers and your boss, and if you are stupid,
+    probably you.  Thirdly, you honestly submit the report recommending the
+    site be subject to a Phase 2 assessment, but do you state  the  reason?
+    Yes, you must.  Fourth the Dewey lawyer  physically  deletes  the  part
+    about the contamination and your recommendations.  No lawyer  would  be
+    this stupid, because he is practicing engineering without a license  if
+    he is the one who makes the physical changes.   But  let's  assume  the
+    lawyer demands,  orally,  that  you  remove  the  offending  provisions
+    because they are based on "hearsay".  Lawyers  sometimes  have  a  hard
+    time understanding  that  information  gleaned  during  an  engineering
+    interview is not hearsay to an engineer, it is "information  gathered",
+    even though the court, filled with lawyers, might disagree.  Fifth, the
+    fact that you  were  not  asked  to  conduct  such  personal  anecdotal
+    research is incorrect, in that you should conduct interviews  and  they
+    are not anecdotal.  Sixth, the deadline of finishing the report by noon
+    today, including inserting the changes demanded by the lawyers,  should
+    be postponed until the issue is resolved.  As noted above, the  lawyers
+    cannot demand changes to an engineering report that you seal (they  can
+    suggest changes).  Seventh, unless your boss is stupid and  has  agreed
+    in writing to accept damages of millions of dollars for your failure to
+    deliver before noon, your failure to deliver  the  tampered  report  by
+    that time will not result in any monetary  loss  to  your  boss'  firm,
+    other  than  the  cost  of  your  boss'  lawyer.   Eighth,  unless  you
+    personally signed an agreement  stipulating  that  you  are  personally
+    responsible for failure to perform, you won't  be  paying  any  damages
+    either, and if you get  sued  and  your  firm  refuses  to  cover  your
+    expenses, sue your firm as well.  Ninth,  if  your  client  (Americorp)
+    wants a tampered report so that they  can  trick  the  bank,  you  want
+    nothing to do with the client.  Tenth, you replay the lawyer's  threats
+    to your manager, who also threatens you with your future in  the  firm.
+    This means that your PE seal on the report is the only thing any of the
+    people want, including your boss  and  your  manager,  and  if  anybody
+    hangs, it will be you.  Don't worry.  This happens to  young  engineers
+    (it happened to me more than once).  Your boss and the manager normally
+    refuse to seal the report because they figure you have minimal  assets,
+    and they need a young patsy, probably the least financially capable new
+    engineer in the office, to take the responsibility.  Ever wonder why so
+    many new engineers  seal  big  projects?   Client  threats  and  lawyer
+    threats are nothing new  to  the  young  engineer.   Hold  on  to  your
+    integrity, and issue the report your way, with your interview with  the
+    old gentleman, with your recommendations, and with  your  seal,  before
+    noon.  If it costs you your job, then you didn't want to be working for
+    such people anyway.  Steer clear of the dark side of the  force.   When
+    the others go down, you won't be pulled down with them.
+
+14.   If Americorp defaults on the bank loan, the bank becomes the owner  of
+    the property, and everything on/in it.  As  a  result,  the  bank  then
+    becomes  legally  responsible  for  any  negative  impact  due  to  the
+    contamination, especially if they decide to develop it for a  different
+    purpose.  Should that occur, they will be knocking on your door for you
+    and your firm to assume the cost of remediating the  site,  because  of
+    your report.  Notably, this is a situation over which you would have no
+    control, but could have been avoided.
+
+15.   The real issue here is whether to uphold honesty as an ethical  value,
+    as well as to decide if you are sufficiently  knowledgeable  to  assume
+    the legal responsibility for the health, safety and welfare  of  others
+    if the contamination is present at the site in such quantity as to have
+    an adverse impact on the public.  The  financial  implications  to  the
+    developer are his responsibilities, not yours.   You  do  not  own  the
+    site, nor do you have a financial (profit-motivated)  interest  in  it.
+    Once you start cutting corners or deleting information from reports  at
+    the whim of clients who think they might be adversely impacted by  your
+    report, you and your reputation  start  sliding  irrevocably  down  the
+    slippery slope.
+

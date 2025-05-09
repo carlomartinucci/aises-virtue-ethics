@@ -13,6 +13,10 @@ This project uses the [ETHICS dataset](https://huggingface.co/datasets/hendrycks
 }
 ```
 
-## Ethics Unwrapped case studies
+## Ethics Unwrapped
 
 The `ethicsunwrapped` folder includes case studies from [Ethics Unwrapped](https://ethicsunwrapped.utexas.edu/case-study).
+
+## Murdough Center for Engineering Professionalism
+
+The `murdoughcenter` folder includes case studies from the [Murdough Center for Engineering Professionalism](https://www.depts.ttu.edu/murdoughcenter/products/cases.php)

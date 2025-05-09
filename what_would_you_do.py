@@ -1,13 +1,14 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 """
-For each scenario from the 'ethicsunwrapped' directory, ask to an OpenAI model
+For each scenario in the specified input directories, ask to an OpenAI model
 what would you do? Then save the output to a corresponding subdirectory.
 
 Usage:
   $ export OPENAI_API_KEY=sk-...      # or set in ~/.config/openai
   $ pip install --upgrade openai backoff tqdm
-  $ python process_ethicsunwrapped.py --model gpt-4o-mini
+  $ python what_would_you_do.py
+  $ python what_would_you_do.py --model gpt-4o-mini --input-dir ethicsunwrapped murdoughcenter
 """
 
 import asyncio, os, argparse, time, backoff
@@ -16,10 +17,10 @@ from typing   import List, Dict, Any
 
 from openai import AsyncOpenAI, APIError, RateLimitError, APIConnectionError
 from tqdm.asyncio import tqdm_asyncio
+from preprocess_utils import preprocess_content
 
 # --- Configuration ---
-INPUT_DIR  = Path("ethicsunwrapped")
-OUTPUT_DIR = Path("wwyd") / INPUT_DIR.name  # wwyd/ethicsunwrapped
+OUTPUT_DIR_BASE = Path("wwyd") # Base for all outputs, source name will be appended
 MODEL      = os.getenv("OPENAI_MODEL", "gpt-4o-mini")
 
 # --- OpenAI Client Setup ---
@@ -50,8 +51,8 @@ async def call_openai(file_content: str) -> str:
     return rsp.choices[0].message.content.strip()
 
 # --- File Processing Logic ---
-async def process_file(input_path: Path, output_dir: Path):
-    """Read file, call OpenAI if output doesn't exist, write result."""
+async def process_file(input_path: Path, output_dir: Path, source_identifier: str): # Added source_identifier
+    """Read file, preprocess, call OpenAI if output doesn't exist, write result."""
     output_path = output_dir / input_path.name # Output filename is same as input
 
     if output_path.exists():
@@ -60,8 +61,15 @@ async def process_file(input_path: Path, output_dir: Path):
 
     # If output doesn't exist, process the file
     try:
-        content = input_path.read_text(encoding='utf-8')
-        result = await call_openai(content) # Single call, no seed
+        raw_content = input_path.read_text(encoding='utf-8')
+        # Preprocess content based on source
+        processed_content = preprocess_content(raw_content, source_identifier)
+
+        if not processed_content.strip(): # If preprocessing results in empty content
+            print(f"Warning: Preprocessing {input_path.name} from source '{source_identifier}' resulted in empty content. Skipping API call.")
+            return input_path.name, 'empty_after_preprocessing'
+
+        result = await call_openai(processed_content) # Use preprocessed content
         output_path.write_text(result, encoding='utf-8')
         return input_path.name, True # Indicate success
     except Exception as e:
@@ -71,45 +79,76 @@ async def process_file(input_path: Path, output_dir: Path):
 # --- Main Execution ---
 async def main(args):
     global MODEL
-    MODEL = args.model # Update model from args
+    MODEL = args.model
+    input_dir_names = args.input_dir
 
-    if not INPUT_DIR.is_dir():
-        print(f"Error: Input directory '{INPUT_DIR}' not found.")
-        return
-
-    model_output_dir = OUTPUT_DIR / MODEL
-    model_output_dir.mkdir(parents=True, exist_ok=True)
-    print(f"Input directory:  {INPUT_DIR.resolve()}")
-    print(f"Output directory: {OUTPUT_DIR.resolve()}")
     print(f"Using model:      {MODEL}")
 
-    file_paths = list(INPUT_DIR.glob("*.txt"))
-    if not file_paths:
-        print(f"No files found in {INPUT_DIR}")
-        return
-    
+    all_tasks = []
+    any_valid_input_dir = False
 
-    tasks = [process_file(fp, model_output_dir) for fp in file_paths]
-    results = await tqdm_asyncio.gather(*tasks, desc=f"Processing {INPUT_DIR.name}", unit="file")
+    for dir_name_str in input_dir_names:
+        current_input_path = Path("scenario") / dir_name_str
+
+        if not current_input_path.is_dir():
+            print(f"Error: Input directory '{current_input_path}' not found. Skipping.")
+            continue
+        
+        any_valid_input_dir = True
+        source_name = current_input_path.name
+        
+        # Output directory specific to the input source and model
+        current_source_output_dir = OUTPUT_DIR_BASE / source_name 
+        model_specific_output_dir = current_source_output_dir / MODEL
+        model_specific_output_dir.mkdir(parents=True, exist_ok=True)
+
+        print(f"Processing input directory: {current_input_path.resolve()}")
+        print(f"  Output for this source:   {model_specific_output_dir.resolve()}")
+
+        file_paths_in_current_dir = list(current_input_path.glob("*.txt"))
+        if not file_paths_in_current_dir:
+            print(f"  No .txt files found in {current_input_path}")
+            continue
+        
+        for fp in file_paths_in_current_dir:
+            all_tasks.append(process_file(fp, model_specific_output_dir, source_name))
+
+    if not any_valid_input_dir:
+        print("No valid input directories found or specified. Exiting.")
+        return
+        
+    if not all_tasks:
+        print("No .txt files to process found in any of the specified valid input directories.")
+        return
+
+    results = await tqdm_asyncio.gather(*all_tasks, desc="Processing files", unit="file")
 
     # Optional: Summarize results
     succeeded = sum(1 for _, status in results if status is True)
     failed = sum(1 for _, status in results if status is False)
     skipped = sum(1 for _, status in results if status == 'skipped')
+    empty_after_preprocessing = sum(1 for _, status in results if status == 'empty_after_preprocessing')
 
-    print(f"Processed {len(results)} files.")
+    print(f"Processed a total of {len(results)} files from all specified directories.")
     print(f"  Succeeded: {succeeded}")
     if skipped > 0:
         print(f"  Skipped:   {skipped} (output already exists)")
+    if empty_after_preprocessing > 0:
+        print(f"  Empty after preprocessing: {empty_after_preprocessing} (skipped API call)")
     if failed > 0:
         print(f"  Failed:    {failed}")
-    print(f"Results saved in: {model_output_dir.resolve()}") # Changed message slightly
+    print(f"Results saved in respective model-specific output directories under '{OUTPUT_DIR_BASE.resolve()}/<source_name>/<model_name>/'")
 
 
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description="Process files using OpenAI.")
+    parser = argparse.ArgumentParser(description="Process files from specified input directories using OpenAI.")
+    parser.add_argument(
+        "--input-dir", 
+        nargs='+', 
+        default=["ethicsunwrapped", "murdoughcenter"], 
+        help="One or more input directories containing .txt files (e.g., ethicsunwrapped murdoughcenter). Default: ethicsunwrapped murdoughcenter"
+    )
     parser.add_argument("--model", default=MODEL, help="OpenAI model name")
-    # Add other arguments as needed, e.g., --input-dir, --output-dir
     args = parser.parse_args()
 
     asyncio.run(main(args)) 

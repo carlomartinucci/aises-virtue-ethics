@@ -1,0 +1,445 @@
+
+                                Holey Smoke!!
+                                 (Case 1026)
+
+The mission of the National Institute for Engineering Ethics  (NIEE)  is  to
+promote ethics in engineering practice  and  education.   One  component  of
+NIEE  is  the  Applied  Ethics  in  Professional  Practice  (AEPP)  program,
+providing free engineering  ethics  cases  for  educational  purposes.   The
+following case may be reprinted if it is provided  free  of  charge  to  the
+engineer or  student.   Written  permission  is  required  if  the  case  is
+reprinted for resale.  For more cases and other NIEE  Products  &  Services,
+contact  the  National  Institute  for  Engineering   Ethics,   Texas   Tech
+University, www.niee.org..  (All reprints must contain these statements)
+
+The Case:
+Three years  ago,  Jack  Florin  was  promoted  to  the  position  of  chief
+geotechnical  engineer  of  Welk  Consultants,  a  geotechnical  engineering
+consulting firm located in Fargo, North Dakota, after having been  with  the
+firm for more than 18 years.  Welk Consultants is a  full  service  firm  in
+geotechnical engineering, maintaining  several  drilling  rigs,  experienced
+drilling crews and geologists, as well as a laboratory.   The  drilling  and
+sampling operations are overseen by  the  firm’s  drilling  manager,  Ernest
+Downholt.
+
+In  his  capacity  as  chief  geotechnical  engineer,   Jack   has   written
+professional engineering reports that  provide  design  parameters  for  the
+foundations of over a hundred structures, with projects ranging  from  small
+commercial buildings to large grain elevators.  In the conduct of his  work,
+Jack must rely on the data gathered by the firm’s drilling and boring  crews
+and geologists, often spread  over  a  territory  covering  several  hundred
+miles of eastern North Dakota.  As a check,  Jack  occasionally  visits  the
+project sites while the drillers and geologist are at work, but  because  of
+an increased work load and other personnel management  responsibilities,  he
+is normally in the office writing reports  and  overseeing  the  work  of  a
+number of younger engineers.
+
+Realizing that he has not been in the field much recently, Jack  decides  to
+visit the site of a  large  proposed  three-story  office  building  complex
+approximately 60 miles from the firm’s office.   With  the  boring  logs  of
+most of the 18 planned subsurface explorations provided by the firm's  drill
+crew and geologist in hand, he discovers upon arrival at the site  that  the
+drill rig and crew have come and gone.  Jack looks for signs of the  borings
+on the site but can find none.
+
+Jack contacts Ernest Downholt by cellular telephone  and  arranges  to  meet
+him the following morning at the site.  When Ernest arrives in  the  morning
+he also searches in vain for evidence of the  borings,  and  in  desperation
+points to what are obviously prairie  dog  mounds,  claiming  they  are  the
+remains of the drilling operation.
+
+The accuracy of the subsurface exploration logs and data  given  to  him  by
+the drill crew is critical to Jack’s analyses  and  design  recommendations.
+It is now Friday morning, and the foundation  design  recommendation  report
+is due in the client's office by Thursday of the following  week,  six  days
+from now.
+
+What should he do?
+
+
+Alternate Approaches and Survey Results for “Holey Smoke!!” (Case 1026)
+
+1.    Jack should not be that concerned.  The soil conditions  in  the  area
+    of the project are not that variable, so looking at  boring  logs  from
+    other sites in the area should suffice  to  provide  enough  subsurface
+    data for design purposes,  especially  if  he  uses  very  conservative
+    assumptions for design and construction.  Nonetheless, he  should  talk
+    to Ernest and tell him in no uncertain terms that this  situation  with
+    the drillers and geologist is not to be allowed again.   In  this  way,
+    Jack can meet his report deadline with the client, and prevent  similar
+    occurrences in the future.
+      Percentage of votes agreeing: 1%
+
+2.    Jack should call the geologist who was supposed to  be  on  the  site,
+    give him a piece of his mind in no uncertain  terms,  and  demand  that
+    they (the geologist and the drillers) prove that the borings were  done
+    at the proper site and that the  boring  logs  submitted  are  actually
+    based on soil samples recovered at the site boring locations.   If  the
+    geologist and drillers cannot do that to Jack’s satisfaction  within  a
+    day, Jack should fire the entire crew.
+      Percentage of votes agreeing: 4%
+
+3.     Jack  should  fire   Ernest   Downholt,   since   it   was   Ernest’s
+    responsibility to oversee the drilling  operations  and  he  apparently
+    failed to do so, or was in cahoots with the drillers and geologist.
+      Percentage of votes agreeing: 1%
+
+4.    Jack should have Ernest contact the geologist or head of the  drilling
+    team to meet him at the site  the  following  day  and  point  out  the
+    locations of the borings.  It is possible that Jack and Ernest were  at
+    the wrong site; it is possible that the geologists and drillers drilled
+    at the wrong site; it is possible  that  the  geologists  and  drillers
+    didn’t drill at all, but manufactured the boring logs  based  on  their
+    experience in the area.  If it turns out that Jack and Ernest  were  at
+    the correct  site  and  the  geologist  cannot  show  them  the  boring
+    locations, Jack should require lie detector tests for  Ernest  Downholt
+    and the members of the drilling and boring crew.
+      Percentage of votes agreeing: 1%
+
+6.    Be upfront with the client.  Tell them what you  have  discovered  (or
+    think you may have discovered) and ask for additional time to  complete
+    the report.  Your honesty will convince the client of  your  obligation
+    to complete the job correctly.
+      Percentage of votes agreeing: 18%
+
+7.    Reschedule duplicate drilling with another crew at the correct site
+    for the next available time, call the client and tell them that the
+    data collected was inconclusive and additional boring and sampling is
+    essential for an informed and reliable report.
+      Percentage of votes agreeing: 5%
+
+8.    Reschedule duplicate drilling with another crew at the correct site
+     for the next available time, call the client and tell them that the
+     drill crew was unavoidably detained and the report will be several days
+     late.  This is much better than not communicating with the client at
+     all, and should not be a problem, since Jack has worked with the client
+     many times in the past.
+      Percentage of votes agreeing: 4%
+
+9.    Require the geologists and drillers to go back to the correct site
+     immediately, work over the weekend and have the field boring layout
+     plan, boring logs and soil samples back in the office for Jack to go
+     over while they are still there on Monday morning.
+      Percentage of votes agreeing: 10%
+
+10.   Require the geologists and drillers to go back to the correct site
+     immediately, work over the weekend and have the field boring layout
+     plan, boring logs and soil samples back in the office for Jack to go
+     over while they are still there on Monday morning.  He should also
+     require that all of this work be done without pay to the geologist and
+     drillers.
+      Percentage of votes agreeing: 5%
+
+11.   Require the geologists and drillers to go back to the correct site
+     immediately, work over the weekend and have the field boring layout
+     plan, boring logs and soil samples back in the office for Jack to go
+     over while they are still there on Monday morning.  He should also
+     require that all of this work be done without pay to the geologist and
+     drillers, and they should also pay for the truck and car expenses
+     involved in going back to the site, as well as for the motel and meal
+     expenses for staying overnight in the area of the site to finish the
+     work by Sunday evening.
+      Percentage of votes agreeing: 1%
+
+12.   Require the geologists and drillers to go back to the correct site
+     immediately, work over the weekend and have the field boring layout
+     plan, boring logs and soil samples back in the office for Jack to go
+     over while they are still there on Monday morning. He should also
+     require that Ernest Downholt accompany the drilling crew and geologist
+     and stay with them on the site until the work is completed.
+      Percentage of votes agreeing: 21%
+
+13.   Require the geologists and drillers to go back to the correct site
+     immediately, work over the weekend and have the field boring layout
+     plan, boring logs and soil samples back in the office for Jack to go
+     over while they are still there on Monday morning. He should also
+     require that Ernest Downholt accompany the drilling crew and geologist
+     and stay with them on the site until the work is completed.  In
+     addition he should require that all of this work be done without pay to
+     the geologist and drillers, and they should also pay for the truck and
+     car expenses involved in going back to the site, as well as for the
+     motel and meal expenses for staying overnight in the area of the site
+     to finish the work by Sunday evening.
+      Percentage of votes agreeing: 11%
+
+14.   After obtaining the correct information for the site from the
+     geologist and drillers, Jack should have Ernest Downholt fire the
+     geologist and drillers, since they can never be trusted again and the
+     legal liability implications to the firm are tremendous if design
+     recommendations are based on erroneous or false information, which
+     could cause damage to the finished project, or injury or death.  He
+     should also remind Ernest that it is his responsibility to oversee the
+     field crews, and if this type of situation should ever arise in the
+     future, Ernest will be out of a job and down the road in the blink of
+     an eye.
+      Percentage of votes agreeing: 19%
+
+
+Forum Comments from Respondents
+
+Comments received primarily from students:
+1.    Jack should immediately talk to the drilling crew and geologic  group.
+     They  should  show  the  exact  locations  of  the  boring  holes  and
+    sufficient evidence (ed. note – of what?).  If Jack believes the  group
+    (ed. note – just the geologic group?  How about the drillers?) is  just
+    putting together information after this, he  should  bring  in  another
+    group and contact his client and tell them what he  believes  may  have
+    happened.  Jack should ask for an extension and make  sure  things  are
+    done right, by having Ernest call from on-sight throughout the  weekend
+    with no additional pay (ed. note – who to receive no additional  pay?).
+    After all, Ernest did not adequately do his job.  In many companies  he
+    may be required to provide a urine analysis for his mishap.
+
+2.    Depending on the soil type, ground cover, etc., completed borings  can
+    be incredible easy to miss, especially if it has rained.  Some  borings
+    produce hardly any cuttings.  In  his  presumed  anger,  Jack  must  be
+    careful not to accuse anyone of fraud, which is exactly what  he  would
+    have to do in order to get the entire drill crew back out to  work  the
+    weekend.  Forcing them to pay fore their time would really be  inviting
+    trouble.  A little detective work (separately  interrogating  the  crew
+    members, etc.) might uncover what really took  place,  but  there’s  no
+    time, so Jack is best off  hiring  a  local  subcontractor  to  do  the
+    drilling and informing the client that the  report  will  be  a  little
+    late.
+
+3.    Inform the client  and  proceed  to  get  valid  data  as  quickly  as
+    possible, at his firm’s expense (ed. note – whose firm?).   Inform  any
+    clients whose foundations were based on unreliable data and remedy  the
+    situation at his firm’s expense (ed. note – multiple  clients  for  the
+    site in question? Previous clients and previous  sites?  What  type  of
+    remedy is contemplated?).  Fire Ernest Downholt, the geologists and the
+    drillers as untrustworthy.  Inform appropriate  regulatory  authorities
+    of the problem and corrective action (ed. note – which authorities?).
+
+4.    It’s possible that Ernest didn’t give the orders to do  the  job.   In
+    that case he should be fired and someone else should supervise the team
+    to get the work done (ed. note – if this is true,  why  fire  Ernest?).
+    If it doesn’t get done on time, then the client should be warned  about
+    the problem.  If Ernest did give the orders but the team didn’t do  the
+    job, then the team should get to work right away and  in  the  meantime
+    find out the reasons why the job wasn’t done (ed. note –  who  to  find
+    out why the job wasn’t done?).  Ernest should be demoted and Jack (with
+    a new supervisor) will take charge.  The  team  may  or  not  be  fired
+    [sic].
+
+Comments received from practicing engineers:
+5.    If the drillers faked the borings, first find out why they  felt  they
+    needed to cut corners.  Was Ernie putting undue  pressure  on  them  to
+    produce?  If there is a company policy in place against faking data and
+    it says one strike and you are out, consider sacking them on the  spot.
+    Nevertheless consider that word will get around pretty quickly and  the
+    drillers would need to move away to get  a  new  job.   This  could  be
+    pretty rough on them.  Consider rehabilitation.  If there is no policy,
+    Jack will have to provide a warning that if this  sort  of  thing  ever
+    happens again, the drillers will be sacked.
+            Also, tell the client the truth and ask for sufficient  time  to
+    do the holes.  Preferably have the drill foreman go with Jack to a face
+    to face meeting with the client to personally apologize.  This sort  of
+    apology will help in the long run.
+
+6.    Obviously this is a situation  that  threatens  the  survival  of  the
+    firm, so Jack must divorce himself from every other aspect of his work.
+     He must communicate the seriousness of the  problem  first  to  Ernest
+    Downholt, emphasizing that it may well cost both of them their jobs and
+    careers if not  properly  handled  (putting  Ernest,  as  the  drilling
+    supervisor, in the position of choosing between his loyalty to his wife
+    and children and his loyalty to a drilling crew which may have put  him
+    in this position).  Then Jack must immediately inform the principals in
+    the firm that something is  seriously  amiss  and  alert  them  to  the
+    gravity of the situation.
+            Next he must  visit  the  firm’s  lab  and  examine  the  “drill
+    samples” that the drillers brought  in  for  examination  and  testing.
+    There is no need to alert the lab technicians that there  is  something
+    unusual about this request.  He must also interview the geologist  that
+    laid out the borings in the field  and  who  presumably  was  with  the
+    drillers in the course of their work, laying the same  choice  on  this
+    person as he did on Ernest.
+            Armed with this information, Jack should bring  the  drill  crew
+    and rig back to the project site the next morning, telling  them  there
+    is a need to confirm something unusual that was found in one or two  of
+    the borings.  He should then have the crew set up adjacent to Bore Hole
+    #9 and drill a duplicate boring while he and Ernest and  the  geologist
+    stand there, watch and he personally collects the samples  and  records
+    the blow counts.  His notes should be recorded on a copy of the  boring
+    log originally submitted for Bore Hole #9 that he has on his clipboard.
+     If, as suspected, there is a serious discrepancy between Bore Hole #9A
+    and Bore Hole #9, he should move the crew to Bore Hole #145 and  repeat
+    the process.  In the event of a duplication of the serious discrepancy,
+    he should ask them for an explanation.  He should interview the driller
+    in his truck and Ernest should interview the helper in the other truck.
+     He and Ernest should then compare notes.   If  the  crew  admits  they
+    rigged the job, they should be allowed to resign  from  the  firm.   If
+    they persist in their dishonesty, Jack should fire them on the spot for
+    incompetence, falsification of company records (the boring  logs),  and
+    suspicion of timesheet fraud, collect the keys to  their  vehicles  and
+    the office, and let them walk home.
+            Jack should then pull in two other drill crews to the site,  and
+    have them finish the other 16  borings.   These  two  crews  should  be
+    offered overtime pay to start early, work late  and  finish  the  field
+    portion of  the  job.   Ernest,  the  drilling  supervisor,  should  be
+    delegated to stay at the site 16 hours a day until the  field  work  is
+    done (if he had been paying attention in the first  place,  this  would
+    never have happened).  Everyone,  including  the  geologist  should  be
+    required to work  overtime,  nights  and  the  weekend  to  finish  the
+    borings, lab testing and their  portions  of  the  report.   After  the
+    report is finished, Jack should have a post-mortem with the  principals
+    in the firm (within an hour of sending the report out the  door),  then
+    an all-hands meeting to clear the air.  The job  may  be  a  dead  loss
+    financially, but the company would be preserved.
+
+7.    My initial response to this case is to scream.   This  type  of  thing
+    happened to me with a traffic counting crew in an eastern US state many
+    years ago.  A field crew can become so knowledgeable  of  the  patterns
+    associated with traffic that they think they can  make  (dry  lab)  the
+    data.  With regard to the drilling  crew  in  the  case  history,  they
+    thought it won’t make any difference  because  the  soil  is  good  and
+    probably just like it was at a nearby location.  The soils map from the
+    USGS shows that it is the same soil and layer structure as another job,
+    so why not fake the soil borings and get another part time job.  In  my
+    traffic counting incident, members of the  traffic  counting  crew  had
+    other jobs during the day: bartenders and school bus drivers!  This  is
+    frightening!
+
+8.    Ethically Jack should cause or encourage  complete,  clear,  accurate,
+    objective, truthful and timely communications  between  themselves  and
+    the client regarding the services sought and  rendered.   The  same  is
+    true between the engineer and his  employees.   Complete  communication
+    means the engineer provides sufficient information so that  the  client
+    is appraised of the costs, problems, hazards  and  opinions.   Complete
+    communication also requires sufficient information,  facts,  materials,
+    etc. so  the  client  will  not  be  reasonably  led  to  a  fallacious
+    conclusion, can  act  in  an  informed  manner  and  has  knowledge  of
+    pertinent matters.  Truthful communication means  the  engineer  should
+    provide a realistic and honest appraisal of the situation relying on  a
+    reasonable application of the engineer’s knowledge,  skill,  experience
+    and education founded upon information  and  evidence  normally  relied
+    upon by similarly situated engineers.  Accordingly,  Jack  must  either
+    gather the necessary data to complete the services by the  agreed  upon
+    time or inform the client the time limit will not  be  met.   Either  a
+    modification of the contract must be  made  or  damages  paid  for  the
+    breach.
+
+9.    Jack Florin has no choice.  He is ethically bound not to proceed  with
+    the report.  He might also be in violation of the law and certainly the
+    rules and regulations of the state  engineering  licensing  board.   He
+    should  discuss  the  situation  with  his  supervisor.   Assuming  the
+    superior shares Florin’s concern, they should immediately  conduct  the
+    borings, and endeavor  to  complete  the  report  within  the  original
+    schedule.  If the assignment cannot be completed within  the  schedule,
+    they should so inform the client, who  hopefully,  will  grant  a  time
+    extension.  Regardless of  whether  the  report  can  be  submitted  on
+    schedule or the client does  not  grant  a  time  extension,  under  no
+    circumstances should the report be submitted without proper borings.
+            In  the  unlikely  event  the  supervisor  instructs  Florin  to
+    prepare a report based on the original  information  submitted  by  the
+    driller, Florin should refuse even if it  jeopardizes  his  employment.
+    If Welk Consultants submits a report  (without  Florin’s  involvement),
+    Florin should report the fact to the proper authorities.   Very  likely
+    Florin should also begin to seek new employment.
+
+10.   Jack calls his brother, Myron, who owns a drilling  firm  of  his  own
+    and ask if he could do a “rush” job for him, noting that it would be  a
+    24-hours-a-day assignment and that he needs 18 borings completed in the
+    next 72 hours.
+            Myron says, “Shuur thing, but I need a helper.”
+            Jack says, “That’s OK.  I have a fellow here  at  the  site  who
+    has at least one day of vacation left and seeing that this  is  Friday,
+    I’m sure he is available for the next 72 hours.  Ernest is already here
+    at the site and will have the holes staked out by the time you get here
+    with the rig.”
+            Jack goes back to the office, and  advises  Jimmy,  the  project
+    engineer, of the situation and that he will need to really “crunch  the
+    analysis and report on Monday.”  Jimmy says, “That’s OK, Jack.  I  have
+    rounded up the lab data from several local projects on that side of the
+    Red  River  and  we’ve  got  a  good  handle   on   the   consolidation
+    characteristics of the soils in the area.  If we have the logs  of  the
+    on-site borings and the site topo  mapping,  we  can  pull  the  report
+    together by Tuesday evening.”
+            Jack calls Ernest on his cell phone and says, “Ernest,  I  think
+    we are all set as long as you and Myron can get the logs to the  office
+    fist thing Monday morning and that you have laid off your drill crew by
+    4:30 PM today.  If you can’t get this done, I’ll recommend to  Lawrence
+    that he fire both you and your drill crew on  Monday  morning.   Please
+    give me an update at 3:30 PM Sunday.   I’ll  be  watching  the  Vikings
+    game.”
+
+11.   Everyone needs to be in sync with where the site  is.   If  the  drill
+    crew is fabricating information, this is criminal  (fraud).   Jack  and
+    Ernest should immediately call the geologist.  They should explain that
+    they wanted to see the site are trying to find the boring locations  ad
+    ask for descriptions of where the borings were located.  If they  still
+    can'’ find them, they should come back to the site with  the  geologist
+    and have him show them the locations.  They should also  take  a  close
+    look at the samples collected and see if  the  samples  are  consistent
+    with the expected subsurface conditions in that area.
+            If the borings were  completed,  and  simply  completed  on  the
+    wrong site, Jack should call the client  immediately  and  explain  the
+    situation, and that he will do whatever he can to get the report  done,
+    but it might be a little late.  If the borings were not completed,  the
+    geologist  and  drill  crew  should  be  placed   on   some   kind   of
+    administrative leave until the company can determine the extent of  the
+    problem.  Clearly the individuals involved should no longer be employed
+    by the firm, but more importantly, how many past projects are affected?
+     Should the firm “come clean” with all past clients that may have  been
+    cheated?  Or, hope nobody ever finds out?
+            The company must come clean.   They  should  send  a  letter  to
+    every client they feel could have been affected and  explain  what  has
+    happened, what actions they have taken, what they intend to do to  make
+    restitution, and, how they can assure that it will  not  happen  again.
+    They could argue that the design recommendations are probably  suitable
+    anyway; they could suggest a  “forensic”  investigation  at  their  own
+    expense to confirm the design recommendations were appropriate, or they
+    could offer to reimburse all or part of the fees paid especially  those
+    associated with the drilling costs they didn’t in fact incur).
+            Perhaps the “cleanest” solution at the outset is to conduct  the
+    forensic investigations at their own expense, and hope  like  hell  the
+    soils are OK.  And they should pray they have understanding clients who
+    won’t hold it against them in the future!
+            Additionally, the employees at fault may be  criminally  liable.
+    The  firm  should  discuss  the  merits  of  suing  them  for  damages,
+    reimbursement of salary and expense not earned, etc., and see if  there
+    is anything at all they can reclaim from the disaster.
+
+12.   I had a similar situation happen to me when I  worked  as  a  not-yet-
+    licensed (staff) geotechnical engineer.  In that  case,  our  own,  in-
+    house drill crew actually drilled the borings,  but  claimed  they  got
+    poor (no) sample recovery in a marly  limestone  and  thus  took  field
+    penetration tests.  But I learned that while it was true they got  poor
+    sample recovery, they did NOT take some of the penetration tests;  they
+    merely fabricated the penetration test data on the field logs.  I would
+    not have learned this had not one of our geologists  visited  the  site
+    unexpectedly and checked the boring logs (which  showed  a  penetration
+    test had just been done) when in fact he knew this  had  not  happened.
+    The geologist reported this to me and I reported  it  to  the  licensed
+    PE/office manager.
+            I was furious!   I  told  the  boss  that  my  bearing  capacity
+    calculations and foundation recommendations were based on that data.  I
+    could not, in good conscious, write a report based on fabricated  data.
+    Although I did not attempt to tell my boss what to do, he clearly  knew
+    how displeased I was.  Angry and frustrated as I was, I was inclined to
+    fire the entire drill crew.  At a  minimum,  I  would  have  fired  the
+    driller.
+            My boss took a less  strident  position.   Perhaps  he  felt  he
+    didn’t have enough evidence to fire the driller.  Also it  so  happened
+    that we had a backlog of projects which had to be  drilled,  and  being
+    concerned not to create major delays for the rest of our  clients,  the
+    boss took the following approach: He called the driller (not the  crew)
+    in to the office the next day (brief meeting at the end of  the  day  –
+    not a special inquisition) and in  my  presence  told  the  driller  in
+    abstract terms that it was very important  to  obtain  accurate  boring
+    data, and this included field penetration tests.  He explained that the
+    foundation design depended on the data  but  he  did  not  mention  any
+    specific case of fabrication (such as the one the geologist came upon).
+     The gist of the conversation was an unspoken but implied “don’t let it
+    happen again” or “don’t let me catch you fabricating data.”  As for me,
+    after the driller left the boss told me that  in  the  first  place,  I
+    should realize that drill crews sometimes fabricate data and  I  should
+    take all field penetration data with a grain of salt, and apply  safety
+    factors accordingly.  He said that’s just the way things are.  He  also
+    told me to do the best I could with the analysis and he would  look  it
+    all over, but that we would not re-drill the site.
+            I requested a transfer to another  office  shortly  after  that.
+    At the new office we only used contract drillers and had a policy  that
+    one of our professionals (geologist or an engineer)  must  be  on  site
+    with the drill crew to log all borings.
+

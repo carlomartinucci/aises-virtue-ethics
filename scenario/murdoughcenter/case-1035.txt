@@ -1,0 +1,540 @@
+
+                     You Might Be a Redneck Engineer If…
+                                 (Case 1035)
+
+
+The mission of the National Institute for Engineering Ethics  (NIEE)  is  to
+promote ethics in engineering practice  and  education.   One  component  of
+NIEE  is  the  Applied  Ethics  in  Professional  Practice  (AEPP)  program,
+providing free engineering  ethics  cases  for  educational  purposes.   The
+following case may be reprinted if it is provided  free  of  charge  to  the
+engineer or  student.   Written  permission  is  required  if  the  case  is
+reprinted for resale.  For more cases and other NIEE  Products  &  Services,
+contact  the  National  Institute  for  Engineering   Ethics,   Texas   Tech
+University, www.niee.org..  (All reprints must contain these statements)
+
+The Case:
+About 11:00am on a beautiful Fall day, Robert, a project engineer for a mid-
+size geotechnical consulting firm in Metropolis,  is  working  at  his  desk
+when the phone rings.  The receptionist, Sherry,  states  that  she  has  “a
+live one” on the other end and it has  something  to  do  with  geotechnical
+work.  This is Robert’s department, so he takes the call.
+
+Walker, a prospective (new) client, has called from the project site on  his
+cell phone.  He wants to know if Robert can help with some soil testing  for
+“a real nice Kentucky-style horse farm up near Hunter’s Ridge.”
+
+Robert smiles when he thinks of  it.   A  quiet  community  about  75  miles
+northwest of Metropolis, Hunter’s Ridge is indeed an ideal  location  for  a
+“Kentucky-style” horse farm.  Rolling hills, grassy meadows  with  scattered
+trees, occasional streams, and fence-lined  country  roads  offer  just  the
+setting for this type of farm.  A site visit would be the perfect  afternoon
+get-a-way from the office – maybe he can get lucky.  Still,  Robert  wonders
+how big a deal it can be to do geotechnical work for a horse farm.
+
+After a few minutes conversation, Robert gleans  that  Walker  knows  a  lot
+about horses, some about construction, and not much  about  the  engineering
+design process.  He indeed needs help.  Also, it is no surprise that  Walker
+is in a hurry and would like Robert to come  out  this  afternoon  to  “look
+things over.”  Deftly putting the phone on HOLD, Robert runs down  the  hall
+and quickly apprises his boss/ office  manager,  James,  of  the  situation.
+Always on the lookout for new business – his  favorite  expression  is  “you
+gotta feed the monster” – James directs Robert to make the site  visit  that
+afternoon and to do what it takes to get the commission.
+
+The trip to Hunter’s Ridge is as relaxing and picturesque as Robert knew  it
+would be.  As he arrives in the area, Robert notices the  newly-constructed,
+white, four-rail horse fence that  seems  to  go  on  forever,  the  cleared
+fields, and deep blue stock ponds.  This place has  to  be  several  hundred
+acres.  A farm worker in a straw  hat  is  driving  a  tractor  out  in  the
+pasture, clearing some stumps.   Also,  Robert  sees  a  new  maroon  pickup
+parked up on a hill – Walker’s vehicle – so he enters the site and  proceeds
+to the pickup.
+
+Walker, a tall,  lanky,  country  gentleman  with  deeply  tanned  face  and
+friendly wrinkles about his eyes, greets  Robert  and  then  spreads  out  a
+rudimentary site plan on the hood of the pickup and  explains  the  project.
+It will be quite a show-place -- mare and colt barns, an opulent stud  barn,
+feed storage and tack buildings, a veterinary clinic,  numerous  stables,  a
+maintenance shop, headquarters for the ranch foreman, and on the other  side
+of the creek – back in the trees – a 5,000  square-foot  residence  for  the
+Owner, a multi-millionaire  who  will  relocate  to  the  farm  once  it  is
+constructed.  The horse facilities, especially the mare and stud barns,  are
+for thoroughbred racehorses and are  large  heavy  structures,  intended  to
+impress with stately woodwork, ornate cupolas, and all the amenities.
+
+It turns out that Walker is not the  Owner  but  the  Construction  Manager.
+Walker  explains  that  the  designer  for  the  new  facility,  Chuck,  has
+suggested that Walker get some soil testing to make sure  that  he  can  use
+“footers” like he would do back in Kentucky.  Also, he states  that  because
+of the extensive network of stables, gates, and holding pens, there is  very
+little tolerance for movement – no one wants a door to drag  or  a  gate  to
+fail to shut perfectly when they are stabling a thoroughbred.  Chuck is  not
+on site – he lives in Kentucky and “all he does is horse farms  like  this.”
+
+
+Having outlined the  overall  scope  of  the  proposed  development,  Walker
+immediately asks how much it would cost for Robert to do the  soil  testing,
+and when he could start.  While it is not clear  to  Robert  whether  Walker
+really understands the engineered design-construction process, it  is  clear
+that Walker means business and this  is  no  time  to  bandy  weasel  words.
+Pointing to the plan sheet spread out on the  hood  of  the  pickup,  Robert
+briefly explains that he’ll have to do two borings for this structure,  four
+for that, etc., as well as soil testing and engineering analysis.   He  also
+explains that he  will  produce  a  report  with  recommendations,  not  the
+foundation plan itself, and that Walker  will  need  to  have  a  structural
+engineer do the actual foundation  design.   Walker  acknowledges  this  and
+comments  that  “the  footers  are  Chuck’s  department.”   Doing  a   quick
+calculation, Robert names a low five-figure fee for the work.
+
+Walker thinks this over and says, “I better talk to Bruce.”  He  then  waves
+to the farm worker on the tractor, a stocky man with a  sweat-stained  straw
+hat.  Bruce waves back and drives the tractor over to the pickup, and  shuts
+the engine off.  Walker briefly summarizes what Robert has  told  him  about
+the engineering work, including the five-figure  fee.   Bruce  looks  Robert
+over and then asks Walker if he “feels  good  about  it,”  to  which  Walker
+replies, “I feel good about it.”  As  Robert  watches  this  interchange  he
+notices, curiously, that the substance of the conversation is  whether  what
+they are talking about “feels good.”  Not  whether  the  scope  of  work  is
+adequate, or if it is what they expected, or if the money seems  reasonable,
+or anything cognitive, but only “do you  feel  good  about  it.”   Based  on
+Walker’s response, Bruce says, “Go ahead,” and he leaves to get back on  the
+tractor.
+
+At this point, Walker turns to Robert with  one  of  those  why-aren’t-your-
+people-out-here-right-now looks and says, “OK, get started.”  It  turns  out
+that Bruce, the tractor-driving stump-pulling  farm  laborer,  is  also  the
+multi-millionaire Owner, and the  project  has  been  approved.   Just  like
+that, with feeling.  A little stunned, Robert hurriedly explains that  he’ll
+write  up  a  proposal,  fax  it  over  for  signature  “just   to   confirm
+everything,” and that he’ll plan to have a drill  crew  out  the  day  after
+tomorrow, which he does.
+
+Everything seems to go fine.  Robert obtains  the  soil  test  borings,  and
+analyzes the data.  In process, he discovers the site has a couple of  areas
+of problem soils and some shallow ground water, and this will  require  some
+extensive earthwork – cutting and filling.  However, if done  properly,  the
+earthwork should allow Chuck to use footers (lightly-reinforced  spread  and
+strip footings) as he is  accustomed.   Robert  phones  Walker  to  explain.
+Walker doesn’t quibble but immediately retains Robert’s firm  to  provide  a
+full-time soil technician on site to monitor the earthwork.
+
+Here Robert first realizes that Walker has no civil engineer  consultant  on
+the project, and no construction  drawings  other  than  Chuck’s  site  plan
+showing where the buildings are to be located.  In fact, Walker  appears  to
+be acting directly off of what Robert says (over the phone!), which in  this
+case amounts to brief guidelines about the excavation  of  several  feet  of
+soil beneath the mare barn and replacement  with  select,  engineered  fill.
+This is a somewhat complicated process, and Robert fears that Walker may  be
+moving a little too fast for his own good.  Robert is not  quite  sure  what
+he should do, but Walker is not waiting around – earthwork operations  begin
+immediately.
+
+Given the time constraints, Robert goes over the project in detail with  his
+technician and directs  him  to  watch  everything  closely  and  to  report
+anything “unusual.”  Robert  then  proceeds  to  complete  his  geotechnical
+report.  Three days later, the technician calls to say that  the  excavation
+was completed without incident, but that it  encountered  ground  water  and
+the hole is starting to fill up  with  water.   Later  that  same  day,  who
+should show up at Robert’s office but Larry, a  friend  of  Walker’s  and  a
+“designer” who has been hired by Walker to do  the  horse  barn  foundations
+for Chuck.
+
+Crude and unpretentious, Larry is no engineer but he  has  been  in  contact
+with Chuck and he does have some elevation and floor plan  drawings  of  the
+largest and most ornate horse  barns  Robert  has  ever  seen.   Noting  how
+wonderful it must be to live the life of a stud horse on a farm like this  –
+all they do is eat and inseminate mares – Larry states  that  he  has  heard
+about some “soil problems” from Walker and will respond accordingly.   Larry
+also explains how he plans to deal with the water  in  the  excavation,  and
+his approach sounds reasonable.  After discussion of  the  soil  conditions,
+geotechnical design issues, and construction issues,  Robert  believes  that
+Larry understands what is required for the project.  Larry  leaves  for  the
+site with a copy of Robert’s report in hand.
+
+The foundation construction will commence the  following  week,  and  Robert
+makes plans to be on site at that time, just  to  have  a  look  at  things.
+Arriving just prior to the concrete pour, Robert is greeted by  both  Walker
+and Chuck, the barn designer.   Bruce  is  traveling  in  Spain  looking  at
+thoroughbred mares, Larry is supposed to arrive on site  later,  and  Walker
+is busy and has no time to visit – he has a concrete  pump  and  a  concrete
+finishing crew on site and transit mix trucks are starting to arrive.
+
+Immaculately dressed  in  Kentucky-style  western  garb,  Chuck  is  polite,
+businesslike, and particular about his barns.  After informing  Robert  that
+the first syllable of cupola is  pronounced  “kyōō”  and  not  “kŭp,”  Chuck
+privately expresses amazement at the amount  of  steel  and  concrete  being
+used for the  foundation.   Larry  has  done  the  foundation  drawings  but
+Walker’s construction foreman has them.  So Chuck takes Robert over to  look
+at the foundation excavation with the  rebar  cages  in  place,  and  Robert
+quickly  realizes  that,  (1)   Larry   has   grossly   misinterpreted   his
+geotechnical recommendations, and (2) the foundation is way over-done.
+
+The amount of concrete and steel, together with the  closely-spaced  network
+of large foundation beams could take anything but a direct  hit.   Actually,
+the foundation probably could take a direct  hit,  and  will  cost  a  small
+fortune to build, certainly much more than the simple  footings  Robert  had
+envisioned in conjunction with the earthwork.  On  the  other  hand,  Robert
+notices several construction issues: the excavations  are  not  as  neat  as
+they could  be,  the  rebar  cages  “burn”  the  sides  and  bottom  of  the
+excavations in places, and portions of the excavation have  loose  soil  and
+water in them.  Because of this  he  is  silently  thankful  for  the  extra
+concrete and steel, even though it is overkill.
+
+Thus the concrete for the mare barn is placed,  a  massive  foundation  that
+Robert feels is more suitable for a reactor core than a horse barn.   As  he
+drives back to Metropolis, Robert can’t help but feel that, although he  has
+done his best for his client in providing quality engineering services,  the
+client has ultimately gotten a raw deal.  Apart from  his  verbal  earthwork
+recommendations, his geotechnical report has largely gone unused.  The  cost
+of the geotechnical work  alone  could  have  been  saved  by  reducing  the
+concrete and steel in this one barn if  only  the  client  had  a  qualified
+design team in place to implement  the  recommendations,  and  a  contractor
+sophisticated enough to build them.  But neither is the case, and  the  good
+ole’ boy design/construction team seems very tight.
+
+As to the project, the geotechnical work is done and the  earthwork  is  now
+complete.  Walker  is  moving  ahead  with  construction  and,  contrary  to
+Robert’s recommendations,  Larry  has  not  specified  any  further  quality
+control monitoring or testing for the foundations.  Robert’s  work  on  this
+project is over.
+
+Yet several other barns, plus  the  residence,  remain  to  be  constructed.
+Robert is a little concerned about potential liability that might come  back
+on his firm if the buildings do not perform, and here Larry’s massive  over-
+design has a calming effect.  But Robert is even more troubled  by  what  he
+sees as the waste of labor, concrete, steel, and money  on  a  project  that
+could be done so much more efficiently.
+
+What, if anything, should Robert do?
+
+Alternate Approaches and Survey Results  for  “You  Might  Be  A  Redneck
+Engineer If…” (Case 1035)
+ 1. Don’t  Worry,  Be  Happy.   Despite  the  construction  flaws,  Larry’s
+    massive, over-designed foundation will ensure  no  life-safety  issues.
+    Arguably the project is wasteful, but the  facts  are,  it  is  Bruce’s
+    design team and Bruce’s money. If Bruce can  afford  this  thoroughbred
+    horse farm, then it should be his prerogative to chose  or  not  choose
+    “best practice” engineering.  Robert has the opportunity to enjoy being
+    part of a project like they used to be in the  days  before  the  bean-
+    counters and lawyers took over.  There is no problem  here,  just  some
+    good ole’ boys having a good ole’ time.  Robert has  earned  his  money
+    and should celebrate the moment.
+      Percentage of votes agreeing: 2%
+
+ 2. Don’t Worry.  Like the old saying, “You can lead a horse to water,  but
+    you cannot make him drink,” Robert cannot control what other people do.
+     Robert acted in good faith and even went beyond his normal  duties  to
+    assist Walker and Larry by explaining  his  findings  and  recommending
+    they seek a competent engineer for additional  project  design.   Other
+    than keeping clear notes of  his  observations  in  the  project  file,
+    Robert should do nothing.  His task is complete, and everything  Robert
+    has done is morally and professionally defensible.
+      Percentage of votes agreeing: 6%
+
+ 3. Worry.  Maybe nothing will go wrong.  But despite the fact that  Walker
+    & company seem OK with everything for now, Robert knows that the design-
+    construction work being  done  on  Hunter’s  Ridge  does  not  rise  to
+    professional  standards.   Robert   and   his   firm   are   the   only
+    “professionals” associated with this project.  As such, they  stand  to
+    face financial blame in the event of  structural  failure,  and  worse,
+    some might claim they are morally at fault for taking advantage  of  an
+    uninformed client.  At a minimum there is an image issue, and  maybe  a
+    loss-prevention issue not far behind that.  Robert  should  keep  clear
+    and detailed notes of his observations in the project file.
+      Percentage of votes agreeing: 4%
+
+ 4. Share the  Responsibility,  with  James.   This  situation  is  out  of
+    Robert’s control.  While reasons exist to suggest that the  client  not
+    be bothered (yet), Robert should immediately discuss his concerns  with
+    James; they should notify legal counsel, and the responsible  principal
+    in their firm.  As a group, they should  draft  a  plan  of  action  to
+    manage their potential liability exposure and do damage control on  any
+    image issues.  Further, they should prepare full documentation of  this
+    project for the file, in the event of a problem.
+      Percentage of votes agreeing: 17%
+
+ 5. Talk to Walker, the Construction Manager.  Robert should have a  heart-
+    to-heart talk with Walker, his primary contact for  the  project.   The
+    point of the conversation should be to explain in friendly, clear,  and
+    simple  terms  that  while  what  is  currently  being  done  with  the
+    foundations may work, the outcome will be better and a lot of money can
+    be saved if Robert’s recommendations (both design and construction) are
+    followed more closely.  Robert can make known his willingness  to  help
+    out, up to and including  providing  a  list  of  competent  structural
+    engineers.  If Walker is unreceptive, document  the  conversation  with
+    notes and place them in the project file.
+      Percentage of votes agreeing: 9%
+
+ 6. Talk to Larry, the Structures Guy.  Robert should have a  colleague-to-
+    “colleague” talk with Larry.  After all, it appears that Larry  is  the
+    team member who is  best  positioned  to  implement  sound  design  and
+    construction practice.  The point of  the  conversation  should  be  to
+    explain in friendly,  clear,  and  simple  terms  that  while  what  is
+    currently being done with the foundations may work, the outcome will be
+    better and a lot of money can  be  saved  if  Robert’s  recommendations
+    (both design and construction) are followed more closely.  If Larry  is
+    unreceptive, document the conversation with notes and place them in the
+    project file.
+      Percentage of votes agreeing: 4%
+
+ 7. Talk to Chuck, the Horse Farm Designer.  Robert should have an “off the
+    record” talk with Chuck, since in his role as lead designer, Chuck  has
+    the most influence over the project.  Plus, Chuck has already picked up
+    on the conservatism in the foundation design and he would be  a  better
+    person to redirect the design-construction process than going to either
+    Larry or Walker.  The point of the conversation should be to explain in
+    friendly, clear, and simple terms that while what  is  currently  being
+    done with the foundations may work, the outcome will be  better  and  a
+    lot of money can be saved if Robert’s recommendations (both design  and
+    construction) are followed more  closely.   If  Chuck  is  unreceptive,
+    document the conversation with notes and  place  them  in  the  project
+    file.
+      Percentage of votes agreeing: 3%
+
+ 8. Talk to Bruce, the Owner.  Robert should have a  high-level  talk  with
+    Bruce.  Being a businessman, Bruce  will  be  sure  to  understand  the
+    benefit  of  saving  money  for  money’s  sake.   The  point   of   the
+    conversation should be to explain in friendly, clear, and simple  terms
+    that while what is currently being done with the foundations may  work,
+    the outcome will be better and a lot of money can be saved if  Robert’s
+    recommendations  (both  design  and  construction)  are  followed  more
+    closely.  If Bruce is unreceptive, document the conversation with notes
+    and place them in the project file.
+      Percentage of votes agreeing: 6%
+
+ 9. Notify Walker & Bruce, Formally.   Robert  should  write  a  letter  to
+    Walker and Bruce (presumably one of them signed his proposal), formally
+    stating his concerns about the gross inefficiency of the design on  the
+    horse barn foundation.  The letter should explain in  friendly,  clear,
+    and simple terms that while what  is  currently  being  done  with  the
+    foundations may work, the outcome will be better and a lot of money can
+    be saved if Robert’s recommendations (both design and construction) are
+    followed more closely.  Further, the letter should  expressly  disclaim
+    any  responsibility  for  foundation   performance   because   a   non-
+    professional is designing the foundation system.
+      Percentage of votes agreeing: 43%
+
+10. Report Larry & Chuck, Legally.  This good ole’  boy  design  effort  is
+    going to waste a small  fortune,  it  is  placing  undue  liability  on
+    Robert’s firm, and it may even get someone hurt.  Robert should not aid
+    or abet the unlawful practice of engineering but should report  to  the
+    State Board of Licensure that Chuck and  Larry  (if  he  can  determine
+    their  full  names  and  business  addresses)  are   practicing   civil
+    engineering design work without a license.
+      Percentage of votes agreeing: 7%
+
+Forum Comments from Respondents
+ 1. In one sense, Robert has done what he was asked to do, and he has  done
+    it well.  However, the burning concern about project waste  should,  at
+    least, cause him to contact Walker. If Walker is open to  ideas,  fine.
+    If not, Robert should move on  to  the  next  project,  with  notes  of
+    everything in his file.
+
+ 2. It is unethical to ignore the situation completely because it may cause
+    harm in the future; however, it is also not appropriate to talk to  the
+    client's client (Bruce).   I  suggest  either  formally  or  informally
+    reporting the problem to Walker, documenting the problem,  and  leaving
+    it alone at that point.
+
+ 3. Robert should report Larry  and  Chuck,  legally  (Response  10).   The
+    reason is that both the ASCE and  NSPE  Codes  of  Ethics  specifically
+    state that engineers should report persons who are  not  engineers  but
+    are providing others with engineering services.
+
+ 4. Robert should first talk with Larry, the structures guy  (Response  6).
+    If Larry is non-responsive, Robert should talk  with  Walker  (Response
+    5).  If that doesn’t work,  Robert  should  notify  Walker  and  Bruce,
+    formally  (Response  9)  and  then  report  Larry  and  Chuck  to   the
+    authorities (Response 10).
+ 5. In many areas, short buildings can be designed by "designers"  who  are
+    not engineers.  There was no mention of the  owner's  building  permit,
+    the review of which would usually ensure  the  design  meets  the  code
+    minimums and ensure public safety.
+
+ 6. Robert’s biggest mistake was that he failed to meet  with  and  provide
+    the report to the person who hired him to perform the study. Robert was
+    already concerned that his report would not be well understood  by  his
+    client and he  should  have  scheduled  a  meeting  time  and  location
+    suitable for briefing the client on details of the project. As a result
+    of this oversight, there seems to have been little technical discussion
+    between Walker’s design/ construction  team  and  Robert’s  engineering
+    firm about how to incorporate the suggested  geotechnical  requirements
+    into the basic design. This lack of understanding has now  transgressed
+    into an act of self-interpretation by the person tasked with  designing
+    the foundation. Dissatisfaction with the outcome may turn into  a  case
+    of finger-pointing between Robert and the designer.  Robert should  act
+    upon his concerns but tread lightly in a quest to convince  the  owner,
+    or each team member for that  matter,  how  and  why  the  construction
+    methods used were inefficient. Clearly, we would not expect  Robert  to
+    exceed his responsibilities, so he should discuss this matter with  his
+    employer before proceeding. Robert’s employer must be allowed to decide
+    how, or whether, to extend the business relationship  with  the  owner.
+    The  firm  must  also  refer  questions  of  the  qualification  issues
+    (construction manager  and  structural  designer)  to  the  appropriate
+    sanctioning body. The company could salvage this business  relationship
+    by applying a little  more  relationship-building  effort,  but  should
+    consider ending it if the client insists on using  unqualified  persons
+    to manage the construction and design aspects of the project.
+
+Comments from Board of Review Members
+ 1. While all of the colorful details make for interesting reading, they do
+    get in the way of framing the ethical issue.  Walker, the  seat-of-the-
+    pants construction manager; Chuck, the absentee “designer;” Bruce,  the
+    arm’s-length  owner;  and  Larry,  the  friend-foundation-designer-non-
+    engineer make the scenarios in Robert’s mind even more  scary  but  the
+    ethical dilemma would remain even if all of them did not appear  flaky.
+    To go right to the point, the project “team” is opaque to  Robert,  who
+    has been kept in the dark but whose geotechnical work is supposedly the
+    basis for all the others’ work.  Therein lies the ethical issue.
+
+ 2. Robert finds himself involved in a  fast-paced,  free-wheeling  design-
+    build project without understanding what he was getting into. His first
+    step could have been (once he realized what was going to happen) to try
+    to put a few brakes on by telling Walker that he  could  probably  help
+    save some money if they  took  a  little  more  time  with  the  design
+    details. Similarly, that conversation with Chuck and Larry  would  also
+    have been appropriate. After  the  fact,  he  should  still  have  that
+    conversation -- by mail.  Robert should draft a letter to  Walker  with
+    copies to Chuck stating  that  he's  been  happy  to  be  involved,  he
+    understands he is finished even though there  are  more  structures  to
+    build, he will be happy to help with those if they  like,  and  by  the
+    way,  based  on  what  he  saw  with  the  barn,  there  may  be   some
+    opportunities to save some costs on the remaining  construction.   Some
+    clients care more about schedule and doing  things  the  way  they  are
+    comfortable  than  they  do  about  costs.  Robert  should  not   worry
+    excessively, but should let them know he has  more  to  offer  if  they
+    like. His letter should conclude that he understands that  unless  they
+    ask him for more information, and since he won't be on site during  the
+    remaining construction, he has no responsibility for  the  construction
+    or dealing with changed conditions.  By the way - we don't know whether
+    Robert ever got his proposal written and sent to Walker, and if  Walker
+    executed a contract for the work.  If  Robert,  in  his  haste  to  get
+    started, neglected the paperwork, then things could come back to  haunt
+    him...
+
+ 3. This "Redneck" case is an interesting  one.   Some  of  the  things  to
+    consider are:
+      a)    If a farmer wants to build a barn and  some  outbuildings,  does
+       the law require that she/he have to engage professionally  qualified
+       designers and engineers to prepare  plans  and  guide/observe  their
+       construction? There is no indication that  members  of  the  general
+       public will be invited to or allowed on the property. It is  likely,
+       however, that Bruce  may  extend  private  invitations  to  selected
+       individuals. (Farmers, especially high-end horsemen, often  like  to
+       show off their 'spreads' and livestock.)
+
+      b)    But, does Bruce have an obligation to his visitors  and  himself
+       to assure that his structures and property/liability insurance  will
+       protect his  guests?  I  think  this  is  a  personal  and  economic
+       obligation, only.
+
+      c)    It  is  clear  that  "Chuck",  the  designer,  has  and  retains
+       responsibility  for  the  design  of  the  facilities.  Further,  he
+       recognized that he needed some input (are the soils similar to those
+       in Kentucky and can conventional spread footings be  used?)  from  a
+       local geotechnical engineer. It is obvious;  however,  that  "Chuck"
+       has no understanding of foundation or structural engineering.
+
+      d)    It is also very obvious that James, Robert's supervisor and  the
+       firm's office manager, has not given consideration to the  potential
+       liabilities associated with this assignment. He just wanted  to  put
+       another $19,000 on his books!
+
+      e)    If the firm (and the state's  professional  registration  board)
+       considers its work on this project to be engineering, who within the
+       firm was the responsible professional signing and sealing the report
+       (was it Robert or an officer of the firm)?
+
+      f)    The firm has two obligations, first, to its client  to  be  sure
+       that he understands the significance of the  firm's  recommendations
+       (an ethics issue) and the  apparent  failure  of  the  designer  and
+       construction manager to  heed  them,  and  second,  to  protect  its
+       shareholders from professional liability risks (an internal business
+       issue).  Robert  has  demonstrated  his  understanding  the  second,
+       obligation to his employer; the first is not so clear.
+            A potential solution to this case is, internally, Robert  should
+    tell James directly of his concerns regarding the manner in  which  the
+    client is managing the work and the potential liabilities  which  could
+    arise from the client's perceived obligations  of  its  "design  team".
+    Both James and Robert should discuss the situation with  a  responsible
+    partner/principal in the main office and decide on a plan of action for
+    meeting both of  the  above-mentioned  obligations.   The  firm  should
+    assure that it has appropriate liability language in its  contract  for
+    services and reports, to protect its shareholders. The principal should
+    also  have  a  heart-to-heart  talk  with  James  with  regard  to  his
+    obligations to protect the viability of the firm.
+            Follow-up actions with the  client  should  include  an  on-site
+    visit by the responsible partner/principal  (or  better  the  CEO)  and
+    Robert to explain to the client and his construction manager  (and  the
+    designer) the firm's concerns regarding their apparent  misuse  of  the
+    firm's recommendations. The discussion should also address  the  matter
+    of the client's view of his obligations  to  the  general  public  with
+    regard to engaging qualified professional services  for  this  project.
+    Such a discussion could be either helpful to  the  client  (because  he
+    hadn't been aware of the issues) or it could annoy him.  In  the  first
+    case, the client could assemble and appropriately  apply  the  required
+    professional assistance. In the second case, the firm's principal would
+    be  prepared  to  forward  a  letter  to  the  client  and  the  firm's
+    professional-liability insurance carrier documenting the discussions.
+
+ 4. This engineering/construction project has the makings of  the  “Perfect
+    Storm” with a similar outcome as the crew and ship in the movie of  the
+    same name. There is:
+
+      a)    Robert, an  over  zealous  engineer  who  wants  to  secure  the
+       commission without proper diligence.
+
+      b)    Walker, an inexperienced construction manager.
+
+      c)    Bruce, an unconcerned, laid-back owner.
+
+      d)    Larry, a non-engineer foundation designer.
+
+            On the assumption that Robert properly scoped and completed  his
+    part of the project, it is clear that during the course of the work  he
+    became aware of issues and problems with the project.  If so, Robert, a
+    professional engineer pledged to protect the safety and welfare of  the
+    public and not aid and abet the unlawful practice of engineering,  must
+    bring these matters to the attention of the proper authorities.
+
+ 5. Some possible outcomes to this Redneck Engineering case are:
+      a)    Nothing  goes  wrong  because  of  the  conservative  foundation
+       design.
+
+      b)    Someone else designs the remaining foundations and  there  is  a
+       problem.
+
+      c)    Problems  could  arise  from  improper  design  or  construction
+       techniques - settlement, slab cracking, etc.
+
+      Some of the ethical/ business/ engineering considerations are:
+
+      a)    Robert is not responsible for how people choose to  spend  their
+       money.
+
+      b)    Larry is not a professional.
+
+      c)    Hopefully Robert clearly stated the scope  of  his  services  in
+       his proposal and disclaimed responsibility for  how  the  report  is
+       interpreted.
+
+      d)    If the structures have not been  designed,  how  are  foundation
+       loads determined?
+
+      It appears that conservatism in foundation design  is  appropriate  at
+    this stage to keep the project on schedule.
+
+ 6. Robert seems to be satisfied that the finished product will  adequately
+    serve its purpose even though it may be over designed.   No  health  or
+    safety issues are  involved.   The  concern  is  an  economic  concern.
+    Everyone, except possibly the owner, is aware that  the  foundation  is
+    over designed, and the placement conditions are not  what  they  should
+    be.  Robert could reasonably conclude  he  has  fulfilled  his  ethical
+    obligations.  On the other hand, Robert being a prudent engineer should
+    take further action.  He should submit a written report  to  the  owner
+    outlining his observations and concerns.  The owner has the  option  of
+    asking Robert to provide additional assistance, or the owner may decide
+    to do nothing.  It’s the owner’s  decision.   Robert  will  have  fully
+    discharged his ethical responsibilities.
+

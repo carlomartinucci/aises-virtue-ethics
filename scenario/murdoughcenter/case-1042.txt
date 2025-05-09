@@ -1,0 +1,194 @@
+
+                                Roman Holiday
+                                 (Case 1042)
+
+The mission of the National Institute for Engineering Ethics  (NIEE)  is  to
+promote ethics in engineering practice  and  education.   One  component  of
+NIEE  is  the  Applied  Ethics  in  Professional  Practice  (AEPP)  program,
+providing free engineering  ethics  cases  for  educational  purposes.   The
+following case may be reprinted if it is provided  free  of  charge  to  the
+engineer or  student.   Written  permission  is  required  if  the  case  is
+reprinted for resale.  For more cases and other NIEE  Products  &  Services,
+contact  the  National  Institute  for  Engineering   Ethics,   Texas   Tech
+University, www.niee.org..  (All reprints must contain these statements)
+
+The Case:
+
+Rashid is a freshly-minted engineer  from  City  Technical  Institute.   His
+first job out of  college  is  with  the  general  construction  firm,  Rome
+Builders Inc., located down state.  Rashid reports to work,  eager  to  step
+into his new role.  He finds  out  that  his  boss,  Riley,  is  a  seasoned
+contractor with a “tough but fair” reputation.
+
+Riley wastes no time in giving Rashid an assignment.  Rashid is sent  to  an
+office building construction site  to  monitor  subcontractor  work/activity
+relative to evaluation of subcontractor progress  payment  requests.   Riley
+is clear in his instructions: “On measurable tasks, count  quantities.   For
+hourly personnel, your job is to count heads, keep time and make  sure  that
+they are working continuously; that’s it.”  Riley goes on to complain  about
+the necessity of keeping subcontractors on task: “You  have  to  watch  them
+like a hawk,” he says.  Though Rashid feels as though he  is  being  treated
+as an overqualified bean counter, he accepts the  assignment  and  heads  to
+the work site.
+
+As with many projects, this one has a well-defined timeline and everyone  is
+under pressure to keep to the schedule.   While  the  City  of  Rome  wasn’t
+built in a day, Rome Builders’ motto is that if they  had  been  around,  it
+would have been.   In  fact,  this  particular  project  has  fallen  behind
+schedule – a state of affairs that keeps Riley breathing fire.
+
+One of the subcontractors that Rashid monitors is responsible  for  applying
+a protective coating to the steel beams of the  new  structure.   Given  the
+limitations specified by Riley – count heads and keep time  –  this  is  not
+what Rashid would call challenging work.  He soon grows  bored  and  decides
+to spend some of his time reviewing the project specifications in  order  to
+become better informed about the construction process.  Having reviewed  the
+specifications, it is not long before he notices a  potential  problem.   In
+some instances, portions of the steel beams have been covered by  walls  and
+are thus inaccessible for the coating procedure.  While Rashid is  reluctant
+to delay progress, he is concerned about the potential oversight.
+
+Some weeks pass as Rashid faithfully  monitors  the  project.   He  notices,
+among other things, that the  coating  subcontractor  is  the  main  problem
+child relative to the project schedule.  One reason for this is  that  Gibb,
+the coating subcontractor superintendent, is  rarely  on  site.   When  Gibb
+does show up, he spends most of his  time  regaling  his  workers  with  his
+recent skeet shooting exploits.
+
+One day, the building inspector,  Janis,  stops  by  for  a  scheduled  code
+inspection.  Gibb,  Janis,  and  Rashid  walk  through  the  site,  chatting
+amiably, as Janis checks for  code  compliance.   At  one  point,  Janis  is
+focusing her attention on  one  of  the  beams  that  Rashid  took  note  of
+earlier.  She notes that the beam is partially covered by a  wall  and  asks
+Gibb if the covered portion has  also  been  coated  per  the  specs.   Gibb
+responds that it has been and he takes the opportunity to discuss  the  high
+premium he places on quality  and  thoroughness  with  his  workers.   Janis
+moves on to the next point of inspection without  further  comment.   Rashid
+suspects that Gibb is lying through his  teeth,  but  says  nothing  at  the
+time.
+
+The next day, before going to the site,  Rashid  stops  by  the  office  and
+catches Riley heading to a meeting.  Rashid quickly  expresses  his  concern
+about the beam coating and inspection  issue.   Riley  is  visibly  agitated
+over the interruption in his day.  He reminds Rashid  that  the  project  is
+behind  schedule  and  flatly  states  that  beam  coating  quality  is  the
+subcontractor’s responsibility, and verification of quality is  between  the
+subcontractor  and  the  inspector.   Riley  states:  “Gibb  has  years   of
+experience and knows what works.  Your job is to keep on top of the  project
+and not delay progress.”  With that, Riley  stalks  off  to  the  conference
+room for his meeting.
+
+Rashid is in a quandary.  On the one hand, he  is  reluctant  to  press  the
+issue because he is a new and inexperienced employee.  On  the  other  hand,
+Rashid cannot casually dismiss the coating  issue  and  is  concerned  about
+quality, especially as it relates to public safety.
+What should Rashid do?
+Alternate Approaches and Survey Results for “Roman Holiday” (Case 1042
+   1. Go along, get along.  Rashid  should  accept  Riley’s  assurances  and
+      return to his project responsibilities without delay.
+      Percentage of votes agreeing: 0%
+
+   2. Cover your backside.  Rashid should accept Riley’s assurances and  get
+      on with the project, after first taking the time to carefully document
+      his concerns about the entire situation in a detailed memo to file.
+      Percentage of votes agreeing: 7%
+
+   3.  Use  the  opportunity  to  learn.    Since   Rashid   is   admittedly
+      inexperienced in such matters, he should “quietly” do some homework on
+      the internet  and  with  other  subcontractors  to  determine  how  to
+      identify whether the beams have been adequately coated, and he  should
+      go out to the site and make the appropriate inspection.  If  something
+      is indeed amiss, Rashid should outline a recommended course of  action
+      and notify Riley of his findings.
+      Percentage of votes agreeing: 15%
+
+   4. Et tu, Rashid?  Realizing that Riley will allow nothing to  compromise
+      the  project  schedule,  Rashid  should,  without  Riley’s  knowledge,
+      approach Rome Builder’s vice president, Mr. Mac White, and  share  his
+      concerns about the beam coating, and about Riley’s acquiescence in the
+      matter.  Rashid should await further instruction while Mr. White deals
+      with Riley.
+      Percentage of votes agreeing: 1%
+
+   5. Comply with the code of ethics.  In the interest of the public  health
+      and safety, Rashid should pursue  his  concerns  until  he  feels  the
+      matter is satisfactorily addressed.  At the least, this would  consist
+      of doing some homework and having a qualified independent third  party
+      knowledgeable  of  the  code  requirements  –  perhaps  Janis  –  more
+      carefully inspect the partially-covered beams.
+      Percentage of votes agreeing: 33%
+
+   6. There are many ways to solve a problem.  Rashid should call  a  friend
+      at the local newspaper and – with the agreement that he be  identified
+      only  as  a  “reliable  source”  –  share  his  concerns  about   code
+      compliance.  He knows that his newspaper friend will make  appropriate
+      inquiry, and this will pressure Gibb  and  Riley  to  act  responsibly
+      without Rashid having to get wrapped up in company politics.
+      Percentage of votes agreeing: 1%
+
+   7. Implement company loss prevention training.   Rashid  should  approach
+      Riley and again share his concerns about the beam  coating.   However,
+      this time  he  should  suggest  a  game  plan  that  acknowledges  the
+      liability of their company, such  as  requesting  that  Janis  provide
+      written confirmation of the adequacy of the beam coating.   This  gets
+      Rashid and Riley legally off the hook if any problem occurs.
+      Percentage of votes agreeing: 10%
+
+   8. Run towards the roar.  Rashid should approach Riley  and  again  share
+      his concerns about the beam coating.  Further, he should suggest  that
+      both he and Riley visit Gibb to explain their concerns, as well as the
+      ramifications of negligence and the fact that code specifications  are
+      not open to interpretation.  This puts the issue  squarely  in  Gibb’s
+      court – where it belongs.
+      Percentage of votes agreeing: 14%
+
+   9. Go to the source.  Rashid should approach Riley and  again  share  his
+      concerns about the beam coating.  Further, he should suggest that both
+      he and Riley visit Janis and arrange for a meeting and  inspection  of
+      the project to look into their concerns.   Perhaps  everything  is  to
+      spec.
+      Percentage of votes agreeing: 14%
+
+  10. Check it to them.  Rashid should  inform  Riley  that  he  refuses  to
+      continue with the project, and he will  resign  from  the  company  if
+      necessary.  While this will be costly to him, it is surely better than
+      being around when “Rome” burns.
+      Percentage of votes agreeing: 4%
+
+Forum Comments from Respondents
+
+   1. Rashid cannot ignore this potential problem; public health and  safety
+      and his company's liability are on the line.
+
+   2. Rashid should  schedule  an  appointment  with  Riley  so  as  not  to
+      "interrupt his day".  In a calmer setting, Riley might be more willing
+      to listen to Rashid.
+
+   3. Rashid should not back down at all.  Rashid  should  continue  to  put
+      pressure on Riley because if something happens in the future  (because
+      of safety), it will be Rashid's job and integrity on the line for  not
+      voicing his opinion according to the ASCE Code of Ethics.
+
+   4. Rashid should first take the opportunity to learn more; that is almost
+      always a good place to start.  Once  better  informed,  Rashid  should
+      discuss his concerns with Riley.  He and  Riley  should  then  take  a
+      closer look with Janis and have Janis evaluate whether the  beams  are
+      adequately coated.  If Janis cannot sign off on Gibb’s work, then  the
+      group (Janis, Riley & Rashid) should go  to  Gibb  and  explain  their
+      concerns.  The only acceptable  solution  is  that  the  beam  coating
+      complies with the  project  specifications.   The  greatest  potential
+      difficulty for Rashid would be if Riley will not  support  a  further,
+      closer inspection.  Then Rashid would have to go above or around Riley
+      to have his concerns addressed.  At the very least, Rashid should have
+      Janis take a close look and ensure that the beams are properly coated.
+
+   5. Rashid should approach Riley when he is not distracted  by  a  meeting
+      and suggest they discuss the situation with Gibbs.  If this  does  not
+      correct the issue, Rashid should pursue the matter until  his  concern
+      is satisfactorily addressed.
+
+   6. Rashid should go to Riley a second time.  Riley is the key  person  to
+      address this situation and Rashid should see to  it  that  he  gets  a
+      clear picture of the facts.  Most of the other  solutions  are  either
+      too aggressive or lack ethical value.
+

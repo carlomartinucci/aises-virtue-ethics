@@ -1,0 +1,257 @@
+
+                       One Good Turn Deserves Another
+                                 (Case 1027)
+
+The mission of the National Institute for Engineering Ethics  (NIEE)  is  to
+promote ethics in engineering practice  and  education.   One  component  of
+NIEE  is  the  Applied  Ethics  in  Professional  Practice  (AEPP)  program,
+providing free engineering  ethics  cases  for  educational  purposes.   The
+following case may be reprinted if it is provided  free  of  charge  to  the
+engineer or  student.   Written  permission  is  required  if  the  case  is
+reprinted for resale.  For more cases and other NIEE  Products  &  Services,
+contact  the  National  Institute  for  Engineering   Ethics,   Texas   Tech
+University, www.niee.org..  (All reprints must contain these statements)
+
+The Case:
+As part of the  professional  services  your  firm  (Multiplex  Design  Ltd)
+offers, you provide site civil engineering designs for large office  complex
+developments, including road, parking  lot  and  walkway  layouts;  pavement
+design recommendations;  architectural  earthwork  design  for  landscaping;
+surface water retention/detention and drainage design; and the design of on-
+site wastewater treatment and disposal  facilities.   Most  of  your  firm’s
+clients are relatively  large  developers,  and  since  you  are  a  project
+manager for Multiplex Design, you  work  closely  with  a  number  of  these
+clients for various projects.  Usually, you  work  on  a  project-by-project
+basis  for  individual  sites  within  a   client’s   substantially   larger
+development complex.
+
+Since it appears to be second nature to many developers, it is  not  unusual
+for a client to tell you that funds are  limited  for  your  services  on  a
+specific project site, other firms have  been  knocking  on  their  door  in
+increasing numbers seeking to obtain design contracts for the same  kind  of
+services you provide, and you should remember there are a lot  more  project
+sites to be designed within the overall complex planned  by  the  developer.
+And  so  it  is  with  Bill  Broot,  development   manager   for   Universal
+International Unlimited Developers, one of your clients.
+
+You have been doing several  design  projects  for  Universal  International
+Unlimited for a large complex  a  few  miles  outside  of  town  which  will
+eventually expand to more than 20 multi-story office cluster sites.  So  far
+you have been involved in all of the first  five  cluster  projects  in  the
+complex,  the  latest  being  the  Dawson  Enterprises  four-building  site.
+Despite the fact that you had been careful to spell out your scope  of  work
+in your design contract with Universal International, Bill Broot  asked  you
+to provide recommendations for several items not included in your  scope  of
+work for the Dawson site, and you complied  (especially  when  he  told  you
+there was a lot more work on other sites coming in a couple of months).
+
+Just this morning, your in-house accountant  notified  you  that  the  final
+figures for the Dawson project showed  that  your  group  had  overrun  your
+$28,500 contract budget by $6,300, and there is  no  authorization  to  bill
+Universal International for this additional work.  Your  original  estimated
+profit for the Dawson project was $4,000, and now that is gone, plus more.
+
+After a meager  lunch  (and  several  aspirin  tablets),  you  sit  down  to
+concentrate on some paperwork piled high on your desk when the  receptionist
+at the front desk calls you on the intercom and says that Bill  Broot  wants
+you to call him about another project.  You call Broot, find  out  that  the
+new project is directly adjacent to the Dawson  Enterprises  site,  and  the
+work required is relatively similar in scope to what your original  contract
+for the Dawson project had required.  You  agree  to  put  a  cost  estimate
+together and call Broot back in the morning.
+
+You complete your estimate for the new project site.  If the site were in  a
+totally new area of the entire development complex, the budget estimate  for
+your design work would be $31,700.  However, since the new site is  directly
+adjacent to the  Dawson  site,  much  of  the  information  your  group  had
+gathered for the Dawson site, as well as a substantial amount of  the  basic
+analyses for that project, could be  used  for  the  new  project.   If  you
+deduct the  estimated  cost  of  this  information  and  analyses  from  the
+$31,700, you find you could probably do the work for the  new  project  site
+for $22,800.
+
+Keeping in mind the loss you suffered on the  Dawson  project,  as  well  as
+Broot’s remarks about plenty more work coming in the  overall  complex,  and
+the intensity of your competition pounding on his door for  work,  you  must
+decide what to give Broot as  your   design  contract  amount  for  the  new
+project.
+
+What do you decide to tell Broot in the morning?
+
+Alternate Approaches and Survey Results for “One Good Turn Deserves  Another”
+(Case 1027)
+1.    The budget estimate you give Broot is $63,400, lump  sum,  twice  what
+    you think it would take on a new site, but the going rate for obnoxious
+    jerks.  Hey, you are not in the business of engineering for experience;
+    you’re in it for cash.  Since Broot has shown himself to be a difficult
+    client, if not a credit risk, and since you bill lump sum, you  see  no
+    reason not to get all you can out of the guy  if  he’ll  agree  to  it.
+    After all, he’ll surely seek to “lean” on you to cut your fee, and  you
+    want something left after the cutting is done.  Enough already!
+      Percentage of votes agreeing:  2%
+
+2.    The budget estimate you give Broot is $38,000, lump sum, the  cost  of
+    your services for a new site plus  the  “extra”  unbilled  services  he
+    finagled out of you on the last project.  You would like  to  bill  him
+    double if you could, but you are just not quite  that  strong.   Still,
+    you see no reason not to get all you can out of the guy if he’ll  agree
+    to it.
+      Percentage of votes agreeing:  9%
+
+3.    The budget estimate you give Broot is $31,700, lump sum, the  cost  of
+    your services for a new site.  Whereas  you  would  like  to  bill  him
+    double for the work if you could (he’s that much of a pain),  you  know
+    he will only go so far, and this is probably the best fee you can  hope
+    for.  As it is, you are concerned how he will come back and ask you  to
+    lower your fee.  You see no reason not to get all you can  out  of  the
+    guy if he’ll agree to it.
+      Percentage of votes agreeing:  26%
+
+4.    The budget estimate you give Broot is $22,800, lump sum, the  cost  of
+    your services for a follow-on site.  Whereas you would like to bill him
+    double for the work if you could (he’s that much of a pain),  you  know
+    how competitive he is, and this is probably the best you can hope  for.
+    The $6,300 in unbilled effort from the past project is simply a cost of
+    doing business, and you are thankful to have the job.
+      Percentage of votes agreeing:  9%
+
+5.    The budget estimate you give Broot is $15,850, lump sum, half  of  the
+    cost of your services for a new site.  It seems your competitors always
+    find some way to cut their fee to half of yours, and this time you beat
+    them to it.  This is the only way  to  stay  in  business  in  a  tight
+    market.
+      Percentage of votes agreeing:  0%
+
+6.    The budget estimate you give Broot is $31,700, not  to  exceed,  on  a
+    time-and-materials basis, the cost of your services  for  a  new  site.
+    You are a thorough person, and you know you can justify this figure  to
+    Broot by down-playing the follow-on aspects of the work.  It  won’t  be
+    an easy negotiation, but your logical approach, objective figures,  and
+    calm demeanor will win the day.  This will allow you  to  complete  the
+    project at an actual follow-on cost  of  $22,800,  but  to  adjust  the
+    billings to make up for unbilled (past) revenue.
+      Percentage of votes agreeing:  7%
+
+7.    The budget estimate you give Broot is $31,700, not  to  exceed,  on  a
+    time-and-materials basis, the cost of your services  for  a  new  site.
+    You are a thorough person, and you know you can justify this figure  to
+    Broot by down-playing the follow-on character of the work.  It won’t be
+    an easy negotiation, but your logical approach, objective figures,  and
+    calm demeanor will win the day.  Sure  there  is  extra  money  in  the
+    budget, but you view this as a contingency.  Under  good  circumstances
+    this will allow you to  complete  the  project  at  a  normal,  if  not
+    relaxed, pace, and under difficult  circumstances  it  gives  you  some
+    badly-needed financial breathing room.
+      Percentage of votes agreeing:  26%
+
+8.    The budget estimate you give Broot is $22,800, not  to  exceed,  on  a
+    time-and-materials basis, the cost of your  services  for  a  follow-on
+    site.  You figure that Broot will be so enamoured  with  your  low  fee
+    that he’ll skate through the  negotiations  and  sign  you  up  without
+    looking at the details.  Then he won’t notice how you carefully fluffed
+    your low-ball budget by failing to include certain  non-essential,  yet
+    desired, services you have normally identified as part of the scope  of
+    work.  Once you get into the new project, the need for  those  services
+    will become apparent, but at that point Broot will have no  choice  but
+    give you the change orders for additional fees you seek.  Is  this  not
+    the way the game is played?  Finally, Broot will respect you both as an
+    engineer and a businessman.
+      Percentage of votes agreeing:  2%
+
+9.    The budget estimate you give Broot is $22,800, not  to  exceed,  on  a
+    time-and-materials basis, the cost of your  services  for  a  follow-on
+    site.  You know that Broot is a hard-driving businessman, and  this  is
+    all he will pay.  You also know the good will you bought  on  the  last
+    project ($6,300 in unbilled effort) will get you this project, but that
+    is all.  This is simply the cost of doing  business.   Considering  the
+    options, it is less expensive than developing a new client relationship
+    with different developer.
+      Percentage of votes agreeing:  17%
+
+10.   The budget estimate you give Broot is $22,800, not  to  exceed,  on  a
+    time-and-materials basis, the cost of your  services  for  a  follow-on
+    site.  You know that Broot is a hard-driving businessman, and  this  is
+    all he will pay.  But this doesn’t concern you all that much, since you
+    know you can recoup the  cost  of  doing  business  in  Broot’s  market
+    segment from your other, less-astute, municipal clients.  You  do  this
+    by assigning less-efficient personnel to their projects, by negotiating
+    more generous billable rates, and by more broadly defining the billable
+    aspects of the work, among other things.  Your  municipal  clients  are
+    great people.  You know they trust you  to  do  the  right  thing,  and
+    that’s what business is all about.
+      Percentage of votes agreeing:  2%
+
+Forum Comments from Respondents
+1.    The budget estimate you give Broot is $26,800, not  to  exceed,  on  a
+    time and materials basis.  This will  prove  very  competitive  against
+    other companies as you will be giving Broot the benefit that  there  is
+    certain basic work already achieved from the previous site.  The $4,000
+    over the actual $22,800 will  cove  a  degree  of  the  loss  from  the
+    previous project.  He  is  a  hard  businessman,  however,  you  are  a
+    professional and expect to be remunerated for the work you do.
+
+2.    If in the past you have allowed the client not  to  be  bound  by  the
+    contract for a lump sum job, this is your mistake.  If you did not have
+    contingencies for extras or did have and went over  that  amount,  that
+    was also your mistake.  With a difficult client “doing favors” can  win
+    you brownie points, but it is not a sound business practice if you have
+    no contingency in the budget for these “extras.”  In  the  future  this
+    client may remember that you have done him some favors, but in a  tight
+    negotiation this will mean little to the client that is looking for the
+    bottom dollar bid.  The extras you have given  this  client  have  been
+    given to him.  Dealing with extras is part of the job and the fewer you
+    have the better your bids will be received.  Having worked  with  firms
+    that  are  change  order  producing  machines,  I  can  tell  you  from
+    experience that option 8 will get you a reputation and will  ultimately
+    hurt your business.
+
+3.    Where is the ethical dilemma?  This is a normal business situation  we
+    face several times a year.  You’ve been giving Broot “freebies” and  it
+    busted your budget.  It’s time to make up the losses.  Tell Broot  that
+    you’d ordinarily have to  charge  $31,700  for  the  new  project  (and
+    explain why), but tell him that since the new site adjoins  the  Dawson
+    site and since he is such a good client, you’ll do it for $29,100,  for
+    a savings of $2,600.   When he squawks that  the  Dawson  project  only
+    cost $28,500, remind him that the work at the Dawson site allows you to
+    understand that the new site is more complex, and tell him that  if  he
+    goes out on the street for a competitive proposal, he will  be  charged
+    at least $33,000 by your competitors.
+
+4.    It appears that a decision was made at the time  services  beyond  the
+    scope of the original contract were  provided,  that  these  additional
+    services would be furnished as a marketing effort.  If it was  intended
+    to request an additional fee for the  additional  services,  it  should
+    have been made at the time  Universal  requested  the  services.   Each
+    project (or assignment) should stand on its own.  Therefore,  Multiplex
+    Design Ltd should  quote the $22,000.  It would be ethical, however, to
+    discuss the overruns on the first  project  and  request  relief.   The
+    relief would be at the option of Universal, however.
+
+5.    Always a fascinating situation.   You  underbudgeted  to  start  with,
+    then did not have adequate project  management  accounting  during  the
+    project to know when you were going over budget.   You  may  have  been
+    able to argue for  additional  funds  had  you  broached  that  subject
+    earlier, but now…nope.  You have a new section to work on.  You have  a
+    process  to  use  to  develop  a  budget  estimate  and  may  have  the
+    opportunity to recoup some of your loss from the  first  project.   The
+    key here is value-based pricing.  When you sell hours, are you  getting
+    your value, or are you reducing yourself to a commodity?  What  is  the
+    value that Broot will receive from the services you  provide?   Because
+    you have some knowledge that others don’t, you can “afford” to cut your
+    price.  Does your knowledge reduce the value that  Broot  receives  for
+    your services?  If you go and buy a Mercedes, the dealer may give you a
+    “real deal” if you negotiate up front to buy another one each month for
+    a year.  But when you go there and buy one at a  time,  why  should  he
+    bother?  Price your services as high as you can reasonably go  for  the
+    value you bring to the project.  Tell Broot you’ll do the work for $30k
+    and recover what you lost on the first project.  (By the way, having  a
+    client that you can’t make a fair profit with is not having much  of  a
+    client!)
+
+6.    Tell Broot you will  use  a  lump  sum  contract.   The  fee  for  the
+    services should be based on the value of the service provided  not  the
+    cost of providing them to avoid an ethical problem (i.e., charging  the
+    client for time not actually spent on the client’s project).  In  other
+    words, ethics would require that the engineering firm use  a  lump  sum
+    contract based on the value of the services, not a cost-plus or  hourly
+    contract.

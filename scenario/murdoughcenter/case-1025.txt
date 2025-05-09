@@ -1,0 +1,287 @@
+
+                              Don't Bank On It!
+                                 (Case 1025)
+
+The mission of the National Institute for Engineering Ethics  (NIEE)  is  to
+promote ethics in engineering practice  and  education.   One  component  of
+NIEE  is  the  Applied  Ethics  in  Professional  Practice  (AEPP)  program,
+providing free engineering  ethics  cases  for  educational  purposes.   The
+following case may be reprinted if it is provided  free  of  charge  to  the
+engineer or  student.   Written  permission  is  required  if  the  case  is
+reprinted for resale.  For more cases and other NIEE  Products  &  Services,
+contact  the  National  Institute  for  Engineering   Ethics,   Texas   Tech
+University, www.niee.org..  (All reprints must contain these statements)
+
+The Case:
+Two years ago your firm was retained by a  banking  institution  (commercial
+bank) to be the geotechnical engineering consultant  for  the  design  of  a
+multi-story building in  an  urban  setting.   The  site  for  the  proposed
+building was  on  a  sloping  hillside  and  the  adjacent  uphill  property
+contained a decrepit two-story, wood-framed building  in  poor  repair.   It
+was understood that any new buyer for this adjacent property would  demolish
+the existing structure and construct a new office building.
+
+The design of the  new  bank/office  building  required  a  relatively  deep
+basement excavation into the hillside immediately  adjacent  to  the  uphill
+property line.  In order to construct the  basement  retaining  wall,  which
+was three stories in height at its maximum horizontal penetration  into  the
+sloping hillside, it was necessary to drill a number  of  temporary  tieback
+supports into the soils on the adjacent property.  This was  done  in  order
+to avoid having to  brace  the  retaining  wall  from  inside  the  building
+footprint and having to deal with the disruption to construction  operations
+that the presence of such inclined struts and kicker  blocks  would  create.
+Once construction of the basement wall was completed and braced by  interior
+floors, the tiebacks were scheduled to be de-stressed and abandoned.
+
+Your firm told the bank's project manager that it  would  be  necessary  for
+the bank to obtain permission to  install  the  temporary  tiebacks  in  the
+soils below the neighboring uphill property, and made a written  comment  to
+that effect in the design report for the  project.   Copies  of  the  report
+were sent to the bank for their use and for distribution  to  the  architect
+and structural engineer for the project.
+
+During construction the  contractor  installed  the  required  tiebacks  and
+anchors extending under  the  adjacent  uphill  property,  but  neither  the
+contractor nor the bank contacted the  adjacent  property  owner  to  obtain
+permission to do so.  At the end of  construction,  the  tiebacks  were  not
+abandoned, as originally planned.
+
+After the new  building  was  completed  and  occupied,  the  owner  of  the
+adjacent  property  filed  a  law  suit  against  the  bank,  the   building
+contractor, the architect, the structural design  engineer  and  your  firm,
+claiming total damages in the amount of $35,000  for  unlawful  encroachment
+(trespass) and use of his property.
+
+In the process of the ensuing litigation, your lawyer  has  pointed  out  to
+the adjacent property owner that you had advised the bank  and  its  project
+manager verbally, and in writing in the design report,  that  it  was  their
+responsibility to obtain  the  necessary  permission,  and  to  negotiate  a
+reasonable charge for the temporary use of the soils  beneath  the  adjacent
+property for the installation of the tiebacks and anchors.
+
+The plaintiff (adjacent property owner) has refused to let your firm out  of
+the law suit, but a week before the case is scheduled to be tried in  court,
+he has offered to settle with your firm individually for a lump sum  payment
+of $15,000, even though you and your lawyer still  have  evidence  that  you
+were not responsible for any of the alleged damages.
+
+What should you do?
+
+(Note: In the process of deciding what to do, try to identify who among  the
+various parties concerned with this action acted unethically, and why.)
+
+
+Alternate Approaches and Survey Results for “Don’t Bank On It!” (Case 1025)
+
+1.    This is ridiculous! Your firm is on record as  advising  the  bank  to
+    obtain permission  for  the  use  of  the  subsurface  portion  of  the
+    plaintiff’s property. This whole  thing  smells  of  extortion  by  the
+    plaintiff.  You should go to court to prove that your firm had  nothing
+    to do with these alleged damages, no  matter  what  the  legal  defense
+    costs to your firm may be.
+      Percentage of votes agreeing: 7%
+
+2.    You should file for a Summary  Judgment  ruling  by  the  court.   The
+    judge will then review the facts of the case and  decide  whether  your
+    firm has any responsibility for the claimed damages.  If he finds  your
+    firm not responsibility for the damages claimed, the court will release
+    you from the suit.
+      Percentage of votes agreeing: 62%
+
+3.    Settle for the  amount  requested  by  the  plaintiff.   It  is  legal
+    blackmail but settling out of court could be less  expensive  than  the
+    alternative of defending your firm in court.
+      Percentage of votes agreeing: 3%
+
+4.    You should counter sue the plaintiff for bringing a frivolous  lawsuit
+    against your firm.  As such, an impartial expert will be asked to judge
+    whether or not your firm had any liability with regard to  the  alleged
+    damages.  You should be aware that all the plaintiff need  do  to  keep
+    your firm in the original suit is to find an “expert” who will say that
+    you firm had some responsibility, no matter how small.
+      Percentage of votes agreeing: 1%
+
+5.    You should make a counter-offer to the plaintiff to release your  firm
+    from the suit for a settlement of $5,000, since  your  legal  fees  for
+    defense will likely be more than that amount.
+      Percentage of votes agreeing: 11%
+
+6.    You should file a  cross-complaint  against  the  bank  because  their
+    inaction on your firm’s recommendation caused you to  be  brought  into
+    the lawsuit.
+      Percentage of votes agreeing: 6%
+
+7.    You should make a deal with the plaintiff to testify  for  them  as  a
+    friendly, rather than hostile, witness about the warning your firm gave
+    to the bank in the design report.  Offer to do this contingent on being
+    released from the case.
+      Percentage of votes agreeing: 10%
+
+
+Forum Comments from Respondents
+
+Student responses:
+1.    It could be extortion.  Could there  really  be  $35,000  in  damages?
+    Why did the [adjacent property]  owner  wait  until  the  building  was
+    finished, before saying anything?  [ed. note: a  perceptive  comment  –
+    see the Epilogue below]
+
+2.    The engineer should not have designed  the  system  before  there  was
+    written permission to use  the  soils  below  the  existing  [adjacent]
+    structure… The engineer is as responsible for the suit as the owner and
+    contractor for suggesting the tie back method.
+
+3.    The structural engineer and architect are  also  responsible  for  not
+    making sure that the proper paper work  was  taken  care  of  prior  to
+    proceeding with the work.
+
+4.    Learn your lesson here and follow up on such matters before  beginning
+    [of construction of] the project.   If  you  [make]  a  recommendation,
+    check back to see what  the  decision  was  prior  to  working  on  the
+    ‘assumption’ that it was approved and handled correctly!
+
+5.    You should have checked that  your  verbal  and  written  instructions
+    concerning [protection of] the adjacent property were followed.    This
+    may only have required a phone call to the  owner  before  construction
+    began.  The bank was negligent, but this could have been easily avoided
+    with better management on your part.
+
+      [Ed. note for comments 2-5: unfortunately,  as  a  consultant  to  the
+    owner, or especially as a subconsultant to the structural  engineer  or
+    architect  for  a  project,  you  often  are  involved  in  the  design
+    recommendations, but rarely in the legal aspects of the  project,  such
+    as obtaining permission from an adjacent land owner, nor  do  you  have
+    the authority to make obtaining such permission happen.  The  issue  is
+    even more perplexing if there is  a  considerable  hiatus  between  the
+    completion of your design recommendations and completion  of  the  full
+    project design, not to mention initiation of construction.  The project
+    may  be  put  on  hold  for  some  extended  time   pending   financing
+    arrangements or regulatory permitting, and you are often  not  notified
+    of the project status until it is well under construction, if  at  all.
+    While the criticisms above  are  justifiable  in  an  ideal  consulting
+    environment,  they  are  often  not  obtainable  in  the  real   world,
+    especially if you are dealing with an  obstinate  client.  That  having
+    been said, this situation is one that arises all too often  and  should
+    be recognized and avoided whenever possible.]
+
+6.    The owner of [the adjacent] property could easily have taken  care  of
+    this  situation  much  earlier  than  the  litigation  stage  following
+    construction.  This, as in many lawsuits, seems to  be  an  attempt  to
+    extort money from a large corporation who is more likely  to  settle  a
+    case than take chances with a jury's judgement.   To  the  bank  and  a
+    large A/E firm the amount of damages in the lawsuit is minimal and most
+    companies would take the loss rather than put their reputation  on  the
+    line.  In most of these types of lawsuits, when an innocent party  with
+    a strong case files a counterclaim for wrongful suit, legal  fees,  and
+    other damages due to bad press, the case goes away quickly.
+
+7.    I would make  no  deals  or  cross-complaints  as  this  would  likely
+    prevent me from ever getting work in this town again  –  regardless  of
+    guilt.  Summary judgment would be the fastest, cheapest way  to  finish
+    the case since I have proof I am in the clear.
+
+8.    I would seek a judge’s ruling because any unbiased party could see  my
+    innocence and I would be OK.  I would be hesitant to do any  more  work
+    for the bank.
+
+      [Ed. note for comments 6-8: Filing for summary judgment is a  possible
+    remedy  for  this  situation.   Unfortunately,  many  judges  are   not
+    conversant with technical issues,, and are  wary  of  making  dismissal
+    judgments that could be looked upon as erroneous by peers or  a  higher
+    court.  As a result, it is often more expedient for the judge  to  deny
+    the summary judgment motion, which then tends  to  lock  the  defendant
+    into a trial scenario.  As a rule of thumb, it is not  wise  to  assume
+    that just because the right or wrong of a situation is obvious to  you,
+    the court will agree with you, for reasons you  can’t  imagine  or  for
+    motivations  well  beyond  your  comprehension  or  control.   See  the
+    Epilogue, below.]
+
+Comments from Board of Review members:
+1.     Cross  claim  against  the  bank  because  their  inaction   on   the
+    geotechnical firm’s recommendation caused them (the geotechnical  firm)
+    to be damaged.
+
+2.    In my opinion, this is not an ethical issue,  but  rather  a  business
+    issue.  It is costly to go to court – attorneys’  fees,  design  firm’s
+    staff time, etc.  The decision should be based on a comparison of  cost
+    of settlement vs. cost of going to court.  Also, settlement brings  the
+    matter to a close, unless the property owner  and/or  bank  bring  some
+    type of action against the design professional.  Also, going  to  trial
+    has no assurance that the design professional will win.  In  this  case
+    it appears that settlement is the best action to take.  The expense  of
+    a court case probably would exceed the cost of the settlement.
+
+3.    Give him $15,000 and run.  The attorneys will spend way more  of  your
+    money than that before the trial ends (probably already has).  It would
+    seem that your firm was involved in the construction process, too.  You
+    should also check your internal check policies.  Someone did not follow
+    through on determining whether your firm’s recommendations to the  bank
+    about obtaining the abutter’s permission  were  followed.   That  is  a
+    dangerous situation, and  more  than  a  little  worrisome  for  future
+    projects.
+
+4.    Where’s the ethical dilemma?  It appears instead to be a  simple  loss
+    prevention case.  We would have called in  our  professional  society’s
+    loss prevention insurance advisor at the first hint of a  suit  by  the
+    adjacent land owner.  They would have handled it from there, and  would
+    probably have accepted the $15,000 settlement offer as it would be less
+    than the cost of defending the firm during the discovery  process  (let
+    alone trial!).  If  the  $15,000  gives  the  plaintiff  land  owner  a
+    monetary resource to go after the other defendants, that’s  simply  too
+    bad.  The design professional had no  obligation  to  the  construction
+    contractor, and the client was  warned  in  writing  (but  ignored  the
+    warning).
+
+5.    Many of the schools in the country still do not teach (or  know)  much
+    about loss prevention and limitation of liability.  I agree  that  this
+    case is not one in which the principal in the  firm  is  faced  with  a
+    large ethical issue (other than if it is ethical to pay off a shakedown
+    when you are clearly in  the  right  –  or  is  it  “a  cost  of  doing
+    business”?).
+
+      The other ethical consideration centers on the “right” to sue for  any
+    perceived issue at all (even when an equitable  offer  for  restitution
+    may have been made), especially when  the  potential  defendant  has  a
+    “deep pocket”  (i.e., the bank, as well as the designer team  members);
+    whether it is ethical for lawyers to pull the trigger on a shotgun  and
+    name anyone who walked on or by a site in the complaint and suit  (what
+    is the principal canon of ethics in the legal profession?); and perhaps
+    what motivates the plaintiff in these cases.
+
+
+Epilogue
+
+You did, in fact, reluctantly pay the $15,000 settlement to be removed  from
+the case with the proviso that there  was  no  additional  recourse  against
+your  firm.   This  was  advised  by  your  attorney  (appointed   by   your
+professional liability insurance carrier) as “a  cost  of  doing  business.”
+The transaction occurred only a few days before the trial was  scheduled  to
+begin.
+
+The trial was held and an engineering geologist appearing  in  court  as  an
+expert for the plaintiff told  the  jury  that  the  entire  design  of  the
+building and retaining system  was  faulty,  since  it  is  well  know  that
+“Nature reduces all hills until they are essentially flat.”
+
+Additionally, the plaintiff’s attorneys made it know to the  jury  that  the
+plaintiff was an old man with only a few grandchildren left in  his  family.
+It was alleged that he was terminally ill with cancer and  did  not  have  a
+lot longer to live.  As a result, he wanted  to  be  able  to  pass  on  the
+monetary court award (if he won) to his grandchildren as his legacy,  having
+little else of value to give.
+
+Having heard all of the  testimony,  the  jury  considered  the  plaintiff’s
+demand for $35,000 plus court fees  in  damages,  deliberated  for  a  short
+period of time and returned with an award in favor of the plaintiff  in  the
+amount of $105,000 plus court costs!
+
+Moral of the story: despite the ethical implications of  such  a  situation,
+going to court is in reality a  crap  shoot.   Consideration  of  right  and
+wrong take a back seat to the ability of each attorney to  make  convincing,
+emotional appeals to the judge  and  jury  on  behalf  of  their  individual
+clients.   Unfortunately,  this  reality  fosters  the  type   of    “legal”
+extortion the geotechnical firm experienced in  this  case  (but  were  wise
+enough to be removed for the $15,000, considerably less than the firm  would
+have had to pay the plaintiff, let alone their attorneys,  had  they  stayed
+in the suit and gone to court to defend themselves).
+

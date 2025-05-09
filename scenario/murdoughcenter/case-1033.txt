@@ -1,0 +1,341 @@
+
+                             Ye Olde Water Main
+                                 (Case 1033)
+
+
+The mission of the National Institute for Engineering Ethics  (NIEE)  is  to
+promote ethics in engineering practice  and  education.   One  component  of
+NIEE  is  the  Applied  Ethics  in  Professional  Practice  (AEPP)  program,
+providing free engineering  ethics  cases  for  educational  purposes.   The
+following case may be reprinted if it is provided  free  of  charge  to  the
+engineer or  student.   Written  permission  is  required  if  the  case  is
+reprinted for resale.  For more cases and other NIEE  Products  &  Services,
+contact  the  National  Institute  for  Engineering   Ethics,   Texas   Tech
+University, www.niee.org..  (All reprints must contain these statements)
+
+The Case:
+Shadyvale, a picturesque town  in  upstate  New  England,  is  having  water
+problems.  Three years ago an engineering consultant issued a  report  which
+stated, among other things, that the existing water main  in  Shadyvale  was
+generally in good condition but was extremely old.  Further, the water  main
+no longer is large enough for all of  the  properties  served.   Since  that
+time, the Town Selectmen have been trying to  secure  the  funds  needed  to
+replace the old main with a new main of  larger  diameter,  but  they  still
+cannot afford to do so.
+
+However, the State Department of Transportation (DOT) is planning a  highway
+reconstruction  project  in  Shadyvale.   Warren,  a  senior  planning   and
+programming engineer, is  the  senior  DOT  engineer  responsible  for  this
+project.  Although he now lives in the Capitol City,  Warren  was  born  and
+raised in a small village not far from Shadyvale, next door to  his  boyhood
+friend, Earnest “Red”  Anderson.   With  a  twinge  of  nostalgia  and  fond
+memories of a more peaceful time, Warren confidently delegates  the  project
+to one of his subordinates, Dianne, a young engineer  intern  about  to  sit
+for the PE exam.
+
+Dianne is well liked, highly competent, and by all indications, will go  far
+in the Department.  As per standard practice, Dianne  initiates  the  design
+layout for the Shadyvale  project  to  avoid  conflicts  with  the  existing
+utilities, including the old water main.  She  understands  that  State  DOT
+policy unambiguously requires that only unavoidable utility  conflicts  will
+be paid for as part of highway projects and that other utility  work  is  to
+be  considered  as  a  betterment  that  must  be  paid  for  by  the  local
+municipality.  This is quite fresh on her mind, since due to a  downturn  in
+the State’s economy, several layoffs have occurred in the State  government,
+and recent memos have repeatedly emphasized fiscal belt-tightening.
+
+With the design at about 30 percent completion,  Dianne  submits  a  set  of
+drawings to Warren for his review and comment.  She also recommends  a  site
+visit to observe the route, tie down several details,  and  resolve  various
+design issues.  On the appointed morning, Warren and Dianne secure  a  State
+vehicle and make the very pleasant drive to Shadyvale.  The  stress  of  the
+city  fades  with  each  mile  as  they  drive  through  some  of  the  most
+picturesque scenery in the State.
+
+“I’ll definitely have to bring the wife  back  in  September  to  enjoy  the
+foliage,”  muses  Warren  to  himself  as  they  drive  into  town.   Shops,
+restaurants, and even the local garage still have that  old-town  feel.   As
+expected, it is a wonderful day in the field, and Dianne busily gathers  the
+information she needs to take the  drawings  to  the  next  level.   In  the
+meantime, Warren  takes  the  opportunity  to  explore  the  town.   To  his
+pleasant surprise, he learns that his friend, Red Anderson, still  lives  in
+Shadyvale, and in fact is the senior Town Selectman.
+
+Upon learning of Warren’s being in Shadyvale, Red invites Warren and  Dianne
+to lunch at one of the local cafes.  In  addition  to  catching  up  on  old
+times, Red recounts Shadyvale’s water main problem and  how  the  town  just
+sees no way to get together the kind of money needed  for  such  a  project.
+Dianne is well aware of the location of this water main – she  knows  Warren
+is too – she made a conscious decision to design around it.  But neither  of
+them says anything, not wanting to spoil such a  friendly  visit.   After  a
+good meal, good conversation, and plans for Warren and Red to  get  together
+in the near future, Warren and Dianne depart from Shadyvale.
+
+On the way back to Department headquarters, Dianne comments to Warren  about
+how, in view of their conversation with Red,  she  feels  disappointed  that
+she must align the new closed  drainage  system  for  this  project  on  the
+opposite side of the road from the old water main.  The facts are, were  the
+proposed drainage system to impact the existing  water  main,  it  could  be
+dealt with simply as an added share  to  the  Engineer's  Estimate  for  the
+Town's cost, and Shadyvale would only be responsible for the  difference  in
+price between the size of the  now-impacted  existing  water  main  and  the
+proposed larger size (about $25,000), rather than for all of the water  main
+work (over $350,000).  “It’s just too bad,” she sighed.
+
+Warren  had  been  silent,  listening  to  Dianne’s  comments  and  line  of
+reasoning.  After she finished her thought, just as they were  pulling  into
+DOT headquarters, Warren looked directly at Dianne  and  stated  in  an  odd
+sort of way, “Yes, the citizens of Shadyvale are  really  fine  people,  and
+they deserve the best the State DOT can offer.  I want you to  do  a  really
+thorough job on the layout, and I’ll back you 100 percent.”  Then,  as  they
+were getting out of the car, Warren added, “By  the  way,  Dianne,  you  had
+mentioned that you were going to send  me  a  reference  form  for  your  PE
+license.  Please get that to me and I’ll complete it right away.”
+
+It is now the  next  morning.   Dianne  is  at  her  desk,  looking  at  the
+Shadyvale drawings.  It seems obvious to her based on  Warren’s  clandestine
+remark that he wants her to change the design so that Shadyvale’s old  water
+main is impacted, thus requiring the State DOT to bear most of the  cost  of
+replacing it.  This could be justified  easily  enough,  and  no  subsequent
+reviewer would question the issue if Warren signs off on this as he says  he
+will.  After all, it is not like Warren is asking her to embezzle funds  for
+personal use or anything.  But Dianne knows this action  is  not  consistent
+with DOT  policy.   A  voice  inside  screams,  “What  about  your  ethics?”
+Immediately  another  voice   replies,   “What   about   your   PE   license
+recommendation  from  Warren?”   Yet  another  pipes  up,  “What  about  the
+deserving citizens of Shadyvale?” And on it goes.
+
+How should Dianne proceed with this matter?
+
+
+Alternate Approaches and Survey Results  for  “Ye  Olde  Water  Main”  (Case
+1033)
+ 1. Go along to get along, compliantly.  Dianne should do what Warren wants
+    – not rock the boat.  She is getting her marching orders  from  Warren,
+    she is under his  direct  supervision,  and  she  should  embrace  this
+    opportunity to learn from him how to handle these types of  situations.
+
+
+Percentage of votes agreeing: 2%
+
+ 2. Go along to get  along,  cautiously.   Dianne  should  follow  Warren’s
+    apparent hint and design the reconstruction project so that  the  water
+    line is replaced. If she feels  that  Warren  cannot  be  trusted,  she
+    should keep records of conversations, meetings and review  comments  by
+    him.
+      Percentage of votes agreeing: 5%
+
+ 3. Share the wealth, generously.  Adding the water  main  to  the  highway
+    project is a "win-win" for everyone  involved.   The  increase  in  the
+    State  project  costs  are  negligible  while   building   considerable
+    community good will.  Shadyvale will obtain plenty of clean water at an
+    affordable cost, Warren will fulfill his sense of hometown  obligation,
+    and Dianne will receive the favorable PE recommendation she seeks.   It
+    is after all the responsibility of  a  professional  engineer  to  look
+    beyond polices and seek the best solution to every problem.
+      Percentage of votes agreeing: 6%
+
+ 4. Take refuge in ambiguity, innocently.  Dianne should proceed to develop
+    the plans as per her understanding of DOT policy,  pretending  to  have
+    not picked up on Warren’s subtle “hint” to move the water line.  In her
+    transmittal memo to Warren, Dianne should take pains to point  out  how
+    she has complied with his request to be very  thorough  in  her  design
+    work on this project.  This puts the issue squarely in Warren’s  court.
+
+
+      Percentage of votes agreeing: 5%
+
+ 5. Straddle the fence, technically.  Dianne is not a decision  maker,  but
+    she does have the opportunity to prepare and present  two  plans.   One
+    plan should follow the letter of  the  DOT  directive  and  the  second
+    should follow a "cost-share" approach to  include  replacement  of  the
+    water main.  Since Warren seems very  interested  in  influencing  this
+    project, offer him the opportunity to recommend the project to be  sent
+    forward.
+      Percentage of votes agreeing: 21%
+
+ 6. Straddle the fence, politically.  Don’t let policy stand in the way  of
+    common sense. Since Shadyvale will benefit if the design is prepared in
+    a certain way,  there  may  be  someone  from  the  Selectmen  who  has
+    influence in certain circles and could  convince  someone  on  the  DOT
+    board to grant a variance  to  the  policy  in  this  case.  Maybe  the
+    Selectmen could ante up funds that would increase the town’s  share  of
+    the  water  line  replacement  cost  which  would  justify  the  policy
+    variance. Dianne  should  consult  with  Warren  on  this  approach  to
+    negotiate a win-win solution and efficient expenditure of public funds.
+
+
+      Percentage of votes agreeing: 14%
+
+ 7. Face the facts, squarely.  Dianne should consult with Warren to clarify
+    his intentions. His statement, made as they were  getting  out  of  the
+    car, could be interpreted to mean either design in accordance with  DOT
+    regulations and policy, or prepare the design to cause  replacement  of
+    the old water main.  If he is indeed asking her to ignore  DOT  policy,
+    Dianne should talk with Warren about her concerns regarding moving  the
+    alignment and explain the reasons that this is a bad idea  and  try  to
+    talk him out of doing this.
+      Percentage of votes agreeing: 26
+
+ 8. Agree to disagree, cordially.  Dianne should ask to be removed from the
+    project – she should make it clear to Warren that she would not be able
+    in good conscience to do what he has asked, and point out  that  it  is
+    within Warren’s prerogative to engineer the alignment  change  himself,
+    or direct someone else to make the alignment change.
+      Percentage of votes agreeing: 7%
+
+ 9. Adhere to policy, strictly.  Dianne has clear guidance from the DOT  to
+    minimize all costs to the State.  This guidance is fair, causes no real
+    harm to the people of Shadyvale, and does not violate the ASCE Code  of
+    Ethics.  There is no reason, other  than  her  concern  about  possibly
+    losing a favorable PE recommendation, for Dianne to not follow the  DOT
+    directive.
+      Percentage of votes agreeing: 13%
+
+10. Blow the whistle, loudly.  Dianne should flatly refuse  to  change  the
+    alignment –  Warren  is  asking  her  to  do  something  unethical  and
+    something that will cost the DOT more than it should. She should simply
+    say she cannot do this and put the  alignment  in  the  best  location.
+    Further, she should go over Warren’s head to his  boss  and  point  out
+    that he is encouraging her to violate DOT policy.
+      Percentage of votes agreeing: 2%
+
+
+Forum Comments from Respondents
+ 1. Warren's comments  could  be  taken  either  way.  If  Warren  wants  a
+    violation of DOT policy, Dianne could take option 5 and force Warren to
+    take responsibility for the change in alignment. If he does  so,  Diane
+    can go along with this, recognizing that Warren is the senior  engineer
+    and has the ultimate responsibility for the design.  Or,  Dianne  could
+    blow the whistle. If she blows the whistle she could do it  loudly  and
+    publicly, or she could do it quietly by leaking a copy of the  decision
+    memo to someone more senior than Warren or  outside  the  DOT.   Either
+    way, Dianne should  look  into  getting  a  different  person  for  her
+    reference for her PE license.
+
+ 2. Dianne is aware that, given the State’s tight financial situation,  the
+    decision to alter the plans to please Warren could  result  in  someone
+    else in the DOT getting laid off. There are plenty of other reasons  to
+    adhere to DOT policy, but I feel that this is the major one.
+
+ 3. Instead of keeping this a big  secret,  Dianne  should  ask  Warren  to
+    discuss this  situation  openly  with  DOT  and  Shadyvale  to  see  if
+    something can be worked out.  Dianne should take a  proactive  approach
+    to  the  problem,  without  trying  to  draw   attention   to   certain
+    individuals.  If the DOT is willing to work with Shadyvale, great.   If
+    the situation is treated as a secret then it is dishonest.
+
+ 4. I would not mind if my gas tax helped a  few  people  get  some  needed
+    clean water.
+
+ 5. In this case, I  believe  Dianne  should  ask  Warren  to  clarify  his
+    intentions.   By  doing  what  he  wants,  she   will   save   her   PE
+    recommendation.  This is against policy,  but  sometimes  you  have  to
+    stray from what is mandated.  No rule or law is absolute; there are and
+    will always be exceptions  and  under  varying  circumstances  what  is
+    “right” may  not  agree  with  regulations.   As  for  the  money,  the
+    residents of Shadyvale are going to pay about the  same  amount  either
+    directly or indirectly.  The funds  necessary  for  carrying  out  such
+    projects come from the people and it will all even out in the end.
+
+ 6. Option 3 is preferred because everyone is winning here.  Shadyvale will
+    benefit from the project and the DOT will  not  lose  much.   The  most
+    important thing is that the project will be done.
+
+ 7. It seems that if Warren really wants Dianne to bend the rules  for  the
+    project he should be willing to do the same.  She gives him two  plans,
+    one of them is what he wants, the other one is more reasonable.   Leave
+    it up to Warren whether or not coffee  with  an  old  friend  justifies
+    $350,000 worth of added costs for a starved state budget.  If he  wants
+    to bend the rules, Dianne can do her job but leave  the  responsibility
+    of the choice where it belongs, with Warren.
+
+ 8. Dianne should face the facts squarely, analyze the pro's and  con's  of
+    the alignment options and let Warren decide.  Warren is the responsible
+    engineer and he owes Dianne clear guidance.   Dianne  owes  Warren  her
+    best summation of the issues and impacts of the two alignment  options.
+    Written DOT policies and project  policies  may  differ  on  the  finer
+    points and there are several possible reasons to replace the water main
+    now; for  instance,  possible  disruption  of  the  water  main  during
+    construction, protection of the investment in new pavement by replacing
+    utilities now, ease of permitting, etc.  There  is  the  potential  for
+    joint benefit with cost sharing to be negotiated.
+
+ 9. I feel that Option 6 is the best course of action. If I had to  be  one
+    of the people involved in this problem, I would  want  to  be  able  to
+    reach an agreement in such a way as to benefit everyone. For  the  same
+    reason, if this were in the newspapers it would make everyone look like
+    they did their part and the project was a joint effort.
+
+10. Ethics should not be pushed aside just to save money, even if it is  to
+    help out a  town  or  other  organization.   There  is  always  another
+    solution to help people out.
+
+11. Dianne should talk with Warren and  tell  him  her  concerns.   If  the
+    project cannot be done in accordance with DOT policy then Dianne should
+    request to be removed from the project.
+
+Comments from Board of Review Members
+
+1.    Options for Dianne:
+      Option One:
+      Dianne asks Warren for an  opportunity  to  discuss  comments  of  the
+      preceding day.  Warren says, “Sure. What’s on your mind?”
+      Dianne says, “Could we step into your office?”
+      Warren answers, “Sure.”
+      Dianne clears her throat and says, with some hesitancy, “What is  your
+      expectation of what a “really thorough job” ought  to  yield  for  our
+      project layout, especially regarding the routing  of  the  closed-pipe
+      drainage system? You’ve had a lot more experience than  I  in  how  to
+      deal with the type of issues we talked  about,  yesterday.  Could  you
+      provide me provide me some written notes and mark up the  drawings  of
+      the 30% design I submitted last week? That would be really helpful and
+      could save me from overrunning my budgeted design hours.”
+      Warren says, “No problem. I’ll get them to you this afternoon.”
+      Later that day, after Dianne had  finished  her  brown-bag  lunch  and
+      returned to her windowless office from the “staff” picnic table,  just
+      outside  her  office  there  sat  the  rolled-up  drawings   and   her
+      “Preliminary Design” brief.  There  was  a  big  yellow  Post-It  Note
+      saying, “Looks great! Proceed with 50% Design for review on  September
+      15th. W” The note bore no date.
+      On a standard Department Intra-Office Memorandum  form,  Dianne  wrote
+      out, “Warren, In accordance with the instructions you returned, today,
+      with the “30% Design” package, I will  proceed  with  the  50%  Design
+      drawings and specifications for your review on  September  15th.”  She
+      dated and signed the memo. She stuck Warren’s yellow note on her  memo
+      and photocopied it. Then after removing the note, she put her memo  in
+      the mail cart. She then made photocopies of Warren’s note stuck on the
+      cover sheets of her Preliminary Design report and drawings  and  filed
+      the copies in the lockable center drawer of her desk.
+      About  3:30  PM,  she  peddled  her  10-speed  home,  warned  up  some
+      leftovers, wrote out a check for the  third  payment  of  her  college
+      tuition loan, and leafed through  her  Advanced  Highway  Design  text
+      while pondering the next forty years of her life.
+
+      Option Two:
+      Dianne logs onto Monster.com
+
+2.    Dianne should study  all  the  reasonable  options  of  designing  the
+    project – including cost estimates  and  other  related  factors.   Her
+    decision should be based on the facts she develops.  She should prepare
+    a   summary   report   of   her   investigations,    conclusions    and
+    recommendations,  and  she  should  review  the  report  with   Warren.
+    Assuming she concludes that  the  drainage  system  should  be  on  the
+    opposite side from the water mains, she should  so  advise  Warren  and
+    explain how she reached her conclusion.  Warren  has  several  options:
+    (1) agree with  Dianne’s  conclusions  and  recommendations,  (2)  show
+    deficiencies in her  approach,  or  (3)  instruct  her  to  change  her
+    conclusions and recommendations.  On the assumption  that  Warren  will
+    find deficiencies in her  approach,  if  Dianne  agrees  with  Warren’s
+    concerns about deficiencies and this changes the conclusion, she should
+    make the change to her design.  If she does not agree with Warren, then
+    she should not make the change in her conclusions and  recommendations.
+    If Warren instructs  her  to  change  her  recommendation,  she  should
+    decline and offer the let Warren submit the project over his signature.
+     Dianne should not change her conclusions and recommendations that  are
+    not  supported  by  the  facts  she  develops.   She  has  the  ethical
+    responsibility to base her recommendations on her  engineering  studies
+    even if it may jeopardize her receiving a favorable recommendation  for
+    the P.E. license.  Warren, hopefully, will do  the  ethical  thing  and
+    provide an appropriate reference for the license.
+
