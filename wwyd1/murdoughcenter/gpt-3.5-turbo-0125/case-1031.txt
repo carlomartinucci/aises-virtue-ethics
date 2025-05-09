@@ -1,0 +1,7 @@
+Gwen should schedule a meeting with Lawrence to discuss the concerns about employees' excessive personal use of email. During the meeting, she should propose implementing a monitoring system through the company's server to track email usage patterns without accessing individual PCs. This system could generate reports on email activity trends, highlighting any significant deviations from normal business-related communication.
+
+Gwen should also suggest conducting training sessions on email etiquette to educate employees on appropriate email usage and the importance of maintaining professionalism in their communications. These sessions could include guidelines on distinguishing between personal and work-related emails and the potential consequences of misusing company resources.
+
+Furthermore, Gwen should emphasize the legal implications of accessing employees' email files without their consent and the potential breach of privacy laws. She should recommend seeking legal advice to ensure that any monitoring activities comply with relevant regulations and do not infringe on employees' privacy rights.
+
+By proposing these concrete actions, Gwen can address Lawrence's concerns about email misuse while upholding ethical standards, respecting employees' privacy, and maintaining a positive work environment.

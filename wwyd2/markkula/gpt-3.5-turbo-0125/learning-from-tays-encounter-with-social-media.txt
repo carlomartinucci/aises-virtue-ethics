@@ -1,0 +1,7 @@
+To address the issues highlighted by the Tay experience, I would prioritize the following concrete action:
+
+Implement a human moderation system: Introduce a human moderation system to oversee the chatbot's interactions on social media platforms. Trained moderators can review and approve the chatbot's responses before they are posted, ensuring that any potentially harmful or offensive content is filtered out before it reaches the public domain.
+
+By incorporating human oversight into the chatbot's interactions, we can proactively prevent the replication of inappropriate content from malicious interactions. This approach not only helps maintain ethical standards in the chatbot's interactions but also provides an additional layer of protection against unintended offensive behavior.
+
+Furthermore, the human moderation system allows for real-time monitoring and intervention, enabling swift responses to any emerging issues or attempts to mislead the chatbot. This hands-on approach complements the use of technology, such as NLP filters, and reinforces the commitment to ethical and responsible AI deployment on social media platforms.

@@ -1,0 +1,13 @@
+To address the concerns surrounding the use of proctoring software in online exams, I would take the following concrete actions:
+
+1. Conduct a thorough audit of the proctoring software currently in use, specifically focusing on the face detection algorithms to identify and address any potential biases. This audit would involve collaborating with the IT department and external experts in algorithmic bias to ensure a comprehensive evaluation.
+
+2. Implement a mandatory training program for professors and students on the ethical implications of using proctoring software. This training would include information on privacy concerns, potential biases, and alternative assessment methods to promote awareness and informed decision-making.
+
+3. Establish a dedicated feedback channel for students and professors to report any issues or concerns related to the proctoring software. This feedback mechanism would allow for real-time monitoring of user experiences and enable prompt action to address emerging issues.
+
+4. Develop a transparent policy outlining the ethical guidelines for using proctoring software, including clear criteria for when and how the software should be used. This policy would be communicated to all stakeholders to ensure accountability and adherence to ethical standards.
+
+5. Explore alternative assessment methods, such as open-book exams, project-based assessments, or oral examinations, as viable alternatives to proctored exams. These methods prioritize critical thinking skills and academic integrity while minimizing the reliance on surveillance technology.
+
+By implementing these specific actions, we can ensure a more ethical and practical approach to the use of proctoring software in online exams, promoting fairness, transparency, and student well-being in our academic practices.

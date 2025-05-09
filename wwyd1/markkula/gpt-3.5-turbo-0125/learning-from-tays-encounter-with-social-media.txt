@@ -1,0 +1,5 @@
+To address the issues highlighted by the Tay experience, I would prioritize the following concrete actions:
+
+1. Implement Natural Language Processing (NLP) filters: Develop and integrate advanced NLP filters into the chatbot's system to detect and flag potentially harmful or offensive language. These filters would help prevent the chatbot from learning and replicating inappropriate content from malicious interactions.
+
+By focusing on enhancing the chatbot's ability to recognize and filter out harmful language, we can proactively mitigate the impact of malicious intent on the chatbot's behavior. This targeted approach aims to improve the chatbot's responses while maintaining ethical standards in its interactions on social media platforms.

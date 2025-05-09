@@ -54,7 +54,7 @@ def create_summary_chart():
         plt.style.use('seaborn-v0_8-darkgrid')
         fig, ax = plt.subplots(figsize=(12, 7)) # Adjusted figsize
 
-        sns.barplot(x='split_type', y='Average', hue='Run ID', data=df_summary, ax=ax, palette=MODEL_COLOR_MAP)
+        sns.barplot(x='split_type', y='Average', hue='Run ID', data=df_summary, ax=ax, palette=sns.color_palette('viridis'))
 
         ax.set_xlabel("Data Split", fontsize=12)
         ax.set_ylabel("Average Score", fontsize=12)
@@ -62,7 +62,7 @@ def create_summary_chart():
         
         plt.xticks(rotation=0, ha='center') # No rotation needed for 'finetuned', 'test'
         ax.yaxis.grid(True, linestyle='--', alpha=0.7)
-        ax.set_ylim(0, 5.0) # Assuming scores are on a 1-5 scale, average can be up to 5
+        ax.set_ylim(0, 100)
 
         ax.legend(title='Model', bbox_to_anchor=(1.02, 1), loc='upper left')
 
@@ -84,7 +84,7 @@ def create_summary_chart():
 def create_score_distribution_chart():
     """
     Reads summary_ratings.csv and creates a grouped bar chart showing the distribution
-    of 1s, 2s, 3s, 4s, 5s for each model, faceted by split_type (finetuned/test), styled like the previous chart.
+    of 0-19,20-39,40-59,60-79,80-99 for each model, faceted by split_type (finetuned/test), styled like the previous chart.
     """
     if not os.path.exists(SUMMARY_RATINGS_FILE):
         print(f"Error: File not found: {SUMMARY_RATINGS_FILE}")
@@ -92,7 +92,7 @@ def create_score_distribution_chart():
 
     try:
         df_summary = pd.read_csv(SUMMARY_RATINGS_FILE)
-        required_cols = ['Run ID', 'split_type', '1s', '2s', '3s', '4s', '5s']
+        required_cols = ['Run ID', 'split_type', '0-19', '20-39', '40-59', '60-79', '80-99']
         if not all(col in df_summary.columns for col in required_cols):
             missing = set(required_cols) - set(df_summary.columns)
             print(f"Error: {SUMMARY_RATINGS_FILE} is missing required columns: {missing}.")
@@ -101,30 +101,31 @@ def create_score_distribution_chart():
         # Melt the DataFrame to long format for seaborn
         df_melted = df_summary.melt(
             id_vars=['Run ID', 'split_type'],
-            value_vars=['1s', '2s', '3s', '4s', '5s'],
+            value_vars=['0-19', '20-39', '40-59', '60-79', '80-99'],
             var_name='Score',
             value_name='Count'
         )
-        # Convert 'Score' to integer for proper sorting
-        df_melted['Score'] = df_melted['Score'].str.replace('s', '').astype(int)
-        df_melted = df_melted.sort_values('Score')
+        # Define the desired order for score categories
+        score_categories = ['0-19', '20-39', '40-59', '60-79', '80-99']
+        # Convert 'Score' to an ordered categorical type to ensure correct sorting and plotting order
+        df_melted['Score'] = pd.Categorical(df_melted['Score'], categories=score_categories, ordered=True)
+        # Explicitly sort values. Catplot respects categorical order, but this ensures consistent input.
+        df_melted = df_melted.sort_values(by=['split_type', 'Run ID', 'Score'])
 
         plt.style.use('seaborn-v0_8-darkgrid')
         # Use catplot for faceting by split
         g = sns.catplot(
             data=df_melted,
             x='Score', y='Count', hue='Run ID', col='split_type',
-            kind='bar', palette=MODEL_COLOR_MAP, ci=None, dodge=True,
+            kind='bar', palette=sns.color_palette('viridis'), ci=None, dodge=True,
             height=6, aspect=1
         )
-        g.set_axis_labels("Score", "Count")
+        g.set_axis_labels("Score Range", "Count") # Changed "Score" to "Score Range"
         g.set_titles("{col_name} split_type")
         g.fig.subplots_adjust(top=0.85, right=0.85)
         g.fig.suptitle('Distribution of Scores by Model and Split', fontsize=14, fontweight='bold')
         for ax in g.axes.flat:
             ax.yaxis.grid(True, linestyle='--', alpha=0.7)
-            ax.set_xticks([0, 1, 2, 3, 4])
-            ax.set_xticklabels(['1', '2', '3', '4', '5'])
             for container in ax.containers:
                 try:
                     ax.bar_label(container, fmt='%d', fontsize=9, padding=3)

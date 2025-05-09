@@ -1,0 +1,9 @@
+I would initiate a comprehensive review of the proctoring software used at our institution, specifically focusing on the face detection algorithms to identify and address any potential biases. This review process would involve collaborating closely with the IT department, academic staff, and student representatives to ensure a holistic assessment of the software's impact.
+
+To address concerns raised by students and professors, I would establish a feedback mechanism to gather their experiences and perspectives on the proctoring software. This feedback would be crucial in understanding the practical implications of using the software and identifying any areas of improvement.
+
+Based on the findings from the review and feedback collected, I would develop a clear timeline and action plan for implementing necessary changes to mitigate biases and enhance the fairness of the proctoring process. This plan would include specific steps for updating the software, providing training to users on best practices, and ensuring ongoing monitoring and evaluation to address any emerging issues promptly.
+
+In parallel, I would explore alternative solutions for exam monitoring that prioritize student well-being and academic integrity. This exploration would involve researching and testing different tools or methods that offer a more ethical and effective approach to proctoring exams, taking into account the feedback received from stakeholders.
+
+By taking these concrete actions, we can ensure that our institution upholds ethical standards in the use of proctoring software, promotes fairness in assessment practices, and prioritizes the well-being of our students.

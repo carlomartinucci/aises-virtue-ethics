@@ -1,0 +1,5 @@
+To address the ethical concerns raised by the creation and distribution of the Diversity in Faces (DiF) dataset by IBM Research, I would focus on the following specific action:
+
+1. **Enhanced Removal Process**: I would immediately establish a dedicated online portal on the IBM Research website where individuals can easily search for their photos within the DiF dataset using facial recognition technology. This portal would allow individuals to request the removal of their photos by simply uploading a photo of themselves for comparison. Additionally, I would ensure that any photos removed from the dataset are also flagged for removal from versions shared with researchers. This streamlined process would prioritize individuals' privacy rights and provide a practical solution for addressing concerns about unauthorized use of personal images.
+
+By implementing this enhanced removal process, IBM Research can demonstrate a commitment to respecting individuals' privacy and addressing the ethical implications of the DiF dataset in a practical and effective manner.
