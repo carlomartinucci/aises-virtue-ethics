@@ -1,0 +1,28 @@
+I’m the digital‐partnership manager at a mid-size record label. Here’s exactly what I’d do to ensure artists get paid during any “free” trial period:
+
+1. Extract last-quarter streaming data   
+   – Pull raw play counts and revenue figures for all our artists from Spotify, Apple Music, etc.   
+   – Identify which services ran unpaid trial campaigns and for how long.
+
+2. Build a “trial‐period impact” model in Excel   
+   – Calculate the difference between standard per-stream rates and $0 for each month of unpaid trial.   
+   – Project total revenue shortfall per artist for a 3-month trial on a platform with our 2 million active listeners.
+
+3. Draft specific contract amendments   
+   – Write a one-page addendum stipulating a minimum “trial-user payout” equal to 25% of standard per-stream rates or a $0.003 minimum fee, whichever is higher.   
+   – Include a reporting clause requiring weekly play metrics for trial accounts.
+
+4. Secure internal sign-off   
+   – Send the model and draft addendum to our CFO and General Counsel by 10 AM tomorrow.   
+   – Schedule a 30-minute review call for 2 PM to address any legal or financial concerns.
+
+5. Open negotiations with the platform   
+   – Email our Apple Music partnerships contact before COB today: attach the impact model and addendum draft.   
+   – Propose a call for Friday at 11 AM to finalize terms.
+
+6. Finalize and implement   
+   – On the call, walk through each line of the addendum, emphasize our data-driven revenue projections.   
+   – Agree on an implementation date; update our in-house distribution system to flag trial streams for the new rate.   
+   – Notify all signed artists via our quarterly newsletter that the amendment is in place and explain how to read their next royalty statement.
+
+By the end of next week we’ll have a binding amendment ensuring artists earn at least a pro-rated fee—even during free trials.

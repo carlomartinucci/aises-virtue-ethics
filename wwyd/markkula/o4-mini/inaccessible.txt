@@ -1,0 +1,40 @@
+1. Immediately arrange Michelle’s hospital admission for IV antibiotics and surgical consultation. I would  
+   a. Call the wound-care nurse to assess the ulcer’s size, depth, and signs of infection.  
+   b. Order broad-spectrum IV antibiotics per infectious-disease protocol while awaiting blood-­culture results.  
+   c. Page the on-call surgeon for evaluation of the decubitus ulcer and plan for possible debridement or flap coverage.  
+
+2. Assign a dedicated physical-therapy aide to help Michelle transfer safely from wheelchair to bed twice daily to off-load pressure over the sacrum and prevent further tissue breakdown. Document each transfer in the electronic medical record.
+
+3. File an incident report with clinic risk management describing:  
+   – The missed ulcer at the prior visit  
+   – Equipment barriers that forced the exam in the wheelchair  
+   – Staffing shortages that prevented safe transfers  
+
+4. Convene, within one week, a multidisciplinary root-cause-analysis (RCA) meeting involving:  
+   – The physician who saw Michelle  
+   – A clinic operations manager  
+   – A compliance officer  
+   – A patient-safety nurse  
+   – A representative from facilities/biomed engineering  
+
+   In that meeting we will:  
+   a. Review Michelle’s chart and exam-room video (if available) to identify exactly why the ulcer was missed.  
+   b. Itemize equipment gaps (e.g., no Hoyer lift, no height-adjustable table) and staffing limitations.  
+   c. Assign each gap to a concrete fix owner with deadlines.
+
+5. Within two weeks of the RCA, implement these fixes:  
+   a. Purchase and install at least one motorized, height-adjustable exam table in each clinic suite.  
+   b. Contract with a home-lift vendor to provide or demo a portable patient-lift or sliding board.  
+   c. Schedule a half-day disability-care training workshop for all clinical staff, taught by a certified “Accessible Healthcare” trainer.  
+
+6. Before Michelle’s discharge, make sure she has:  
+   a. A wound-care nurse scheduled for home visits twice per week.  
+   b. A hospital-issued cushion or mattress overlay to reduce pressure on the sacrum.  
+   c. Clear instructions in writing on bed-position changes every two hours when lying down, or every 15 minutes if sitting.  
+
+7. Three months after implementing equipment and training changes, audit 20 consecutive wheelchair-user visits to ensure each patient is offered:  
+   – A table that adjusts to wheelchair height  
+   – Assistance with transfers from a trained aide  
+   – A documented full skin inspection off the wheelchair  
+
+   Report compliance rates to the clinic medical director and adjust staffing or procedures if compliance is below 95 %.

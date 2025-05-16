@@ -1,0 +1,39 @@
+Question 1 – Setting your fee for Zeller Construction  
+1. Review your standard time-and-materials rate sheet and note current hourly rates for yourself and any draftsmen or CAD operators you’ll assign.  For example:  
+   • Principal engineer: \$180/hr  
+   • Senior engineer: \$130/hr  
+   • CAD technician: \$75/hr  
+2. Identify the scope of work Zeller wants (e.g., prepare foundation falsework drawings, shop‐drawing checks, on‐site support).  Draft a task list with estimated hours for each:  
+   • Initial site review and measurements – 8 hours  
+   • Drafting revised falsework plans – 20 hours  
+   • Structural calculations and checking – 15 hours  
+   • Meetings and revisions – 5 hours  
+3. Multiply estimated hours by the appropriate rates to arrive at a base labor fee.  Example:  
+   • (8 h × \$180) + (20 h × \$130) + (15 h × \$180) + (5 h × \$130) = \$8,690  
+4. Add direct expenses:  
+   • Travel (mileage or flights): \$300  
+   • Printing/reprographics: \$150  
+   • Software license surcharge: \$200  
+5. Apply your firm’s markup or overhead factor (typically 1.2× labor):  
+   • \$8,690 labor × 1.2 = \$10,428  
+6. Sum labor (with markup) plus expenses:  
+   • \$10,428 + \$650 = \$11,078  
+7. Round to a contract‐friendly number and include payment terms:  
+   • Proposal fee: \$11,100 (50% due on notice to proceed, balance on final deliverables)  
+
+Question 2 – Setting your fee if Hartwell contacts you  
+1. Examine your original agreement with Hartwell to confirm ownership/licensing of the prior drawings. 2. Propose a license fee for reuse of your existing solution plus additional time for project re-contextualization:  
+   • Base reuse license: \$5,000 (one-time)  
+   • Update drawings & calculations for the new site: estimate 10 h principal + 15 h senior = (10×\$180)+(15×\$130) = \$3,150  
+   • Meetings and coordination: 4 h × \$180 = \$720  
+3. Add expenses as before (travel, printing, etc.) – estimate \$400.  
+4. Add overhead factor or markup (× 1.2):  
+   • Labor total (\$3,870) × 1.2 = \$4,644  
+5. Total fee = reuse license (\$5,000) + labor w/markup (\$4,644) + expenses (\$400) = \$10,044.  Round to \$10,000 with a note: “includes license to reuse prior designs, updates, and coordination.”  
+
+Question 3 – Does your decision change if Hartwell drops out?  
+– No change to Zeller fee or Hartwell proposal.  Even if Hartwell isn’t bidding, you still:  
+   • Have the same estimated hours and expense budget for Zeller.  
+   • Charge Hartwell the same license fee and update fee if they engage you.  
+
+If Hartwell doesn’t bid, you simply move forward with Zeller under the fee you quoted in Question 1.

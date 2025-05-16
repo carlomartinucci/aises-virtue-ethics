@@ -1,0 +1,9 @@
+Roger’s next steps would be all about locking down confidentiality, documenting every exchange, and getting clear written commitments. Here’s exactly what I’d do:
+
+1. Pull up the Downing Flood Control District contract (or any nondisclosure/NDA clauses our firm has signed). Note the exact language around distribution and timing of deliverables.  
+2. Draft and send an email to Frank Bullock, Bill Mason, and the firm’s in-house counsel (or project manager if there’s no counsel) that says:  
+   “Frank,  
+    I’m circulating the draft Phase 1 report as you requested on MM/DD. Before you forward or discuss any part of this draft with private‐sector prospects, please confirm in writing that (a) you will not share it outside our firm until after the District’s formal review, and (b) any excerpts you do share will be clearly marked ‘Preliminary—Not for External Release.’ Once I have your written confirmation, I’ll note this in the project file and we’ll proceed with delivery to the District on schedule.”  
+3. File that email in our project folder as evidence that I requested and obtained Frank’s agreement in writing.  
+4. If Frank refuses or never replies within two business days, escalate to Bill and to the in-house counsel: “Per our client contract and A/E standard practice, I need written permission before any external distribution of firm deliverables. Please advise.”  
+5. Going forward, update our internal project checklist so that before I ever share a draft outside the immediate project team, I run it past legal or insert a slide in our kickoff meeting reminding all VPs that draft reports are client property until formally delivered. This creates a routine “stop point” on future Phase 2 and 3 drafts.

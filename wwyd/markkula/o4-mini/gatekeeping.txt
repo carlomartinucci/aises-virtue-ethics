@@ -1,0 +1,36 @@
+1. Audit current list usage  
+   • Export the last three months of senders and open-rate data from the student-events list.  
+   • Identify how many messages per week come from student orgs versus faculty-staff inserts in the newsletter.  
+
+2. Survey students’ preferences  
+   • Draft a three-question Google Form asking:  
+     1. Which types of info they value most (events, academic updates, financial-aid alerts, etc.)  
+     2. Whether they’d subscribe to a separate “Campus Updates” list for faculty/staff announcements  
+     3. How many emails per week they consider reasonable  
+   • Distribute survey via the existing list and social-media channels. Keep it open for one week.  
+
+3. Draft a formal proposal for the SGA executive board  
+   • Include: survey results, open-rate data, number of unsubscribe requests, and a flowchart of our current single-list setup.  
+   • Recommend creating two parallel lists:  
+     – “Student Events” (unchanged, one send per org/week)  
+     – “Campus Updates” (faculty/staff announcements, opt-in only, limited to two sends/week)  
+   • Outline moderation rules: all messages submitted via a shared form; I review for formatting and schedule them.  
+
+4. Meet with the SGA President and Secretary  
+   • Present the proposal in a 15-minute slot on their weekly agenda.  
+   • Ask them to vote on approving the dual-list approach and on funding the new list’s management (e.g., time allocation, any required software).  
+
+5. Set up the new “Campus Updates” list  
+   • If approved, use the existing mailing-list software (e.g., Mailman or CampusMail).  
+   • Configure it as “opt-in” only. Embed the subscription link in the weekly student-events newsletter.  
+   • Create a Google Form for faculty/staff to submit content, with a two-business-day lead time.  
+
+6. Pilot the dual-list system for four weeks  
+   • Week 1–4: collect data on subscription rates, open rates, and unsubscribe rates for both lists.  
+   • Send a mid-pilot check-in email to all subscribers asking for quick feedback.  
+
+7. Evaluate and iterate  
+   • At the end of week 4, compile stats and comments.  
+   • Present a one-page summary to the SGA exec board with recommendations: continue, expand, or revise.  
+
+By following these steps—grounded in data, student input, and clear governance—I would protect the student-events list from overload, give faculty a dedicated channel, and ensure students can still opt in to the information they care about.

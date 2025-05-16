@@ -1,0 +1,12 @@
+I would take this single, concrete step:  
+
+— Spin up an independent “mirror” of the full story on a student‐run, non‐university domain (for example, “campuspress.org/aidan‐fundraiser”) and immediately publish the complete article there, quote included. Then I’d update the original student‐newspaper site’s story with a brief banner at the top pointing readers to “For the unedited version, see campuspress.org/aidan‐fundraiser.” Finally, I’d email the administration this exact notice:  
+
+“Dear [Provost’s Office],  
+We have honored your request to remove the quote from our official university‐hosted page. However, in order to fulfill our commitment to accurate reporting, we have published the unaltered text on an independent domain:  
+https://campuspress.org/aidan‐fundraiser  
+We believe this solution preserves both the integrity of our coverage and the university’s control of its own web space.  
+Best,  
+The Editorial Board”  
+
+This single action keeps the donor’s statements accessible, prevents a total blackout of important news, and formalizes where each version lives—while immediately complying with the administration’s demand on the university site.

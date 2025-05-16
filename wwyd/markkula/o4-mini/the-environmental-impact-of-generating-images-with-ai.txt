@@ -1,0 +1,7 @@
+I would implement an “impact meter” directly into the image-generation interface that does the following:  
+1. On each API call, the backend logs the GPU compute time (in GPU-hours) and looks up its data-center’s average power draw (in kW per GPU) and water‐use intensity (liters of cooling water per kWh).  
+2. Before returning the generated images, the UI pops up a small panel saying, for example:  
+   • “This batch used 0.06 kWh of electricity (≈ 1.4 Wh per image) and ~0.03 L of cooling water.”  
+   • A button labeled “Proceed with generation (I acknowledge this cost)” that the user must click to see the results.  
+3. The user’s “impact meter” history (daily/weekly totals of kWh and liters) is charted in their account dashboard so they can track how many generations they’ve run and the associated resource use.  
+4. Optionally, offer a “low-impact mode” toggle that drops resolution or batch size (for instance from 8 images to 4) and recalculates the meter in real time so users can see how much energy and water they save each time they trade off quality for resource use.

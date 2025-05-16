@@ -1,0 +1,8 @@
+I would embed a live, claim‐by‐claim fact-check overlay directly on the NY Post’s article page and throttle its distribution until that overlay goes live. Specifically:  
+1. As soon as the article URL is detected, automatically cap its feed on our platform to no more than 50 000 impressions per day.  
+2. Spin up a small “rapid response” team to break the article into its discrete claims (e.g. “Hunter Biden introduced [X] to Joe Biden in 2015,” “hard drive provenance is authenticated,” etc.).  
+3. For each claim, pull in verdicts from at least three established fact-checkers (PolitiFact, AP, Reuters). When one verdict is missing, mark it “under review” rather than “unverified.”  
+4. Build a floating sidebar or header widget on the Post’s article page that lists each claim alongside a color-coded status (green=verified, yellow=pending, red=debunked), with a one- or two-sentence summary and link to the full fact-check.  
+5. Only after that widget is fully populated do we remove the 50 000-impression cap and allow the article to circulate at full scale.  
+
+By throttling initial distribution and forcing a synchronized, transparent fact-check overlay on the very page readers land on, we both slow the viral spread of potentially false claims and give every reader immediate, claim-by-claim context.

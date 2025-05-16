@@ -1,0 +1,33 @@
+I would focus on the Brazil Zika outbreak and run a tightly controlled, phased field trial of the CRISPR‐sterile males, taking the following concrete steps:
+
+1. Assemble a multidisciplinary team on the ground in Brazil.  – Entomologists from Kill-M to manage mosquito rearing and release protocols.  
+– Local ecologists and wildlife biologists (e.g. bat specialists, pollination experts) contracted through SUS.  
+– A Brazilian university lab to handle molecular testing (qPCR) of mosquito larvae for the transgene.
+
+2. Choose a single 10-km² pilot zone in a periurban area with active Zika transmission, but bounded by natural barriers (river, highway) to limit mosquito migration.
+
+3. Do a two-month pre-release baseline survey:  
+– Set 50 ovitraps and 20 BG-Sentinel adult traps evenly across the zone to estimate wild Aedes aegypti density.  
+– Conduct twice-weekly mist-net surveys for bats at three points to record feeding activity.  
+– Monitor flowering plant visitation by insects at six fixed plots.
+
+4. Release schedule (months 1–3):  
+– Week 1: Release 100,000 GM sterile males (verified >98% gene-drive carrying by qPCR) across the zone.  
+– Weeks 2–12: Release 50,000 GM males each Monday and Thursday. Use GPS-tagged release boxes at 20 fixed stations.
+
+5. Weekly monitoring:  
+– Count eggs in ovitraps, hatch a sample of 200 larvae in the lab, run qPCR to measure gene-drive allele frequency.  
+– Record adult trap counts and sex ratio.  
+– Every two weeks, mist-net at the same sites and weigh and scan bat droppings for insect wing fragments to detect diet shifts.
+
+6. Decision rule at month 3:  
+– If Aedes density down ≥80% and gene-drive frequency plateauing, pause further releases.  
+– If bat feeding rate drops >25% versus baseline or pollinator visits at plots drop >20%, halt release and conduct remedial planting of native flowering shrubs.
+
+7. Month 4–6 expansion or rollback:  
+– If no ecosystem red flags and mosquito suppression still rising, scale releases to cover adjacent 20-km² zone.  
+– If early warning signs emerge, switch immediately to targeted larvicide in hotspots and end CRISPR releases.
+
+8. Final evaluation at six months:  
+– Compile entomological, epidemiological (Zika case counts), and ecological (bat activity, pollinator rates, plant reproductive success) data.  
+– Deliver a joint report to SUS with recommendations whether to proceed with nationwide rollout, modify release protocol, or abandon the gene-drive approach.

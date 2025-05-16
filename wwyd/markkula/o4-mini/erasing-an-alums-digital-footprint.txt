@@ -1,0 +1,7 @@
+I would implement a “redacted‐with‐transparency” workflow in our digital archive.  Step by step I would:  
+1. Pull the 1981 article out of our live web archive.  
+2. Replace every instance of “Marcus [LastName]” with “[Name Redacted—per subject request]” in the body copy and headline.  
+3. At the bottom of the page, append a single line in italics: “Editor’s note: Subject’s name has been redacted at his request. The original print edition remains in our physical archives.”  
+4. Update the page’s metadata so that search engines still index the article under its original title (“Fraternity Student Steals Campus Safety Car”), but not under “Marcus [LastName].”  
+5. Log the change in our editorial database, tagging the record with date, editor initials, and reason (“digital reputation request”).  
+6. Send Marcus a confirmation email with a link to the redacted page, explain where and how the original remains accessible on site (physical archive room, call number), and offer him a PDF of the redacted edition for his records.

@@ -1,0 +1,26 @@
+I’d pick one concrete action and run with it: redesign the texter consent flow so that secondary uses of data (training, research, for-profit spin-outs) require an explicit, plain-language opt-in separate from “just getting help.”  
+
+Steps:  
+1. Draft a two-step SMS flow:  
+   a. “We’re Crisis Text Line. To get started, reply HELP.”  
+   b. As soon as someone replies HELP, send:  
+      “To provide support, we collect the messages you send today.  We also sometimes use anonymized conversations to train counselors and improve software.  If you’re OK with that, reply Y; if you’d rather we only use your messages to help you right now, reply N.”  
+
+2. Wire that into our messaging platform so that anyone texting HELP for the first time sees the above and can’t proceed until they choose Y or N.  Store that choice on the front end of the conversation.  
+
+3. For folks who reply N, flag their transcripts so they never flow into data-science pipelines or Loris.ai experiments.  For folks who reply Y, route as we do today.  
+
+4. Run an A/B test over one month to measure opt-in rates, retention of texters, volunteer outcomes, and the impact on our counselor-training models.  
+
+5. After 30 days, pull the metrics:  
+   • % of new texters who opt in  
+   • % who opt out  
+   • Difference in counselor confidence scores when trained with datasets that exclude opt-out conversations  
+   • Any change in average response time or escalation rates  
+
+6. Use those results to refine:  
+   • The exact wording of the opt-in question (simplify further if opt-in is too low)  
+   • The placement (e.g. after a first greeting rather than immediately)  
+   • Whether we need a brief “why this matters” bullet  
+
+Deliverables in 90 days: a working two-step opt-in flow in production, analysis report on pilot metrics, and a recommendation to adopt, tweak or roll back.

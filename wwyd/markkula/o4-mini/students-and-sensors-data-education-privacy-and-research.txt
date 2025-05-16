@@ -1,0 +1,15 @@
+I would build and deploy a “Student Data Transparency & Consent Portal” that lets every UA student see exactly which data streams the university is collecting, how each feed is used in retention models, and to turn individual feeds on or off. Concrete steps:  
+1. Convene a three-person project team: one IT developer, one data-privacy lawyer, and one student-affairs representative.  
+2. Define the inventory of data feeds (CatCard swipes, Wi-Fi associations, LMS log-ins, advising notes, etc.), then map each feed to the exact model inputs and downstream uses (e.g. “CatCard location overlaps → social-network size → risk score”).  
+3. Build a SSO-protected web portal integrated with the UA identity system. On login it displays:  
+   • A list of every data feed, with plain-language description and date range of collection.  
+   • A toggle button (“Allowed”/“Opted-Out”) next to each feed.  
+   • A “View My Data” link for each feed showing the raw records (e.g. “You swiped at Rec Center on 9/1 at 11:02am”).  
+   • An “Explain Use” pop-up that tells students exactly how turning that feed off would change how advisors see them (for instance, “If you opt out of Wi-Fi data, your on-campus attendance score will default to the campus-wide average”).  
+4. Hook the portal into the retention-model pipeline: before ingesting any student’s data, the ETL script checks the portal’s consent database. If a student has toggled a feed off, the ETL drops that feed entirely and imputes a neutral value.  
+5. Roll out a communications campaign:  
+   • Email every freshman on Day 1 with a “Set your data-sharing preferences” link.  
+   • Host three drop-in sessions in the Student Union where students can walk through the portal with a data-privacy peer advisor.  
+6. Every quarter, push an automated “Your current consent settings” email summary, and log all student changes to an audit trail that the data-privacy officer reviews monthly.  
+
+With this portal in place, each student gains clear visibility into what the university knows, how it’s used, and can refuse any individual data stream without losing access to campus services or advising.

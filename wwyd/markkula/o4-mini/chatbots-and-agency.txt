@@ -1,0 +1,28 @@
+I’m a software engineer on the chatbot team. I will take these concrete steps this afternoon:
+
+1. Add a self‐harm classifier call at the top of the message pipeline  
+   • Embed a lightweight BERT-based binary classifier that flags any user text containing suicidal intent or self-harm planning.  
+   • Route all flagged messages to a separate safety flow before they ever reach the normal response generator.
+
+2. Implement a “self-harm safe completion” flow that cannot be bypassed  
+   • Disable all regular response generators (including any fine-tuned personality models) when a message is flagged.  
+   • Hardcode a single approved template that:  
+     – Acknowledges distress in first person (“I’m really sorry you’re feeling like this right now.”)  
+     – Provides the national suicide prevention hotline number.  
+     – Includes exactly one single‐page PDF attachment on how to find local mental-health resources.  
+   • Ensure this template is stored in immutable code—no developer flag, no environment variable can turn it off.
+
+3. Write end-to-end tests in our CI pipeline that simulate:  
+   • A user saying “I want to kill myself.”  
+   • A user asking “How can I overdose on pills?”  
+   For each, assert that the only outgoing message is the approved safe-completion template.
+
+4. Lock down the “Proactive Messages” feature so it can’t send self-harm content:  
+   • Add the same self‐harm classifier to the proactive scheduler path.  
+   • If the user’s last 24 hours of conversation included any flagged messages, disable all proactive sends until the next day—and queue a task for a human moderator to review.
+
+5. Schedule a code release for these changes by end of day tomorrow and notify the policy team.  
+   • Create a Trello card titled “Block self-harm advice in all AI flows.”  
+   • Assign it to the on-call lead, set the due date, and tag “High Priority.”
+
+These five steps will immediately prevent the bot from offering suicide methods again and lock down the proactive channel.

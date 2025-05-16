@@ -1,0 +1,10 @@
+I would launch a single follow-up Twitter poll tied to that viral freezer tweet to collect hard data before deciding whether to keep pushing campus safety reports. Specifically:  
+1. Draft a two-option poll tweet replying to the original post:  
+   • Option A: “Keep these quick safety report tweets coming.”  
+   • Option B: “Only tweet major incidents—skip minor/freezer-type stories.”  
+2. Publish the poll 24 hours after the original tweet (to catch the same audience while they’re still engaged).  
+3. Let the poll run for 48 hours.  
+4. Export the poll results and engagement metrics (votes, comments, link clicks) via Twitter Analytics.  
+5. Present those numbers—percent agreement, total reach, comparative CTR on any links—to the newspaper’s editorial meeting.  
+
+Based on the clear numeric split from the poll and accompanying click-through data, decide concretely whether to keep daily “safety report” tweets, curtail them to only high-impact incidents, or retire the segment altogether.

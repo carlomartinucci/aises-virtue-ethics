@@ -1,0 +1,5 @@
+I’d treat this as a product‐engineering task and immediately roll out a “delete‐by‐default” retention policy across our entire backend. Concretely, I would:  
+1. In our AWS S3 console, create or update a Lifecycle Policy that expires every user message and media object 24 hours after it’s created.  
+2. Deploy a small Lambda function tied to our message‐storage DynamoDB table’s “Time To Live” attribute—set TTL = createdAt + 24 hours—so that when an item hits that timestamp it’s auto-deleted without human intervention.  
+3. Push these two changes (the S3 Lifecycle rule and the DynamoDB TTL update) through our CI/CD pipeline to staging, run end-to-end tests verifying that any message or Snap in staging disappears exactly 24 hours after creation, then promote to production.  
+4. Finally, update our public Privacy & Security page to state “All Snaps and Chats auto‐expire and are purged from our servers 24 hours after sending,” and notify legal and compliance that we’ve enforced “deletion as the default” across all data tiers.

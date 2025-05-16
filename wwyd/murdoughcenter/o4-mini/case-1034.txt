@@ -1,0 +1,22 @@
+I would take the following concrete steps to put distance between Arthur’s CSC role and his firm’s bid, document that separation in writing, and put an independent body in charge of vendor selection.  
+
+1. Draft and file a written recusal by Arthur.  
+   – Arthur signs and submits to the CSC board a one-page letter stating that he will take no part, directly or indirectly, in any discussions, votes, or influence over the design-contract selection for the federal courthouse/city/county cluster.  
+   – He asks the CSC secretary to enter that letter into the official minutes and to circulate it to every board member, the city manager, the county administrator, and the GSA project officer within one week.  
+
+2. Establish an independent selection committee.  
+   – Arthur formally requests that the CSC board charter a three-member subcommittee drawn entirely from outside Fairview (e.g. one principal from a neighboring city’s engineering firm, one retired federal procurement officer, one state-appointed architect).  
+   – He proposes a timeline: committee to draft its own conflict-of-interest policy, solicit any and all local firms, score all proposals on a published 100-point rubric, and make a recommendation directly to the federal GSA contracting officer.  
+
+3. Publicize the process.  
+   – Within two days of the board meeting, publish a one-column notice in the Fairview Daily Gazette announcing “Arthur Smith recused; independent 3-member selection committee appointed; all interested firms invited to submit by X date, evaluation criteria posted at city hall and on CSC’s website.”  
+   – Post minutes of the CSC meeting and the new committee charter on the CSC website and pin it at the top—so any local stakeholder or competitor can see that Arthur no longer has influence.  
+
+4. Fire-wall Arthur’s firm internally.  
+   – David issues an internal memo to all staff in Arthur Engineering: “Effective immediately, no partner-invitations related to the Courthouse project will be signed without prior written clearance from our General Counsel, who will confirm that the firm’s involvement does not conflict with any CSC or public-agency guidelines.”  
+   – He archives any inbound teaming proposals in a read-only folder, accessible only to the GC, so that Arthur cannot even see incoming bids.  
+
+5. Monitor and document.  
+   – Every two weeks until contract award, the independent committee publishes a one-page “status update” on the CSC website listing the number of proposals received, the dates of committee deliberations, and—after selection—the committee’s scoring spreadsheet (names redacted).  
+
+By isolating Arthur from any part of the decision, making the selection open and public, and creating an external committee to do the scoring, they neutralize Monroe’s conflict-of-interest complaint and demonstrate that Arthur’s prior volunteer service did not translate into an unfair advantage.

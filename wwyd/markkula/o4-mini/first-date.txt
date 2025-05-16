@@ -1,0 +1,28 @@
+I’d build a “Shared Meal” feature that lets two matched users pick and order the same meal right from inside the VR date. Here’s exactly what I’d do:
+
+1. Partner onboarding  
+   • Sign up for a DoorDash (or Uber Eats) developer account and grab API keys.  
+   • Negotiate a “pre-paid bundle” deal (e.g. $30 voucher per order) so both parties pay nothing extra.
+
+2. In-app UI flow  
+   • On match, show a “Plan Your VR Dinner” card in the chat panel.  
+   • When both tap it, open an in-VR menu panel anchored to the virtual table.  
+   • Query the delivery API for restaurant availability based on each user’s address (obtained at signup).
+
+3. Menu selection  
+   • Display a side-by-side menu: User A’s local options on the left, User B’s on the right.  
+   • Restrict each list to restaurants that both delivery partners can serve within a 60-minute window.
+
+4. Checkout & scheduling  
+   • Let each user pick one entree, one drink. As soon as both have confirmed, create a single combined order via the API.  
+   • Use the VR date’s scheduled start time to set the API’s “deliver_at” parameter so both meals arrive five minutes after the VR session begins.
+
+5. In-VR status indicators  
+   • While orders are en route, show floating “Food incoming…” icons above each avatar.  
+   • When the meal arrives, swap in animated dinner plates on the virtual table and play a little “ta-da” sound.
+
+6. Fail-safe  
+   • If the API returns an error (e.g. restaurant closed), pop up a fallback list of two backup restaurants.  
+   • If the user doesn’t choose a backup within two minutes, automatically switch to a default café menu and notify both users.
+
+By wiring the DoorDash API into the VR environment this way, each date becomes a shared experience—complete with matching meals arriving at the same time—without forcing users to juggle outside apps or random restaurant choices.

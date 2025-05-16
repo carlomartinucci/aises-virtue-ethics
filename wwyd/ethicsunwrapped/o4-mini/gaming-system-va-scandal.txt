@@ -1,0 +1,12 @@
+I would build and deploy an automated “true‐wait reconciliation” tool against the VA’s scheduling database and hook it into the compliance office. Specifically:  
+1. Write a script (for example, in Python or SQL) that every night pulls two fields for each new appointment:  
+   • request_timestamp (when the veteran’s call/request went into the system)  
+   • scheduled_date (when the appointment is actually set)  
+2. Have the script compute true_wait = (scheduled_date – request_timestamp) in days, and then join that to the “reported_wait” field that administrators enter for bonus tracking.  
+3. Flag any appointment where reported_wait ≤ true_wait – 3 (i.e., reported more than three days faster than reality).  
+4. Export all flagged records into a CSV report each Monday and automatically e-mail it to:  
+   a) the local VHA compliance officer with a request for corrective action plans within 7 days, and  
+   b) the VA Office of Inspector General mailbox.  
+5. Require the compliance officer to sign off in writing on each week’s report—either confirming the discrepancy was a legitimate data‐entry error that’s been corrected, or initiating an HR investigation if it appears intentional.  
+
+By doing this, any attempt to “play” the 14-day rule will surface immediately, rather than waiting for a periodic audit or suspending the entire bonus program.

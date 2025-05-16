@@ -1,0 +1,15 @@
+1. Immediately halt all use of the Therac-25 machines in the facility to prevent further patient harm.  
+2. Notify the hospital’s medical director and the radiation safety officer about the incidents and the machine shutdown.  
+3. Document all patient reports, including dates, times, symptoms, and any relevant treatment details, to establish a clear record of incidents.  
+4. Isolate the affected machines physically and electronically to prevent accidental reactivation until a thorough safety assessment is completed.  
+5. Contact AECL and the manufacturer’s technical support team to request a detailed report on the current status of each machine, including recent repairs, software versions, and safety features.  
+6. Arrange for an independent, qualified biomedical engineer or radiation safety expert to inspect each machine for hardware integrity, safety interlocks, and software issues.  
+7. Review the inspection reports and verify whether the machines have the latest safety patches and hardware interlocks as recommended by the manufacturer.  
+8. Suspend any planned or ongoing treatments involving the Therac-25 until the machines are certified safe by the independent expert.  
+9. Report the incidents to the FDA and relevant regulatory authorities, providing all documentation and inspection results.  
+10. Develop a protocol for transparent communication with patients who have been treated with the Therac-25, informing them of the incidents and the steps being taken to ensure safety.  
+11. Initiate a comprehensive internal investigation into the design, testing, and maintenance procedures related to the Therac-25, focusing on software development, safety testing, and record-keeping practices.  
+12. Review and update internal policies to ensure rigorous safety checks, proper documentation, and accountability measures are in place for all medical devices.  
+13. Collaborate with regulatory agencies to facilitate a full investigation and ensure compliance with safety standards before resuming use of the machines.  
+14. Implement a temporary manual safety check process for all radiation therapy equipment until the machines are fully validated as safe.  
+15. Document all actions taken and findings in a detailed report to support transparency, accountability, and future prevention efforts.

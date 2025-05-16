@@ -1,0 +1,11 @@
+1. Immediately draft and send a short email to the entire senior class with today’s date in the subject line (“Senior Ball: 5 Extra Tickets Available – First-Come, First-Served Waitlist”), including:  
+   • A one-paragraph description of the situation (“We discovered five extra spots. To give everyone a fair shot…”).  
+   • A link to a Google Form that asks for each student’s name, student ID, and email.  
+   • A clear deadline: “Form closes at noon tomorrow.”  
+2. Open a simple Google Form with three fields: “Full Name,” “Student ID,” and “Email Address.” Set it so each student can only submit once.  
+3. Enlist one or two fellow student-government members to monitor form submissions while you handle venue checks. Give them edit access to the form’s response spreadsheet.  
+4. At noon the next day, export the responses spreadsheet and sort by timestamp to remove any late entries.  
+5. Use random.org (or =RANDBETWEEN() in Google Sheets) to assign each remaining entry a random number, then sort by that number to randomize the list.  
+6. Select the top five entries and immediately send personalized invitation emails template-filled with their names, event details, and instructions on where and when to pick up their printed tickets.  
+7. In that same email, CC your two student-government colleagues so they can assist at check-in and verify that nobody else claims a spot.  
+8. Archive the response spreadsheet and your email thread for accountability, then resume your venue setup, confident that you’ve filled the five spots fairly without burdening yourself with hundreds of follow-up messages.

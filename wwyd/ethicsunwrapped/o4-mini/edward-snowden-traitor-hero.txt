@@ -1,0 +1,1 @@
+I would take the raw NSA collection-system logs off the secure server, bundle them into a tarball, encrypt that tarball with The Washington Post’s 4096-bit GPG key, and then upload the encrypted file over Tor to the Post’s published .onion drop-box address—finally running a secure erase (e.g. shred –u) on every local copy.

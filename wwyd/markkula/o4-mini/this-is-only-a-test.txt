@@ -1,0 +1,30 @@
+I would design and run a three-week pilot study on one of the proctoring platforms, focused solely on measuring and exposing its face-detection bias. Here’s exactly how I’d do it:
+
+1. Assemble a diverse test cohort  
+   • Recruit 100 volunteer students whose self-reported demographics span at least five skin-tone groups, three age brackets, and both binary and nonbinary gender identities.  
+   • Have each volunteer sign a simple consent form explaining that we’re testing only login/face-recognition success rates.
+
+2. Scripted login attempts  
+   • Write a short Python script (using Selenium or Playwright) that automates 10 login attempts per volunteer under controlled lighting conditions and webcam setups typical of dorm rooms.  
+   • Log each attempt’s result (“accepted,” “rejected,” or “flagged for manual review”), timestamp, ambient light lux reading (from a simple USB light sensor), and browser version.
+
+3. Data collection and normalization  
+   • Store the raw CSV of all attempts in a shared Git repository.  
+   • Normalize rejection rates per volunteer by dividing rejects by total attempts; compute average false-reject rate per demographic group.
+
+4. Statistical analysis  
+   • In R or Python/pandas, run a chi-square test of independence on rejection vs. skin-tone group and compute 95% confidence intervals.  
+   • If any group’s false-reject rate exceeds the platform’s advertised 1% threshold by more than two percentage points, flag that as a “fail.”
+
+5. Produce a public audit report  
+   • Write a 10-page PDF report containing:  
+     – Methodology (cohort makeup, lighting controls, automation scripts)  
+     – Tables of raw and normalized data  
+     – Charts comparing error rates across demographics  
+     – Clear “Pass/Fail” conclusions against the vendor’s own specs  
+   • Publish the report under a Creative Commons license on a lightweight website or GitHub Pages.
+
+6. Submit findings to the university exam board  
+   • Email the provost’s office and the center for teaching excellence: attach the audit report and recommend pausing any further use of the platform until its vendor can demonstrate a passable, subgroup-balanced error rate (e.g. ≤1% ±1% across all demographic cohorts).
+
+By producing concrete numbers, test code, and a public report, this approach forces the vendor to either fix the bias or risk loss of campus contracts.

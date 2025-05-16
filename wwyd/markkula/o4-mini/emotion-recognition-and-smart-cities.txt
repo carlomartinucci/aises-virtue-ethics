@@ -1,0 +1,7 @@
+I would immediately commission an independent privacy‐impact assessment (PIA) before even beginning contract negotiations. Specifically, I’d draft and issue an RFP within the next 48 hours that requires:  
+1. A named privacy/audit firm (e.g., one on GSA Schedule) to map exactly what video data the vendor wants, how it will be stored, processed, and for how long.  
+2. A technical security review of their emotion‐AI pipeline – from camera feed ingestion through model inference, aggregation, reporting, and data disposal – with recommendations on encryption, access controls, and logging.  
+3. A community‐impact analysis focused on whether real‐time sentiment scoring could chill free expression in public spaces.  
+4. A firm deadline (30 business days) for delivery of a written report covering all of the above plus a “go/no-go” recommendation.  
+
+I’d assign the city’s CIO and City Attorney to act as RFP stakeholders, schedule proposals to be scored against clear criteria (independence, experience with public‐sector PIAs, cost), and commit to publishing both the winning proposal and the final PIA report on the city website before any meeting with the vendor.

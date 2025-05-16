@@ -1,0 +1,29 @@
+I’d remove the “dejected creature” state and replace it with a neutral reminder—here’s exactly what I would do, step by step:
+
+1. Update the UX spec  
+   • Open our product’s Figma file and locate the three creature states: “happy,” “neutral,” and “dejected.”  
+   • Change “dejected” so that it never appears; instead, rename it “taking a break” with a calm, eyes-half-open expression.
+
+2. Swap out the art assets  
+   • Ask our illustrator to redraw the dejected sprite as a neutral pose (no tears or frown).  
+   • Deliver the new PNG at 72 dpi, 200×200 px, matching our existing sprite sheet layout.
+
+3. Adjust the state-machine logic in code  
+   • In ActivityGoalManager.js, find the block that triggers `creature.setState('sad')` when daysMissed > 1.  
+   • Replace that call with `creature.setState('neutral')`.  
+   • Remove any associated animations or sound effects (`sadAnimation`, `sadSound`).  
+
+4. Modify the reminder copy  
+   • In the localization file (en.json), replace the “Your creature is sad!” string with “Your friend is taking a break—let’s move together!”  
+   • Push the updated copy through our translation pipeline so all supported languages get the same neutral tone.
+
+5. Update automated tests  
+   • In CreatureStateTests.swift, change the test assertion from `XCTAssertEqual(creature.state, .sad)` to `.neutral` for goal-miss scenarios.  
+   • Run the full test suite and confirm no regressions.
+
+6. QA and roll-out  
+   • Build a beta version on TestFlight or Google Play’s internal track.  
+   • Ask three families in our user-research panel to exercise, miss a day, and report how the new neutral reminder feels.  
+   • If they confirm the tone is less discouraging, push the update to production on the next scheduled release.
+
+By removing the negative “dejected” animation and replacing it with a neutral break state, we keep the gameful encouragement without making kids feel guilty or anxious about missed goals.

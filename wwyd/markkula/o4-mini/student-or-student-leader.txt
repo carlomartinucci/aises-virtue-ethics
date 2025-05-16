@@ -1,0 +1,20 @@
+1. Draft and circulate, by the end of this week, a one-page “Academic-Conflict Attendance Exception” proposal to the Senate’s bylaws office.  In it I will:  
+   a. Define “academic-conflict” as any for-credit class that cannot be rescheduled.  
+   b. Specify that any senator in that situation may attend remotely via Zoom (audio + video), and that a remote attendance counts as “present” for quorum and voting.  
+   c. Require the remote senator to join at least 5 minutes before roll call, remain on camera for the duration, and respond to roll-call prompts in chat.  
+
+2. Book and test the Senate chamber’s AV equipment by Tuesday:  
+   • Reserve the chamber’s Zoom-enabled podium and meeting room.  
+   • Run a 10-minute test with our IT student-worker, confirming both senators can see the agenda slides and be heard by everyone.  
+   • Produce a 1-page “How-To” sheet for remote login, push it to Slack and email to both conflicted senators by Wednesday.  
+
+3. At our next regular meeting (Thursday):  
+   • Introduce the “Academic-Conflict Attendance Exception” resolution as New Business.  
+   • Ask each sponsoring senator (including one of the two affected) to speak for one minute on how this avoids disenfranchisement.  
+   • Call the roll and take a simple majority vote.  
+
+4. If the resolution passes that night, immediately:  
+   • Update the official attendance log to mark any future Zoom participations by those two senators as “present.”  
+   • Notify the school’s Student Affairs office, copying the Registrar, that we’ve enacted this exception under our bylaw-amendment authority, so they do not trigger the automatic-removal rule after two campus absences.  
+
+By Monday after the vote we will have both senators fully represented—live in class, live in Senate.

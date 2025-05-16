@@ -1,0 +1,37 @@
+I would build and integrate an automated, frame-by-frame moderation pipeline that flags and quarantines illegal or abusive content before it ever drops off the server. Here’s exactly how:
+
+1. Infrastructure setup  
+   a. Spin up a dedicated “pre-processing” S3 bucket (or equivalent blob store) to temporarily hold incoming 360° uploads.  
+   b. Behind that bucket, configure an AWS Lambda (or GCP Cloud Function) trigger for every new upload.
+
+2. Frame extraction  
+   a. In the Lambda function, use FFmpeg to extract one equirectangular frame per second from the video.  
+   b. Convert each frame to a standard JPEG at 640×320 resolution to limit processing time.
+
+3. Machine-vision scanning  
+   a. For each extracted frame, call a hosted moderation API (for example Google Cloud Vision SafeSearch or AWS Rekognition).  
+   b. Collect the SafeSearch categories (“adult,” “violence,” “racy,” etc.) plus confidence scores.
+
+4. Flagging rules  
+   a. If any frame returns “VERY_LIKELY” or “LIKELY” for “adult” or “violence,” mark the entire video as “quarantine.”  
+   b. Store the original upload in an “under-review” bucket and tag it in your database with status=“pending-review.”
+
+5. Human review workflow  
+   a. Push a review task into your internal queueing system (e.g. Jira Service Management or Zendesk) with a link to the quarantined file.  
+   b. Assign it to a dedicated Trust & Safety reviewer to watch the clip in full VR preview mode.  
+   c. Reviewer either releases it for normal delivery or rejects it for violating terms.
+
+6. User notification  
+   a. If the clip is cleared, automatically move it from the “under-review” bucket to the normal transient storage bucket, where it will follow the 24-hour deletion policy.  
+   b. If the clip is rejected, send an in-app push notification:  
+      • “Your recent VR moment could not be shared because it violates our content policy. Please edit or remove prohibited content.”  
+   c. Don’t delete the upload immediately—hold it in quarantine for 7 days so the user can appeal via support.
+
+7. Monitoring and metrics  
+   a. On launch, build a Grafana dashboard tracking:  
+      • Number of uploads scanned per hour  
+      • Quarantine rate (%)  
+      • Average human-review turnaround time  
+   b. Schedule a weekly report to the product/security team to ensure the process remains under 2-hour review.
+
+By slotting this five-stage pipeline into the existing upload flow, URVR can maintain its 24-hour retention promise while ensuring no unlawful or abusive content ever reaches recipients.

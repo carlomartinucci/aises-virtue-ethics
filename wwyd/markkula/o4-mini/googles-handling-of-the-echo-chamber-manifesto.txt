@@ -1,0 +1,24 @@
+I would immediately design and roll out a mandatory 2-hour interactive workshop on respectful workplace communication, to be completed by every Googler (individual contributors and managers alike) within the next 60 days.  Here’s exactly how I’d do it:
+
+1. Curriculum development  
+  a. Partner with our Learning & Development and Legal teams to draft a workshop script.  
+  b. Include three concrete modules:  
+     • “Identifying and Interrupting Harmful Stereotypes” with real excerpts from Damore’s memo (anonymized) to show how gendered language creates a hostile environment.  
+     • “Navigating Political and Ideological Differences” featuring role-play scenarios where participants practice asking open-ended questions (“Help me understand your concern”) without resorting to blanket statements.  
+     • “Peer Reviews and Fair Feedback” with exercises on writing performance comments that focus on behaviors and outcomes rather than demographic assumptions.
+
+2. Scheduling and logistics  
+  a. Block‐book 2-hour time slots in every team’s calendar over the next two months.  
+  b. Assign each team an internal facilitator (an HR Business Partner trained in the curriculum) and an external moderator (D&I consultant) for consistency.
+
+3. Tracking and accountability  
+  a. Build an automatic completion tracker in our Learning Management System; reminder emails sent to non-completers every week.  
+  b. Require managers to certify in writing—via our quarterly performance‐calibration meetings—that they have discussed at least one workshop insight with each direct report and documented it in their one-on-one notes.
+
+4. Follow-up measurement  
+  a. After 90 days, run an anonymous pulse survey asking two specific questions:  
+     1. “Have you observed fewer instances of gender or political stereotyping in your team?”  
+     2. “Do you feel safer raising an opinion that differs from the dominant viewpoint?”  
+  b. Share results transparently with all Googlers and adjust the workshop content based on the feedback.
+
+By tying completion to managerial sign-off and then measuring real changes in team culture, this concrete action both addresses the harm done by Damore’s memo and ensures everyone learns how to engage respectfully across gender and political lines.

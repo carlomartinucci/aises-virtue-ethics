@@ -1,0 +1,12 @@
+I would roll out a live social-media monitoring and response protocol using UDiligence, as follows:  
+
+1. At our first team meeting (August 1), require every athlete to submit a list of their active social-media handles (Twitter, Instagram, Facebook).  
+2. Within 48 hours, have our compliance coordinator onboard those handles into UDiligence and activate two keyword tiers:  
+   • Tier 1 (automatic alerts): “arrest,” “agent,” “brawl,” “party,” “drugs,” “sex,” “meal”  
+   • Tier 2 (daily digest): profanity, hate-speech slurs, NCAA-related terms (e.g. “eligibility,” “bonus”)  
+3. Each morning, the compliance coordinator reviews all Tier 1 alerts; if an athlete’s post is flagged, she:  
+   a. Schedules a one-on-one meeting with that athlete within 24 hours  
+   b. Logs the date, keyword triggered, and a 2–3-sentence summary of the discussion in our “Social Media Log” spreadsheet  
+   c. Sends a follow-up e-mail within 12 hours outlining any corrective steps (e.g. post removal, apology tweet) and deadlines  
+4. Every Friday afternoon, the coordinator compiles the Tier 2 digest into a two-paragraph “Team Social Media Health” memo and distributes it to coaches and compliance staff—no player names included.  
+5. At the end of each semester, we audit the Social Media Log to identify recurring issues, adjust our keyword lists, and propose any needed handbook language updates for the next year.

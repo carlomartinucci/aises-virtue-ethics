@@ -1,0 +1,13 @@
+I would arrange for an on-site inspection by the Authority Having Jurisdiction (AHJ) and get its ruling in writing.  Specifically, I’d do the following:
+
+1.  Send Bobby Burns (the County Fire Code Official) an email formally requesting a room‐classification inspection under NFPA 820.  I’d attach a copy of our drawing set and ask him to come verify whether the room’s fixtures and wiring are rated for Class I, Division 2 (or whatever the correct class is).
+
+2.  Schedule a mutually convenient date for that inspection—ideally within the next week—to minimize further delay.
+
+3.  During the inspection, walk the AHJ through our scope: point out the relocated screen, the new tank penetration, and every light fixture, junction box and outlet in the existing room so nothing is overlooked.
+
+4.  At the end of the site visit, ask the AHJ to issue a formal letter or inspection report, signed and stamped, stating the room’s gas‐hazard classification and listing any required upgrades (e.g., explosion-proof fixtures).  
+
+5.  As soon as I have the AHJ’s written finding, I’d distribute it to Dante and file it in the project records.  If the room really is already compliant, we close the loop and move ahead.  If not, we’d have precise guidance on what to upgrade—and a firm basis for any change order to Bull Parker.  
+
+This gives us an objective, documented resolution without relying on memory or hearsay.

@@ -1,0 +1,7 @@
+I would hire two independent plant‐biology labs to repeat Dr. Chandok’s key Cell paper assays under blind conditions:  
+1. Draft a materials-and-methods packet exactly as published, plus her original lab-notebook protocols.  
+2. Assign each lab a coding key so neither knows which samples are “test” versus “control.”  
+3. Ship them identical seed stocks, reagents, and blinded buffers under a simple MTA.  
+4. Require submission of all raw data files (image scans, gel files, instrument logs) to a shared, time-stamped repository.  
+5. Once both labs finish, convene a one-day meeting (with me, a biostatistician, and BTI’s research-integrity officer) to compare their raw outputs against the Cell figures line by line.  
+If both fail to reproduce her published effect, I’d prepare a detailed retraction request for Cell, attaching full replication reports and raw data.

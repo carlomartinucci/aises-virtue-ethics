@@ -1,0 +1,23 @@
+1. Gather evidence  
+   a. Order a certified copy of the conference hotel registry showing “Clyde Cleghorn and Amanda Cuthbert” as co-occupants.  
+   b. Obtain sworn statements from the engineer in Cleghorn’s office confirming he and Cuthbert have been cohabiting since the case began.  
+   c. Secure public records (divorce decree for Cuthbert; separation affidavit for Cleghorn) to establish their marital statuses.  
+
+2. Prepare a motion to disqualify Cleghorn (or strike his testimony) for non-disclosure of the personal relationship with opposing counsel, relying on the court’s inherent authority to guard against conflicts that threaten trial fairness.  
+   a. Draft a “Motion to Preclude Expert Testimony of Clyde Cleghorn” under the applicable rule (e.g., New Jersey Court Rule 1:12-3 or Federal Rule 26(b)(4)(E) if in federal court), attaching:  
+      – Exhibit A: Hotel registry  
+      – Exhibit B: Sworn statement from Cleghorn’s colleague  
+      – Exhibit C: Certified copies of divorce/separation filings  
+   b. In the accompanying brief, argue that Cleghorn’s failure to disclose a cohabiting personal relationship with opposing counsel undermines his impartiality and warrants exclusion of his expert opinions.  
+
+3. File and serve the motion  
+   a. File the motion and exhibits with the clerk.  
+   b. Serve copies on Xernon, Young & Zimmer (Cuthbert’s firm) and opposing counsel of record.  
+
+4. Notify Fulton Adams and the insurance carrier  
+   a. Deliver the motion papers and a concise memo explaining your grounds for seeking exclusion.  
+   b. Recommend they press for an expedited hearing so the court can rule before expert-related trial deadlines.  
+
+5. Prepare for the hearing  
+   a. Assemble your affidavits and be ready to testify to how you obtained the evidence.  
+   b. Outline cross-examination points to show why Cleghorn’s opinions are now tainted by his undisclosed relationship.

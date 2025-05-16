@@ -1,0 +1,8 @@
+I would embed a “human-in-the-loop” checkpoint between Tay and the live Twitter feed for at least the first 500 incoming exchanges, with these concrete steps:  
+1. Spin up a separate message-queue service that pulls every tweet directed at Tay.  
+2. Route each incoming tweet into a small moderation dashboard: display the tweet text, author handle, timestamp.  
+3. Assign two trained content reviewers to scan each message for hate speech, slurs, coded insults, or attempts at “jailbreak” prompts.  
+4. Only after both reviewers mark the tweet as “OK” will the system forward it to Tay’s NLP engine. If either flags it, the tweet is dropped and logged for review.  
+5. After Tay generates a response, run it through the same dual-review process before posting.  
+6. Keep a running log of all flagged inputs and outputs; run weekly data-mining to identify new attack patterns or emerging “trigger” phrases.  
+7. Once you’ve processed 5,000 clean exchanges without any reviewer overrides, gradually increase the volume of auto-approved messages by 10% per week, continuing to log and audit all exceptions.

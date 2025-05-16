@@ -1,0 +1,25 @@
+I would take the following concrete steps:
+
+1. Document the relationship  
+   a. Obtain a copy of the conference attendance roster showing “Clyde Cleghorn and Amanda Cuthbert” as registered together.  
+   b. Secure a signed, written statement from the coworker in Cleghorn’s office confirming (i) that he and Cuthbert began co‐habiting around the start of the Kinkora case, and (ii) that Cleghorn is separated from his wife.  
+   c. Obtain a sworn declaration (by subpoena or voluntary affidavit) from a hotel employee or security officer who can verify that I personally saw them entering the same room together at the resort.
+
+2. Prepare a motion to disqualify or limit Cleghorn’s testimony  
+   a. Draft a “Motion to Compel Disclosure of Ex Parte Communications and to Disqualify Expert Witness” under the applicable state rules of civil procedure.  
+   b. In the motion’s factual statement, attach as exhibits: the conference roster, the coworker’s affidavit, and the hotel witness declaration.  
+   c. Cite controlling case law holding that an undisclosed intimate relationship between an expert and opposing counsel creates a material risk of bias and improper ex parte influence.  
+
+3. File and serve the motion immediately  
+   a. File the motion with the court well in advance of the pre‐trial conference—no later than two weeks after learning of the relationship—to ensure there’s time for briefing before the six‐week trial date.  
+   b. Serve opposing counsel (Amanda Cuthbert) and all parties per court rules.  
+
+4. Prepare briefing and evidence for the hearing  
+   a. Draft a concise legal memorandum arguing (i) that the undisclosed relationship violates the expert‐witness disclosure rules, (ii) that the intimate relationship raises a justifiable inference of ex parte coaching or undue influence, and (iii) that exclusion or severe limitation of Cleghorn’s testimony is warranted.  
+   b. Assemble the affidavits, roster, and any chain‐of‐custody or witness statements into a single exhibit book for the hearing.  
+
+5. Meet with Fulton Adams and defense counsel  
+   a. Walk them through the motion, the attached evidence, and the legal standard for disqualifying an expert.  
+   b. Confirm the strategy for the hearing—whether to seek full exclusion of Cleghorn or, at minimum, a judicial order compelling him to disclose all communications with Cuthbert and her firm.  
+
+By filing that motion—with sworn affidavits and documentary proof of the relationship—I force the matter before the judge, who must then decide whether to disqualify or limit Cleghorn’s testimony based on the serious risk of bias and improper ex parte access.

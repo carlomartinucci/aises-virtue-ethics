@@ -1,0 +1,30 @@
+I would launch a two‐week “reality check” audit of the social-media tool by doing the following concrete steps:
+
+1. Assemble a small review panel:
+   • One licensed school counselor  
+   • Two teachers (one from middle school, one from high school)  
+   • Two student representatives (with parent permission)  
+
+2. Pull every post the vendor flagged in the past 30 days (anonymized for privacy).  
+
+3. Over 10 working days, have the panel read and classify each flagged post into one of three buckets:
+   A. Genuine concern (threat of violence or self-harm)  
+   B. Harmless joke, satire or out-of-context quote  
+   C. Other (e.g. profanity, off-topic drama)  
+
+4. Log results in a simple spreadsheet:
+   • Post ID  
+   • Panel classification (A, B or C)  
+   • Short note on why (e.g. “quoted movie line,” “clear threat to ‘blow up’ cafeteria”)  
+
+5. At the end of two weeks, calculate:
+   • True-positive rate = #A ÷ total flagged  
+   • False-positive rate = #B+#C ÷ total flagged  
+
+6. Present the spreadsheet and summary statistics to the superintendent and school board with a recommendation:
+   – If false positives exceed 50%, pause the automated alerts until vendor improves accuracy  
+   – If true positives are under 20%, renegotiate tool thresholds or drop the service  
+
+7. Share the panel’s executive summary (no names, just stats and example quotes) with parents via email and post on the district website.  
+
+By doing this audit, I’ll know exactly how many alerts are spurious, force the vendor to refine its algorithm, and give parents and students concrete data rather than vague assurances.

@@ -1,0 +1,17 @@
+1. Immediately draft and send a lab-wide email to those seven students inviting each to a 15-minute, one-on-one project “viva voce” tomorrow morning in the department’s conference room.  In the email I would:  
+   • Specify time slots between 8 AM and noon, first-come/first-served.  
+   • Explain that they must walk me through their report’s methodology, key calculations, and conclusions.  
+   • Warn that failure to attend or to demonstrate their own understanding will be treated as academic misconduct.  
+
+2. Block off a two-hour slot in my calendar tomorrow for these vivas and reserve the conference room with a whiteboard and projector.  
+
+3. During each viva:  
+   a. Ask the student to restate in their own words the project goal and experimental setup.  
+   b. Choose three critical equations or data plots at random from their report and ask them to derive/explain each on the spot.  
+   c. Pose one hypothetical “what-if” variation (“If you changed parameter X by +10%, how would result Y shift?”).  
+
+4. Score each student’s performance immediately after their slot:  
+   – If they pass (accurately explain and defend at least 80% of questions), proceed to grade their written report on its merits.  
+   – If they flounder (cannot answer basic questions or clearly didn’t write the work), record a zero for the project and initiate a formal academic-integrity referral by emailing the graduate-program coordinator with my viva notes attached.  
+
+5. With viva results in hand, finalize all project grades today and submit the full grade roster by tomorrow’s deadline. Then cc the department chair (even though he’s away) and the graduate affairs office on my grading summary, including which students passed the viva and which were referred for misconduct.

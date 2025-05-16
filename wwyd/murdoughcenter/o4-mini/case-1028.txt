@@ -1,0 +1,12 @@
+I would take the following concrete steps tomorrow morning:
+
+1. Call our CCC account executive at the New-York office (I already have her direct line in our vendor file) and say, “Please disable the ‘dual-bill with markup’ feature on our account—effective immediately. We only want a single detailed, client-by-client long-distance statement at cost.”  I’d confirm in writing by e-mail, copying our procurement manager, to document the change.
+
+2. Open our master consulting services agreement template and add a one-sentence rider under “Reimbursable Expenses” that reads:  
+   “Long-distance telephone charges will be billed to the Client at actual cost as shown on the vendor invoice attached to each monthly statement; no mark-up is authorized.”
+
+3. Flag all active projects in our billing system that currently use CCC long-distance services. For each, attach a note in the project file: “Do not apply any internal percentage or handling fee to reimbursables—use vendor invoice only.”
+
+4. Send an internal departmental e-mail to the project accountants and billing coordinator that says, “Effective immediately, all long-distance charges must be passed through at the exact line-item cost from CCC. Do not enter any markup percentage in Deltek Vision (our accounting system). If you see any markup schedules in a project’s billing configuration, please delete them and reply to this e-mail for confirmation.”
+
+5. Schedule a ten-minute slot on next week’s operations meeting agenda so our finance director can remind everyone that we must not reclassify client-reimbursables as billable overhead or attempt to recoup our carrier-negotiated discounts by marking up those pass-through charges.

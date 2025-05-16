@@ -1,0 +1,12 @@
+I would stand up a dedicated “MiDAS Claims Review and Remediation Unit” inside the Michigan Department of Treasury and then immediately rerun every 2013–2015 fraud determination through a human‐review process. In practice that means:  
+1. Spin up a cross-functional team of 10 case officers (two from UI claims, two from child support, two from tax, two from IT/data-forensics, two from legal) whose sole job for the next six months is to reevaluate every MiDAS fraud flag issued in that period.  
+2. Pull the full list of ~40,000 flagged files and assign them in batches of 50 to each case officer, along with all supporting documents (application forms, payment histories, bank‐transaction records).  
+3. For each file, the case officer will:  
+   a. Compare the algorithm’s fraud rationale (e.g. “multiple IP addresses,” “income discrepancy”) against the claimant’s actual documents.  
+   b. Interview the claimant by phone (or in person, where feasible) using a standardized 15-question template to fill in gaps in the record.  
+   c. Make a binary fraud/no-fraud determination based on state law and documented evidence, ignoring the computer’s original score.  
+4. As each file is closed, instruct finance to reverse any fines, garnishments, or withheld refunds within 10 business days for all cases reclassified as “no fraud.” Issue a one-page statement to the claimant explaining exactly which records changed the decision.  
+5. Track progress via a live dashboard showing “Files Reviewed,” “Confirmed Fraud,” “Cleared,” and “Refunds Issued.” Publish weekly totals publicly on the Treasury website.  
+6. After 30 days of operation, run a quality-control check by having a second reviewer audit 10% of the “Confirmed Fraud” findings. If the overturn rate in that sample exceeds 10%, pause all garnishments until remediation is complete and notify the governor’s office.  
+
+By launching this unit within two weeks, rerunning every case in six months, and publicly reporting both progress and error rates, we would both remediate past harms and create a blueprint for human-in-the-loop oversight going forward.

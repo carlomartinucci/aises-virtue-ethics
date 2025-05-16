@@ -1,0 +1,9 @@
+I would set up a secure, invitation-only briefing for trusted community-based organizations and legal-aid groups the evening before the raids rather than holding a public press conference. Here’s exactly how:  
+1. Draft a one-page advisory memo describing the timing (day, approximate window), locations (city neighborhoods), and ICE’s legal authority, vetted by the city attorney to ensure no violation of obstruction laws.  
+2. Compile contact lists for the five largest immigrant-defense nonprofits, two faith-based groups, and three neighborhood associations focused on East and West Oakland.  
+3. Send each group a personalized encrypted email (using PGP or a secure portal) inviting them to a 6 p.m. meeting at City Hall Room 101. Include the advisory memo as a PDF attachment.  
+4. At 6 p.m., host a closed-door session: I’d present the memo, explain the legal limits on city participation, supply printed “know-your-rights” flyers in English and Spanish, and distribute hotline numbers for local pro bono attorneys.  
+5. Instruct each group to use their own trusted outreach channels—text blasts, WhatsApp groups, phone trees—to alert their members without broader media coverage.  
+6. Immediately after, have the city attorney file a short memo into the public record confirming that no city resources were used to obstruct enforcement, and publish the “know-your-rights” flyers on the city website.  
+
+By keeping the warning confined to vetted community partners and documenting every step with the city attorney, I would protect vulnerable residents without triggering a public panic or undermining lawful ICE operations.

@@ -1,0 +1,30 @@
+I’m the YouTube content‐policy moderator assigned to reviewing this upload. Here’s exactly what I would do, step by step:
+
+1.  Run the video through our in-house deep‐fake and voice‐imprint detection model.  
+   – I’d submit the audio track into our “voice‐clone detector” API endpoint, which compares it against George Carlin’s known recordings.  
+   – The model returns a high confidence score (≥ 0.9) that this is an unauthorized Carlin voice clone.
+
+2.  Flag the video for copyright review.  
+   – I’d click “Flag for Copyright” in our moderation dashboard, selecting “Unauthenticated celebrity voice impersonation.”  
+   – That auto‐notifies our legal team and queues the video for a DMCA/rights‐holder check.
+
+3.  Send an immediate notice to the uploader.  
+   – Using our templated “Notice of Potential Infringement,” I’d inform them:  
+     • “We have detected what appears to be an unauthorized AI‐generated impersonation of George Carlin. Please provide proof of express permission from the Carlin estate within 48 hours or face takedown.”
+
+4.  Notify the Carlin estate’s representative.  
+   – I’d look up their designated DMCA agent contact from the U.S. Copyright Office index, then forward them our detection report and flagged-video link with a “platform action pending” alert.
+
+5.  Place the video into “uploads on hold.”  
+   – While the 48-hour window runs, I’d change its status to “private” so no new views accumulate.  
+   – A record of the view-count freeze appears on the dashboard.
+
+6.  If no valid permission appears in 48 hours: issue a formal takedown.  
+   – I’d select “Takedown” in the dashboard, choosing “unauthorized celebrity voice clone.”  
+   – YouTube’s system automatically emails the uploader a takedown notice and initiates a three-strike process.
+
+7.  Update policy guidance.  
+   – I’d add a new clause under “Deepfakes & Voice Cloning” stating: “Any AI‐generated impersonation of a deceased or living public figure requires documented, verifiable rights‐holder consent before public upload.”  
+   – I’d notify the policy‐update mailing list to ensure all moderators apply the new rule.
+
+By following those concrete steps—automatic detection, user notice, rights-holder notification, takedown, and policy update—I’d ensure we remove the Carlin impersonation quickly and prevent further uploads.

@@ -1,0 +1,28 @@
+I would build out a concrete prototype workflow for a “griefbot” along these steps:
+
+1. Data Ingestion & Catalog  
+   • Write a Python script that pulls together every piece of media: text messages (exported via the phone’s SMS backup tool), email archives (exported as mbox), voicemail audio files, home-video clips.  
+   • Parse each item, add a JSON metadata envelope around it with fields like “speaker,” “date,” “medium,” and “context tags” (e.g. “birthday,” “joke,” “advice”).
+
+2. Transcription & Formatting  
+   • Run all audio and video files through a cloud ASR service (e.g. Amazon Transcribe) to produce timestamped transcripts.  
+   • Normalize everything into plain-text “dialogue blocks”—one speaker per block, with a header containing the metadata envelope.
+
+3. Fine-Tuning the Model  
+   • Prepare a fine-tuning dataset for an open-source conversational model (e.g. GPT-2 or GPT-Neo). Each training example is a “prompt” (the previous one or two blocks of family chat) and a “response” (the deceased’s next block).  
+   • Spin up GPU instances, fine-tune for a few epochs, monitoring loss curves until the model reliably reproduces the idiosyncratic phrases (e.g. catchphrases your father used).
+
+4. Chat Interface & Version Control  
+   • Build a simple web-based chat UI (React front end + Flask back end) that lets family members ask questions.  
+   • Log every session to a database, tagging each generated reply with the model version and probability scores to review low-confidence outputs.
+
+5. Approval & “Grandfather Mode”  
+   • Add an “Approve” button after each reply. Any unapproved or odd-looking response gets flagged to a human curator.  
+   • Create a “Child Mode” toggle that filters out any references to adult topics; only allows the bot to tell simple stories, sayings, or affirmations—so your 2-year-old can safely interact.
+
+6. Lifecycle Controls  
+   • In the back end, implement a “data-expiration” scheduler: after, say, two years without human-curator sign-off, that version of the bot is archived.  
+   • Provide a one-click “Delete All Data” option in the dashboard so the family can remove everything if they decide it’s too painful.
+
+––––––––––––––––––––  
+That single, end-to-end system—data collection, fine-tuning, UI with human-in-the-loop approval, and hard delete/expiration controls—would get me from raw memories to a usable, versioned “griefbot” prototype.

@@ -1,0 +1,13 @@
+I’d launch a six-month pilot in Bangka Island to build end-to-end traceability for our tin supply. Here’s exactly what I’d do:
+
+1. Hire a local project manager in Pangkalpinang and three Indonesian–speaking field auditors.  
+2. Identify 50 of the highest-volume small-scale mines within a 100-km radius (using government mining permits and satellite imagery).  
+3. For each of those 50 mines:  
+   a. Issue serialized RFID tags in batches of 100 ingots.  
+   b. Train one on-site liaison (a foreman or respected community member) to scan each ingot when it’s cast and again when it’s handed to any middleman.  
+   c. Upload each scan timestamp and GPS coordinate to a private blockchain ledger we host, so every transfer is immutably logged.  
+4. Require each middleman to present the ingot’s RFID tag at our two approved consolidation centers—and scan again—before any shipment leaves Bangka. If a tag isn’t in the ledger or the GPS doesn’t match the recognized mine locations, we refuse to buy that tin.  
+5. Every quarter, have our three auditors cross-check 10 randomly chosen mines on site: verify the RFID stock, inspect safety equipment (helmets, shoring timber, ladders) against a 20-point checklist, and record any discrepancies as entries on the same blockchain.  
+6. Publish a transparent dashboard (updated monthly) showing: how many ingots were tagged, how many failed our scans, which mines passed or failed the safety checklist, and what remediation steps we funded (e.g., buy replacement shoring timber or helmets).
+
+By the end of six months we’ll know exactly which mines comply, have hard data on failure rates, and a working traceability system we can scale to all Indonesian tin suppliers.

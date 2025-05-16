@@ -1,0 +1,20 @@
+I would take the following concrete steps immediately:
+
+1. Pull the telephone records and draft a dated, time-stamped contemporaneous memo documenting exactly what John Dour said on the call—his demand that we sign on to the settlement, his threat to seek PE-license revocation, and his vow to blacklist our firm.  I would sign and date that memo, attach any call‐record metadata or notes from my assistant, and file it in our project file.
+
+2. Send a short, professionally worded—but firmly factual—letter by email (with delivery/read receipt) to John Dour and to NW Developers’ project manager.  The letter would:
+   • Summarize the date and time of the call and the exact threats made.  
+   • State that our firm is prepared to present technical evidence at mediation but will not contribute money to settle a claim based on faulty materials and poor inspection by others.  
+   • Request confirmation that Noall will not seek Board action or threaten our license.  
+   • Reserve our right to defend our professional reputation, including reporting any unfounded license‐revocation threats to the State Board and, if necessary, pursuing a libel or tortious‐interference claim.
+
+3. Immediately notify our own legal counsel (outside counsel experienced in construction disputes and professional-licensure matters).  I would forward the memo of the call and the draft letter, ask for guidance on:
+   • Cease‐and‐desist steps against Noall’s license-revocation threat.
+   • Our positioning at the upcoming mediation—as a non-settling technical witness rather than as a monetary contributor.
+   • Any pre-emptive filing with the State Board, seeking safe-harbor or a declaration that Noall’s threats are baseless.
+
+4. Brief our firm’s E&O (errors & omissions) insurance carrier.  I would send them a copy of the memo and the draft correspondence, advise them of the threatened arbitration/mediation, and ask them to assign coverage counsel who can attend the mediation with us.
+
+5. Notify NW Developers’ in-house legal team (or their outside counsel) via email, copying the project manager, that we’ve documented the threat, that we’ve engaged our attorney and insurer, and that we expect all parties to respect our licensure and professional scope at mediation.
+
+These steps achieve three concrete goals: create a clear, dated record of the threat; engage legal and insurance resources; and put Noall and the developer on written notice that we will defend our license and reputation rather than accede to an unwarranted financial demand.

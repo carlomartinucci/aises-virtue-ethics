@@ -1,0 +1,21 @@
+1. Return to the site at first light with my clipboard, camera phone, and the project drawings in hand.  Walk the affected steel bay and:  
+   a. Take clear, timestamped photos of every beam face that will be concealed by walls—showing uncoated and coated areas side by side.  
+   b. Mark each beam location on the sheet of project drawings, noting any spots I cannot access for coating inspection.  
+
+2. Open our project management system (we use Procore) and create a “Non-Conformance Report.” In that report I will:  
+   a. Attach the photos and annotated drawings.  
+   b. Quote the exact spec section requiring full-surface coating on all exposed and subsequently concealed steel.  
+   c. Describe the risk (possible future corrosion in hidden areas).  
+
+3. Email that NCR to:  
+   – Gibb (coating subcontractor superintendent)  
+   – Riley (my boss)  
+   – Janis (building inspector)  
+   – Our QA/QC manager  
+   In the email I will request written confirmation from Gibb within 24 hours of how and when he plans to re-coat the hidden areas.
+
+4. Immediately flag the coating subcontractor’s pending payment application in Procore as “Pending QA Resolution” so that Riley cannot inadvertently approve payment until the non-conformance is closed.
+
+5. Follow up at the 24-hour mark:  
+   – If Gibb responds with a repair schedule, visit the site on the appointed day, witness the re-coating, photograph the work, and formally close the NCR in Procore.  
+   – If Gibb does not respond or misses his schedule, escalate by calling a brief meeting with Riley and QA/QC, present the open NCR and photos, and request a joint site walk to decide next steps (e.g., withholding retainage or assigning a remedial crew at Rome Builders’ cost).

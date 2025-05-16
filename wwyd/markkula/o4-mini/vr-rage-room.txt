@@ -1,0 +1,25 @@
+I would build and integrate an automated “human‐figure detector” into the VR Rage Room upload pipeline so that any new room or object featuring a human silhouette is caught before it goes live. Here’s exactly what I’d do:
+
+1. Assemble a training dataset  
+   • Download publicly available 3D models and images tagged “human,” “mannequin,” “stick figure,” “robot,” “monster,” etc., from sources like TurboSquid, Sketchfab, Open Images.  
+   • Label each model/image as “human‐like” or “non‐human” (chairs, vases, cars, trees, abstract shapes). Aim for at least 5,000 examples per class.  
+
+2. Train a convolutional neural network  
+   • Preprocess each 3D model by rendering it from four fixed camera angles (front, back, left, right) into 224×224 pixel images.  
+   • Use those renders to train a lightweight image‐classification CNN (e.g. MobileNetV2) to distinguish human‐like vs. non‐human objects.  
+   • Validate on a held-out set; tune until you reach at least 95% precision at catching human‐like models.  
+
+3. Integrate into the upload workflow  
+   • Add a step in the developer portal where, upon “Submit for review,” the system automatically renders user‐submitted assets into the same four views and runs the CNN.  
+   • If the CNN flags an asset as “human‐like” above a threshold (e.g. 0.8 probability), block publication and send the creator an email stating:  
+     “Your asset appears to contain human or humanoid figures. Our TOS prohibits directed violence at human targets. Please remove or redesign the asset before resubmitting.”  
+
+4. Human QA backstop  
+   • Route any flagged submissions into a small moderation queue. Assign two human reviewers per flagged item.  
+   • If both reviewers agree it’s non‐human, the asset is released; if they agree it’s human, it’s permanently rejected; if they disagree, escalate to the content lead for final decision.  
+
+5. Monitor and iterate  
+   • Track false positives (creators appealing successful releases) and false negatives (post–release creator reports).  
+   • Retrain the model quarterly, incorporating newly flagged edge cases, to keep accuracy above 95%.  
+
+By rolling out this detector-and-review pipeline, I enforce the TOS’s ban on directing VR violence at humans in a concrete, automated, and scalable way—without relying on vague manual checks or waiting for user complaints.

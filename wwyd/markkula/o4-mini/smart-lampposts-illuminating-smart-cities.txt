@@ -1,0 +1,10 @@
+I would organize a hands-on public “inspect-and-test” workshop in one of the neighborhoods slated for new lampposts. 具体步骤：  
+1. Book a community center for an afternoon, invite 20–30 local residents by mail and social media.  
+2. Bring one complete lamppost sensor unit (LED light head, sensor pod, network module) on a wheeled stand.  
+3. Lay out all components on a table with labels: camera module, mic array, motion sensor, communications board.  
+4. Demonstrate live how to disable each function in the embedded software (e.g. flip the “audio_capture” flag off in the web UI, unplug the camera ribbon cable).  
+5. Hand out simple screwdrivers and let residents pop open the sensor pod themselves, inspect and reseal it.  
+6. Run a live dashboard showing “before” (motion + audio on) and “after” (only light level + temperature) so they see that no images or sounds are being captured.  
+7. Distribute a one-page printout with step-by-step commands and photos so anyone can verify feature-disabling in the field.  
+8. Record the workshop, post the video and source code for the disable-scripts on a public GitHub repo.  
+By the end of the session, residents will have personally disabled the surveillance functions, handled the hardware, and downloaded the exact same scripts we’ll ship on every lamppost.

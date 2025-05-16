@@ -1,0 +1,8 @@
+As a member of Mozilla’s board, I would immediately draft and circulate a charter for a “Community Values Advisory Council.” Here’s exactly what I would do:  
+1. Identify and invite ten representatives—five staff members (across engineering, UX, marketing, legal and diversity teams) and five active community contributors from different regions—to join the council.  
+2. Schedule our first two-hour video workshop within one week, using a shared Mural board to capture feedback in real time.  
+3. In that workshop, walk through Mozilla’s existing values statements line by line and ask each council member to flag any words or ideas they feel are unclear or potentially exclusionary. Capture all comments verbatim.  
+4. Assign three board liaisons (myself plus two colleagues) to turn those verbatim notes into a redlined draft of an updated “Mozilla Values Pledge,” highlighting any additions or rephrasings.  
+5. Within three business days of the workshop, circulate the redlined draft back to the council for a second short review (48-hour turnaround), asking each member to vote “accept,” “reject,” or “needs discussion” on every change.  
+6. Consolidate the votes, resolve any conflicts in a half-day in-person session at Mozilla’s San Francisco office, finalize the new Mozilla Values Pledge, and publish it on mozilla.org alongside short bios of all council members.  
+7. Make acceptance of the updated pledge a mandatory step for all future CEO candidates (and all new hires), with sign-off documented in our HR system before official onboarding.

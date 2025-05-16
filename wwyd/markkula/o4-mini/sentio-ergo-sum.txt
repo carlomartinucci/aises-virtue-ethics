@@ -1,0 +1,11 @@
+I would build and deploy a caller-facing opt-out feature in the MetLife IVR flow so that every incoming customer hears, right after “Thank you for calling MetLife,” a one‐sentence prompt, for example:  
+“Please note: this conversation will be analyzed in real time to gauge emotion and improve service. To continue without analysis, press 3 now.”  
+
+Concrete steps:  
+1. Work with the IVR (interactive voice response) team to add a new menu option (“press 3”) immediately after the standard welcome message.  
+2. Update the call‐routing logic so that if the caller presses 3, the IVR flags the call record with a “no-analysis” tag and routes it to agents without loading the Cogito overlay.  
+3. Modify the agent desktop application to check that “no-analysis” flag before launching the Cogito panel; if flagged, the panel never appears and no emotional metrics are recorded.  
+4. Log all opt-out selections in the CRM so supervisors can report on opt-out rates and any impact on customer satisfaction.  
+5. Train agents during their next team meeting on how to handle calls that bypass the analysis system (e.g., no heart or cup icons will appear).  
+
+This change ensures every customer is explicitly informed about—and can decline—real-time emotional analysis.

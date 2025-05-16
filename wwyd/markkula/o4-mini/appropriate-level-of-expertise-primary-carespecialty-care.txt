@@ -1,0 +1,24 @@
+1) Log into our clinic’s psychiatric e-Consult portal and open a new consult.  In the consult request form I will:  
+   • Summarize Peter’s history (onset of mood swings, antidepressant trials, refusal of formal psych referral).  
+   • Attach his latest PHQ-9 and GAD-7 scores plus a completed Mood Disorder Questionnaire.  
+   • Ask specifically: “Does this presentation meet criteria for bipolar II disorder? If so, what first-line mood stabilizer would you recommend, and at what starting dose and monitoring schedule?”  
+
+2) Send the e-Consult and schedule a brief 15-minute follow-up call with Peter in one week to:  
+   • Review the psychiatrist’s recommendations.  
+   • Discuss initiation of any recommended mood stabilizer (e.g., lithium 300 mg BID).  
+   • Order baseline labs (CBC, electrolytes, TSH, renal function) and set up lab monitoring every 2–4 weeks.  
+
+3) Provide Peter with a printed action plan that week:  
+   • Medication dosing schedule.  
+   • Laboratory appointments (with dates and locations).  
+   • A one-page mood chart for him to track daily highs/lows and side effects.  
+
+4) Document in the chart:  
+   • His refusal of an in-person psychiatric appointment.  
+   • That I used e-Consult per our integrated-care protocol.  
+   • The treatment plan steps, labs ordered, and follow-up timeline.  
+
+5) On our next in-clinic visit (in 4 weeks):  
+   • Review his mood chart and lab results.  
+   • Adjust medication per the psychiatrist’s written guidance.  
+   • Re-offer a telepsychiatry session if stabilization remains incomplete.

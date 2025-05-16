@@ -1,0 +1,14 @@
+1. Within one hour, return the Gazette reporter’s call. Say: “Thank you for calling. I’m gathering the full project file and will send you an accurate written statement by 4 pm today.”  
+2. Pull the project folder on the Elm Grove plant and review the correspondence: Flo Moore’s Excelsior recommendation, Dee Taylor’s written request to use Pumpco, and our final bid documents.  
+3. Call Flo Moore and ask her to assemble all test data, life-cycle-cost analyses, and warranty papers for both Pumpco and Excelsior units.  
+4. Call Dee Taylor at Elm Grove Public Works and say:  
+   – “I want to understand the field-failure pattern. Can you arrange for your plant operator and me to tour the pump station tomorrow morning? I’m bringing our lead hydraulics engineer.”  
+   – Ask her to send us the latest maintenance logs and failure-event reports.  
+5. Convene a one-hour conference call with: Flo Moore, our hydraulics engineer, Pumpco’s regional service manager, and Elm Grove’s plant operator. During the call:  
+   – Compare the specific failure modes (seal leaks, bearing failures, motor burnout).  
+   – Identify whether improper installation, a design mismatch, or a Pumpco manufacturing defect is at fault.  
+   – Agree on an on-site test protocol for the remaining pumps.  
+6. Draft and send the Gazette by 4 pm today this statement:  
+   “When we prepared the bid documents in 2019, our team evaluated both Excelsior and Pumpco pumps. We recommended Excelsior because its warranty and 20-year life-cycle costs were lowest. At the City’s written direction, however, we specified Pumpco to meet Elm Grove’s short-term budget. We regret that these pumps have now failed three times in less than a year. We have opened a formal warranty claim with Pumpco, are deploying our hydraulics engineer to the site this Thursday to run nondestructive testing, and will cover all emergency replacements under our services agreement. We remain committed to restoring the plant to full capacity and to working with the City to prevent further downtime.”  
+7. Immediately email a copy of that draft to Dee Taylor and ask for her sign-off by 2 pm so we can meet the Gazette deadline.  
+8. If Pumpco cannot meet the warranty claim within two weeks, escalate to our firm’s legal department to defend the City against cost overruns and to seek a performance guarantee from Pumpco.

@@ -1,0 +1,31 @@
+I would build and deploy a self‐service removal portal plus a versioned “take-down” workflow. Concretely, I would:
+
+1. Extract a manifest for DiF.  
+   • Write a script to scan the DiF archive and pull out each image’s Flickr URL, filename, and unique ID.  
+   • Publish that manifest to an internal database with search indexes on URL, photographer username, and face ID.
+
+2. Build a public “Search & Remove” web form.  
+   • Front end: a single text‐entry box where users paste their Flickr URL or DiF image ID.  
+   • Back end: a web service that queries the manifest database and returns matching records with thumbnail previews.
+
+3. Automate removal requests.  
+   • When a user confirms “this is my photo,” they click “Request Removal.”  
+   • The portal logs the request, marks the record’s status as “pending removal,” and sends an e-mail receipt to the requester.
+
+4. Propagate deletions into a new DiF “v1.1” snapshot.  
+   • A nightly job scans for any records marked “pending removal” or “removed,” then rebuilds the dataset archive without those images.  
+   • The job publishes v1.1 to the secure distribution site and updates a version index file.
+
+5. Notify all existing data recipients.  
+   • Compile the list of the ~250 organizations who downloaded DiF.  
+   • Send each a templated e-mail explaining: “DiF v1.1 has been published to remove user-requested images. Please discard previous copies and switch to v1.1 by [date].”  
+   • Embed a link to the new archive and to the public search portal so downstream users can handle future removals automatically.
+
+6. Publish transparency metrics.  
+   • On the IBM Research “Trusting AI” page, add a “DiF removal stats” widget updated weekly with  
+     – Total images in current dataset version  
+     – Total removal requests received  
+     – Total images removed  
+   • This closes the feedback loop, so anyone can see how many photos have been opt-ed out over time.
+
+By providing a searchable index, an automated removal pipeline, a versioned distribution process, and clear notifications to past downloaders, this plan concretely addresses the core problem: photographers who don’t want their images in the dataset can find, request, and confirm removal—and researchers only use the up-to-date, opt-out‐compliant version.

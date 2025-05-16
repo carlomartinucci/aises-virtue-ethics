@@ -1,0 +1,19 @@
+1. Put the call on hold for thirty seconds, open our donor‐management database and search for her name (spelled exactly as she gave it) against our blocked/sanctioned‐donor list and PEP (politically exposed person) flags.  
+2. Close that search window and send an immediate Slack message to our Development Director and the Executive Director:  
+   • “Incoming potential six-figure gift from [Donor’s Name]. She’s asking to remain anonymous. I just ran a sanctions/PEP check; no red flags in our system. How do you want me to proceed?”  
+3. While waiting for their reply (keep the donor on hold if you’re on the phone), pull up our nonprofit’s Gift Acceptance Policy and AML (anti-money‐laundering) guidelines. Note any thresholds for anonymity or for gifts from persons under legal investigation.  
+4. Once the Development Director replies, schedule a 15-minute huddle with her, the Executive Director, and our CFO or in-house counsel for that afternoon. In that huddle you will:  
+   a. Confirm whether the gift would exceed our board-approved maximum for anonymous donors.  
+   b. Ask legal counsel if accepting a large unrestricted gift from someone facing overseas embezzlement charges triggers any reporting obligations under state charity law or the Patriot Act.  
+   c. Agree on a script for how we’ll respond to the donor’s anonymity request in writing (e.g., “We maintain all donor records per IRS rules; public recognition is voluntary.”)  
+5. After the huddle, draft a one‐page “Gift Inquiry Memo” for the board packet, summarizing:  
+   • Donor name and background check results (e.g., “No sanctions match,” “PEP flagged but no domestic charges”)  
+   • Gift amount and structure she’s proposing  
+   • Anonymity request and any policy or legal caveats  
+   • Recommended next steps (e.g., “Proceed to draft gift agreement subject to legal review.”)  
+6. Email that memo to the full board at least 48 hours before the next board meeting, flagging it “Action requested: gift acceptance policy review.”  
+7. Call the donor back with a scripted reply (approved in the huddle):  
+   “Thank you for your extraordinary support. Before we can finalize the gift agreement, our policy and state regulations require a quick review by our legal team and board. May I send you a one-page memorandum outlining next steps and timing? We will honor your wish for anonymity in all public materials and can discuss whether you’d like to use a private vehicle such as a donor‐advised fund.”  
+8. Send the memo to the donor as promised, copied only to the Development Director and in‐house counsel.  
+9. Track all communications in the donor‐management system, marking her “Anonymous—Legal Review Pending,” and set a follow‐up task for two days after the board meeting.  
+10. Once the board gives its formal approval, engage our attorney to draft the gift agreement with an anonymity clause that still satisfies state nonprofit disclosure rules, and then coordinate with the donor to execute it and transfer funds.

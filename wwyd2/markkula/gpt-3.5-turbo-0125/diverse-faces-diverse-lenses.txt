@@ -1,5 +1,10 @@
-To address the ethical concerns raised by the creation and distribution of the Diversity in Faces (DiF) dataset by IBM Research, I would focus on the following specific action:
+To address the ethical concerns surrounding the Diversity in Faces (DiF) dataset created by IBM Research, I would take the following specific actions:
 
-1. **Enhanced Removal Process**: I would immediately establish a dedicated online portal on the IBM Research website where individuals can easily search for their photos within the DiF dataset using facial recognition technology. This portal would allow individuals to request the removal of their photos by simply uploading a photo of themselves for comparison. Additionally, I would ensure that any photos removed from the dataset are also flagged for removal from versions shared with researchers. This streamlined process would prioritize individuals' privacy rights and provide a practical solution for addressing concerns about unauthorized use of personal images.
+1. Immediately halt any further distribution of the DiF dataset to prevent additional privacy violations.
+2. Launch a dedicated online portal where individuals can easily search for their photos in the dataset and request their removal.
+3. Engage with a privacy law expert to develop a robust consent process for obtaining permission from individuals whose images are included in AI datasets.
+4. Conduct a comprehensive audit of all datasets used by IBM Research to ensure compliance with ethical standards and data privacy regulations.
+5. Enhance transparency by publishing a detailed report outlining the methodology used to create the DiF dataset and the steps taken to address privacy concerns.
+6. Implement mandatory training sessions for all researchers and data scientists on ethical considerations in data collection and usage for AI projects.
 
-By implementing this enhanced removal process, IBM Research can demonstrate a commitment to respecting individuals' privacy and addressing the ethical implications of the DiF dataset in a practical and effective manner.
+These actions aim to address the immediate ethical concerns raised by the creation and distribution of the DiF dataset while establishing a framework for ethical data practices in future AI research projects.

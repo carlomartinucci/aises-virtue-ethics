@@ -1,0 +1,19 @@
+1. In my office I would pull up the CAD database entry for those detail sheets and export copies of:  
+   a. The DWG files Far Horizons is using now (showing their title block and logo)  
+   b. The original DWG files I worked on at County Line Design (showing their title block and logo)  
+2. I would rename the exports with clear filenames, e.g.:  
+   • “FH_Detail_Sheet_X_Used_2024-05-01.dwg”  
+   • “CLD_Original_Detail_Sheet_X_2018-06-15.dwg”  
+3. I would compile a two-page PDF that places each pair of drawings side by side at the same scale, highlighting linework and dimensions that match exactly.  
+4. I would send an email—cc’ing my direct manager and the head of Far Horizons’ legal/compliance department—with:  
+   • Subject line: “Urgent: Potential Unauthorized Use of County Line Design Details”  
+   • Body:  
+     – A brief bullet list:  
+       * “On [date] I discovered that drawing details in Project ABC match, line for line, the detail sheets my former firm produced in 2018.”  
+       * “Attached are side-by-side comparisons documenting exact matches.”  
+       * “County Line Design never granted Far Horizons permission to re-use these proprietary details on unrelated projects.”  
+     – A clear request:  
+       * “Please advise on next steps to either secure a license or remove these sheets from our database.”  
+5. I would request a 30-minute meeting within 48 hours with the legal/compliance team to review the attachments and decide whether to:  
+   a. Obtain retroactive licensing from County Line Design, or  
+   b. Delete the sheets and task our CAD team with drafting new, proprietary details.

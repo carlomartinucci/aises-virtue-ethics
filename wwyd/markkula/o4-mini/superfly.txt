@@ -1,0 +1,11 @@
+I’d spin up a private test session of the “exotic” package and walk through every step of the user journey myself, logging technical and experiential issues as I go. Concretely, I’d:  
+1. Sign up under a throw-away test account.  
+2. Select the “exotic” package and book a one-week itinerary.  
+3. Meet my smartraVeleR consultant avatar, then in a spreadsheet record:  
+   • How long the booking screen takes to load at each click (aim: <1 second).  
+   • Whether I can adjust weather, NPC friendliness, crowd density—and if any slider hits a dead end.  
+   • Any visual glitches (tearing, frame-drops) or audio dropouts during the live demo.  
+4. Move through each “day” of the mock vacation:  
+   • Enter a market scenario, attempt five haggles with the NPC merchant, and note if the haggling AI ever repeats the same phrase.  
+   • Visit the “VIP dance party” in the Great Pyramid, crowd-count the avatars (target 50), and verify my celebrity guest appears in the proper spot.  
+5. At the end of the session, compile a prioritized bug list (load times over 1 s, missing NPC actions, audio/video glitches) and send it to engineering with screenshots, timestamps, and console logs.

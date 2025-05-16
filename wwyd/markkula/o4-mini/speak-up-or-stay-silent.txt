@@ -1,0 +1,10 @@
+I would take the following concrete steps:
+
+1. Extract the raw sales data. In our BI tool (e.g. Tableau), I’d build a simple pivot table listing each customer by department, the line-item product (Basic vs. Advanced), and the dollar amount.  
+2. Flag every record where a “Basic” product sale was folded into the Advanced total. I’d add a column called “Misclassified?” with a TRUE/FALSE formula.  
+3. Create a two-slide deck:  
+   • Slide 1: A snapshot of the pivot—showing, for example, Acme Corp. Ops $300K Basic + $200K Finance Advanced vs. the $500K all-Advanced entry in our official report.  
+   • Slide 2: A summary count of how many transactions and how much revenue (in dollars) have been misclassified over the last two quarters.  
+4. Email that deck to my direct manager (in Finance & Analytics), copying the head of Revenue Operations and the internal Audit mailbox. In the body I’d write:  
+   “I’ve noticed these misclassifications in our Advanced vs. Basic sales reporting. I’ve attached a two-slide summary. Can we meet tomorrow at 10 AM to review and correct the mapping rules in our sales feed?”  
+5. Block the 10 AM slot on both calendars. In that meeting, I’d walk through the two slides, ask for their view on source-system settings, and propose updating the ETL logic so that Basic items map to the Basic bucket going forward—and back-correct prior quarters if necessary.

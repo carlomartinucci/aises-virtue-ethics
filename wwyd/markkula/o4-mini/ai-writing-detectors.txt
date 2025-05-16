@@ -1,0 +1,13 @@
+I would implement a two‐step review workflow in our LMS so that no student ever faces sanctions based solely on an AI‐detector score. Specifically:  
+1. Whenever Turnitin’s AI flagger marks a submission above the “likely AI” threshold (say 30% AI‐likelihood), the system automatically routes that paper into a “desk review” queue instead of grading or penalizing it.  
+2. I’d recruit and train a small group of three faculty volunteers per term (rotating every semester) to serve on that desk‐review panel. Their training would consist of:  
+   - One two‐hour workshop on the known false‐positive/false‐negative rates for each AI‐detector tool we use, emphasizing the unreliability on nonnative English writing.  
+   - A calibration exercise in which they practice reviewing ten anonymized essays (five clean, five AI‐mixed) and discuss why they would or wouldn’t call each AI‐generated.  
+3. For each flagged paper, two panelists independently read the full draft alongside the student’s assignment prompt, any earlier draft submissions, and any in‐class writing samples (e.g. short freewrites, outlines). They then fill out a one‐page checklist:  
+   • Does the voice/word choice match the student’s known writing samples?  
+   • Are there clear signs of patchwriting or logic jumps typical of AI?  
+   • Has the student provided drafts or notes?  
+4. If both panelists agree there’s no strong evidence of AI use, the student’s grade proceeds without blemish. If both agree on likely AI use, the panel schedules a 20-minute meeting with the student to review the assignment process and ask for a live in-person writing sample on a related prompt.  
+5. Only after that meeting—and only if the student cannot replicate any part of the flagged text—would I recommend any academic‐integrity referral. Otherwise, the student’s original grade stands and no record is kept of the flag.  
+
+By building in human review tied to actual student work and interviews, this process ensures that Turnitin’s detector can only ever trigger an advisory desk review—and never a penalty—unless multiple concrete indicators of misconduct align.

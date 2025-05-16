@@ -1,0 +1,15 @@
+1. That afternoon, open a remote session to the Exchange server (or local mail store) rather than to each PC.  
+2. In Exchange Management Shell (or your mail‐server console) enable message tracking and journaling for the mailboxes in question:  
+   • Set-TransportConfig –JournalingEnabled $true  
+   • New-JournalRule –Name “NorthLink Personal Mail Audit” –Scope Global –JournalMailbox “AuditJournal” –Enabled $true  
+3. Create a PowerShell script that daily:  
+   a. Queries the MessageTrackingLog for the previous 24 hours:  
+      $logs = Get-MessageTrackingLog –Start (Get-Date).AddDays(-1) –End (Get-Date)  
+   b. Filters out internal‐to‐internal mail, keeping only messages with external recipients or senders.  
+   c. Exports the results as CSV with columns “Sender,” “Recipient,” “DateTime,” “Subject.”  
+4. Secure that CSV on a locked-down share (permissions: only Gwen and Lawrence).  
+5. Schedule the script as a Windows Task (“DailyMailAudit”) to run at 6 PM each evening, sending the CSV by e-mail to Lawrence.  
+6. Test the task immediately (run it manually, verify you get a CSV with no actual message bodies, only metadata).  
+7. Inform Lawrence by e-mail:  
+   “I’ve implemented Exchange journaling and message‐tracking rules. Beginning tonight, you’ll receive a daily report showing sender, recipient, date/time, and subject for any message with an external address. No message bodies will be included. Let me know if you need any adjustment to the filters.”  
+8. Document the configuration and keep copies of the PowerShell script and task settings in the IT operations folder.

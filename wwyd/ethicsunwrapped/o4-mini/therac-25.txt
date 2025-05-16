@@ -1,0 +1,7 @@
+I would design, prototype, and install a mechanical beam‐stop interlock—identical in principle to the hardware shutter from the Therac-20—onto every Therac-25 before it ever emits high-energy X-rays. Steps:  
+1. Draft CAD drawings showing a spring-loaded shutter on the beam path that is held open only when a positive, physical linkage confirms correct applicator head and patient positioning.  
+2. Machine a prototype shutter assembly from stainless steel; mount microswitches so that if the shutter isn’t fully retracted, the control CPU sees a “blocked” signal.  
+3. Bench-test the prototype by cycling the shutter 10,000 times at full beam energy, verifying that any failure to retract the shutter trips the “no-beam” interlock in under 20 ms. Record pass/fail and timing for each cycle.  
+4. Update the service manual with new installation procedures, wiring diagrams, and a parts list for the shutter assembly.  
+5. Schedule field service visits to retrofit the interlock on all eleven installed machines; sign off each retrofit by observing a full startup sequence and verifying that no beam can fire unless the shutter microswitch reports “open.”  
+6. File a completion report with the FDA and AECL engineering records including test logs, photographic evidence of the installed hardware, and signed checklists from each site visit.

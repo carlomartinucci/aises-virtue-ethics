@@ -1,0 +1,11 @@
+1. Pull all of Michael’s “pending” orders into a single spreadsheet, with columns for Order ID, Booking Date, Commission Paid Date, Delivery Date (original vs. most-recent rescheduled), and Amount paid to Michael.  
+2. In a secure folder on the company network (so there’s an audit trail), save:  
+   • Copies of the accounting entries showing commission payouts for those orders  
+   • E-mail chains or CRM notes where delivery dates were repeatedly pushed  
+   • Any scanned memos or PDFs of Michael’s split-commission agreement with the external firm  
+3. Send an e-mail to the Head of Compliance (using your corporate e-mail account, flagged “High Importance”) that says:  
+   “I’ve uncovered possible commission fraud in Michael X’s former territory. I’ve attached a spreadsheet and supporting docs. Please confirm receipt and next steps.”  
+4. Attach the spreadsheet and at least one representative PDF for context.  
+5. Request in that same e-mail: “I’d like to invoke our Whistleblower Protection policy—please confirm that my identity and these materials will be handled under that protocol.”  
+6. After sending, log into the compliance portal (or ticketing system) to verify the report was entered under your name, and print a screenshot or save a PDF of the ticket confirmation.  
+7. Keep all source documents and your confirmation of report receipt in a personal folder (encrypted if your company allows) so you can demonstrate you acted in good faith and followed company procedure.

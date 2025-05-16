@@ -1,0 +1,7 @@
+I would contact the FBI directly to request detailed technical information about the methods they used to access the iPhone’s data after they withdrew the case. Specifically, I would:
+
+1. Reach out to the FBI's cyber division or the lead investigator involved in the San Bernardino case.
+2. Request a briefing or written report explaining the technical approach they employed to bypass the iPhone’s encryption.
+3. Ask for assurances that the method used does not compromise the security of other devices or users, and inquire about any safeguards or limitations associated with the technique.
+4. Document the information received and consult with internal security and legal teams to assess the implications for future privacy and security policies.
+5. Based on the technical details, evaluate whether to develop or implement similar security measures internally or to advocate for industry-wide standards to prevent similar vulnerabilities from being exploited maliciously.

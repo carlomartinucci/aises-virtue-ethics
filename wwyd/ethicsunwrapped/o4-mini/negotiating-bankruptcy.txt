@@ -1,0 +1,9 @@
+I would immediately file a supplemental Rule 2014 disclosure with the bankruptcy court.  Concretely, I’d prepare an amended “Statement of Attorney” under 11 U.S.C. § 327 and Fed. R. Bankr. P. 2014(a) that:
+
+1. Lists South Street and Mikael Salovaara as existing Milbank Tweed clients;  
+2. Attaches the original engagement letters or retainer agreements for both South Street and Salovaara;  
+3. Explains the nature of the work Milbank has done for each over the past year;  
+4. Serves the amended statement on the U.S. Trustee, BE, Jackson National Life, South Street, Salovaara, and the official creditors’ committee;  
+5. Notices a short hearing (e.g. 14-day notice) to obtain the court’s approval of Milbank Tweed’s continued representation.  
+
+That single step cures the nondisclosure by putting the court and all parties on formal notice of the potential conflict.

@@ -1,0 +1,28 @@
+I would set up a “Supplier Remediation & Monitoring Pilot” focused on one of our Indian rug‐producing regions, with these concrete steps:
+
+1. Map and register all active weaving units in the district.  
+   • Work with local trading office to compile GPS coordinates, owner names, number of looms and workers.  
+   • Complete this within 4 weeks.  
+
+2. Hire two full‐time field officers from a reputable child‐welfare NGO (e.g. Bachpan Bachao Andolan) to be based in the district.  
+   • Their sole job: conduct unannounced visits to every registered unit twice a month for 6 months.  
+   • Equip them with checklists that record: presence of anyone under 14, working hours, safety conditions.  
+
+3. For each child found on our audit:  
+   a. Record name, age, family contacts and photograph.  
+   b. Issue a “Stop‐Work + Education Enrollment” notice: the child must leave the loom immediately and enroll in the nearest state school or an accelerated-learning center.  
+   c. Sign a binding agreement with the loom owner: IKEA will continue purchasing only if they provide the child’s weekly attendance record within 10 days.  
+
+4. Set up a family support stipend:  
+   • Through a local microfinance partner, pay each affected child’s household ₹2,000 per month on proof of the child’s 80% school attendance.  
+   • Payees are the parents; payments go directly into bank or mobile‐money accounts.  
+
+5. Integrate real‐time reporting:  
+   • Field officers upload every visit’s checklist into a shared dashboard (e.g. Airtable), visible to IKEA’s India trading office and HQ compliance team.  
+   • Any unit missing 3 reports in a row or showing re‐appearance of a child worker triggers an automatic suspension of orders to that unit.  
+
+6. After 6 months, review by:  
+   • Verifying that 100% of registered units have zero under‐14 workers on the looms.  
+   • Ensuring at least 90% of previously identified child workers are still in school.  
+
+If the pilot achieves these targets, roll it out to our Nepal and Bangladesh suppliers on the same model.
