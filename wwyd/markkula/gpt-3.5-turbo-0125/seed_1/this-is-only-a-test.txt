@@ -1,0 +1,7 @@
+In response to the concerns raised about bias in proctoring software, I would conduct a thorough review of the software being used by our institution. This review would involve examining the specific features and algorithms employed by the software to understand how bias may manifest in its operation. I would also collaborate with professors, students, and other stakeholders to gather feedback on their experiences with the software, particularly in relation to bias in face detection.
+
+Based on the findings of the review, I would work with the relevant departments to determine whether the software in question aligns with our institution's commitment to equity and fairness in assessment. If significant concerns about bias are identified, I would recommend exploring alternative assessment methods that do not rely on proctoring software.
+
+Furthermore, I would stay informed about the actions taken by proctoring software companies to address bias and other concerns. If any of the companies are implementing changes that address the specific issues identified in our review, I would consider whether these changes sufficiently mitigate the concerns raised by our stakeholders.
+
+Ultimately, I would prioritize the well-being and academic integrity of our students, and make decisions regarding the use of proctoring software based on a thorough assessment of its impact on our community.

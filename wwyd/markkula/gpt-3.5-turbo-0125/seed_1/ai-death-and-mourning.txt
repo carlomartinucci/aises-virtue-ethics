@@ -1,0 +1,9 @@
+I would start by conducting a thorough review of the ethical implications and potential psychological impact of using a "griefbot" for mourning and interacting with deceased loved ones. This review would involve consulting with experts in psychology, bereavement counseling, and technology ethics to understand the potential benefits and risks associated with using such technology.
+
+Next, I would reach out to Muhammad Ahmad, the data scientist behind the griefbot project, to discuss his motivations, the development process, and the goals he has in mind for the technology. Understanding his perspective and intentions would provide valuable insights into the design and implementation of the griefbot.
+
+I would also engage with individuals who have used or are considering using similar technologies for mourning purposes to gather their feedback, experiences, and concerns. This firsthand information would help me better understand the practical implications of integrating griefbots into the mourning process.
+
+Based on the gathered insights, I would collaborate with a multidisciplinary team to develop guidelines and best practices for the ethical and responsible use of griefbots in the context of mourning. These guidelines would address issues such as consent, privacy, authenticity, and long-term psychological effects to ensure that the technology is used in a respectful and supportive manner.
+
+Finally, I would advocate for open discussions and public awareness campaigns about the use of griefbots, aiming to foster informed decision-making and sensitivity towards the complexities of grief and loss in the digital age.

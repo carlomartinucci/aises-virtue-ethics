@@ -1,0 +1,9 @@
+In this scenario, if I were working for URVR, I would first ensure that the company's technical infrastructure is equipped to automatically delete all 360 degree videos and images within 24 hours, as stated in the license agreement. I would collaborate with the engineering team to verify that this mechanism is in place and functioning correctly.
+
+Next, I would conduct regular audits to monitor and confirm that the deletion process is indeed taking place as intended. This would involve reviewing logs and data to track the lifecycle of user-generated content and ensure that no videos or images are being retained beyond the specified 24-hour period without user consent.
+
+Furthermore, I would establish a process for handling user requests to extend the storage duration of their content beyond 24 hours. This process would involve obtaining explicit consent from users before allowing any content to be retained for a longer period, ensuring that privacy preferences are respected.
+
+Additionally, I would work with the legal team to regularly review and update the company's privacy policy and license agreement to ensure that they align with best practices and regulations regarding data privacy and user consent.
+
+By taking these specific actions, I would help uphold URVR's commitment to user privacy and ensure that the company operates in accordance with its stated policies and obligations.

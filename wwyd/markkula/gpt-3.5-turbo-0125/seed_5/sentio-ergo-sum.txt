@@ -1,0 +1,9 @@
+I would first conduct a thorough review of the terms of service and privacy policy provided by Cogito to understand the scope of data collection, analysis, and sharing involved. Next, I would review the legal requirements and regulations related to voice monitoring and analysis in the jurisdictions where MetLife operates to ensure compliance.
+
+Following this, I would engage with relevant stakeholders within MetLife, including call center agents, supervisors, and management, to gather feedback on their experiences with the Cogito software. I would specifically inquire about any concerns or discomfort they may have regarding the software's monitoring and notifications.
+
+Additionally, I would organize training sessions for call center agents to provide transparency about the capabilities of the AI software, including how it analyzes voice interactions and provides feedback. This training would also address any potential ethical implications of using such technology and encourage open discussions about privacy and consent.
+
+Furthermore, I would collaborate with MetLife's legal team to draft additional disclosures to be provided to callers regarding the use of AI software during their interactions with call center agents. These disclosures would detail the specific types of data being analyzed, the purposes of the analysis, and options for opting out if desired.
+
+Lastly, I would work with MetLife's management to establish clear guidelines and protocols for the ethical use of the Cogito software, ensuring that employee privacy and autonomy are respected while also maximizing the benefits of the technology for improving customer interactions.

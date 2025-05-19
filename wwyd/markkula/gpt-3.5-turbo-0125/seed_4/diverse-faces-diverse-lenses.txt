@@ -1,0 +1,7 @@
+In response to the situation regarding the Diversity in Faces dataset released by IBM Research, I would take the following specific actions:
+
+1. Conduct an internal review within IBM Research to assess the process and criteria used for selecting and annotating the photographs in the DiF dataset.
+2. Reach out to the individuals whose photographs were included in the dataset to inform them of the situation and offer options for their photos to be removed if they wish.
+3. Clearly communicate the steps IBM is taking to address the concerns raised by the public and media regarding the dataset, including transparency about data usage and removal processes.
+4. Collaborate with experts in ethics and data privacy to ensure that future datasets released by IBM Research adhere to the highest standards of ethical data collection and usage.
+5. Update the IBM Research website with detailed information on the dataset, its origins, and the steps taken to address privacy and consent issues.

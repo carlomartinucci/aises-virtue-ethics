@@ -35,22 +35,25 @@ def setup_logging(debug: bool = False):
 OUTPUT_DIR_BASE = Path("wwyd") # Base for all outputs, source name will be appended
 REASONING_OUTPUT_DIR = Path("wwyd_reasoning") # Directory for chain of thought outputs
 MODEL      = os.getenv("OPENAI_MODEL", "gpt-4o-mini")
+DEFAULT_TEMPERATURE = 0.7 # Default temperature for regular models
+REASONING_TEMPERATURE = 1.0 # Fixed temperature for reasoning models
+MAX_TOKENS = 1024 # Adjust as needed
 
 # --- OpenAI Client Setup ---
 aclient = AsyncOpenAI()
-DEFAULT_TEMPERATURE = 0.0 # Default temperature for regular models
-MAX_TOKENS = 1024 # Adjust as needed
 
 # --- Model Configuration ---
 REASONING_MODELS = ["o4-mini", "o4-mini-2", "o4-mini-3"]  # Add other reasoning models here if needed
 
-def get_model_params():
+def get_model_params(seed: int):
     """Get the appropriate parameters based on the model type."""
     params = {}
     
-    # Handle temperature
-    if MODEL not in REASONING_MODELS:
-        params["temperature"] = DEFAULT_TEMPERATURE
+    # Set temperature based on model type
+    params["temperature"] = REASONING_TEMPERATURE if MODEL in REASONING_MODELS else DEFAULT_TEMPERATURE
+    
+    if seed is not None:
+        params["seed"] = seed
     
     # Handle max tokens
     if MODEL in REASONING_MODELS:
@@ -69,12 +72,12 @@ USER_PROMPT_TEMPLATE = """Given the following scenario, what would you do? You m
 
 # --- OpenAI API Call with Backoff ---
 @backoff.on_exception(backoff.expo, (APIError, RateLimitError, APIConnectionError), max_time=600)
-async def call_openai(file_content: str) -> str:
+async def call_openai(file_content: str, seed: int) -> str:
     """Query the ChatCompletions endpoint with file content."""
-    logger.debug(f"Calling OpenAI API with model {MODEL}")
+    logger.debug(f"Calling OpenAI API with model {MODEL}, seed {seed}")
     user_prompt = USER_PROMPT_TEMPLATE.format(file_content=file_content)
     try:
-        model_params = get_model_params()
+        model_params = get_model_params(seed=seed)
         logger.debug(f"Using model parameters: {model_params}")
 
         # TODO: use Responses API to get the reasoning summary
@@ -93,13 +96,14 @@ async def call_openai(file_content: str) -> str:
         raise
 
 # --- File Processing Logic ---
-async def process_file(input_path: Path, output_dir: Path, source_identifier: str):
-    """Read file, preprocess, call OpenAI if output doesn't exist, write result."""
-    logger.debug(f"Processing file: {input_path}")
+async def process_file(input_path: Path, output_dir: Path, source_identifier: str, seed: int):
+    """Read file, preprocess, call OpenAI if output doesn't exist, write result for a single answer."""
+    logger.debug(f"Processing file: {input_path} for answer with seed {seed}")
+    # output_dir is now the specific directory for this answer, e.g., .../seed_1/
     output_path = output_dir / input_path.name
 
     if output_path.exists():
-        logger.debug(f"Skipping {input_path.name}, output already exists")
+        logger.debug(f"Skipping {input_path.name} (seed {seed}), output already exists at {output_path}")
         return input_path.name, 'skipped'
 
     try:
@@ -113,19 +117,19 @@ async def process_file(input_path: Path, output_dir: Path, source_identifier: st
             logger.warning(f"Preprocessing resulted in empty content for {input_path.name}")
             return input_path.name, 'empty_after_preprocessing'
 
-        logger.debug(f"Calling OpenAI for {input_path.name}")
-        result = await call_openai(processed_content)
+        # Create output directory before making the API call
+        output_path.parent.mkdir(parents=True, exist_ok=True)
+        
+        # Check if the output file existed already
+        if output_path.exists():
+            logger.debug(f"Skipping {input_path.name} (seed {seed}), output already exists at {output_path}")
+            return input_path.name, 'skipped'
+
+        logger.debug(f"Calling OpenAI for {input_path.name} (seed {seed})")
+        result = await call_openai(processed_content, seed=seed)
         
         logger.debug(f"Writing result to {output_path}")
         output_path.write_text(result, encoding='utf-8')
-
-        # # For reasoning models, also save the chain of thought
-        # if MODEL in REASONING_MODELS:
-        #     reasoning_dir = REASONING_OUTPUT_DIR / source_identifier / MODEL
-        #     reasoning_dir.mkdir(parents=True, exist_ok=True)
-        #     reasoning_path = reasoning_dir / input_path.name
-        #     logger.debug(f"Writing reasoning to {reasoning_path}")
-        #     reasoning_path.write_text(result, encoding='utf-8')
 
         return input_path.name, True
     except Exception as e:
@@ -137,8 +141,9 @@ async def main(args):
     global MODEL
     MODEL = args.model
     input_dir_names = args.input_dir
+    num_answers = args.num_answers
 
-    logger.info(f"Starting execution with model: {MODEL}")
+    logger.info(f"Starting execution with model: {MODEL}, {num_answers} answer(s) per scenario")
     logger.info(f"Input directories: {input_dir_names}")
 
     all_tasks = []
@@ -167,9 +172,23 @@ async def main(args):
             logger.warning(f"No .txt files found in {current_input_path}")
             continue
         
-        logger.debug(f"Found {len(file_paths_in_current_dir)} files to process")
+        logger.debug(f"Found {len(file_paths_in_current_dir)} files to process in {current_input_path}")
         for fp in file_paths_in_current_dir:
-            all_tasks.append(process_file(fp, model_specific_output_dir, source_name))
+            for i in range(num_answers):
+                answer_num = i + 1 # 1-indexed for directory name and seed
+                # model_specific_output_dir is .../MODEL/
+                # current_answer_output_dir will be .../MODEL/answer_X/
+                current_answer_output_dir = model_specific_output_dir / f"seed_{answer_num}"
+                current_answer_output_dir.mkdir(parents=True, exist_ok=True)
+                
+                all_tasks.append(
+                    process_file(
+                        fp, 
+                        current_answer_output_dir, 
+                        source_name, 
+                        seed=answer_num  # Use answer_num as seed
+                    )
+                )
 
     if not any_valid_input_dir:
         logger.error("No valid input directories found or specified. Exiting.")
@@ -207,6 +226,14 @@ if __name__ == "__main__":
     )
     parser.add_argument("--model", default=MODEL, help="OpenAI model name")
     parser.add_argument("--debug", action="store_true", help="Enable debug logging")
+    parser.add_argument(
+        "--num-answers", 
+        type=int, 
+        default=1, 
+        choices=range(1, 11), 
+        metavar="[1-10]",
+        help="Number of answers to generate per scenario (1-10). Default: 1"
+    )
     args = parser.parse_args()
 
     logger = setup_logging(args.debug)

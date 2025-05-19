@@ -1,0 +1,7 @@
+I would start by carefully reviewing the specific data collection practices and policies in place at the University of Arizona regarding student data. This would involve examining how student data is being collected, stored, and analyzed, as well as understanding the specific purposes for which the data is being used.
+
+Next, I would reach out to the researcher and the assistant provost for institutional research at the university to gather more information about the student data analysis initiatives. I would seek clarification on how the data is being anonymized, what specific data points are being collected, how the data is being shared with academic advisers, and whether there are any plans to incorporate additional data sources such as UA Wi-Fi data.
+
+Additionally, I would engage with students, faculty, and other stakeholders at the university to understand their perspectives and concerns regarding the use of student data for predictive analytics. I would facilitate discussions to ensure that all voices are heard and to gauge the level of transparency and consent that students feel they have in this process.
+
+Finally, I would collaborate with relevant departments and committees within the university to establish clear guidelines and policies for the ethical use of student data. This would include developing protocols for obtaining informed consent from students, ensuring data security and privacy, and establishing mechanisms for students to opt out of certain data collection practices if they so choose.

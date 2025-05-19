@@ -1,0 +1,7 @@
+In response to the situation regarding the Diversity in Faces (DiF) dataset created by IBM Research, I would take the following specific actions:
+
+1. Conduct an internal review within IBM Research to assess the ethical implications and potential harms caused by the creation and distribution of the DiF dataset.
+2. Engage with the legal team at IBM to understand the legal obligations and potential liabilities associated with using publicly available images from Flickr for the dataset.
+3. Initiate discussions with the team responsible for the dataset creation to address the concerns raised by the media reports and the public regarding the consent and privacy issues of the individuals whose photos were used.
+4. Collaborate with external experts in data ethics and privacy to evaluate the best course of action moving forward, including potential ways to mitigate any negative impacts on individuals whose photos are included in the dataset.
+5. Update the IBM Research blog post and website with transparent information about the dataset, its creation process, and the steps being taken to address the concerns raised by the public and the media.

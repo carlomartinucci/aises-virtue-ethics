@@ -1,0 +1,7 @@
+In response to the evolving understanding of the impact and concerns surrounding proctoring software, I would suggest collaborating with relevant stakeholders within the institution, such as faculty members, students, and administrators, to conduct a thorough review of the use of proctoring software in online exams. This review should include an examination of the specific concerns raised, such as bias in face detection, privacy issues, and the impact on student anxiety.
+
+Based on the feedback and analysis gathered during the review process, I would recommend developing clear guidelines and criteria for the use of proctoring software in online exams. This could involve updating policies to address potential biases, ensuring adequate training for faculty and students on the proper use of the software, and implementing measures to protect student privacy and reduce anxiety.
+
+Furthermore, I would suggest exploring alternative assessment methods that could achieve the same goals as proctoring software while addressing the concerns raised. This could include open-book exams, project-based assessments, or oral exams conducted via video conferencing.
+
+Finally, I would advocate for ongoing monitoring and evaluation of the use of proctoring software to ensure that any changes made by the software developers are effective in addressing the concerns raised. Regular feedback from students and faculty should be solicited to inform future decisions regarding the use of proctoring software in online exams.

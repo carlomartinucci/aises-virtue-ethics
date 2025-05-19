@@ -1,0 +1,7 @@
+I would gather feedback from students, professors, and technologists who have used the proctoring software to understand their specific concerns and experiences with bias in face detection and other issues. Based on this feedback, I would compile a detailed report highlighting the key areas of improvement needed in the software.
+
+Next, I would schedule meetings with the CEOs and relevant stakeholders of the proctoring companies to present the feedback and suggestions for improvement. I would emphasize the importance of addressing bias in face detection, improving the resilience of the platform to internet loss, and reducing pretest nerves among test takers.
+
+Furthermore, I would collaborate with the ethical tech consulting firm hired by one of the companies to ensure that they are effectively identifying and addressing possible sources of bias in the system. I would also work closely with the companies implementing changes to ensure that the adjustments are meaningful and address the specific concerns raised by users.
+
+Lastly, I would communicate with colleges and universities that have stopped using the proctoring software to provide updates on the changes being made by the companies. I would encourage these institutions to reconsider their stance and potentially pilot the updated software to assess whether the improvements adequately address the previous concerns.

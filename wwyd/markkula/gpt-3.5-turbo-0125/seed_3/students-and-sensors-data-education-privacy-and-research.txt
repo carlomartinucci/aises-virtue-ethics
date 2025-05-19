@@ -1,0 +1,9 @@
+I would first review the specific policies and guidelines in place at the University of Arizona regarding the collection and use of student data for research purposes. I would then assess whether these practices align with ethical standards and legal requirements, particularly concerning data privacy and student consent.
+
+Next, I would look into the specific details of the research conducted by the UA researcher, including how the data was anonymized and the extent to which student identities were protected throughout the analysis process. I would also investigate the researcher's plans for sharing the data with academic advisers and the potential implications for student privacy.
+
+I would then consider engaging with relevant stakeholders at the university, such as the researcher, institutional research staff, academic advisers, and student representatives, to discuss the ethical implications of using student data for predictive analytics. I would advocate for transparent communication with students about data collection practices, the purposes of the research, and their rights regarding the use of their personal information.
+
+Furthermore, I would recommend conducting a thorough review of the current data governance practices at the university to ensure that student data is handled in a responsible and secure manner. This may involve implementing additional safeguards to protect student privacy, such as obtaining explicit consent for data collection and establishing clear protocols for data storage and sharing.
+
+Overall, my approach would focus on promoting transparency, accountability, and respect for student privacy rights in the use of student data for academic research and program improvement initiatives at the University of Arizona.

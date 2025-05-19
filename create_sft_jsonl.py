@@ -6,11 +6,14 @@ scenario sources, 'What Would You Do?' (WWYD) answers, and 'Critic' answers,
 all tied to a specific model.
 
 The script constructs paths to WWYD and Critic answer files based on the
-provided scenario names and a model name (e.g., wwyd/<scenario_name>/<model_name>).
-It processes a configurable number of text files from each scenario directory.
+provided scenario names and a model name:
+- WWYD paths: wwyd/<scenario_name>/<model_name>/seed_N/
+- Critic paths: critic/<scenario_name>/<model_name>/seed_N/seed_M/
+
+It processes all available seed combinations for each scenario file.
 
 Each line in the output JSONL file represents a conversation with the following structure:
-System Prompt -> User (Scenario) -> Assistant (WWYD) -> User (Critique Query) -> Assistant (Critic)
+System Prompt -> User (Scenario) -> Assistant (WWYD from seed_N) -> User (Critique Query) -> Assistant (Critic from seed_M)
 
 Usage:
   python create_sft_jsonl.py --model <model_name> \
@@ -32,11 +35,13 @@ from pathlib import Path
 from tqdm import tqdm
 from preprocess_utils import preprocess_content
 from shared_config import SCENARIO_SFT_FILE_LIMITS
+from itertools import product
 
 # --- Configuration ---
 DEFAULT_SYSTEM_PROMPT = "You are a helpful assistant."
 
-def create_sft_entry(system_prompt: str, scenario_content: str, wwyd_content: str, critic_content: str) -> dict:
+def create_sft_entry(system_prompt: str, scenario_content: str, wwyd_content: str, critic_content: str, 
+                     wwyd_seed: str, critic_seed: str) -> dict:
     """Creates a single SFT entry dictionary according to the specified format."""
     return {
         "messages": [
@@ -54,7 +59,7 @@ def main(args):
     model_name = args.model
     scenarios = args.scenarios
 
-    output_file.parent.mkdir(parents=True, exist_ok=True) # Ensure output directory exists
+    output_file.parent.mkdir(parents=True, exist_ok=True)
 
     all_sft_entries = []
     total_processed_count = 0
@@ -66,23 +71,31 @@ def main(args):
 
     for scenario_name in scenarios:
         print(f"\n--- Processing scenario: {scenario_name} ---")
-        scenario_dir = Path("scenario") / Path(scenario_name) # Assumes scenario name is the directory path
-        wwyd_dir = Path("wwyd") / scenario_name / model_name
-        critic_dir = Path("critic") / scenario_name / model_name
+        scenario_dir = Path("scenario") / Path(scenario_name)
+        wwyd_model_dir = Path("wwyd") / scenario_name / model_name
+        critic_model_dir = Path("critic") / scenario_name / model_name
 
         # --- Input Validation ---
         if not scenario_dir.is_dir():
             print(f"Error: Scenario directory not found: {scenario_dir}")
-            total_skipped_count += len(list(Path(scenario_name).glob("*.txt"))) # Estimate skip count
+            total_skipped_count += len(list(Path(scenario_name).glob("*.txt")))
             continue
-        if not wwyd_dir.is_dir():
-            print(f"Error: WWYD directory not found: {wwyd_dir}")
-            total_skipped_count += len(list(scenario_dir.glob("*.txt"))) # Estimate skip count
+        if not wwyd_model_dir.is_dir():
+            print(f"Error: WWYD directory not found: {wwyd_model_dir}")
+            total_skipped_count += len(list(scenario_dir.glob("*.txt")))
             continue
-        if not critic_dir.is_dir():
-            print(f"Error: Critic directory not found: {critic_dir}")
-            total_skipped_count += len(list(scenario_dir.glob("*.txt"))) # Estimate skip count
+        if not critic_model_dir.is_dir():
+            print(f"Error: Critic directory not found: {critic_model_dir}")
+            total_skipped_count += len(list(scenario_dir.glob("*.txt")))
             continue
+
+        # Find all WWYD seed directories, just take 1 and 2
+        wwyd_seed_dirs = sorted([d for d in wwyd_model_dir.glob("seed_*") if d.name in ["seed_1", "seed_2"]])
+        if not wwyd_seed_dirs:
+            print(f"Warning: No WWYD seed directories found in {wwyd_model_dir}")
+            continue
+
+        print(f"Found {len(wwyd_seed_dirs)} WWYD seed directories")
 
         # --- File Processing ---
         num_files_to_take = SCENARIO_SFT_FILE_LIMITS[scenario_name]
@@ -92,35 +105,61 @@ def main(args):
             continue
 
         print(f"Found {len(scenario_files)} scenario files in {scenario_dir}")
-        print(f"Reading WWYD answers from: {wwyd_dir}")
-        print(f"Reading Critic answers from: {critic_dir}")
-
         processed_in_scenario = 0
         skipped_in_scenario = 0
 
         for scenario_path in tqdm(scenario_files, desc=f"Generating SFT data for {scenario_name}", unit="entry"):
             base_name = scenario_path.name
-            wwyd_path = wwyd_dir / base_name
-            critic_path = critic_dir / base_name
-
-            if not wwyd_path.exists():
-                skipped_in_scenario += 1
-                continue
-            if not critic_path.exists():
-                skipped_in_scenario += 1
-                continue
 
             try:
                 scenario_content_raw = scenario_path.read_text(encoding='utf-8')
-                wwyd_content = wwyd_path.read_text(encoding='utf-8').strip()
-                critic_content = critic_path.read_text(encoding='utf-8').strip()
-
-                # Preprocess the scenario content using the utility function
                 scenario_content_processed = preprocess_content(scenario_content_raw, scenario_name)
 
-                sft_entry = create_sft_entry(DEFAULT_SYSTEM_PROMPT, scenario_content_processed, wwyd_content, critic_content)
-                all_sft_entries.append(sft_entry)
-                processed_in_scenario += 1
+                # Process each WWYD seed directory
+                for wwyd_seed_dir in wwyd_seed_dirs:
+                    wwyd_seed_name = wwyd_seed_dir.name
+                    wwyd_path = wwyd_seed_dir / base_name
+                    
+                    if not wwyd_path.exists():
+                        skipped_in_scenario += 1
+                        continue
+
+                    wwyd_content = wwyd_path.read_text(encoding='utf-8').strip()
+                    
+                    # Find all critic seed directories for this WWYD seed
+                    critic_answer_dir = critic_model_dir / wwyd_seed_name
+                    if not critic_answer_dir.is_dir():
+                        skipped_in_scenario += 1
+                        continue
+
+                    # Find all critic seed directories for this WWYD seed, just take 1 and 2
+                    critic_seed_dirs = sorted([d for d in critic_answer_dir.glob("seed_*") if d.name in ["seed_1", "seed_2"]])
+                    if not critic_seed_dirs:
+                        skipped_in_scenario += 1
+                        continue
+
+                    # Process each critic seed directory
+                    for critic_seed_dir in critic_seed_dirs:
+                        critic_seed_name = critic_seed_dir.name
+                        critic_path = critic_seed_dir / base_name
+                        
+                        if not critic_path.exists():
+                            skipped_in_scenario += 1
+                            continue
+
+                        critic_content = critic_path.read_text(encoding='utf-8').strip()
+
+                        sft_entry = create_sft_entry(
+                            DEFAULT_SYSTEM_PROMPT, 
+                            scenario_content_processed, 
+                            wwyd_content, 
+                            critic_content,
+                            wwyd_seed_name,
+                            critic_seed_name
+                        )
+                        all_sft_entries.append(sft_entry)
+                        processed_in_scenario += 1
+
             except Exception as e:
                 print(f"\nError processing {base_name} in {scenario_name}: {e}")
                 skipped_in_scenario += 1
@@ -138,7 +177,7 @@ def main(args):
     print(f"\nFinished generating SFT data.")
     print(f"  Output file: {output_file.resolve()}")
     print(f"  Total entries created: {total_processed_count}")
-    print(f"  Total scenarios skipped (missing files/dirs): {total_skipped_count}")
+    print(f"  Total scenarios skipped (missing files/dirs/combinations): {total_skipped_count}")
 
 
 if __name__ == "__main__":
@@ -148,7 +187,7 @@ if __name__ == "__main__":
     )
     parser.add_argument(
         "--scenarios",
-        nargs="+", # Allows one or more arguments
+        nargs="+",
         default=["ethicsunwrapped", "murdoughcenter", "markkula"],
         help="Name(s) of the scenario directory/directories (e.g., ethicsunwrapped murdoughcenter markkula)."
     )

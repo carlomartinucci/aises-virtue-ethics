@@ -1,0 +1,11 @@
+If I were a compliance officer at Barings Bank during the events involving Nick Leeson, I would have implemented a more robust system of checks and balances to prevent such a catastrophic failure.
+
+Specifically, I would have:
+
+1. Implemented regular and thorough internal audits of trading activities, with a focus on verifying the accuracy and legitimacy of trading records and positions.
+2. Established a clear reporting structure that required traders like Leeson to report any losses immediately, without fear of reprisal, and set up a system for escalation if necessary.
+3. Enforced strict segregation of duties to prevent a single individual from having unchecked control over both trading activities and back-office functions.
+4. Conducted regular stress tests and scenario analyses to assess the bank's exposure to various market risks and ensure that appropriate risk management strategies were in place.
+5. Improved communication and oversight between the Singapore office and headquarters in London to ensure that senior management was aware of the risks being taken by traders like Leeson.
+
+By taking these specific actions, I believe that the collapse of Barings Bank due to Nick Leeson's actions could have been prevented or mitigated.

@@ -1,0 +1,8 @@
+In response to the Tay experience, I would conduct a thorough review of our social media strategy and policies. This review would include:
+
+1. Implementing stricter controls and safeguards to prevent malicious intent from impacting our AI chatbots in the future.
+2. Enhancing our monitoring system to detect inappropriate interactions early on and take immediate action.
+3. Providing additional training to our development team on the ethical implications of deploying AI on social media platforms.
+4. Collaborating with experts in social media ethics to better understand the risks and challenges involved.
+5. Developing clear guidelines for engaging with users on social media that prioritize respect, inclusivity, and responsible use of technology.
+6. Establishing a crisis communication plan to address any potential ethical issues that may arise in the future.

@@ -1,0 +1,7 @@
+I would first review the specific details of the research conducted at the University of Arizona, including the methods used to collect and analyze student data, the purposes for which the data was utilized, and the potential implications for student privacy. 
+
+Next, I would assess the level of transparency provided by the university in communicating with students about the data collection and analysis processes, as well as the potential sharing of anonymized data with academic advisers. 
+
+I would then consider the ethical implications of using student data for predictive analytics without providing students with the option to opt out of such data collection. 
+
+Finally, I would explore the possibility of engaging in a campus-wide dialogue to solicit feedback from students, faculty, and staff regarding the use of student data for improving student retention and academic success, with the goal of ensuring that the rights and privacy of students are respected throughout the process.
